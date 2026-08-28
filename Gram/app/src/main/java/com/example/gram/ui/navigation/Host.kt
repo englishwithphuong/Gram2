@@ -1,0 +1,63 @@
+﻿package com.example.gram.ui.navigation
+
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
+import com.example.gram.model.SourceItem
+
+@Composable
+fun Host(sources: List<SourceItem>) {
+    if (sources.isEmpty()) {
+        Box(
+            modifier = Modifier.fillMaxSize(),
+            contentAlignment = androidx.compose.ui.Alignment.Center
+        ) {
+            Text("No sources found in assets.", style = MaterialTheme.typography.bodyLarge)
+        }
+    } else {
+        LazyColumn(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(vertical = 32.dp, horizontal = 8.dp),
+            contentPadding = PaddingValues(16.dp),
+            verticalArrangement = Arrangement.spacedBy(16.dp)
+        ) {
+            items(sources) { sourceItem ->
+                SourceItemRow(sourceItem = sourceItem) {
+                    // TODO: Handle click to navigate to lessons for this source (using sourceItem.index)
+                }
+            }
+        }
+    }
+}
+
+@Composable
+fun SourceItemRow(sourceItem: SourceItem, onClick: () -> Unit) {
+    Text(
+        text = sourceItem.title,
+        fontSize = 22.sp,
+        fontWeight = FontWeight.Bold,
+        color = Color.Yellow,
+        modifier = Modifier
+            .fillMaxWidth()
+            .clip(RoundedCornerShape(8.dp))
+            .clickable { onClick() }
+            .padding(vertical = 8.dp, horizontal = 4.dp)
+    )
+}

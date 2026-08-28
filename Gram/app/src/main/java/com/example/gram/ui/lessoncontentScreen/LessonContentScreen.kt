@@ -15,17 +15,17 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.gram.model.Lesson // assuming your model package
-import com.example.gram.model.Section // assuming your section model
+import com.example.gram.model.Lesson
+import com.example.gram.model.Section
+import com.example.gram.ui.theme.Level1Color
+import com.example.gram.ui.theme.Level2Color
+import com.example.gram.ui.theme.TitleColor
+import com.example.gram.ui.theme.Typography
 import com.example.gram.ui.viewmodel.LessonContentViewModel
 import com.example.gram.ui.viewmodel.ScrollStateViewModel
 
-// 1. Stateful Wrapper: Manages ViewModels, states, and side-effects
 @Composable
 fun LessonContentScreen(
     sourceIndex: Int,
@@ -68,7 +68,6 @@ fun LessonContentScreen(
     )
 }
 
-// 2. Stateless Layout: Focuses purely on displaying the content
 @Composable
 fun LessonContentBody(
     lessonName: String,
@@ -83,9 +82,9 @@ fun LessonContentBody(
     ) {
         Text(
             text = lesson?.title ?: lessonName,
-            fontSize = 24.sp,
-            fontWeight = FontWeight.Bold,
-            color = Color.White
+            fontSize = Typography.titleLarge.fontSize,
+            fontWeight = Typography.titleLarge.fontWeight,
+            color = TitleColor
         )
         Spacer(modifier = Modifier.height(16.dp))
 
@@ -95,14 +94,13 @@ fun LessonContentBody(
     }
 }
 
-// 3. Granular Item Renderer: Easily extensible when adding new section types
 @Composable
 fun LessonSectionItem(section: Section) {
     when (section.type) {
         "text" -> {
-            val textSize = if (section.level == 1) 18.sp else 16.sp
-            val textColor = if (section.level == 1) Color.Yellow else Color.LightGray
-            val fontWeight = if (section.level == 1) FontWeight.SemiBold else FontWeight.Normal
+            val textSize = if (section.level == 1) Typography.titleMedium.fontSize else Typography.bodyMedium.fontSize
+            val textColor = if (section.level == 1) Level1Color else Level2Color
+            val fontWeight = if (section.level == 1) Typography.titleMedium.fontWeight else Typography.bodyMedium.fontWeight
 
             Text(
                 text = section.content,

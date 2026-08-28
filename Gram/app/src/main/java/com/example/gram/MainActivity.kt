@@ -20,7 +20,7 @@ import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.WindowInsetsControllerCompat
 import com.example.gram.ui.AppRoot
-import com.example.gram.ui.theme.BACK_COLOR
+import com.example.gram.ui.theme.BackColor
 import com.example.gram.ui.theme.GramTheme
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.gram.ui.viewmodel.ImmersiveViewModel
@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
 
                 Surface(
                     modifier = Modifier.fillMaxSize(),
-                    color = BACK_COLOR
+                    color = BackColor
                 ) {
                     MainScreen { immersiveState.toggleImmersive() }
                 }

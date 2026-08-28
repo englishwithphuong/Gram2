@@ -3,7 +3,10 @@ package com.example.gram.ui.theme
 import androidx.compose.ui.graphics.Color
 
 // Custom App Colors
-val BACK_COLOR = Color.DarkGray
+val BackColor = Color.DarkGray
+val TitleColor = Color.Yellow
+val Level1Color = Color.White
+val Level2Color = Color.Gray
 
 // Default App Colors
 val Purple80 = Color(0xFFD0BCFF)

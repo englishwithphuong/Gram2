@@ -1,0 +1,26 @@
+{
+  "lessonId": "lesson_5",
+  "title": "Định ngữ chỉ quan hệ sở hữu",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Khi đại từ hay danh từ làm định ngữ chỉ quan hệ sở hữu, thì phải thêm trợ từ \"的\" ở sau nó. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "\"他的书\", \"张老师的学生\", \"王兰的哥哥\""
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Khi đại từ nhân xưng làm định ngữ cho một danh từ chỉ người thân thuộc, hay một tập thể, đơn vị, thì có thể lược bỏ trợ từ \"的\". Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "\"我哥哥\", \"他姐姐\", \"我们学校\"..."
+    }
+  ]
+}

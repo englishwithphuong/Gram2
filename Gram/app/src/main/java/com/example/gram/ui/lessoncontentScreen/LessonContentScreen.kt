@@ -1,7 +1,6 @@
 package com.example.gram.ui.lessoncontentscreen
 
 import androidx.compose.foundation.ScrollState
-import androidx.compose.foundation.gestures.detectHorizontalDragGestures
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -9,6 +8,9 @@ import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.pager.HorizontalPager
+import androidx.compose.foundation.pager.rememberPagerState
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -16,10 +18,8 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
@@ -29,10 +29,8 @@ import com.example.gram.ui.lessoncontentscreen.components.leftbar.LeftButtonBar
 import com.example.gram.ui.theme.TitleColor
 import com.example.gram.ui.theme.Typography
 import com.example.gram.ui.viewmodel.LessonContentViewModel
-import com.example.gram.ui.viewmodel.ScrollStateViewModel
 import com.example.gram.ui.lessoncontentscreen.components.VerticalScrollbar
 import com.example.gram.ui.lessoncontentscreen.components.buildStyledChineseText
-import com.example.gram.ui.navigation.Screen
 import com.example.gram.ui.theme.KaitiBoldFontFamily
 
 @Composable
@@ -43,48 +41,46 @@ fun LessonContentScreen(
     lessonCount: Int,
     isImmersive: Boolean
 ) {
-    val viewModel: LessonContentViewModel = viewModel(
-        factory = LessonContentViewModel.provideFactory(
-            sourceIndex,
-            lessonIndex
-        )
-    )
-    val lesson by viewModel.lesson.collectAsState()
-
-    val scrollViewModel: ScrollStateViewModel = viewModel(
-        factory = ScrollStateViewModel.Factory
+    val pagerState = rememberPagerState(
+        initialPage = lessonIndex,
+        pageCount = { lessonCount }
     )
 
-    val savedScrollValue = remember(sourceIndex, lessonIndex) {
-        scrollViewModel.getSavedContentScrollValue(sourceIndex, lessonIndex)
-    }
-
-    val scrollState = remember(sourceIndex, lessonIndex) {
-        ScrollState(initial = savedScrollValue)
-    }
-
-    LaunchedEffect(lesson) {
-        if (lesson != null && savedScrollValue > 0) {
-            scrollState.scrollTo(savedScrollValue)
+    // Keep the URL/Navigation state in sync when the user swipes to a new page
+    LaunchedEffect(pagerState.currentPage) {
+        if (pagerState.currentPage != lessonIndex) {
+            navController.navigate(
+                com.example.gram.ui.navigation.Screen.LessonContent.createRoute(sourceIndex, pagerState.currentPage)
+            ) {
+                popUpTo(com.example.gram.ui.navigation.Screen.Lessons.createRoute(sourceIndex)) { inclusive = false }
+                launchSingleTop = true
+            }
         }
     }
 
-    LaunchedEffect(scrollState) {
-        snapshotFlow { scrollState.value }
-            .collect { scrollValue ->
-                scrollViewModel.saveContentScrollState(sourceIndex, lessonIndex, scrollValue)
-            }
-    }
+    HorizontalPager(
+        state = pagerState,
+        modifier = Modifier.fillMaxSize()
+    ) { page ->
+        val lessonContentViewModel: LessonContentViewModel = viewModel(
+            key = "lesson_${sourceIndex}_$page",
+            factory = LessonContentViewModel.provideFactory(sourceIndex, page)
+        )
+        val lesson by lessonContentViewModel.lesson.collectAsState()
 
-    LessonContentBody(
-        navController = navController,
-        sourceIndex = sourceIndex,
-        lessonIndex = lessonIndex,
-        lessonCount = lessonCount,
-        lesson = lesson,
-        scrollState = scrollState,
-        isImmersive = isImmersive
-    )
+        // Standard default scroll state that resets when the page changes/re-composes
+        val scrollState = rememberScrollState()
+
+        LessonContentBody(
+            navController = navController,
+            sourceIndex = sourceIndex,
+            lessonIndex = page,
+            lessonCount = lessonCount,
+            lesson = lesson,
+            scrollState = scrollState,
+            isImmersive = isImmersive
+        )
+    }
 }
 
 @Composable
@@ -97,7 +93,8 @@ fun LessonContentBody(
     scrollState: ScrollState,
     isImmersive: Boolean
 ) {
-    val rawTitle = lesson?.title ?: "Lesson ${lessonIndex + 1}"
+//  val rawTitle = lesson?.title ?: "Lesson ${lessonIndex + 1}"
+    val rawTitle = lesson?.title ?: ""
 
     val styledTitle = remember(rawTitle) {
         buildStyledChineseText(
@@ -106,45 +103,7 @@ fun LessonContentBody(
         )
     }
 
-    var dragAmountSum = remember { 0f }
-    val dragThreshold = 100f // Adjust sensitivity as needed
-
-    Box(
-        modifier = Modifier
-            .fillMaxSize()
-            .pointerInput(sourceIndex, lessonIndex, lessonCount) {
-                detectHorizontalDragGestures(
-                    onDragStart = { dragAmountSum = 0f },
-                    onDragCancel = { dragAmountSum = 0f },
-                    onHorizontalDrag = { _, dragAmount ->
-                        dragAmountSum += dragAmount
-                    },
-                    onDragEnd = {
-                        if (dragAmountSum > dragThreshold) {
-                            // Dragged from Left to Right -> Show Next Lesson
-                            val nextLessonIndex = lessonIndex + 1
-                            if (nextLessonIndex < lessonCount) {
-                                navController.navigate(
-                                    Screen.LessonContent.createRoute(sourceIndex, nextLessonIndex)
-                                ) {
-                                    popUpTo(Screen.Lessons.createRoute(sourceIndex)) { inclusive = false }
-                                }
-                            }
-                        } else if (dragAmountSum < -dragThreshold) {
-                            // Dragged from Right to Left -> Show Previous Lesson
-                            val previousLessonIndex = lessonIndex - 1
-                            if (previousLessonIndex > -1) {
-                                navController.navigate(
-                                    Screen.LessonContent.createRoute(sourceIndex, previousLessonIndex)
-                                ) {
-                                    popUpTo(Screen.Lessons.createRoute(sourceIndex)) { inclusive = false }
-                                }
-                            }
-                        }
-                    }
-                )
-            }
-    ) {
+    Box(modifier = Modifier.fillMaxSize()) {
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -158,7 +117,7 @@ fun LessonContentBody(
                 lineHeight = Typography.titleLarge.lineHeight,
                 color = TitleColor
             )
-            Spacer(modifier = Modifier.height(20.dp))
+            Spacer(modifier = Modifier.height(40.dp))
 
             lesson?.sections?.forEach { section ->
                 LessonSectionItem(

@@ -1,0 +1,25 @@
+{
+  "title": "“好好儿” thật tốt, chăm chỉ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我首先要多练习听和说,同时还要[好好儿]学习汉字!"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng trước động từ, biểu đạt ý nghĩa cố gắng, chăm chỉ hoặc tận tình làm một việc nào đó. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "以后一定得[好好儿]利用时间,一边学汉语,一边了解中国社会和文化。\nYǐhòu yídìng děi [hǎohǎor] lìyòng shíjiān, yìbiān xué hànyǔ, yìbiān liǎojiě Zhōngguó shèhuì hé wénhuà.\nSau này nhất định phải [tận dụng] thời gian [thật tốt], vừa học tiếng Hán, vừa tìm hiểu xã hội và văn hóa Trung Quốc.",
+        "明天有考试,我应该[好好儿]准备准备。\nMíngtiān yǒu kǎoshì, wǒ yīnggāi [hǎohǎor] zhǔnbèi zhǔnbèi.\nNgày mai có kỳ thi, tôi nên chuẩn bị [thật chu đáo].",
+        "因为不饿,所以孩子不[好好儿]吃饭。\nYīnwèi bú è, suǒyǐ háizi bù [hǎohǎor] chīfàn.\nBởi vì không đói, cho nên đứa trẻ ăn uống không [tử tế / đàng hoàng].",
+        "明天不上课,我们可以[好好儿]玩儿了。\nMíngtiān bú shàng kè, wǒmen kěyǐ [hǎohǎor] wánr le.\nNgày mai không đi học, chúng ta có thể chơi [thật đã đời] rồi."
+      ]
+    }
+  ]
+}

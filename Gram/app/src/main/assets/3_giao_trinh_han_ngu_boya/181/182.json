@@ -1,0 +1,25 @@
+{
+  "title": "“根据” căn cứ, dựa theo",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[根据]规定,她应该在那儿一直呆到死。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị lấy một sự vật hoặc tình huống nào đó làm tiền đề hoặc cơ sở. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[根据]中国的传统,妇女不能参加政治活动。\n[Gēnjù] Zhōngguó de chuántǒng, fùnǚ bù néng cānjiā zhèngzhì huódòng.\n[Theo] truyền thống của Trung Quốc, phụ nữ không được tham gia hoạt động chính trị.",
+        "[根据]广告上的地址,我找到了这家公司。\n[Gēnjù] guǎnggào shàng de dìzhǐ, wǒ zhǎo dào le zhè jiā gōngsī.\n[Dựa vào] địa chỉ trên quảng cáo, tôi đã tìm thấy công ty này.",
+        "[根据]科学家的研究,儿童一般一岁左右开始说话。\n[Gēnjù] kēxuéjiā de yánjiū, értóng yìbān yí suì zuǒyòu kāishǐ shuōhuà.\n[Theo] nghiên cứu của các nhà khoa học, trẻ em thông thường khoảng một tuổi bắt đầu biết nói.",
+        "父母应该[根据]孩子的兴趣决定是不是让孩子学习音乐、画画儿等等。\nFùmǔ yīnggāi [gēnjù] háizi de xìngqù juéding shì bu shì ràng háizi xuéxí yīnyuè, huà huàr děngděng.\nCha mẹ nên [căn cứ vào] sở thích của con cái để quyết định có cho con học âm nhạc, vẽ tranh v.v. hay không."
+      ]
+    }
+  ]
+}

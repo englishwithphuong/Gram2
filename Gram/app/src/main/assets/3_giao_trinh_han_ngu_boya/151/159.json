@@ -1,0 +1,45 @@
+{
+  "title": "“地方” nơi, chỗ, điểm",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "说不同母语的儿童在学习他们的母语时,有很多相同的[地方]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Có thể biểu thị ý nghĩa cụ thể, ý là chỉ một phần, một bộ phận của một khu vực hoặc một không gian nào đó; cũng có thể biểu thị ý nghĩa trừu tượng, tương đương với “部分,方面”. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Nghĩa cụ thể:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这个[地方]我没来过。\nZhè gè [dìfang] wǒ méi lái guò.\n[Nơi] này tôi chưa đến bao giờ.",
+        "很多人不习惯这个[地方]的天气。\nHěn duō rén bù xíguàn zhè gè [dìfang] de tiānqì.\nNhiều người không quen với thời tiết ở [nơi] này.",
+        "寒假我打算去中国最冷的[地方]——哈尔滨。\nHánjià wǒ dǎsuàn qù Zhōngguó zuì lěng de [dìfang] —— Hā'ěrbīn.\nKỳ nghỉ đông tôi dự định đến [nơi] lạnh nhất Trung Quốc——Cáp Nhĩ Tân.",
+        "我们经常到中国一些小城市旅行。那些[地方]能讲英文的人很少。\nWǒmen jīngcháng dào Zhōngguó yìxiē xiǎo chéngshì lǚxíng. Nàxiē [dìfang] néng jiǎng yīngwén de rén hěn shǎo.\nChúng tôi thường xuyên đi du lịch đến một số thành phố nhỏ của Trung Quốc. Những [nơi] đó rất ít người có thể nói tiếng Anh."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Nghĩa trừu tượng:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "不同国家的儿童学习母语既有相同的[地方],又有不同的[地方]。\nBùtóng guójiā de értóng xuéxí mǔyǔ jì yǒu xiāngtóng de [dìfang], yòu yǒu bùtóng de [dìfang].\nTrẻ em các nước khác nhau học tiếng mẹ đẻ vừa có những [điểm] giống nhau, lại vừa có những [điểm] khác nhau.",
+        "刚来中国的时候不习惯的[地方]很多。\nGāng lái Zhōngguó de shíhou bù xíguàn de [dìfang] hěn duō.\nLúc mới đến Trung Quốc, những [phương diện] không quen thuộc thì rất nhiều.",
+        "你看这个字这个[地方]写得不对。\nNǐ kàn zhè gè zì zhè gè [dìfang] xiě de bú duì.\nBạn xem chữ này, [chỗ] này viết không đúng rồi.",
+        "这篇文章中错误的[地方]很多。\nZhè piān wénzhāng zhōng cuòwù de [dìfang] hěn duō.\nTrong bài viết này có rất nhiều [chỗ] sai sót."
+      ]
+    }
+  ]
+}

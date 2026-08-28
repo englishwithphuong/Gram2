@@ -35,20 +35,6 @@ class ScrollStateViewModel(application: Application) : AndroidViewModel(applicat
         }
     }
 
-    // --- Lesson Content Scroll State ---
-    fun getSavedContentScrollValue(sourceIndex: Int, lessonIndex: Int): Int {
-        val key = "${sourceIndex}_$lessonIndex"
-        return prefs.getInt("content_scroll_$key", 0)
-    }
-
-    fun saveContentScrollState(sourceIndex: Int, lessonIndex: Int, scrollValue: Int) {
-        val key = "${sourceIndex}_$lessonIndex"
-        prefs.edit().apply {
-            putInt("content_scroll_$key", scrollValue)
-            apply()
-        }
-    }
-
     companion object {
         val Factory: ViewModelProvider.Factory = viewModelFactory {
             initializer {

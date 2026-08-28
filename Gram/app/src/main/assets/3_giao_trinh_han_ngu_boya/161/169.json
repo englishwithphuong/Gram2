@@ -1,0 +1,27 @@
+{
+  "title": "“为了” để",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "如果你第二喜欢的颜色是黑色,这表示[为了]得到自己想要的,你可以放弃一切。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị mục đích. Thường có hai cách dùng:为了A,B; B是为了A. Trong đó A biểu thị mục đích, B là biện pháp. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[为了]找工作,上周他回了一趟国。\n[Wèile] zhǎo gōngzuò, shàng zhōu tā huí le yí tàng guó.\n[Để] tìm việc làm, tuần trước anh ấy đã về nước một chuyến.",
+        "[为了]让自己的脚暖和一点儿,他穿了两双袜子。\n[Wèile] ràng zìjǐ de jiǎo nuǎnhuo yìdiǎnr, tā chuān le liǎng shuāng wàzi.\n[Để] cho đôi chân của mình ấm hơn một chút, anh ấy đã đi hai đôi tất.",
+        "[为了]上课不迟到,我每天7点就起床。\n[Wèile] shàngkè bù chídào, wǒ měitiān qī diǎn jiù qǐchuáng.\n[Để] đi học không bị muộn, tôi mỗi ngày 7 giờ đã dậy rồi.",
+        "我每天上网,[是为了]给朋友们发E-mail。\nWǒ měitiān shàngwǎng, [shì wèile] gěi péngyǒumen fā E-mail.\nTôi mỗi ngày lên mạng, [là để] gửi E-mail cho các bạn.",
+        "我来中国[是为了]学习汉语,同时[也是为了]了解中国。\nWǒ lái Zhōngguó [shì wèile] xuéxí hànyǔ, tóngshí [yě shì wèile] liǎojiě Zhōngguó.\nTôi đến Trung Quốc [là để] học tiếng Trung, đồng thời [cũng là để] tìm hiểu về Trung Quốc.",
+        "我写日记[不是为了]以后给别人看。\nWǒ xiě rìjì [bú shì wèile] yǐhòu gěi biérén kàn.\nTôi viết nhật ký [không phải là để] sau này cho người khác xem."
+      ]
+    }
+  ]
+}

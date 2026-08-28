@@ -1,0 +1,24 @@
+{
+  "title": "“不一定” chưa chắc",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "他们学习词语的顺序[不一定]相同。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Có thể không, có lẽ không, chưa chắc. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "中国人说的汉语也不[一定]都对。\nZhōngguó rén shuō de hànyǔ yě bù [yīdìng] dōu duì.\nNgười Trung Quốc nói tiếng Trung [chưa chắc] đã đều đúng cả.",
+        "在城市里开汽车,[不一定]比骑自行车快。\nZài chéngshì lǐ kāi qìchē, [bù yídìng] bǐ qí zìxíngchē kuài.\nLái ô tô ở trong thành phố, [chưa chắc] đã nhanh hơn đi xe đạp.",
+        "A:你周末出去吗?\nB:[不一定]。\nA: Nǐ zhōumò chūqù ma?\nB: [Bù yídìng].\nA: Cuối tuần bạn có ra ngoài không?\nB: [Chưa chắc]."
+      ]
+    }
+  ]
+}

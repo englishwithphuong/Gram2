@@ -1,0 +1,52 @@
+{
+  "title": "Cách biểu thị thời đoạn",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我到中国[快两个星期]了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trong tiếng Hán hiện đại, muốn biểu thị khoảng thời gian kéo dài của một trạng thái hoặc tình huống nào đó sau khi nó xuất hiện (như ví dụ ①②), hoặc biểu thị khoảng thời gian duy trì của một động tác, sự kiện (như ví dụ ③④), ta có thể thêm từ ngữ biểu thị thời đoạn vào sau động từ. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我到中国[快两个星期]了。\nWǒ dào Zhōngguó [kuài liǎng gè xīngqī] le.\nTôi đến Trung Quốc [được gần hai tuần] rồi.",
+        "我的电脑坏了[三天]了。\nWǒ de diànnǎo huài le [sān tiān] le.\nMáy tính của tôi hỏng [được ba ngày] rồi.",
+        "我等了[半个小时]。\nWǒ děng le [bàn gè xiǎoshí].\nTôi đã đợi [nửa tiếng].",
+        "他要在中国学习[一年半]。\nTā yào zài Zhōngguó xuéxí [yì nián bàn].\nAnh ấy muốn học ở Trung Quốc [một năm rưỡi]."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Khi biểu thị khoảng thời gian mà động tác hoặc trạng thái duy trì, nếu sau động từ có tân ngữ, có thể có nhiều cách biểu đạt. Khi tân ngữ không chỉ người, cấu trúc thường dùng là:\nĐộng từ (+了) + từ chỉ thời đoạn (+的) + tân ngữ. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我吃了[一个星期的]茄子。\nWǒ chī le [yí gè xīngqī de] qiézi.\nTôi đã ăn cà tím [suốt một tuần].",
+        "春节的时候他放了[三个星期的]假。\nChūnjié de shíhou tā fàng le [sān gè xīngqī de] jià.\nVào dịp Tết, anh ấy nghỉ phép [ba tuần].",
+        "周末他在房间玩儿了[两天]电脑。\nZhōumò tā zài fángjiān wánr le [liǎng tiān] diànnǎo.\nCuối tuần anh ấy chơi máy tính [hai ngày] trong phòng."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Nếu tân ngữ là đại từ hoặc danh từ chỉ người thì cấu trúc thường dùng là:\nĐộng từ (+了) + Tân ngữ (chỉ người) + từ chỉ thời đoạn. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我等了爸爸[半个小时]。\nWǒ děng le bàba [bàn gè xiǎoshí].\nTôi đã đợi bố [nửa tiếng].",
+        "老师夸了他[半天]。\nLǎoshī kuā le tā [bàntiān].\nThầy cô đã khen anh ấy [suốt nửa ngày]."
+      ]
+    }
+  ]
+}

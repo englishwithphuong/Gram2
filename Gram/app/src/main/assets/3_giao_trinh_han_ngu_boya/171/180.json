@@ -1,0 +1,24 @@
+{
+  "title": "“当时、当年” lúc đó, năm đó",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[当时]的中国就像一个病人。\n孙中山先生[当年]办的大学现在叫中山大学。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Thời gian trước đây khi xảy ra sự việc. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "28岁的时候,他给[当时]的清朝政府写信。\nÈrshíbā suì de shíhou, tā gěi [dāngshí] de Qīngcháo zhèngfǔ xiě xìn.\nLúc 28 tuổi, anh ấy viết thư cho chính quyền nhà Thanh [lúc bấy giờ].",
+        "西美和丈夫又去找那家医院的护士了解情况……[当时]有另一个孩子也和父母长得很不一样。\nXī Měi hé zhàngfū yòu qù zhǎo nà jiā yīyuàn de hùshi liǎojiě qíngkuàng… [Dāngshí] yǒu lìng yí gè háizi yě hé fùmǔ zhǎng de hěn bù yíyàng.\nXi Mei và chồng lại tìm đến y tá của bệnh viện đó để tìm hiểu tình hình… [Lúc đó] có một đứa trẻ khác cũng có ngoại hình rất khác biệt so với bố mẹ.",
+        "家乡的变化真大,[当年]我离开家的时候,这里还没有什么高楼。\nJiāxiāng de biànhuà zhēn dà, [dāngnián] wǒ líkāi jiā de shíhou, zhèlǐ hái méiyǒu shénme gāolóu.\nSự thay đổi của quê hương lớn thật, [năm xưa] lúc tôi rời nhà đi, nơi này vẫn chưa có mấy tòa cao ốc."
+      ]
+    }
+  ]
+}

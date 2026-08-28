@@ -1,0 +1,24 @@
+{
+  "title": "“不过”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "……,[不过]中国菜也不能天天吃,因为很油。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Liên kết các phân câu, biểu thị ý nghĩa chuyển ngoặt. Có thể dùng để biểu thị ý nghĩa bổ sung hoặc đính chính cho phần đã nói phía trước, như ví dụ ①; hoặc dùng để dẫn ra ý nghĩa đối lập với nội dung đã nói trước đó, như ví dụ ②③. Mức độ chuyển ngoặt của “不过” nhẹ hơn so với “但是”,“可是”."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的血压不太高,[不过]我还是每天吃药。\nWǒ de xuèyā bú tài gāo, [bùguò] wǒ háishi měitiān chī yào.\nHuyết áp của tôi không cao lắm, [nhưng] tôi vẫn uống thuốc mỗi ngày.",
+        "他虽然吃得很多,[不过]还是很瘦。\nTā suīrán chī de hěn duō, [bùguò] háishi hěn shòu.\nMặc dù anh ấy ăn rất nhiều, [nhưng] vẫn rất gầy.",
+        "我喜欢看电视,[不过]我的同屋不喜欢。\nWǒ xǐhuān kàn diànshì, [bùguò] wǒ de tóngwū bù xǐhuān.\nTôi thích xem TV, [nhưng] bạn cùng phòng của tôi thì không thích."
+      ]
+    }
+  ]
+}

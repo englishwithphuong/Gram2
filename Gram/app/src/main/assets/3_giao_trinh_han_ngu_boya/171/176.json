@@ -1,0 +1,30 @@
+{
+  "title": "Cấu trúc “连忙”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我[连忙]请她坐下,给她倒茶,拿水果。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị mau chóng hành động. Thường dùng ở phân câu sau của câu trần thuật, nhấn mạnh khoảng cách về thời gian giữa hai động tác hoặc hai sự việc là rất ngắn. Chỉ dùng trong câu trần thuật, không dùng trong câu cầu khiến. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "她{进来}之后,我[连忙]{请她坐下,给她倒茶、拿水果}。\nTā jìnlái zhīhòu, wǒ [liánmáng] qǐng tā zuò xià, gěi tā dǎo chá, ná shuǐguǒ.\nSau khi cô ấy đi vào, tôi [vội vàng] mời cô ấy ngồi xuống, rót trà, lấy hoa quả cho cô ấy.",
+        "{听见}楼下有人叫我的名字,我[连忙]{打开窗户}看是谁。\nTīngjiàn lóu xià yǒurén jiào wǒ de míngzi, wǒ [liánmáng] dǎkāi chuānghù kàn shì shuí.\nNghe thấy dưới lầu có người gọi tên mình, tôi [vội vàng] mở cửa sổ ra xem là ai.",
+        "老板一{进来},大家[连忙]{站了起来}。\nLǎobǎn yì jìnlái, dàjiā [liánmáng] zhàn le qǐlái.\nÔng chủ vừa bước vào, mọi người đều [vội vàng] đứng dậy.",
+        "吃饭的时候,小王突然很{不舒服},我们[连忙]{送他去了医院}。\nChīfàn de shíhou, Xiǎo Wáng tūrán hěn bù shūfu, wǒmen [liánmáng] sòng tā qù le yīyuàn.\nLúc đang ăn cơm, Tiểu Vương đột nhiên thấy rất khó chịu, chúng tôi [vội vàng] đưa anh ấy đến bệnh viện."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "{A}, [连忙] {B}"
+    }
+  ]
+}

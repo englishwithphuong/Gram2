@@ -1,0 +1,25 @@
+{
+  "title": "“动词+上”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "1912年中华民国成立,孙中山先生当[上]了临时大总统。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị động tác hoặc sự việc bắt đầu và còn tiếp tục kéo dài, nhấn mạnh vào sự bắt đầu, lúc này giữa động từ và “上” không được dùng thêm “得”,“不”, như ví dụ ①,②; Còn có thể biểu thị đạt được mục đích không dễ gì đạt được, hoặc kết quả của một sự việc đã có hi vọng, như ví dụ 4; Giữa động từ và “上” cũng có thể thêm “得”,“不”,như ví dụ ④."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "难道他喜欢[上]音乐了?\nNándào tā xǐhuan [shàng] yīnyuè le?\nLẽ nào cậu ấy thích [hát/nghe] âm nhạc rồi sao?",
+        "小王可能爱[上]丽丽,可又不好意思说。\nXiǎo Wáng kěnéng ài [shàng] Lìlì, kě yòu bù hǎoyìsi shuō.\nTiểu Vương có lẽ đã yêu [phải] Lị Lị rồi, nhưng lại ngượng ngùng không dám nói.",
+        "老同学一见面又开始聊[上]以前的事了。\nLǎo tóngxué yí jiànmiàn yòu kāishǐ liáo [shàng] yǐqián de shì le.\nBạn học cũ cứ gặp nhau là lại bắt đầu trò chuyện [về] những chuyện trước kia.",
+        "为了考[上]最好的大学,小王从来不玩儿。\nWèile kǎo [shàng] zuì hǎo de dàxué, Xiǎo Wáng cónglái bú wánr.\nĐể thi đậu [vào] trường đại học tốt nhất, Tiểu Vương từ trước đến nay không chơi bời."
+      ]
+    }
+  ]
+}

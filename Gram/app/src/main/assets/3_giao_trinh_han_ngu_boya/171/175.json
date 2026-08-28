@@ -1,0 +1,40 @@
+{
+  "title": "Cấu trúc “即使……也”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[即使]回家很晚,[也]我一定先放音乐,再做其他事。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“即使A也 B” biểu thị dù ở trong điều kiện A cũng sẽ xảy ra kết quả hoặc kết luận B, mà A thường là tình huống ít có khả năng xảy ra hoặc tương đối cực đoan. Cả kết cấu thường được dùng để nói rõ khả năng xuất hiện B là rất cao, như ví dụ 1, 3; hoặc biểu thị sự xuất hiện của A cũng không ảnh hưởng đến toàn bộ kết quả hoặc kết luận, như ví dụ 4, 6:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "(我每天下班之后做的第一件事就是放一段音乐。)[即使]回家很晚,[也]我一定先放音乐,再做其他事。\n(Wǒ měitiān xiàbān zhīhòu zuò de dì yí jiàn shì jiù shì fàng yí duàn yīnyuè.) [jíshǐ] huí jiā hěn wǎn, [yě] wǒ yídìng xiān fàng yīnyuè, zài zuò qítā shì.\n(Việc đầu tiên tôi làm sau khi tan làm mỗi ngày là bật một đoạn nhạc.) [Cho dù] về nhà rất muộn, tôi [cũng] nhất định bật nhạc trước, rồi mới làm việc khác.",
+        "我现在没钱买汽车,[即使]是最便宜的汽车,[也]我买不起。\nWǒ xiànzài méi qián mǎi qìchē, [jíshǐ] shì zuì piányi de qìchē, [yě] wǒ mǎi bù qǐ.\nBây giờ tôi không có tiền mua ô tô, [cho dù] là chiếc ô tô rẻ nhất, tôi [cũng] không mua nổi.",
+        "冬天里,熊[即使]几个月不吃东西[也]不会饿死。\nDōngtiān lǐ, xióng [jíshǐ] jǐ gè yuè bù chī dōngxī [yě] bú huì è sǐ.\nMùa đông, gấu [cho dù] mấy tháng không ăn đồ ăn [cũng] không bị đói chết.",
+        "从那以后我很少放音乐,[即使]放,声音[也]很小。\nCóng nà yǐhòu wǒ hěn shǎo fàng yīnyuè, [jíshǐ] fàng, shēngyīn [yě] hěn xiǎo.\nTừ sau đó tôi rất ít khi bật nhạc, [cho dù] bật, âm thanh [cũng] rất nhỏ.",
+        "学汉语要多和中国人练习,[即使]说错了,[也]没关系。\nXué hànyǔ yào duō hé Zhōngguó rén liànxí, [jíshǐ] shuō cuò le, [yě] méi guānxi.\nHọc tiếng Trung cần luyện tập nhiều với người Trung Quốc, [cho dù] nói sai, [cũng] không sao cả.",
+        "他一般不批评学生,[即使]批评学生,[也]不会很厉害。\nTā yìbān bù pīpíng xuésheng, [jíshǐ] pīpíng xuésheng, [yě] bú huì hěn lìhai.\nAnh ấy thông thường không phê bình học sinh, [cho dù] phê bình học sinh, [cũng] không đến mức quá nặng nề."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cũng có thể dùng ở phân câu (vế câu) sau. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我不想做这样的工作,[即使]工资比我现在的高很多。\nWǒ bù xiǎng zuò zhèyàng de gōngzuò, [jíshǐ] gōngzī bǐ wǒ xiànzài de gāo hěn duō.\nTôi không muốn làm công việc như thế này, [cho dù] tiền lương có cao hơn tôi hiện tại rất nhiều.",
+        "我们的脑子一直在工作,[即使]是在我们睡觉的时候。\nWǒmen de nǎozi yìzhí zài gōngzuò, [jíshǐ] shì zài wǒmen shuìjiào de shíhou.\nBộ não của chúng ta vẫn luôn làm việc, [cho dù] là vào lúc chúng ta đang ngủ."
+      ]
+    }
+  ]
+}

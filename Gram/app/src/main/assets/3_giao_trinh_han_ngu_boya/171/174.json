@@ -1,0 +1,35 @@
+{
+  "title": "“之后、之前、之间” sau…, trước…, giữa…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "几天[之后],我的书变成了一本新书,又回到了我的手中。\n我到厨房去煮咖啡,走[之前]对小强说:“好好儿听听,你肯定会喜欢的。”\n好朋友[之间]不用客气。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "之后: biểu thị sau một thời gian hoặc địa điểm nào đó. Dùng nhiều trong văn viết. Phía trước có thể là cụm danh từ hoặc động từ."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "之前: biểu thị trước một thời gian hoặc địa điểm nào đó, dùng nhiều trong văn viết."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "之间: Biểu thị ở trong khoảng cách giữa hai đầu hoặc giữa hai sự vật, có thể dùng để chỉ số lượng, thời gian, nơi chốn hoặc quan hệ vv... Không thể dùng độc lập. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "唱片烧了[之后]可以做成各种形状的东西。\nChàngpiàn shāo le [zhīhòu] kěyǐ zuò chéng gèzhǒng xíngzhuàng de dōngxi.\nĐĩa nhạc [sau khi] bị cháy có thể làm thành những đồ vật với các hình dáng khác nhau.",
+        "我觉得张老师的岁数大概在六十到六十五[之间]。\nWǒ juéde Zhāng lǎoshī de suìshu dàgài zài liùshí dào liùshíwǔ [zhījiān].\nTôi thấy tuổi của thầy Trương đại khái [ở giữa] sáu mươi đến sáu mươi lăm.",
+        "这个故事发生在秋冬[之间]。\nZhè gè gùshi fāshēng zài qiūdōng [zhījiān].\nCâu chuyện này diễn ra [ở giữa] mùa thu và mùa đông.",
+        "食堂和图书馆[之间]是我们的教学楼。\nShítáng hé túshūguǎn [zhījiān] shì wǒmen de jiàoxué lóu.\n[Ở giữa] nhà ăn và thư viện là tòa nhà dạy học của chúng tôi."
+      ]
+    }
+  ]
+}

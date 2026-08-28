@@ -1,0 +1,24 @@
+{
+  "title": "“由于” bởi vì, do",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[由于]你的汉语不如他们的英语流利,所以常常是他们说,你听。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị nguyên nhân, thường dùng ở đầu câu. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[由于]看不懂汉字,点菜时我们碰到了很多麻烦。\n[Yóuyú] kàn bu dǒng hànzì, diǎncài shí wǒmen pèng dào le hěn duō máfan.\n[Do] không đọc hiểu chữ Hán, lúc gọi món chúng tôi đã gặp rất nhiều phiền phức.",
+        "[由于]身体的原因,她换了一份工作。\n[Yóuyú] shēntǐ de yuányīn, tā huàn le yí fèn gōngzuò.\n[Bởi vì] nguyên nhân sức khỏe, cô ấy đã đổi một công việc khác.",
+        "[由于]天气的原因,飞机晚到了两个小时。\n[Yóuyú] tiānqì de yuányīn, fēijī wǎn dào le liǎng gè xiǎoshí.\n[Do] nguyên nhân thời tiết, máy bay đến muộn hai tiếng."
+      ]
+    }
+  ]
+}

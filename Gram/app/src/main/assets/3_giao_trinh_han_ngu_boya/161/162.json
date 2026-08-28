@@ -1,0 +1,24 @@
+{
+  "title": "“既……又” vừa… vừa",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "说不同母语的儿童在学习他们的母语时,[既]有相同的地方,[又]有不同的地方。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị đồng thời có tính chất hoặc tình huống của hai phương diện có liên quan với nhau, thường nối các cụm động từ hoặc các cụm hình dung từ có số lượng âm tiết giống nhau. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[既]是我的老板,[又]是我的朋友。\nTā [jì] shì wǒ de lǎobǎn, [yòu] shì wǒ de péngyou.\nAnh ấy [vừa] là ông chủ của tôi, [vừa] là bạn của tôi.",
+        "他的汉语[既]标准[又]流利。\nTā de hànyǔ [jì] biāozhǔn [yòu] liúli.\nTiếng Trung của anh ấy [vừa] chuẩn xác [vừa] lưu loát.",
+        "西红柿炒鸡蛋[既]好吃做法[又]简单。\nXīhóngshì chǎo jīdàn [jì] hǎochī zuòfǎ [yòu] jiǎndān.\nMón trứng xào cà chua [vừa] ngon [vừa] cách làm đơn giản."
+      ]
+    }
+  ]
+}

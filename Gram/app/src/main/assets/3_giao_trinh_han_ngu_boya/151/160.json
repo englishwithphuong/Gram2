@@ -1,0 +1,25 @@
+{
+  "title": "“左右” khoảng, xấp xỉ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "孩子们都在12个月[左右]开始说话。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Danh từ, biểu thị số ước lượng, thường dùng sau cụm từ chỉ số lượng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "大概18个月[左右]的时候孩子能说两个词语的句子。\nDàgài shíba gè yuè [zuǒyòu] de shíhou háizi néng shuō liǎng gè cíyǔ de jùzi.\nKhoảng vào lúc [khoảng] 18 tháng tuổi, trẻ em có thể nói được câu gồm hai từ.",
+        "他们俩昨天晚上聊天儿聊了四个小时[左右]。\nTāmen liǎ zuótiān wǎnshang liáotiānr liáo le sì gè xiǎoshí [zuǒyòu].\nHai người họ tối hôm qua trò chuyện [khoảng] bốn tiếng đồng hồ.",
+        "我们的老师今年35岁[左右]。\nWǒmen de lǎoshī jīnnián sānshíwǔ suì [zuǒyòu].\nGiáo viên của chúng tôi năm nay [khoảng] 35 tuổi.",
+        "坐出租车去那儿30块钱[左右]。\nZuò chūzūchē qù nàr sānshí kuài qián [zuǒyòu].\nĐi taxi đến đó [khoảng] 30 tệ."
+      ]
+    }
+  ]
+}

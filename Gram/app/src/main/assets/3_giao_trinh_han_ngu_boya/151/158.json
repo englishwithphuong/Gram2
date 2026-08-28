@@ -1,0 +1,22 @@
+{
+  "title": "“的、地、得”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“的” thường dùng trước danh từ, chỉ rõ thành phần đứng trước nó là định ngữ của danh từ; “地” thường dùng trước động từ, hình dung từ, chỉ rõ thành phần đứng trước nó là trạng ngữ của động từ, hình dung từ; “得” thường dùng sau động từ, hình dung từ, phía sau nó là bổ ngữ của động từ hoặc hình dung từ, biểu thị động tác đã làm được như thế nào, hoặc tính chất của sự vật đạt đến mức độ ra sao. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "现在来中国留学的外国人很多。\nXiànzài lái Zhōngguó liúxué de wàiguó rén hěn duō.\nHiện tại người nước ngoài đến Trung Quốc du học [rất] nhiều.",
+        "在教室以外学会的汉语太多了。\nZài jiàoshì yǐwài xué huì de hànyǔ tài duō le.\nTiếng Trung học được ngoài phòng học [thì] quá nhiều rồi.",
+        "他生气[地]说:“我要换工作。”\nTā shēngqì [de] shuō: “Wǒ yào huàn gōngzuò.”\nAnh ấy tức giận nói: “Tôi muốn đổi công việc.”",
+        "他们俩痛苦[地]分手了。\nTāmen liǎ tòngkǔ [de] fēnshǒu le.\nHai người họ đau khổ chia tay nhau rồi.",
+        "他的汉语说[得]很流利。\nTā de hànyǔ shuō [de] hěn liúli.\nTiếng Trung của anh ấy nói [rất] lưu loát.",
+        "今天我忙[得]连吃饭的时间都没有。\nJīntiān wǒ máng [de] lián chīfàn de shíjiān dōu méiyǒu.\nHôm nay tôi bận [đến mức] ngay cả thời gian ăn cơm cũng không có."
+      ]
+    }
+  ]
+}

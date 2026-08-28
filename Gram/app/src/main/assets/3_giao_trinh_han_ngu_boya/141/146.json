@@ -1,0 +1,26 @@
+{
+  "title": "Từ li hợp",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trong tiếng Hán, một số động từ khi sử dụng có thể thêm vào giữa động từ đó các thành phần như “了”, “过”, cụm từ chỉ số lượng, những từ như vậy được gọi là “từ li hợp”. Từ li hợp thường không thể mang theo tân ngữ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "离合词 (Líhé cí - Từ li hợp)\n生气 (Shēngqì): ✅ 生了半天气 / 生了气 / 生过气 ❌ 生气他\nGiận: ✅ Giận mất nửa ngày / Đã giận / Từng giận ❌ Giận anh ấy\n结婚 (Jiéhūn): ✅ 结了两次婚 / 结了婚 / 结过婚 ❌ 结婚他\nKết hôn: ✅ Kết hôn hai lần / Đã kết hôn / Từng kết hôn ❌ Kết hôn anh ấy\n放假 (Fàngjià): ✅ 放了三天假 / 放了假 / 放过假 ❌ 放假学生\nNghỉ lễ/Tết: ✅ Nghỉ ba ngày / Đã nghỉ / Từng nghỉ ❌ Nghỉ học sinh\n考试 (Kǎoshì): ✅ 考了两次试 / 考了试 / 考过试 ❌ 考试语法\nThi cử: ✅ Thi hai lần / Đã thi / Từng thi ❌ Thi ngữ pháp\n洗澡 (Xǐzǎo): ✅ 洗了两次澡 / 洗了澡 / 洗过澡 ❌ 洗澡孩子\nTắm: ✅ Tắm hai lần / Đã tắm / Từng tắm ❌ Tắm trẻ con\n\n其他动词 (Qítā dòngcí - Các động từ khác)\n知道 (Zhīdào): ❌ 知了道 / 知过道 ✅ 知道他\nBiết: ❌ Biết cậu ấy\n复习 (Fùxí): ❌ 复了习 / 复过习 ✅ 复习课文\nÔn tập: ✅ Ôn tập bài khóa\n喜欢 (Xǐhuān): ❌ 喜了欢 / 喜过欢 ✅ 喜欢动物\nThích: ✅ Thích động vật\n参观 (Cānguān): ❌ 参了观 / 参过观 ✅ 参观故宫\nTham quan: ✅ Tham quan Cố Cung\n回答 (Huídá): ❌ 回了答 / 回过答 ✅ 回答问题\nTrả lời: ✅ Trả lời câu hỏi"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "哥哥很[生]老板的[气],所以就离开了那家公司。\n(❌ 哥哥生气老板。)\nGēgē hěn [shēng] lǎobǎn de [qì], suǒyǐ jiù líkāi le nà jiā gōngsī.\nAnh trai rất [giận] ông chủ, cho nên đã rời khỏi công ty đó.",
+        "在一些国家,男的可以和男的结婚,女的可以和女的结婚。非洲(Fēizhōu Châu Phi)的Akuku先生[结]了100多次[婚],他有160个孩子。(❌ 哥哥打算明年结婚丽丽。)\nZài yìxiē guójiā, nán de kěyǐ hé nán de jiéhūn, nǚ de kěyǐ hé nǚ de jiéhūn. Fēizhōu de Akuku xiānsheng [jié] le yì bǎishì cì [hūn], tā yǒu yībǎi liùshí gè háizi.\nỞ một số quốc gia, nam có thể kết hôn với nam, nữ có thể kết hôn với nữ. Ông Akuku ở [Châu Phi] đã [kết hôn] hơn 100 lần, ông ấy có 160 người con. (❌ Anh trai dự định năm sau kết hôn Lệ Lệ.)",
+        "以前,人们觉得[洗]澡对身体不好,所以一个月才[洗]一两次[澡]。\nYǐqián, rénmen juéde [xǐ] zǎo duì shēntǐ bù hǎo, suǒyǐ yí gè yuè cái [xǐ] yì liǎng cì [zǎo].\nTrước kia, mọi người cảm thấy việc [tắm] rửa không tốt cho cơ thể, cho nên một tháng mới [tắm] một hai lần.",
+        "我们为她[担]了半天[心],可是她自己一点儿也不担心。\nWǒmen wèi tā [dān] le bàntiān [xīn], kěshì tā zìjǐ yìdiǎnr yě bù dānxīn.\nChúng tôi đã [lo lắng] cho cô ấy suốt nửa ngày, thế mà bản thân cô ấy lại chẳng hề lo lắng chút nào.",
+        "[毕]了[业],我想到中国的公司找工作。\n[Bì] le [yè], wǒ xiǎng dào Zhōngguó de gōngsī zhǎo gōngzuò.\nSau khi [tốt nghiệp], tôi muốn đến công ty của Trung Quốc tìm việc làm."
+      ]
+    }
+  ]
+}

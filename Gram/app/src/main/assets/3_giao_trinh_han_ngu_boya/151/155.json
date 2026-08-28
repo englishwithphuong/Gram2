@@ -1,0 +1,38 @@
+{
+  "title": "Cấu trúc “曾经”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "来北京以前,很多人[曾经]告诉我,在大城市学中文不如在中小城市学好。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị trước đây đã từng có một hành vi hoặc tình huống nào đó. Dùng trước động từ, phía sau động từ thường có “过、了”. Hình thức phủ định không dùng “曾经”, mà dùng “没(有)+动词+过”, cũng có thể dùng “不曾+动词+过” (cách này thường dùng trong văn viết). Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的朋友[曾经]在东北呆过两年。\nWǒ de péngyou [céngjīng] zài dōngběi dāi guò liǎng nián.\nBạn của tôi [từng] ở Đông Bắc hai năm.",
+        "中学的时候,我[曾经]在一家商店打了一个月工。\nZhōngxué de shíhou, wǒ [céngjīng] zài yì jiā shāngdiàn dǎ le yí gè yuè gōng.\nLúc học cấp hai, tôi [từng] làm việc ở một cửa hàng một tháng."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "曾经 + 动词 (+ 过)\n没有 + 动词 (+ 过)\n不曾 + 动词 (+ 过)"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[曾经]去过西安。\n→我没有去过西安。\nWǒ [céngjīng] qù guò Xī'ān.\n→Wǒ méiyǒu qù guò Xī'ān.\nTôi [từng] đi Tây An.\n→Tôi chưa từng đi Tây An.",
+        "我[曾经]给你写过信。\n→我没有给你写过信。\nWǒ [céngjīng] gěi nǐ xiě guò xìn.\n→Wǒ méiyǒu gěi nǐ xiě guò xìn.\nTôi [từng] viết thư cho bạn.\n→Tôi chưa từng viết thư cho bạn.",
+        "他[曾经]结过婚。\n→他不曾结过婚。\nTā [céngjīng] jié guò hūn.\n→Tā bù céng jié guò hūn.\nAnh ấy [từng] kết hôn.\n→Anh ấy chưa từng kết hôn.",
+        "他[曾经]用汉语写过日记。\n→他不曾用汉语写过日记。\nTā [céngjīng] yòng hànyǔ xiě guò rìjì.\n→Tā bù céng yòng hànyǔ xiě guò rìjì.\nAnh ấy [từng] viết nhật ký bằng tiếng Trung.\n→Anh ấy chưa từng viết nhật ký bằng tiếng Trung."
+      ]
+    }
+  ]
+}

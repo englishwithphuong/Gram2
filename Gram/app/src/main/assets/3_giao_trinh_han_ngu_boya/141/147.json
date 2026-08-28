@@ -1,0 +1,24 @@
+{
+  "title": "“不仅……而且……” không chỉ… mà còn",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "中国菜里[不仅]有很多种素菜,[而且]做法也特别多。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị ngoài ý nghĩa đã nói ở phân câu thứ nhất, còn có ý nghĩa bổ sung cao hơn một mức ở phân câu thứ hai, dùng nhiều trong văn viết. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "在中国,以前春节的时候[不仅]学校、公司放假,[而且]商店、公园也关门。\nZài Zhōngguó, yǐqián chūnjié de shíhou [bùjǐn] xuéxiào, gōngsī fàngjià, [érqiě] shāngdiàn, gōngyuán yě guānmén.\nỞ Trung Quốc, trước đây vào dịp Tết Nguyên Đán [không chỉ] trường học, công ty được nghỉ, [mà các] cửa hàng, công viên cũng đóng cửa.",
+        "现在的大学生,[不仅]要学外语和电脑,[而且]要学开车。\nXiànzài de dàxuéshēng, [bùjǐn] yào xué wàiyǔ hé diànnǎo, [érqiě] yào xué kāichē.\nSinh viên hiện nay [không chỉ] phải học ngoại ngữ và máy tính, [mà còn] phải học lái xe.",
+        "老板:小王,你喜欢唱歌吗?\n小王:我[不仅]喜欢唱,[而且]唱得很好。\nLǎobǎn: Xiǎo Wáng, nǐ xǐhuān chànggē ma?\nXiǎo Wáng: Wǒ [bùjǐn] xǐhuān chàng, [érqiě] chàng de hěn hǎo.\nSếp: Tiểu Vương, cậu thích hát không?\nTiểu Vương: Tôi [không chỉ] thích hát, [mà] hát còn rất hay."
+      ]
+    }
+  ]
+}

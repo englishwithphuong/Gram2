@@ -1,0 +1,25 @@
+{
+  "title": "“不如” không… bằng",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "在大城市学中文[不如]在中小城市学好。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để so sánh, biểu thị người hoặc vật được nhắc đến ở phía trước kém hơn người hoặc vật được nhắc đến ở phía sau. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的汉语[不如]他们的英语流利。\nWǒ de hànyǔ [bùrú] tāmen de yīngyǔ liúli.\nTiếng Trung của tôi [không lưu loát bằng] tiếng Anh của họ.",
+        "中小城市说英语的人[不如]大城市的人多。\nZhōngxiǎo chéngshì shuō yīngyǔ de rén [bùrú] dà chéngshì de rén duō.\nNgười nói tiếng Anh ở các thành phố vừa và nhỏ [không đông bằng] người ở các thành phố lớn.",
+        "北京冬天[不如]哈尔滨冷。\nBěijīng dōngtiān [bùrú] Hā'ěrbīn lěng.\nMùa đông Bắc Kinh [không lạnh bằng] Cáp Nhĩ Tân.",
+        "爸爸的身体现在[不如]以前健康。\nBàba de shēntǐ xiànzài [bùrú] yǐqián jiànkāng.\nSức khỏe của bố bây giờ [không khỏe mạnh bằng] trước đây."
+      ]
+    }
+  ]
+}

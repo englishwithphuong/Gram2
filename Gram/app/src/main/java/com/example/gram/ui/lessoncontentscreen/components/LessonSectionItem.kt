@@ -128,7 +128,7 @@ fun LessonTextSection(
         )
     )
 
-    Spacer(modifier = Modifier.height(20.dp))
+    Spacer(modifier = Modifier.height(40.dp))
 }
 
 @Composable
@@ -187,7 +187,7 @@ fun LessonNumberedSection(
                 )
             }
 
-            Spacer(modifier = Modifier.height(30.dp))
+            Spacer(modifier = Modifier.height(40.dp))
         }
     }
 

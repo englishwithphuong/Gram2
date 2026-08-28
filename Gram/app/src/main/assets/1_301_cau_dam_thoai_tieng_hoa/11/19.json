@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[你]好！\nChào bạn!",
-        "[我]去商店。\nTôi đi cửa hàng."
+        "[你]好！\n[Nǐ] hǎo!\n[Bạn] khỏe!",
+        "[我]去商店。\n[Wǒ] qù shāngdiàn.\n[Tôi] đi cửa hàng."
       ]
     },
     {
@@ -23,10 +23,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你好吗?\nBạn khỏe không?",
-        "(我)很好。\n(Tôi) khỏe.",
-        "谁是学生?\nAi là học sinh?",
-        "他(是学生)。\nAnh ấy (là học sinh)."
+        "你好[吗]?\nNǐ hǎo [ma]?\nBạn khỏe [không]?",
+        "(我)很[好]。\n(Wǒ) hěn [hǎo].\n(Tôi) rất [khỏe].",
+        "[谁]是学生?\n[Shéi] shì xuésheng?\n[Ai] là học sinh?",
+        "他(是学生)。\nTā (shì xuésheng).\nAnh ấy (là học sinh)."
       ]
     },
     {
@@ -38,9 +38,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我认识[他]。\nTôi quen anh ấy.",
-        "他有[一个哥哥]。\nAnh ấy có một người anh trai.",
-        "他是[学生]。\nAnh ấy là học sinh."
+        "我认识[他]。\nWǒ rènshi [tā].\nTôi quen [anh ấy].",
+        "他有[一个哥哥]。\nTā yǒu [yí gè gēge].\nAnh ấy có [một người anh trai].",
+        "他是[学生]。\nTā shì [xuésheng].\nAnh ấy là [học sinh]."
       ]
     },
     {
@@ -57,9 +57,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[很]好。\nTôi rất khỏe.",
-        "他们[都]来。\nHọ đều đến.",
-        "他[在家]看电视。\nAnh ấy xem tivi ở nhà."
+        "我[很]好。\nWǒ [hěn] hǎo.\nTôi [rất] khỏe.",
+        "他们[都]来。\nTāmen [dōu] lái.\nHọ [đều] đến.",
+        "他[在家]看电视。\nTā [zài jiā] kàn diànshì.\nAnh ấy xem tivi [ở nhà]."
       ]
     }
   ]

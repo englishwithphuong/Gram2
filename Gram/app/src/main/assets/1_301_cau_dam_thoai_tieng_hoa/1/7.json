@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[也]很好。\nTôi cũng rất khỏe.",
-        "他们[都]很好。\nHọ đều rất khỏe.",
-        "我们[都]是学生，他们[也都]是学生。\nChúng tôi đều là học sinh, họ cũng đều là học sinh."
+        "我[也]很好。\nWǒ [yě] hěn hǎo.\nTôi [cũng] rất khỏe.",
+        "他们[都]很好。\nTāmen [dōu] hěn hǎo.\nHọ [đều] rất khỏe.",
+        "我们[都]是学生，他们[也都]是学生。\nWǒmen [dōu] shì xuésheng, tāmen [yě dōu] shì xuésheng.\nChúng tôi [đều] là học sinh, họ [cũng đều] là học sinh."
       ]
     },
     {

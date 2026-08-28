@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你快下,{楼}[来]吧。\nBạn mau xuống lầu đi.",
-        "上课了，老师进{教室}[来]了。\nĐến giờ học rồi, giáo viên đã vào lớp.",
-        "他到{上海}[去]了。\nAnh ấy đã đi Thượng Hải.",
-        "他回{宿舍}[去]了。\nAnh ấy đã về ký túc xá."
+        "你快下,{楼}[来]吧。\nNǐ kuài xià, {lóu} [lái] ba.\nBạn mau xuống [lầu] đi.",
+        "上课了，老师进{教室}[来]了。\nShàngkè le, lǎoshī jìn {jiàoshì} [lái] le.\nĐến giờ học rồi, giáo viên đã vào [lớp học].",
+        "他到{上海}[去]了。\nTā dào {Shànghǎi} [qù] le.\nAnh ấy đã đi [Thượng Hải].",
+        "他回{宿舍}[去]了。\nTā huí {sùshè} [qù] le.\nAnh ấy đã về [ký túc xá]."
       ]
     },
     {
@@ -25,10 +25,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我想带{照相机}[去]。\nTôi muốn mang máy ảnh đi.",
-        "他没买{苹果}[来]。\nAnh ấy không mua táo đến.",
-        "我带[去]了{一个照相机}。\nTôi đã mang một chiếc máy ảnh đi.",
-        "他买[来]了{一斤苹果}。\nAnh ấy đã mua một cân táo về."
+        "我想带{照相机}[去]。\nWǒ xiǎng dài {zhàoxiàngjī} [qù].\nTôi muốn mang [máy ảnh] đi.",
+        "他没买{苹果}[来]。\nTā méi mǎi {píngguǒ} [lái].\nAnh ấy không mua [táo] đến.",
+        "我带[去]了{一个照相机}。\nWǒ dài [qù] le {yí ge zhàoxiàngjī}.\nTôi đã mang [đi] [một chiếc máy ảnh].",
+        "他买[来]了{一斤苹果}。\nTā mǎi [lái] le {yì jīn píngguǒ}.\nAnh ấy đã mua [về] [một cân táo]."
       ]
     }
   ]

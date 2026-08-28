@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他比我大[两岁]。\nAnh ấy lớn hơn tôi hai tuổi.",
-        "他家比我家多[两口人]。\nNhà anh ấy nhiều hơn nhà tôi hai nhân khẩu."
+        "他比我大[两岁]。\nTā bǐ wǒ dà [liǎng suì].\nAnh ấy lớn hơn tôi [hai tuổi].",
+        "他家比我家多[两口人]。\nTā jiā bǐ wǒ jiā duō [liǎng kǒu rén].\nNhà anh ấy nhiều hơn nhà tôi [hai nhân khẩu]."
       ]
     },
     {
@@ -23,9 +23,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他比我大[一点儿（一些）]。\nAnh ấy lớn hơn tôi một chút (một ít).",
-        "这个教室比那个教室大[得多]。\nPhòng học này lớn hơn phòng học kia rất nhiều.",
-        "他跳舞跳得比我好[得多]。\nAnh ấy múa đẹp hơn tôi rất nhiều."
+        "他比我大[一点儿（一些）]。\nTā bǐ wǒ dà [yìdiǎnr (yìxiē)].\nAnh ấy lớn hơn tôi [một chút (một ít)].",
+        "这个教室比那个教室大[得多]。\nZhège jiàoshì bǐ nàge jiàoshì dà [de duō].\nPhòng học này lớn hơn phòng học kia [rất nhiều].",
+        "他跳舞跳得比我好[得多]。\nTā tiàowǔ tiào de bǐ wǒ hǎo [de duō].\nAnh ấy múa đẹp hơn tôi [rất nhiều]."
       ]
     }
   ]

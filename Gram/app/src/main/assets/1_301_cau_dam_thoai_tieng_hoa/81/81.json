@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他只来过[一次]。\nAnh ấy chỉ đến đây một lần.",
-        "我找过他[两次]，他都不在。\nTôi đã tìm anh ấy hai lần, anh ấy đều không có nhà."
+        "他只来过[一次]。\nTā zhǐ lái guo [yí cì].\nAnh ấy chỉ đến đây [một lần].",
+        "我找过他[两次]，他都不在。\nWǒ zhǎo guo tā [liǎng cì], tā dōu bú zài.\nTôi đã tìm anh ấy [hai lần], anh ấy đều không có nhà."
       ]
     },
     {
@@ -23,8 +23,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "给你们介绍[一下儿]。\nGiới thiệu với các bạn một chút.",
-        "你帮我拿[一下儿]。\nBạn cầm hộ tôi một chút."
+        "给你们介绍[一下儿]。\nGěi nǐmen jièshào [yíxiàr].\nGiới thiệu với các bạn [một chút].",
+        "你帮我拿[一下儿]。\nNǐ bāng wǒ ná [yíxiàr].\nBạn cầm hộ tôi [một chút]."
       ]
     }
   ]

@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "这只箱子不重，我拿得[动]。\nCái vali này không nặng, tôi có thể xách được.",
-        "走了很多路，我现在走不[动]了。\nTôi đã đi bộ rất nhiều, bây giờ không đi nổi nữa.",
-        "这个行李太重了，一个人搬不[动]。\nHành lý này nặng quá, một người không thể bê nổi."
+        "这只箱子不重，我拿得[动]。\nZhè zhī xiāngzi bù zhòng, wǒ ná de [dòng].\nCái vali này không nặng, tôi [có thể xách được].",
+        "走了很多路，我现在走不[动]了。\nZǒu le hěn duō lù, wǒ xiànzài zǒu bù [dòng] le.\nTôi đã đi bộ rất nhiều, bây giờ [không đi nổi] nữa.",
+        "这个行李太重了，一个人搬不[动]。\nZhège xíngli tài zhòng le, yí ge rén bān bù [dòng].\nHành lý này nặng quá, một người [không thể bê nổi]."
       ]
     }
   ]

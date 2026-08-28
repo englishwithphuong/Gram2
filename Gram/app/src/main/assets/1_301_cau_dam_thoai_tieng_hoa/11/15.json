@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[去]{问}他。\nTôi đi hỏi anh ấy.",
-        "王林常[去]{看}电影。\nVương Lâm thường đi xem phim.",
-        "星期天大卫[来]我家{玩儿}。\nChủ nhật, David đến nhà tôi chơi.",
-        "我[去]他宿舍{看}他。\nTôi đến ký túc xá của anh ấy thăm anh ấy."
+        "我[去][问]他。\nWǒ [qù] [wèn] tā.\nTôi [đi] [hỏi] anh ấy.",
+        "王林常[去][看]电影。\nWáng Lín cháng [qù] [kàn] diànyǐng.\nVương Lâm thường [đi] [xem] phim.",
+        "星期天大卫[来]我家[玩儿]。\nXīngqītiān Dàwèi [lái] wǒ jiā [wánr].\nChủ nhật, David [đến] nhà tôi [chơi].",
+        "我[去]他宿舍[看]他。\nWǒ [qù] tā sùshè [kàn] tā.\nTôi [đến] ký túc xá của anh ấy [thăm] anh ấy."
       ]
     }
   ]

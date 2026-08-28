@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "今天[星期天]。\nHôm nay là Chủ nhật.",
-        "我今年[二十岁]。\nNăm nay tôi 20 tuổi.",
-        "他[北京人]。\nAnh ấy là người Bắc Kinh."
+        "今天[星期天]。\nJīntiān [xīngqītiān].\nHôm nay [là] Chủ nhật.",
+        "我今年[二十岁]。\nWǒ jīnnián [èrshí suì].\nNăm nay tôi [20 tuổi].",
+        "他[北京人]。\nTā [Běijīng rén].\nAnh ấy [là người Bắc Kinh]."
       ]
     },
     {
@@ -24,8 +24,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "今天[不是]星期天。\nHôm nay không phải Chủ nhật.",
-        "他[不是]北京人。\nAnh ấy không phải là người Bắc Kinh."
+        "今天[不是]星期天。\nJīntiān [bú shì] xīngqītiān.\nHôm nay [không phải là] Chủ nhật.",
+        "他[不是]北京人。\nTā [bú shì] Běijīng rén.\nAnh ấy [không phải là] người Bắc Kinh."
       ]
     },
     {

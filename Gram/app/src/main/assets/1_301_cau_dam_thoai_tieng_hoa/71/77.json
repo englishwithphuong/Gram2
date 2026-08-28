@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "窗户开[着]，门没开[着]。\nCửa sổ đang mở, cửa chính thì không mở.",
-        "衣柜里挂[着]很多衣服。\nTrong tủ quần áo treo rất nhiều quần áo.",
-        "书上边[没]写[着]你的名字。\nTrên sách không viết tên của bạn.",
-        "他[没]拿[着]东西。\nAnh ấy không cầm đồ vật gì trên tay."
+        "窗户开[着]，门[没]开[着]。\nChuānghu kāi [zhe], mén [méi] kāi [zhe].\nCửa sổ đang mở, cửa chính thì [không] mở.",
+        "衣柜里挂[着]很多衣服。\nYīguì lǐ guà [zhe] hěn duō yīfu.\nTrong tủ quần áo [treo] rất nhiều quần áo.",
+        "书上边[没]写[着]你的名字。\nShū shàngbian [méi] xiě [zhe] nǐ de míngzi.\nTrên sách [không] [viết] tên của bạn.",
+        "他[没]拿[着]东西。\nTā [méi] ná [zhe] dōngxi.\nAnh ấy [không] [cầm] đồ vật gì trên tay."
       ]
     },
     {
@@ -25,8 +25,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "门开[着没有]？\nCửa có đang mở hay không?",
-        "你带[着]护照[没有]？\nBạn có mang theo hộ chiếu không?"
+        "门开[着没有]？\nMén kāi [zhe méiyǒu]?\nCửa có đang [mở hay không]?",
+        "你带[着]护照[没有]？\nNǐ dài [zhe] hùzhào [méiyǒu]?\nBạn có [mang theo] hộ chiếu [hay không]?"
       ]
     }
   ]

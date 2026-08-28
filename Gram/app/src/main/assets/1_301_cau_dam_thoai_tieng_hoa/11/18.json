@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你今天[来不来]?\nHôm nay bạn có đến không?",
-        "这个电影[好不好]?\nBộ phim này có hay không?",
-        "这[是不是]你们的教室?\nĐây có phải là phòng học của các bạn không?",
-        "王府井离这儿[远不远]?\nVương Phủ Tỉnh có cách xa đây không?"
+        "你今天[来不来]?\nNǐ jīntiān [lái bu lái]?\nHôm nay bạn [có đến không]?",
+        "这个电影[好不好]?\nZhè gè diànyǐng [hǎo bu hǎo]?\nBộ phim này [có hay không]?",
+        "这[是不是]你们的教室?\nZhè [shì bu shì] nǐmen de jiàoshì?\nĐây [có phải là] phòng học của các bạn không?",
+        "王府井离这儿[远不远]?\nWángfǔjǐng lí zhèr [yuǎn bù yuǎn]?\nVương Phủ Tỉnh cách đây [có xa không]?"
       ]
     }
   ]

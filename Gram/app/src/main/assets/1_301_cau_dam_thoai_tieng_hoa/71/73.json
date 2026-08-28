@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他汉语说得很好，他哥哥说得[更]好。\nAnh ấy nói tiếng Anh rất tốt, anh trai cậu ấy nói còn tốt hơn.",
-        "这次考试他的成绩[最]好。\nKỳ thi lần này thành tích của cậu ấy là tốt nhất."
+        "他汉语说得很好，他哥哥说得[更]好。\nTā Hànyǔ shuō de hěn hǎo, tā gēge shuō de [gèng] hǎo.\nAnh ấy nói tiếng Trung rất tốt, anh trai cậu ấy nói còn [tốt hơn].",
+        "这次考试他的成绩[最]好。\nZhè cì kǎoshì tā de chéngjì [zuì] hǎo.\nKỳ thi lần này thành tích của cậu ấy là [tốt nhất]."
       ]
     },
     {
@@ -23,9 +23,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你弟弟[有]你这么高吗？\nEm trai bạn có cao bằng bạn không?",
-        "这种苹果[没有]那种好吃。\nLoại táo này không ngon bằng loại kia.",
-        "我[没有]他唱得好。\n(我唱得[没有]他好)\n(我唱歌唱得[没有]他好)\nTôi hát không hay bằng anh ấy."
+        "你弟弟[有]你这么高吗？\nNǐ dìdi [yǒu] nǐ zhème gāo ma?\nEm trai bạn có cao [bằng] bạn không?",
+        "这种苹果[没有]那种好吃。\nZhè zhǒng píngguǒ [méiyǒu] nà zhǒng hǎochī.\nLoại táo này [không ngon bằng] loại kia.",
+        "我[没有]他唱得好。\nWǒ [méiyǒu] tā chàng de hǎo.\nTôi hát [không hay bằng] anh ấy."
       ]
     },
     {
@@ -37,8 +37,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "今天的天气[跟]昨天[一样]。\nThời tiết hôm nay giống như hôm qua.",
-        "我买的毛衣[跟]你的[一样]贵。\nChiếc áo len tôi mua đắt bằng chiếc của bạn."
+        "今天的天气[跟]昨天[一样]。\nJīntiān de tiānqì [gēn] zuótiān [yíyàng].\nThời tiết hôm nay [giống] hôm qua [như nhau].",
+        "我买的毛衣[跟]你的[一样]贵。\nWǒ mǎi de máoyī [gēn] nǐ de [yíyàng] guì.\nChiếc áo len tôi mua [đắt bằng] chiếc của bạn."
       ]
     },
     {
@@ -55,10 +55,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "今天[比]昨天热。\nHôm nay nóng hơn hôm qua.",
-        "我的自行车[比]他的新一点儿。\nXe đạp của tôi mới hơn của anh ấy một chút.",
-        "他买的词典[比]我买的便宜{两块钱}。\nCuốn từ điển anh ấy mua rẻ hơn cuốn tôi mua 2 tệ.",
-        "他打排球[比]我打得好{得多}。\n(他打排球打得比我好得多)\nAnh ấy đánh bóng chuyền giỏi hơn tôi rất nhiều."
+        "今天[比]昨天热。\nJīntiān [bǐ] zuótiān rè.\nHôm nay [nóng hơn] hôm qua.",
+        "我的自行车[比]他的新一点儿。\nWǒ de zìxíngchē [bǐ] tā de xīn yìdiǎnr.\nXe đạp của tôi [mới hơn] của anh ấy một chút.",
+        "他买的词典[比]我买的便宜[两块钱]。\nTā mǎi de cídiǎn [bǐ] wǒ mǎi de piányi [liǎng kuài qián].\nCuốn từ điển anh ấy mua [rẻ hơn] cuốn tôi mua [2 tệ].",
+        "他打排球[比]我打得好[得多]。\nTā dǎ páiqiú [bǐ] wǒ dǎ de hǎo [de duō].\nAnh ấy đánh bóng chuyền [giỏi hơn] tôi [rất nhiều]."
       ]
     },
     {

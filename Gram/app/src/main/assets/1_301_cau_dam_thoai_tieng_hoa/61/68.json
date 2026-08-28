@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你[有]他高吗？\nBạn có cao bằng anh ấy không?",
-        "那棵树[有]五层楼那么高。\nCây đó cao bằng năm tầng lầu.",
-        "广州[没有]北京冷。\nQuảng Châu không lạnh bằng Bắc Kinh.",
-        "我[没有]你游得好。\nTôi bơi không giỏi bằng bạn."
+        "你[有]他高吗？\nNǐ [yǒu] tā gāo ma?\nBạn có cao [bằng] anh ấy không?",
+        "那棵树[有]五层楼那么高。\nNà kē shù [yǒu] wǔ céng lóu nàme gāo.\nCây đó cao [bằng] năm tầng lầu.",
+        "广州[没有]北京冷。\nGuǎngzhōu [méiyǒu] Běijīng lěng.\nQuảng Châu [không lạnh bằng] Bắc Kinh.",
+        "我[没有]你游得好。\nWǒ [méiyǒu] nǐ yóu de hǎo.\nTôi [không bơi giỏi bằng] bạn."
       ]
     }
   ]

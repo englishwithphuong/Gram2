@@ -10,8 +10,14 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你去哪儿?\nBạn đi đâu?\n我去商店。\nTôi đi cửa hàng.\n你买什么?\nBạn mua gì?\n我买苹果。\nTôi mua táo.",
-        "你去哪儿[了]?\nBạn đã đi đâu?\n我去商店[了]。\nTôi đã đi cửa hàng rồi.\n你买什么[了]?\nBạn đã mua gì?\n我买苹果[了]。\nTôi đã mua táo rồi."
+        "你去哪儿?\nNǐ qù nǎr?\nBạn đi đâu?",
+        "我去商店。\nWǒ qù shāngdiàn.\nTôi đi cửa hàng.",
+        "你买什么?\nNǐ mǎi shénme?\nBạn mua gì?",
+        "我买苹果。\nWǒ mǎi píngguǒ.\nTôi mua táo.",
+        "你去哪儿[了]?\nNǐ qù nǎr [le]?\nBạn đã đi đâu [rồi]?",
+        "我去商店[了]。\nWǒ qù shāngdiàn [le].\nTôi đã đi cửa hàng [rồi].",
+        "你买什么[了]?\nNǐ mǎi shénme [le]?\nBạn đã mua gì [rồi]?",
+        "我买苹果[了]。\nWǒ mǎi píngguǒ [le].\nTôi đã mua táo [rồi]."
       ]
     },
     {
@@ -28,10 +34,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[没]去商店。\nAnh ấy không đi cửa hàng.",
-        "我[没]买苹果。\nTôi không mua táo.",
-        "你吃饭[了没有]?\nBạn đã ăn cơm chưa?",
-        "你[吃没吃]饭?\nBạn đã ăn cơm chưa?"
+        "他[没]去商店。\nTā [méi] qù shāngdiàn.\nAnh ấy [không] đi cửa hàng.",
+        "我[没]买苹果。\nWǒ [méi] mǎi píngguǒ.\nTôi [không] mua táo.",
+        "你吃饭[了没有]?\nNǐ chī fàn [le méiyǒu]?\nBạn đã ăn cơm [chưa]?",
+        "你[吃没吃]饭?\nNǐ [chī méi chī] fàn?\nBạn [đã ăn hay chưa] ăn cơm?"
       ]
     }
   ]

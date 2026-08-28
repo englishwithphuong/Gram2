@@ -15,9 +15,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你是学生[吗]？\nBạn là học sinh phải không?",
-        "你喜欢看中国电影[吗]？\nBạn có thích xem phim Trung Quốc không?",
-        "你有纪念邮票[吗]？\nBạn có tem kỷ niệm không?"
+        "你是学生[吗]？\nNǐ shì xuéshēng [ma]?\nBạn là học sinh [phải không]?",
+        "你喜欢看中国电影[吗]？\nNǐ xǐhuan kàn Zhōngguó diànyǐng [ma]?\nBạn có thích xem phim Trung Quốc [không]?",
+        "你有纪念邮票[吗]？\nNǐ yǒu jìniàn yóupiào [ma]?\nBạn có tem kỷ niệm [không]?"
       ]
     },
     {
@@ -34,10 +34,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你[认识不认识]他？\nBạn có quen anh ấy không?",
-        "你们学校[大不大]？\nTrường của các bạn có lớn không?",
-        "你[有没有]弟弟？\nBạn có em trai không?",
-        "明天你[去不去]长城？\nNgày mai bạn có đi Vạn Lý Trường Thành không?"
+        "你[认识不认识]他？\nNǐ [rènshi bù rènshi] tā?\nBạn có [quen] anh ấy [không]?",
+        "你们学校[大不大]？\nNǐmen xuéxiào [dà bù dà]?\nTrường của các bạn có [lớn không]?",
+        "你[有没有]弟弟？\nNǐ [yǒu méiyǒu] dìdi?\nBạn [có] em trai [không]?",
+        "明天你[去不去]长城？\nMíngtiān nǐ [qù bù qù] Chángchéng?\nNgày mai bạn có [đi] Vạn Lý Trường Thành [không]?"
       ]
     },
     {
@@ -54,10 +54,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[谁]是你们的老师？\nAi là giáo viên của các bạn?",
-        "[哪]本书是你的？\nQuyển sách nào là của bạn?",
-        "你身体[怎么样]？\nSức khỏe của bạn thế nào?",
-        "今天星期[几]？\nHôm nay là thứ mấy?"
+        "[谁]是你们的老师？\n[Shéi] shì nǐmen de lǎoshī?\n[Ai] là giáo viên của các bạn?",
+        "[哪]本书是你的？\n[Nǎ] běn shū shì nǐ de?\n[Quyển sách nào] là của bạn?",
+        "你身体[怎么样]？\nNǐ shēntǐ [zěnmeyàng]?\nSức khỏe của bạn [thế nào]?",
+        "今天星期[几]？\nJīntiān xīngqī [jǐ]?\nHôm nay là thứ [mấy]?"
       ]
     },
     {
@@ -74,9 +74,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你上午去[还是]下午去？\nBạn đi vào buổi sáng hay buổi chiều?",
-        "他是美国人[还是]法国人？\nAnh ấy là người Mỹ hay người Pháp?",
-        "你去看电影[还是]去看京剧？\nBạn đi xem phim hay đi xem Kinh kịch?"
+        "你上午去[还是]下午去？\nNǐ shàngwǔ qù [háishi] xiàwǔ qù?\nBạn đi vào buổi sáng [hay] buổi chiều?",
+        "他是美国人[还是]法国人？\nTā shì Měiguó rén [háishi] Fǎguó rén?\nAnh ấy là người Mỹ [hay] người Pháp?",
+        "你去看电影[还是]去看京剧？\nNǐ qù kàn diànyǐng [háishi] qù kàn jīngjù?\nBạn đi xem phim [hay] đi xem Kinh kịch?"
       ]
     },
     {
@@ -88,8 +88,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我很好，你[呢]？\nTôi khỏe, còn bạn thì sao?",
-        "大卫看电视，玛丽[呢]？\nDavid xem tivi, còn Mary thì sao?"
+        "我很好，你[呢]？\nWǒ hěn hǎo, nǐ [ne]?\nTôi khỏe, còn bạn [thì sao]?",
+        "大卫看电视，玛丽[呢]？\nDàwèi kàn diànshì, Mǎlì [ne]?\nDavid xem tivi, còn Mary [thì sao]?"
       ]
     },
     {
@@ -106,7 +106,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我们明天去，[好吗]？\nNgày mai chúng ta đi nhé, được không?"
+        "我们明天去，[好吗]？\nWǒmen míngtiān qù, [hǎo ma]?\nNgày mai chúng ta đi nhé, [được không]?"
       ]
     }
   ]

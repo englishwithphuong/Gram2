@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你好[吗]?\nBạn khỏe không?",
-        "你身体好[吗]?\nSức khỏe của bạn có tốt không?",
-        "她是老师[吗]?\nCô ấy là giáo viên phải không?"
+        "你好[吗]?\nNǐ hǎo [ma]?\nBạn khỏe không [phải không]?",
+        "你身体好[吗]?\nNǐ shēntǐ hǎo [ma]?\nSức khỏe của bạn có tốt không [phải không]?",
+        "她是老师[吗]?\nTā shì lǎoshī [ma]?\nCô ấy là giáo viên [phải không]?"
       ]
     }
   ]

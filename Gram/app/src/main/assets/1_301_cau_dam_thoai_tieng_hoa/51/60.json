@@ -15,8 +15,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "她打[开]衣柜拿了一件衣服。\nCô ấy mở tủ quần áo và lấy một chiếc áo.",
-        "请打[开]书，看第十五页。\nHãy mở sách ra, xem trang 15."
+        "她打[开]衣柜拿了一件衣服。\nTā dǎ [kāi] yīguì ná le yí jiàn yīfu.\nCô ấy mở [ra] tủ quần áo và lấy một chiếc áo.",
+        "请打[开]书，看第十五页。\nQǐng dǎ [kāi] shū, kàn dì shíwǔ yè.\nHãy mở [ra] sách, xem trang 15."
       ]
     },
     {
@@ -28,8 +28,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "车来了，快走[开]！\nXe đến rồi, mau tránh ra!",
-        "快拿[开]桌子上的东西！\nMau lấy những thứ trên bàn ra!"
+        "车来了，快走[开]！\nChē lái le, kuài zǒu [kāi]!\nXe đến rồi, mau tránh [ra]!",
+        "快拿[开]桌子上的东西！\nKuài ná [kāi] zhuōzi shàng de dōngxi!\nMau lấy những thứ trên bàn [ra]!"
       ]
     },
     {
@@ -46,8 +46,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你坐[下]吧。\nBạn ngồi xuống đi.",
-        "他放[下]书，就去吃饭了。\nAnh ấy đặt sách xuống rồi đi ăn cơm."
+        "你坐[下]吧。\nNǐ zuò [xià] ba.\nBạn ngồi [xuống] đi.",
+        "他放[下]书，就去吃饭了。\nTā fàng [xià] shū, jiù qù chīfàn le.\nAnh ấy đặt sách [xuống] rồi đi ăn cơm."
       ]
     },
     {
@@ -59,8 +59,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "写[下]你电话号码。\nHãy ghi lại số điện thoại của bạn.",
-        "请收[下]这个礼物吧。\nHãy nhận món quà này nhé."
+        "写[下]你电话号码。\nXiě [xià] nǐ diànhuà hàomǎ.\nHãy ghi [lại] số điện thoại của bạn.",
+        "请收[下]这个礼物吧。\nQǐng shōu [xià] zhège lǐwù ba.\nHãy nhận [lấy] món quà này nhé."
       ]
     }
   ]

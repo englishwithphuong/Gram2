@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我去[过]长城。\nTôi đã từng đi Vạn Lý Trường Thành.",
-        "我学[过]汉语。\nTôi đã từng học tiếng Trung.",
-        "我没吃[过]烤鸭。\nTôi chưa từng ăn vịt quay."
+        "我去[过]长城。\nWǒ qù [guò] Chángchéng.\nTôi đã [từng] đi Vạn Lý Trường Thành.",
+        "我学[过]汉语。\nWǒ xué [guò] hànyǔ.\nTôi đã [từng] học tiếng Trung.",
+        "我没吃[过]烤鸭。\nWǒ méi chī [guò] kǎoyā.\nTôi chưa [từng] ăn vịt quay."
       ]
     },
     {
@@ -24,8 +24,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你去[过]美国[没有]?\nBạn đã từng đi Mỹ chưa?",
-        "你看[过]那个电影[没有]?\nBạn đã từng xem bộ phim đó chưa?"
+        "你去[过]美国[没有]?\nNǐ qù [guò] Měiguó [méiyǒu]?\nBạn đã [từng] đi Mỹ [chưa]?",
+        "你看[过]那个电影[没有]?\nNǐ kàn [guò] nà gè diànyǐng [méiyǒu]?\nBạn đã [từng] xem bộ phim đó [chưa]?"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我{去}那个饭店{吃}[过]饭。\nTôi đã từng đến nhà hàng đó ăn cơm."
+        "我[去]那个饭店[吃][过]饭。\nWǒ [qù] nà gè fàndiàn [chī] [guò] fàn.\nTôi [đến] nhà hàng đó [đã từng] ăn cơm."
       ]
     }
   ]

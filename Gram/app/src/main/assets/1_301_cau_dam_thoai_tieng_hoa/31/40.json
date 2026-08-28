@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[从]{我这儿}去书店。\nAnh ấy từ chỗ tôi đi đến hiệu sách.",
-        "我[从]{张大夫那儿}来。\nTôi từ chỗ bác sĩ Trương đến.",
-        "我妹妹[在]{玛丽那儿}玩儿。\nEm gái tôi chơi ở chỗ Mary.",
-        "我的笔[在]{他那儿}。\nBút của tôi ở chỗ anh ấy."
+        "他[从]{我这儿}去书店。\nTā [cóng] {wǒ zhèr} qù shūdiàn.\nAnh ấy [từ] {chỗ tôi} đi đến hiệu sách.",
+        "我[从]{张大夫那儿}来。\nWǒ [cóng] {zhāng dàifu nàr} lái.\nTôi [từ] {chỗ bác sĩ Trương} đến.",
+        "我妹妹[在]{玛丽那儿}玩儿。\nWǒ mèimei [zài] {mǎlì nàr} wánr.\nEm gái tôi [ở] {chỗ Mary} chơi.",
+        "我的笔[在]{他那儿}。\nWǒ de bǐ [zài] {tā nàr}.\nBút của tôi [ở] {chỗ anh ấy}."
       ]
     }
   ]

@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我给[你]{一本书}。\nTôi đưa cho bạn một cuốn sách.",
-        "他找[我]{八毛钱}。\nAnh ấy trả lại tôi tám hào tiền thừa."
+        "我给[你][一本书]。\nWǒ gěi [nǐ] [yì běn shū].\nTôi đưa cho [bạn] [một cuốn sách].",
+        "他找[我][八毛钱]。\nTā zhǎo [wǒ] [bā máo qián].\nAnh ấy trả lại [tôi] [tám hào tiền thừa]."
       ]
     }
   ]

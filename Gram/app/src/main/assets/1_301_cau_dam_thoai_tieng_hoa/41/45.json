@@ -20,10 +20,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "今天[星期六]。\nHôm nay là thứ Bảy.",
-        "他今年[二十岁]。\nNăm nay anh ấy 20 tuổi.",
-        "现在[两点钟]。\nBây giờ là 2 giờ.",
-        "这本书[两块五]。\nQuyển sách này giá 2 đồng 5."
+        "今天[星期六]。\nJīntiān [xīngqīliù].\nHôm nay là [thứ Bảy].",
+        "他今年[二十岁]。\nTā jīnnián [èrshí suì].\nNăm nay anh ấy [20 tuổi].",
+        "现在[两点钟]。\nXiànzài [liǎng diǎn zhōng].\nBây giờ [là 2 giờ].",
+        "这本书[两块五]。\nZhè běn shū [liǎng kuài wǔ].\nQuyển sách này [giá 2 đồng 5]."
       ]
     },
     {
@@ -40,10 +40,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[写]汉字。\nAnh ấy viết chữ Hán.",
-        "他[想]学习汉语。\nAnh ấy muốn học tiếng Trung.",
-        "他[来]中国旅行。\nAnh ấy đến Trung Quốc du lịch.",
-        "玛丽和大卫[去]看电影。\nMary và David đi xem phim."
+        "他[写]汉字。\nTā [xiě] Hànzì.\nAnh ấy [viết] chữ Hán.",
+        "他[想]学习汉语。\nTā [xiǎng] xuéxí Hànyǔ.\nAnh ấy [muốn] học tiếng Trung.",
+        "他[来]中国旅行。\nTā [lái] Zhōngguó lǚxíng.\nAnh ấy [đến] Trung Quốc du lịch.",
+        "玛丽和大卫[去]看电影。\nMǎlì hé Dàwèi [qù] kàn diànyǐng.\nMary và David [đi] xem phim."
       ]
     },
     {
@@ -60,9 +60,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "张老师很[忙]。\nThầy Trương rất bận.",
-        "这本汉语书很[便宜]。\nQuyển sách tiếng Trung này rất rẻ.",
-        "天气[热]了。\nThời tiết nóng lên rồi."
+        "张老师很[忙]。\nZhāng lǎoshī hěn [máng].\nThầy Trương rất [bận].",
+        "这本汉语书很[便宜]。\nZhè běn Hànyǔ shū hěn [piányi].\nQuyển sách tiếng Trung này rất [rẻ].",
+        "天气[热]了。\nTiānqì [rè] le.\nThời tiết [nóng] lên rồi."
       ]
     },
     {
@@ -79,9 +79,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我爸爸[身体很好]。\nBố tôi có sức khỏe rất tốt.",
-        "他[工作很忙]。\nCông việc của anh ấy rất bận rộn.",
-        "今天[天气很不错]。\nHôm nay thời tiết rất đẹp."
+        "我爸爸[身体很好]。\nWǒ bàba [shēntǐ hěn hǎo].\nBố tôi có [sức khỏe rất tốt].",
+        "他[工作很忙]。\nTā [gōngzuò hěn máng].\n[Công việc của anh ấy rất bận rộn].",
+        "今天[天气很不错]。\nJīntiān [tiānqì hěn búcuò].\nHôm nay [thời tiết rất đẹp]."
       ]
     }
   ]

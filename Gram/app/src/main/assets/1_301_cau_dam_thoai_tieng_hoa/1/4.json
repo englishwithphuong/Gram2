@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你[来]。\nBạn đến.",
-        "张老师[在]家。\nThầy Trương ở nhà.",
-        "我[在]北京大学。\nTôi ở Đại học Bắc Kinh."
+        "你[来]。\nNǐ [lái].\nBạn [đến].",
+        "张老师[在]家。\nZhāng lǎoshī [zài] jiā.\nThầy Trương [ở] nhà.",
+        "我[在]北京大学。\nWǒ [zài] Běijīng Dàxué.\nTôi [ở] Đại học Bắc Kinh."
       ]
     }
   ]

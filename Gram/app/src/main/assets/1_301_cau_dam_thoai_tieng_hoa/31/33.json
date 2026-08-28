@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "有人找你。\nCó người tìm bạn.",
-        "有人请你看电影。\nCó người mời bạn đi xem phim."
+        "有[人]找你。\nYǒu [rén] zhǎo nǐ.\nCó [người] tìm bạn.",
+        "有[人]请你看电影。\nYǒu [rén] qǐng nǐ kàn diànyǐng.\nCó [người] mời bạn đi xem phim."
       ]
     }
   ]

@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "明天你去得[了]公园吗？\nNgày mai bạn có thể đi công viên được không?",
-        "他病了，今天上不[了]课了。\nAnh ấy ốm rồi, hôm nay không thể lên lớp được nữa."
+        "明天你去得[了]公园吗？\nMíngtiān nǐ qù de [liǎo] gōngyuán ma?\nNgày mai bạn có thể đi công viên [được] không?",
+        "他病了，今天上不[了]课了。\nTā bìng le, jīntiān shàng bù [liǎo] kè le.\nAnh ấy ốm rồi, hôm nay không thể lên lớp [được] nữa."
       ]
     },
     {
@@ -23,8 +23,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "这么多菜，我一个人吃不了。\nNhiều thức ăn thế này, một mình tôi không ăn hết được.",
-        "做这点儿练习，用不了半个小时。\nLàm chút bài tập này, không dùng đến nửa tiếng đâu."
+        "这么多菜，我一个人吃不[了]。\nZhème duō cài, wǒ yí ge rén chī bù [liǎo].\nNhiều thức ăn thế này, một mình tôi không ăn hết [được].",
+        "做这点儿练习，用不[了]半个小时。\nZuò zhè diǎnr liànxí, yòng bù [liǎo] bàn ge xiǎoshí.\nLàm chút bài tập này, không dùng đến nửa tiếng [đâu]."
       ]
     },
     {

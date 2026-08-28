@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[要]买书。\nAnh ấy muốn mua sách.",
-        "我[想]回家。\nTôi muốn về nhà.",
-        "[可以]去那儿。\nCó thể đi đến đó.",
-        "我[不想]买东西。\nTôi không muốn mua đồ."
+        "他[要]买书。\nTā [yào] mǎi shū.\nAnh ấy [muốn] mua sách.",
+        "我[想]回家。\nWǒ [xiǎng] huí jiā.\nTôi [muốn] về nhà.",
+        "[可以]去那儿。\n[Kěyǐ] qù nàr.\n[Có thể] đi đến đó.",
+        "我[不想]买东西。\nWǒ [bù xiǎng] mǎi dōngxī.\nTôi [không muốn] mua đồ."
       ]
     },
     {
@@ -25,8 +25,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你[要]喝汽水吗?\nBạn có muốn uống nước ngọt không?",
-        "[不想]喝。\nBây giờ tôi không muốn uống."
+        "你[要]喝汽水吗?\nNǐ [yào] hē qìshuǐ ma?\nBạn [có muốn] uống nước ngọt không?",
+        "[不想]喝。\n[Bù xiǎng] hē.\n[Không muốn] uống."
       ]
     },
     {
@@ -38,8 +38,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你[想不想]去长城?\nBạn có muốn đi Vạn Lý Trường Thành không?",
-        "你[要不要]吃个苹果?\nBạn có muốn ăn một quả táo không?"
+        "你[想不想]去长城?\nNǐ [xiǎng bu xiǎng] qù Chángchéng?\nBạn [có muốn] đi Vạn Lý Trường Thành không?",
+        "你[要不要]吃个苹果?\nNǐ [yào bu yào] chī gè píngguǒ?\nBạn [có muốn] ăn một quả táo không?"
       ]
     }
   ]

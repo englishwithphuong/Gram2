@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[是]我的同学。\nAnh ấy là bạn học của tôi.",
-        "前边[是]一个中学，不是大学。\nPhía trước là một trường trung học, không phải trường đại học.",
-        "那个收录机[是]新的。\nCái máy ghi âm đó là máy mới."
+        "他[是]我的同学。\nTā [shì] wǒ de tóngxué.\nAnh ấy [là] bạn học của tôi.",
+        "前边[是]一个中学，不是大学。\nQiánbian [shì] yí ge zhōngxué, bú shì dàxué.\nPhía trước [là] một trường trung học, không phải trường đại học.",
+        "那个收录机[是]新的。\nNàge shōulùjī [shì] xīn de.\nCái máy ghi âm đó [là] máy mới."
       ]
     },
     {
@@ -24,9 +24,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[有]汉语书，[没有]法语书。\nTôi có sách tiếng Trung, không có sách tiếng Pháp.",
-        "我[有]哥哥，[没有]妹妹。\nTôi có anh trai, không có em gái.",
-        "书架上[有]很多小说和杂志。\nTrên giá sách có rất nhiều tiểu thuyết và tạp chí."
+        "我[有]汉语书，[没有]法语书。\nWǒ [yǒu] Hànyǔ shū, [méiyǒu] Fǎyǔ shū.\nTôi [có] sách tiếng Trung, [không có] sách tiếng Pháp.",
+        "我[有]哥哥，[没有]妹妹。\nWǒ [yǒu] gēge, [méiyǒu] mèimei.\nTôi [có] anh trai, [không có] em gái.",
+        "书架上[有]很多小说和杂志。\nShūjià shàng [yǒu] hěn duō xiǎoshuō hé zázhì.\nTrên giá sách [có] rất nhiều tiểu thuyết và tạp chí."
       ]
     },
     {
@@ -38,10 +38,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[是]从东京来[的]。\nAnh ấy đến từ Tokyo.",
-        "我[是]坐飞机去上海[的]。\nTôi đi Thượng Hải bằng máy bay.",
-        "他妹妹[是]昨天到这儿[的]。\nEm gái anh ấy đến đây hôm qua.",
-        "那本杂志[是]从李红那儿借来[的]。\nQuyển tạp chí đó được mượn từ chỗ Lý Hồng."
+        "他[是]从东京来[的]。\nTā [shì] cóng Dōngjīng lái [de].\nAnh ấy đến từ Tokyo.",
+        "我[是]坐飞机去上海[的]。\nWǒ [shì] zuò fēijī qù Shànghǎi [de].\nTôi đi Thượng Hải bằng máy bay.",
+        "他妹妹[是]昨天到这儿[的]。\nTā mèimei [shì] zuótiān dào zhèr [de].\nEm gái anh ấy đến đây hôm qua.",
+        "那本杂志[是]从李红那儿借来[的]。\nNà běn zázhì [shì] cóng Lǐ Hóng nàr jiè lái [de].\nQuyển tạp chí đó được mượn từ chỗ Lý Hồng."
       ]
     },
     {
@@ -53,9 +53,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "床旁边放[着]一个衣柜。\nBên cạnh giường có đặt một tủ quần áo.",
-        "那边走[过来]一个人。\nCó một người đi tới từ phía bên kia.",
-        "我们班走[了]两个日本同学。\nLớp chúng tôi có hai bạn học người Nhật rời đi."
+        "床旁边放[着]一个衣柜。\nChuáng pángbiān fàng [zhe] yí ge yīguì.\nBên cạnh giường có [đặt] một tủ quần áo.",
+        "那边走[过来]一个人。\nNàbian zǒu [guòlái] yí ge rén.\nCó một người [đi tới] từ phía bên kia.",
+        "我们班走[了]两个日本同学。\nWǒmen bān zǒu [le] liǎng ge Rìběn tóngxué.\nLớp chúng tôi có hai bạn học người Nhật [rời đi]."
       ]
     },
     {
@@ -67,10 +67,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[去]商店[买]东西。\nTôi đi cửa hàng mua đồ.",
-        "我[有]一个问题要[问]你。\nTôi có một vấn đề muốn hỏi bạn.",
-        "我没[有]钱[花]了。\nTôi không còn tiền để tiêu nữa.",
-        "他们[去]医院[看]一个病人。\nHọ đến bệnh viện thăm một bệnh nhân."
+        "我[去]商店[买]东西。\nWǒ [qù] shāngdiàn [mǎi] dōngxi.\nTôi [đi] cửa hàng [mua] đồ.",
+        "我[有]一个问题要[问]你。\nWǒ [yǒu] yí ge wèntí yào [wèn] nǐ.\nTôi [có] một vấn đề muốn [hỏi] bạn.",
+        "我没[有]钱[花]了。\nWǒ méi [yǒu] qián [huā] le.\nTôi không [có] tiền [tiêu] nữa.",
+        "他们[去]医院[看]一个病人。\nTāmen [qù] yīyuàn [kàn] yí ge bìngrén.\nHọ [đến] bệnh viện [thăm] một bệnh nhân."
       ]
     },
     {
@@ -82,9 +82,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "老师让[我们]听录音。\nGiáo viên bảo chúng tôi nghe băng ghi âm.",
-        "他请[我]吃饭。\nAnh ấy mời tôi ăn cơm.",
-        "外边有[人]找你。\nBên ngoài có người tìm bạn."
+        "老师让[我们]听录音。\nLǎoshī ràng [wǒmen] tīng lùyīn.\nGiáo viên bảo [chúng tôi] nghe băng ghi âm.",
+        "他请[我]吃饭。\nTā qǐng [wǒ] chīfàn.\nAnh ấy mời [tôi] ăn cơm.",
+        "外边有[人]找你。\nWàibian yǒu [rén] zhǎo nǐ.\nBên ngoài có [người] tìm bạn."
       ]
     },
     {
@@ -96,11 +96,11 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[把]信寄给玛丽了。\nAnh ấy đã gửi thư cho Mary.",
-        "他想[把]这件事告诉小王。\nAnh ấy muốn nói chuyện này cho Tiểu Vương.",
-        "别[把]东西放在门口。\nĐừng đặt đồ ở cửa.",
-        "他没[把]那本小说还给小刘。\nAnh ấy chưa trả cuốn tiểu thuyết đó cho Tiểu Lưu.",
-        "我们[把]他送到飞机场了。\nChúng tôi đã đưa anh ấy đến sân bay."
+        "他[把]信寄给玛丽了。\nTā [bǎ] xìn jì gěi Mǎlì le.\nAnh ấy đã [gửi thư cho Mary].",
+        "他想[把]这件事告诉小王。\nTā xiǎng [bǎ] zhè jiàn shì gàosu Xiǎo Wáng.\nAnh ấy muốn nói chuyện này cho Tiểu Vương.",
+        "别[把]东西放在门口。\nBié [bǎ] dōngxi fàng zài ménkǒu.\nĐừng đặt đồ ở cửa.",
+        "他没[把]那本小说还给小刘。\nTā méi [bǎ] nà běn xiǎoshuō huán gěi Xiǎo Liú.\nAnh ấy chưa trả cuốn tiểu thuyết đó cho Tiểu Lưu.",
+        "我们[把]他送到飞机场了。\nWǒmen [bǎ] tā sòng dào fēijīchǎng le.\nChúng tôi đã đưa anh ấy đến sân bay."
       ]
     }
   ]

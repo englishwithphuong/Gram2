@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我练了[两个星期]了。\nTôi đã luyện tập được hai tuần rồi.",
-        "我们才休息了[五分钟]。\nChúng tôi mới nghỉ được 5 phút.",
-        "火车开走[一刻钟]了。\nTàu hỏa đã chạy được 15 phút rồi.",
-        "玛丽病了[两天]，没来上课。\nMary bị ốm hai ngày, không đến lớp."
+        "我练了[两个星期]了。\nWǒ liàn le [liǎng ge xīngqī] le.\nTôi đã luyện tập được [hai tuần] rồi.",
+        "我们才休息了[五分钟]。\nWǒmen cái xiūxi le [wǔ fēnzhōng].\nChúng tôi mới nghỉ được [5 phút].",
+        "火车开走[一刻钟]了。\nHuǒchē kāizǒu [yí kèzhōng] le.\nTàu hỏa đã chạy được [15 phút] rồi.",
+        "玛丽病了[两天]，没来上课。\nMǎlì bìng le [liǎng tiān], méi lái shàngkè.\nMary bị ốm [hai ngày], không đến lớp."
       ]
     }
   ]

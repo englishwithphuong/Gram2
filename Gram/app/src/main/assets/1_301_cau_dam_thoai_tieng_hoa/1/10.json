@@ -10,14 +10,19 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你来我宿舍，[好吗]?\nBạn đến ký túc xá của tôi, được không?",
-        "明天去商店，[好吗]?\nNgày mai đi cửa hàng, được không?"
+        "你来我宿舍，[好吗]?\nNǐ lái wǒ sùshè, [hǎo ma]?\nBạn đến ký túc xá của tôi, [được không]?",
+        "明天去商店，[好吗]?\nMíngtiān qù shāngdiàn, [hǎo ma]?\nNgày mai đi cửa hàng, [được không]?"
       ]
     },
     {
       "type": "text",
       "level": 1,
-      "content": "Nếu đồng ý thì dùng “好”, “好啊” để trả lời."
+      "content": "Nếu đồng ý thì dùng “好” (hǎo – được / vâng / tốt), “好啊” (hǎo a – Được chứ / hay quá / vâng) để trả lời."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Nếu không đồng ý thì dùng “不行” (bù xíng – Không được), “不好” (bù hǎo – Không hay), “不太好” (bú tài hǎo – Không hay lắm)"
     }
   ]
 }

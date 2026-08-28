@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[是]大夫。\nAnh ấy là bác sĩ.",
-        "大卫[是]她哥哥。\nDavid là anh trai của cô ấy.",
-        "我不[是]学生，[是]老师。\nTôi không phải là học sinh, mà là giáo viên."
+        "他[是]大夫。\nTā [shì] dàifu.\nAnh ấy [là] bác sĩ.",
+        "大卫[是]她哥哥。\nDàwèi [shì] tā gēge.\nDavid [là] anh trai của cô ấy.",
+        "我不[是]学生，[是]老师。\nWǒ bú [shì] xuésheng, [shì] lǎoshī.\nTôi không phải [là] học sinh, [là] giáo viên."
       ]
     },
     {

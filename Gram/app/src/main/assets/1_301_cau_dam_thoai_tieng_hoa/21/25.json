@@ -15,8 +15,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[会]说汉语。\nAnh ấy biết nói tiếng Hán.",
-        "我不[会]做中国饭。\nTôi không biết nấu món Trung Quốc."
+        "他[会]说汉语。\nTā [huì] shuō hànyǔ.\nAnh ấy [biết] nói tiếng Hán.",
+        "我不[会]做中国饭。\nWǒ bú [huì] zuò zhōngguó fàn.\nTôi không [biết] nấu món Trung Quốc."
       ]
     },
     {
@@ -28,8 +28,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[会]来吗?\nAnh ấy sẽ đến chứ?",
-        "现在九点半了,他不[会]来了。\nBây giờ 9 rưỡi rồi, anh ấy sẽ không đến nữa đâu."
+        "他[会]来吗?\nTā [huì] lái ma?\nAnh ấy [sẽ] đến chứ [không]?",
+        "现在九点半了,他不[会]来了。\nXiànzài jiǔ diǎn bàn le, tā bú [huì] lái le.\nBây giờ 9 rưỡi rồi, anh ấy [sẽ] không đến nữa đâu."
       ]
     }
   ]

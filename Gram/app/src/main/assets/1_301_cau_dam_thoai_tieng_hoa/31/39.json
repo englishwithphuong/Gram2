@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[是]昨天来[的]。\nAnh ấy đến hôm qua đó.",
-        "你[（是）]哪儿上[的]？\nBạn học ở đâu vậy?",
-        "他[（是）]一个人来[的]。\nAnh ấy đến một mình đó."
+        "他[是]昨天来[的]。\nTā [shì] zuótiān lái [de].\nAnh ấy [là] đến hôm qua [đó].",
+        "你[是]哪儿上[的]？\nNǐ [shì] nǎr shàng [de]?\nBạn [là] học ở đâu [vậy]?",
+        "他[是]一个人来[的]。\nTā [shì] yí gè rén lái [de].\nAnh ấy [là] đến một mình [đó]."
       ]
     },
     {
@@ -24,7 +24,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[是]她告诉我[的]。\nLà cô ấy nói cho tôi biết đó."
+        "[是]她告诉我[的]。\n[Shì] tā gàosù wǒ [de].\n[Là] cô ấy nói cho tôi biết [đó]."
       ]
     }
   ]

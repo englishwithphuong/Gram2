@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你上午去[还是]下午去?\nBạn đi vào buổi sáng hay buổi chiều?",
-        "你喝咖啡[还是]喝茶?\nBạn uống cà phê hay trà?",
-        "你一个人去[还是]跟朋友一起去?\nBạn đi một mình hay đi cùng bạn bè?"
+        "你上午去[还是]下午去?\nNǐ shàngwǔ qù [háishi] xiàwǔ qù?\nBạn đi vào buổi sáng [hay] đi vào buổi chiều?",
+        "你喝咖啡[还是]喝茶?\nNǐ hē kāfēi [háishi] hē chá?\nBạn uống cà phê [hay] uống trà?",
+        "你一个人去[还是]跟朋友一起去?\nNǐ yígè rén qù [háishi] gēn péngyou yìqǐ qù?\nBạn đi một mình [hay] đi cùng bạn bè?"
       ]
     }
   ]

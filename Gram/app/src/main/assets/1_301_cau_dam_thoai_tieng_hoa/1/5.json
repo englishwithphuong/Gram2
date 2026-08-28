@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[他]的书\nsách của anh ấy",
-        "[张老师]的学生\nhọc sinh của thầy Trương",
-        "[王兰]的哥哥\nanh trai của Vương Lan"
+        "[他]的书\n[Tā] de shū\nsách của [anh ấy]",
+        "[张老师]的学生\n[Zhāng lǎoshī] de xuésheng\nhọc sinh của [thầy Trương]",
+        "[王兰]的哥哥\n[Wáng Lán] de gēge\nanh trai của [Vương Lan]"
       ]
     },
     {
@@ -24,9 +24,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[我]哥哥\nanh trai tôi",
-        "[他]姐姐\nchị gái anh ấy",
-        "[我们]学校\ntrường học của chúng tôi"
+        "[我]哥哥\n[Wǒ] gēge\nanh trai của [tôi]",
+        "[他]姐姐\n[Tā] jiějie\nchị gái của [anh ấy]",
+        "[我们]学校\n[Wǒmen] xuéxiào\ntrường học của [chúng tôi]"
       ]
     },
     {

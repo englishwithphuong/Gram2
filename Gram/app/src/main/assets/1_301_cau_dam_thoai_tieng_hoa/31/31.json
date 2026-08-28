@@ -10,7 +10,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你[想]去商店吗?\nBạn có muốn đi cửa hàng không?\n我不[想]去商店,我[想]在家看电视。\nTôi không muốn đi cửa hàng, tôi muốn ở nhà xem tivi."
+        "你[想]去商店吗?\nNǐ [xiǎng] qù shāngdiàn ma?\nBạn [có muốn] đi cửa hàng không?\n我不[想]去商店,我[想]在家看电视。\nWǒ bù [xiǎng] qù shāngdiàn, wǒ [xiǎng] zài jiā kàn diànshì.\nTôi không [muốn] đi cửa hàng, tôi [muốn] ở nhà xem tivi."
       ]
     },
     {
@@ -22,9 +22,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[要]买件衣服。\nTôi muốn mua một bộ quần áo.",
-        "你[要]看这本书吗?\nBạn có muốn đọc quyển sách này không?",
-        "我[不想]看，我[要]看那本杂志。\nTôi không muốn đọc, tôi muốn đọc tạp chí kia."
+        "我[要]买件衣服。\nWǒ [yào] mǎi jiàn yīfu.\nTôi [muốn] mua một bộ quần áo.",
+        "你[要]看这本书吗?\nNǐ [yào] kàn zhè běn shū ma?\nBạn [có muốn] đọc quyển sách này không?",
+        "我[不想]看，我[要]看那本杂志。\nWǒ [bù xiǎng] kàn, wǒ [yào] kàn nà běn zázhì.\nTôi không [muốn] đọc, tôi [muốn] đọc tạp chí kia."
       ]
     },
     {
@@ -36,8 +36,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[要]换车吗?\nCó cần đổi xe không?",
-        "[要]换车（[不用]换车）。\nCần đổi xe (không cần đổi xe)."
+        "[要]换车吗?\n[Yào] huàn chē ma?\n[Có cần] đổi xe không?",
+        "[要]换车（[不用]换车）。\n[Yào] huàn chē ([bù yòng] huàn chē).\n[Cần] đổi xe ([không cần] đổi xe)."
       ]
     },
     {
@@ -49,8 +49,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[会]说汉语。\nAnh ấy biết nói tiếng Trung.",
-        "我[不会]做菜。\nTôi không biết nấu ăn."
+        "他[会]说汉语。\nTā [huì] shuō hànyǔ.\nAnh ấy [biết] nói tiếng Trung.",
+        "我[不会]做菜。\nWǒ [bú huì] zuò cài.\nTôi [không biết] nấu ăn."
       ]
     },
     {
@@ -62,8 +62,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "现在十点了,他[不会]来了吧?\nBây giờ đã mười giờ rồi, có lẽ anh ấy sẽ không đến đâu nhỉ?",
-        "别着急,他[会]来的。\nĐừng nóng vội, anh ấy sẽ đến."
+        "现在十点了,他[不会]来了吧?\nXiànzài shí diǎn le, tā [bú huì] lái le ba?\nBây giờ đã mười giờ rồi, [có lẽ] anh ấy [sẽ không] đến đâu nhỉ?",
+        "别着急,他[会]来的。\nBié zháojí, tā [huì] lái de.\nĐừng nóng vội, anh ấy [sẽ] đến."
       ]
     },
     {
@@ -75,7 +75,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "大卫[能]用汉语谈话。\nDavid có thể nói chuyện bằng tiếng Trung."
+        "大卫[能]用汉语谈话。\nDàwèi [néng] yòng hànyǔ tánhuà.\nDavid [có thể] nói chuyện bằng tiếng Trung."
       ]
     },
     {
@@ -87,8 +87,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你明天上午[能]来吗?\nSáng mai bạn có thể đến không?",
-        "[不能]来,明天我有事。\nKhông thể đến, ngày mai tôi có việc."
+        "你明天上午[能]来吗?\nNǐ míngtiān shàngwǔ [néng] lái ma?\nSáng mai bạn [có thể] đến không?",
+        "[不能]来,明天我有事。\n[Bù néng] lái, míngtiān wǒ yǒushì.\n[Không thể] đến, ngày mai tôi có việc."
       ]
     },
     {
@@ -100,8 +100,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我们[可以]走?\nChúng ta có thể đi không?\n可以。\nĐược.",
-        "我们[可以]在这儿玩儿吗?\nChúng tôi có thể chơi ở đây không?\n[不可以],这儿要上课。\nKhông được, ở đây phải học."
+        "我们[可以]走?\nWǒmen [kěyǐ] zǒu?\nChúng ta [có thể] đi không?\n可以。\nKěyǐ.\nĐược.",
+        "我们[可以]在这儿玩儿吗?\nWǒmen [kěyǐ] zài zhèr wánr ma?\nChúng tôi [có thể] chơi ở đây không?\n[不可以],这儿要上课。\n[Bù kěyǐ], zhèr yào shàngkè.\n[Không được], ở đây phải học."
       ]
     }
   ]

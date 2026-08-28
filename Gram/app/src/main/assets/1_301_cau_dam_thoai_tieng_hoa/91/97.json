@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "安娜[没把]这课练习作完。\nAnna chưa làm xong bài tập của bài học này.",
-        "他[没把]那件事告诉小张。\nAnh ấy chưa nói chuyện đó cho Tiểu Trương.",
-        "今天晚上[不把]这本小说看完，就不休息。\nTối nay nếu không đọc xong cuốn tiểu thuyết này thì sẽ không nghỉ.",
-        "你[不把]书带来怎么上课？\nBạn không mang sách đến thì làm sao học?"
+        "安娜[没把]这课练习作完。\nĀnnà [méi bǎ] zhè kè liànxí zuò wán.\nAnna [chưa làm] xong bài tập của bài học này.",
+        "他[没把]那件事告诉小张。\nTā [méi bǎ] nà jiàn shì gàosu Xiǎo Zhāng.\nAnh ấy [chưa nói] chuyện đó cho Tiểu Trương.",
+        "今天晚上[不把]这本小说看完，就不休息。\nJīntiān wǎnshang [bù bǎ] zhè běn xiǎoshuō kàn wán, jiù bù xiūxi.\nTối nay [nếu không đọc] xong cuốn tiểu thuyết này thì sẽ không nghỉ.",
+        "你[不把]书带来怎么上课？\nNǐ [bù bǎ] shū dài lái zěnme shàngkè?\nBạn [không mang] sách đến thì làm sao học?"
       ]
     },
     {
@@ -25,8 +25,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他{明天}一定[把]照片带来。\nNgày mai nhất định anh ấy sẽ mang ảnh đến.",
-        "小王{昨天}[没把]开会的时间通知大家。\nHôm qua Tiểu Vương chưa thông báo thời gian họp cho mọi người."
+        "他{明天}一定[把]照片带来。\nTā {míngtiān} yídìng [bǎ] zhàopiàn dài lái.\n{Ngày mai} nhất định anh ấy sẽ [mang] ảnh đến.",
+        "小王{昨天}[没把]开会的时间通知大家。\nXiǎo Wáng {zuótiān} [méi bǎ] kāihuì de shíjiān tōngzhī dàjiā.\n{Hôm qua} Tiểu Vương [chưa thông báo] thời gian họp cho mọi người."
       ]
     }
   ]

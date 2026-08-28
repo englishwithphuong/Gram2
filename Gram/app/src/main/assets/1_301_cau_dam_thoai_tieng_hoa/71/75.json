@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他从教室走[出来]了。\nAnh ấy đi từ trong phòng học ra.",
-        "他想买些东西寄[回去]。\nAnh ấy muốn mua một ít đồ gửi về nước."
+        "他从教室走[出来]了。\nTā cóng jiàoshì zǒu [chūlái] le.\nAnh ấy đi từ trong phòng học [ra].",
+        "他想买些东西寄[回去]。\nTā xiǎng mǎi xiē dōngxi jì [huíqù].\nAnh ấy muốn mua một ít đồ [gửi về nước]."
       ]
     },
     {
@@ -23,13 +23,13 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "上课了，老师走[进]教室[来]了。\nVào lớp rồi, thầy giáo bước vào trong phòng học.",
-        "那些照片都寄[回]国[去]了。\nNhững bức ảnh đó đều đã được gửi về nước rồi."
+        "上课了，老师走[进]教室[来]了。\nShàngkè le, lǎoshī zǒu [jìn] jiàoshì [lái] le.\nVào lớp rồi, thầy giáo bước [vào] trong phòng học.",
+        "那些照片都寄[回]国[去]了。\nNàxiē zhàopiàn dōu jì [huí] guó [qù] le.\nNhững bức ảnh đó đều đã được gửi [về nước] rồi."
       ]
     },
     {
       "type": "comment",
-      "content": "Bổ ngữ xu hướng đơn là: V + 上 / 下 / 进 / 出 / 回 / 过 / ...\nKhi có tân ngữ nơi chốn, tân ngữ thường đứng sau động từ xu hướng.\nVí dụ: 老师走[进]教室。(Thầy giáo bước vào phòng học.)\nBổ ngữ xu hướng kép là: V + 上/下/进/出/回/过 + 来/去\nKhi có tân ngữ nơi chốn, tân ngữ cũng đứng sau động từ xu hướng thứ nhất, nhưng trước 来/去.\nVí dụ: 老师走[进]教室[来]了。(Thầy giáo bước vào phòng học.)\nVì vậy sách mới nói: “Quy tắc về vị trí của tân ngữ nơi chốn trong bổ ngữ xu hướng kép cũng giống như trong bổ ngữ xu hướng đơn.” Ý chính là: Tân ngữ nơi chốn đứng sau động từ xu hướng đầu tiên."
+      "content": "Bổ ngữ xu hướng đơn là: V + 上 / 下 / 进 / 出 / 回 / 过 / ...\nKhi có tân ngữ nơi chốn, tân ngữ thường đứng sau động từ xu hướng.\nVí dụ: 老师走[进]教室。(Shī giáo bước [vào] phòng học.)\nBổ ngữ xu hướng kép là: V + 上/下/进/出/回/过 + 来/去\nKhi có tân ngữ nơi chốn, tân ngữ cũng đứng sau động từ xu hướng thứ nhất, nhưng trước 来/去.\nVí dụ: 老师走[进]教室[来]了。(Thầy giáo bước [vào] phòng học.)\nVì vậy sách mới nói: “Quy tắc về vị trí của tân ngữ nơi chốn trong bổ ngữ xu hướng kép cũng giống như trong bổ ngữ xu hướng đơn.” Ý chính là: Tân ngữ nơi chốn đứng sau động từ xu hướng đầu tiên."
     }
   ]
 }

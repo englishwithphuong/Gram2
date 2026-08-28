@@ -10,15 +10,24 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "火车[要]开[了]。\nTàu hỏa sắp chạy rồi.",
-        "[快要]到北京[了]。\nSắp đến Bắc Kinh rồi.",
-        "他[就要]来[了]。\nAnh ấy sắp đến rồi."
+        "火车[要]开[了]。\nHuǒchē [yào] kāi [le].\nTàu hỏa [sắp] chạy [rồi].",
+        "[快要]到北京[了]。\n[Kuàiyào] dào Běijīng [le].\n[Sắp] đến Bắc Kinh [rồi].",
+        "他[就要]来[了]。\nTā [jiù yào] lái [le].\nAnh ấy [sắp] đến [rồi]."
       ]
     },
     {
       "type": "text",
       "level": 1,
-      "content": "Trước “就要...了” có thể thêm từ ngữ chỉ thời gian làm trạng ngữ, nhưng trước “快要...了” thì không được. Ví dụ: “他{明天}[就要]走了”, mà không thể nói “他{明天}[快要]走了”."
+      "content": "Trước “就要...了” có thể thêm từ ngữ chỉ thời gian làm trạng ngữ, nhưng trước “快要...了” thì không được. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "✅ 他{明天}[就要]走[了]。\nTā míngtiān [jiùyào] zǒu [le].\nAnh ấy {ngày mai} [sắp] đi [rồi].",
+        "❎ 他{明天}[快要]走[了]。\nTā míngtiān [kuàiyào] zǒu [le]. (Bù kěyǐ)\nAnh ấy {ngày mai} [sắp] đi [rồi]."
+      ]
     }
   ]
 }
+

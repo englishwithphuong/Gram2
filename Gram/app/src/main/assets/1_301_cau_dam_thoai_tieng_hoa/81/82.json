@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你[把]{门}开开。\nBạn mở cửa ra.",
-        "我[把]{信}寄出去了。\nTôi đã gửi bức thư đi rồi.",
-        "小王[把]{那本书}带来了。\nTiểu Vương đã mang cuốn sách đó tới.",
-        "请你[把]{那儿的情况}介绍介绍。\nBạn hãy giới thiệu tình hình ở đó một chút."
+        "你[把]{门}开开。\nNǐ [bǎ] {mén} kāikāi.\nBạn [đưa cửa] mở ra.",
+        "我[把]{信}寄出去了。\nWǒ [bǎ] {xìn} jì chūqù le.\nTôi [đưa bức thư] gửi đi rồi.",
+        "小王[把]{那本书}带来了。\nXiǎo Wáng [bǎ] {nà běn shū} dài lái le.\nTiểu Vương [đưa cuốn sách đó] mang tới.",
+        "请你[把]{那儿的情况}介绍介绍。\nQǐng nǐ [bǎ] {nàr de qíngkuàng} jièshào jièshào.\nBạn hãy [đưa tình hình ở đó] giới thiệu một chút."
       ]
     },
     {

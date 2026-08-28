@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "上午我们[从]{八点}开始上课。\nBuổi sáng, chúng tôi bắt đầu học từ 8 giờ.",
-        "[从]{八点}到十二点我们上汉语课。\nTừ 8 giờ đến 12 giờ, chúng tôi học tiếng Trung.",
-        "现在[离]{十月}还有十天。\nBây giờ còn 10 ngày nữa là đến tháng 10.",
-        "我们[离]{毕业}还有两个月。\nCòn hai tháng nữa là chúng tôi tốt nghiệp."
+        "上午我们[从]{八点}开始上课。\nShàngwǔ wǒmen [cóng] {bā diǎn} kāishǐ shàngkè.\nBuổi sáng, chúng tôi [từ] {8 giờ} bắt đầu học.",
+        "[从]{八点}到十二点我们上汉语课。\n[Cóng] {bā diǎn} dào shí'èr diǎn wǒmen shàng hànyǔ kè.\n[Từ] {8 giờ} đến 12 giờ, chúng tôi học tiếng Trung.",
+        "现在[离]{十月}还有十天。\nXiànzài [lí] {shíyuè} hái yǒu shí tiān.\nBây giờ [cách] {tháng 10} vẫn còn mười ngày.",
+        "我们[离]{毕业}还有两个月。\nWǒmen [lí] {bìyè} hái yǒu liǎng gè yuè.\nChúng tôi [cách] {tốt nghiệp} vẫn còn hai tháng."
       ]
     }
   ]

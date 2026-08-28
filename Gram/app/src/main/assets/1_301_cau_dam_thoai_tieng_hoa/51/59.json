@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "昨天你去哪儿[了]？\nHôm qua bạn đã đi đâu?\n我去友谊商店[了]。\nTôi đã đi cửa hàng Hữu Nghị.\n(khẳng định việc này đã xảy ra)",
-        "你买[了]什么东西？\nBạn đã mua thứ gì?\n我买[了]一件毛衣。\nTôi đã mua một chiếc áo len.\n(động tác “mua” đã hoàn thành)"
+        "昨天你去哪儿[了]？\nZuótiān nǐ qù nǎr [le]?\nHôm qua bạn đã đi đâu [rồi]?\n我去友谊商店[了]。\nWǒ qù Yǒuyì Shāngdiàn [le].\nTôi đã đi cửa hàng Hữu Nghị [rồi].\n(khẳng định việc này đã xảy ra)",
+        "你买[了]什么东西？\nNǐ mǎi [le] shénme dōngxi?\nBạn đã [mua] thứ gì?\n我买[了]一件毛衣。\nWǒ mǎi [le] yí jiàn máoyī.\nTôi đã [mua] một chiếc áo len.\n(động tác “mua” đã hoàn thành)"
       ]
     },
     {
@@ -23,9 +23,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我买[了]一件毛衣。\nTôi đã mua một chiếc áo len.",
-        "他做[了]很好吃的菜。\nAnh ấy đã nấu những món ăn rất ngon.",
-        "他在教室里就做[了]练习。\nAnh ấy đã làm bài tập ngay tại lớp học."
+        "我买[了]一件毛衣。\nWǒ mǎi [le] yí jiàn máoyī.\nTôi đã mua [một chiếc] áo len.",
+        "他做[了]很好吃的菜。\nTā zuò [le] hěn hǎochī de cài.\nAnh ấy đã nấu [những món ăn rất ngon].",
+        "他在教室里就做[了]练习。\nTā zài jiàoshì lǐ jiù zuò [le] liànxí.\nAnh ấy đã làm [bài tập] ngay tại lớp học."
       ]
     },
     {
@@ -42,9 +42,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "现在是冬天[了]。天气冷[了]。\nBây giờ đã là mùa đông rồi. Thời tiết đã lạnh rồi.",
-        "他现在不是学生[了]，是老师[了]。\nBây giờ anh ấy không còn là học sinh nữa, mà đã là giáo viên rồi.",
-        "我不去玛丽那儿[了]。\nTôi không đến chỗ Mary nữa."
+        "现在是冬天[了]。天气冷[了]。\nXiànzài shì dōngtiān [le]. Tiānqì lěng [le].\nBây giờ đã là mùa đông [rồi]. Thời tiết đã lạnh [rồi].",
+        "他现在不是学生[了]，是老师[了]。\nTā xiànzài bú shì xuésheng [le], shì lǎoshī [le].\nBây giờ anh ấy không còn là học sinh [nữa], mà đã là giáo viên [rồi].",
+        "我不去玛丽那儿[了]。\nWǒ bù qù Mǎlì nàr [le].\nTôi không đến chỗ Mary [nữa]."
       ]
     }
   ]

@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "衣柜里有[几]件衣服。\nTrong tủ quần áo có mấy chiếc áo.",
-        "书架上有三十[几]本中文书和[几]本词典。\nTrên giá sách có hơn 30 cuốn sách tiếng Trung và vài cuốn từ điển."
+        "衣柜里有[几]件衣服。\nYīguì lǐ yǒu [jǐ] jiàn yīfu.\nTrong tủ quần áo có [mấy] chiếc áo.",
+        "书架上有三十[几]本中文书和[几]本词典。\nShūjià shàng yǒu sānshí [jǐ] běn Zhōngwén shū hé [jǐ] běn cídiǎn.\nTrên giá sách có hơn 30 cuốn sách tiếng Trung và [vài] cuốn từ điển."
       ]
     },
     {
@@ -23,9 +23,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "二层北边有[七]、[八]个房间。\nPhía bắc tầng hai có bảy, tám phòng.",
-        "教室里有十[五]、[六]张桌子。\nTrong phòng học có mười lăm, mười sáu cái bàn.",
-        "他来过[两]、[三]次。\nAnh ấy đã đến đây hai, ba lần rồi."
+        "二层北边有[七]、[八]个房间。\nÈr céng běi biān yǒu [qī]、[bā] ge fángjiān.\nPhía bắc tầng hai có [bảy, tám] phòng.",
+        "教室里有十[五]、[六]张桌子。\nJiàoshì lǐ yǒu shí [wǔ]、[liù] zhāng zhuōzi.\nTrong phòng học có [mười lăm, mười sáu] cái bàn.",
+        "他来过[两]、[三]次。\nTā lái guo [liǎng]、[sān] cì.\nAnh ấy đã đến đây [hai, ba] lần rồi."
       ]
     },
     {
@@ -37,9 +37,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "二十[多]\nHơn hai mươi",
-        "八十[多]\nHơn tám mươi",
-        "二百[多]\nHơn hai trăm"
+        "二十[多]\nÈrshí [duō].\n[Hơn hai mươi].",
+        "八十[多]\nBāshí [duō].\n[Hơn tám mươi].",
+        "二百[多]\nÈrbǎi [duō].\n[Hơn hai trăm]."
       ]
     },
     {
@@ -51,9 +51,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他带去五十[多]{块}钱。\nAnh ấy mang theo hơn năm mươi đồng.",
-        "最冷零下二十[多]度。\nLạnh nhất là âm hơn hai mươi độ.",
-        "三十[多]年以前，他来过中国。\nHơn ba mươi năm trước, anh ấy từng đến Trung Quốc."
+        "他带去五十[多]{块}钱。\nTā dài qù wǔshí [duō] {kuài} qián.\nAnh ấy mang theo [hơn năm mươi] đồng.",
+        "最冷零下二十[多]度。\nZuì lěng língxià èrshí [duō] dù.\nLạnh nhất là âm [hơn hai mươi] độ.",
+        "三十[多]年以前，他来过中国。\nSānshí [duō] nián yǐqián, tā lái guo Zhōngguó.\n[Hơn ba mươi năm] trước, anh ấy từng đến Trung Quốc."
       ]
     },
     {
@@ -65,9 +65,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他的小孩两岁[多]。\nCon của anh ấy hơn hai tuổi.",
-        "这支笔九{块}[多]钱。\nCây bút này hơn chín đồng.",
-        "他回家{一年}[多]了。\nAnh ấy về nhà được hơn một năm rồi."
+        "他的小孩两岁[多]。\nTā de xiǎohái liǎng suì [duō].\nCon của anh ấy [hơn hai tuổi].",
+        "这支笔九{块}[多]钱。\nZhè zhī bǐ jiǔ {kuài} [duō] qián.\nCây bút này [hơn chín đồng].",
+        "他回家{一年}[多]了。\nTā huí jiā {yì nián} [duō] le.\nAnh ấy về nhà được [hơn một năm] rồi."
       ]
     },
     {

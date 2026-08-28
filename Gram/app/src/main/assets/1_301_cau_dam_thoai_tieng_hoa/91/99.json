@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "飞机[就要]起飞[了]。\nMáy bay sắp cất cánh rồi.",
-        "快[要到]北京[了]。\nSắp đến Bắc Kinh rồi.",
-        "明天[就要]放假[了]。\nNgày mai là sắp được nghỉ rồi.",
-        "他[要]考大学[了]。\nAnh ấy sắp thi đại học rồi."
+        "飞机[就要]起飞[了]。\nFēijī [jiùyào] qǐfēi [le].\nMáy bay [sắp] cất cánh [rồi].",
+        "快[要到]北京[了]。\nKuài [yào dào] Běijīng [le].\n[sắp đến] Bắc Kinh [rồi].",
+        "明天[就要]放假[了]。\nMíngtiān [jiùyào] fàngjià [le].\nNgày mai [sắp] được nghỉ [rồi].",
+        "他[要]考大学[了]。\nTā [yào] kǎo dàxué [le].\nAnh ấy [sắp] thi đại học [rồi]."
       ]
     },
     {
@@ -25,9 +25,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[正在]看报[呢]。\nTôi đang đọc báo.",
-        "他[在]跳舞[呢]。\nAnh ấy đang nhảy.",
-        "你[在]写毛笔字吗？\nBạn đang viết chữ bằng bút lông à?\n———我没写毛笔字，我[正]画画儿[呢]。\n———Tôi không viết chữ bằng bút lông, tôi đang vẽ tranh."
+        "我[正在]看报[呢]。\nWǒ [zhèngzài] kàn bào [ne].\nTôi [đang] đọc báo.",
+        "他[在]跳舞[呢]。\nTā [zài] tiàowǔ [ne].\nAnh ấy [đang] nhảy.",
+        "你[在]写毛笔字吗？\nNǐ [zài] xiě máobǐzì ma?\nBạn [đang] viết chữ bằng bút lông à?\n我没写毛笔字，我[正]画画儿[呢]。\nWǒ méi xiě máobǐzì, wǒ [zhèng] huà huàr [ne].\nTôi không viết chữ bằng bút lông, tôi [đang] vẽ tranh."
       ]
     },
     {
@@ -39,10 +39,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "墙上挂[着]几张照片。\nTrên tường treo mấy bức ảnh.",
-        "桌子上放[着]花儿，花儿旁边放[着]几本书。\nTrên bàn có đặt hoa, bên cạnh hoa có đặt mấy quyển sách.",
-        "他一边唱[着]歌，一边洗[着]衣服。\nAnh ấy vừa hát vừa giặt quần áo.",
-        "通知上没写[着]他的名字。\nTrên thông báo không ghi tên anh ấy."
+        "墙上挂[着]几张照片。\nQiáng shàng guà [zhe] jǐ zhāng zhàopiàn.\nTrên tường [treo] mấy bức ảnh.",
+        "桌子上放[着]花儿，花儿旁边放[着]几本书。\nZhuōzi shàng fàng [zhe] huār, huār pángbiān fàng [zhe] jǐ běn shū.\nTrên bàn có [đặt] hoa, bên cạnh hoa có [đặt] mấy quyển sách.",
+        "他一边唱[着]歌，一边洗[着]衣服。\nTā yìbiān chàng [zhe] gē, yìbiān xǐ [zhe] yīfu.\nAnh ấy vừa [hát] vừa [giặt] quần áo.",
+        "通知上没写[着]他的名字。\nTōngzhī shàng méi xiě [zhe] tā de míngzi.\nTrên thông báo không [ghi] tên anh ấy."
       ]
     },
     {
@@ -54,9 +54,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你看[了]那个电影吗？\nBạn đã xem bộ phim đó chưa?",
-        "我买[了]两支铅笔。\nTôi đã mua hai chiếc bút chì.",
-        "今天的练习我已经做[了]。\nBài tập hôm nay tôi đã làm rồi."
+        "你看[了]那个电影吗？\nNǐ kàn [le] nàge diànyǐng ma?\nBạn đã [xem] bộ phim đó chưa?",
+        "我买[了]两支铅笔。\nWǒ mǎi [le] liǎng zhī qiānbǐ.\nTôi đã [mua] hai chiếc bút chì.",
+        "今天的练习我已经做[了]。\nJīntiān de liànxí wǒ yǐjīng zuò [le].\nBài tập hôm nay tôi đã [làm] rồi."
       ]
     },
     {
@@ -68,9 +68,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我去[过]上海。\nTôi từng đi Thượng Hải.",
-        "他以前学[过]汉语。\nTrước đây anh ấy từng học tiếng Trung.",
-        "他还[没]吃[过]烤鸭呢。\nAnh ấy vẫn chưa từng ăn vịt quay."
+        "我去[过]上海。\nWǒ qù [guo] Shànghǎi.\nTôi từng [đi] Thượng Hải.",
+        "他以前学[过]汉语。\nTā yǐqián xué [guo] Hànyǔ.\nTrước đây anh ấy từng [học] tiếng Trung.",
+        "他还[没]吃[过]烤鸭呢。\nTā hái [méi] chī [guo] kǎoyā ne.\nAnh ấy vẫn chưa từng [ăn] vịt quay."
       ]
     }
   ]

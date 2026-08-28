@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他姓[什么]?\nAnh ấy họ gì?",
-        "你叫[什么名字]?\nBạn tên là gì?",
-        "[谁]是大卫?\nAi là David?",
-        "玛丽在[哪儿]?\nMary ở đâu?"
+        "他姓[什么]?\nTā xìng [shénme]?\nAnh ấy họ [gì]?",
+        "你叫[什么名字]?\nNǐ jiào [shénme míngzi]?\nBạn tên là [gì]?",
+        "[谁]是大卫?\n[Shéi] shì Dàwèi?\n[Ai] là David?",
+        "玛丽在[哪儿]?\nMǎlì zài [nǎr]?\nMary ở [đâu]?"
       ]
     }
   ]

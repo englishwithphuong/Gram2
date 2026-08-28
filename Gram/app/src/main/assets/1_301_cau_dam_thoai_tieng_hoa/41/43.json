@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我们休息{得}[很好]。\nChúng tôi nghỉ ngơi rất tốt.",
-        "玛丽、大卫他们玩儿{得}[很愉快]。\nMary, David và mọi người chơi rất vui."
+        "我们休息{得}[很好]。\nWǒmen xiūxi {de} [hěn hǎo].\nChúng tôi nghỉ ngơi [rất tốt].",
+        "玛丽、大卫他们玩儿{得}[很愉快]。\nMǎlì, Dàwèi tāmen wánr {de} [hěn yúkuài].\nMary, David và mọi người chơi [rất vui]."
       ]
     },
     {
@@ -23,8 +23,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他来{得}[不早]。\nAnh ấy đến không sớm.",
-        "他生活{得}[不太好]。\nCuộc sống của anh ấy không được tốt lắm."
+        "他来{得}[不早]。\nTā lái {de} [bù zǎo].\nAnh ấy đến [không sớm].",
+        "他生活{得}[不太好]。\nTā shēnghuó {de} [bú tài hǎo].\nCuộc sống của anh ấy [không được tốt lắm]."
       ]
     },
     {
@@ -36,8 +36,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你休息{得}[好不好]？\nBạn nghỉ ngơi có tốt không?",
-        "这个鱼做{得}[好吃不好吃]？\nMón cá này làm có ngon không?"
+        "你休息{得}[好不好]？\nNǐ xiūxi {de} [hǎo bù hǎo]?\nBạn nghỉ ngơi có [tốt không]?",
+        "这个鱼做{得}[好吃不好吃]？\nZhège yú zuò {de} [hǎochī bù hǎochī]?\nMón cá này làm có [ngon không]?"
       ]
     }
   ]

@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[说]汉语[说]{得}很好。\nAnh ấy nói tiếng Trung rất tốt.",
-        "她[做]饭[做]{得}很不错。\nCô ấy nấu ăn rất ngon.",
-        "我[写]汉字[写]{得}不太好。\nTôi viết chữ Hán không được tốt lắm."
+        "他[说]汉语[说]{得}[很好]。\nTā [shuō] Hànyǔ [shuō] {de} [hěn hǎo].\nAnh ấy [nói] tiếng Trung [rất tốt].",
+        "她[做]饭[做]{得}[很不错]。\nTā [zuò] fàn [zuò] {de} [hěn búcuò].\nCô ấy [nấu] ăn [rất ngon].",
+        "我[写]汉字[写]{得}[不太好]。\nWǒ [xiě] Hànzì [xiě] {de} [bú tài hǎo].\nTôi [viết] chữ Hán [không được tốt lắm]."
       ]
     }
   ]

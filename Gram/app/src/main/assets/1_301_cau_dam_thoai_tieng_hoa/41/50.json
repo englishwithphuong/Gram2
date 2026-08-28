@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我昨天看[了]{一个}电影。\nHôm qua tôi đã xem một bộ phim.",
-        "玛丽买[了]{一辆}自行车。\nMary đã mua một chiếc xe đạp.",
-        "我收到[了]{他寄给我}的东西。\nTôi đã nhận được món đồ anh ấy gửi cho tôi."
+        "我昨天看[了]{一个}电影。\nWǒ zuótiān kàn [le] {yí ge} diànyǐng.\nHôm qua tôi đã xem [một] bộ phim.",
+        "玛丽买[了]{一辆}自行车。\nMǎlì mǎi [le] {yí liàng} zìxíngchē.\nMary đã mua [một chiếc] xe đạp.",
+        "我收到[了]{他寄给我}的东西。\nWǒ shōudào [le] {tā jì gěi wǒ} de dōngxi.\nTôi đã nhận được món đồ [anh ấy gửi cho tôi]."
       ]
     },
     {
@@ -24,8 +24,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "他[没]来。\nAnh ấy đã không đến.",
-        "我[没（有）]看电影。\nTôi đã không xem phim."
+        "他[没]来。\nTā [méi] lái.\nAnh ấy đã [không] đến.",
+        "我[没（有）]看电影。\nWǒ [méi (yǒu)] kàn diànyǐng.\nTôi đã [không] xem phim."
       ]
     }
   ]

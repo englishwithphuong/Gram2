@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "一九八九[年] (yì jiǔ bā jiǔ nián)\nnăm 1989",
-        "二〇〇〇[年] (èr líng líng líng nián)\nnăm 2000"
+        "一九八九[年]\nyì jiǔ bā jiǔ [nián]\nnăm 1989 [năm]",
+        "二〇〇〇[年]\nèr líng líng líng [nián]\nnăm 2000 [năm]"
       ]
     },
     {
@@ -23,10 +23,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "一[月] (yíyuè)\ntháng 1",
-        "五[月] (wǔyuè)\ntháng 5",
-        "九[月] (jiǔyuè)\ntháng 9",
-        "十二[月] (shí'èryuè)\ntháng 12"
+        "一[月]\nyí[yuè]\n[tháng] 1",
+        "五[月]\nwǔ[yuè]\n[tháng] 5",
+        "九[月]\njiǔ[yuè]\n[tháng] 9",
+        "十二[月]\nshí'èr[yuè]\n[tháng] 12"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "1989年8月27日(星期日)\nchủ nhật, ngày 27 tháng 8 năm 1989"
+        "1989年8月27日(星期日)\nyì jiǔ bā jiǔ nián bā yuè èrshíqī rì (xīngqīrì)\n[chủ nhật], ngày [27] tháng [8] [năm] 1989"
       ]
     }
   ]

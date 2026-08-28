@@ -10,10 +10,10 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[现在]八点。(Chủ ngữ)\nBây giờ là 8 giờ.",
-        "今天[五号]。(Vị ngữ)\nHôm nay là ngày 5.",
-        "他看[八点二十]的电影。(Định ngữ)\nAnh ấy xem bộ phim lúc 8 giờ 20.",
-        "[晚上]的电视很好。(Định ngữ)\nChương trình truyền hình buổi tối rất hay."
+        "[现在]八点。(chủ ngữ)\n[Xiànzài] bā diǎn.\n[Bây giờ] là 8 giờ.",
+        "今天[五号]。(vị ngữ)\nJīntiān [wǔ hào].\nHôm nay là [ngày 5].",
+        "他看[八点二十]的电影。(định ngữ)\nTā kàn [bā diǎn èrshí] de diànyǐng.\nAnh ấy xem bộ phim [lúc 8 giờ 20].",
+        "[晚上]的电视很好。(định ngữ)\n[Wǎnshang] de diànshì hěn hǎo.\nChương trình truyền hình [buổi tối] rất hay."
       ]
     },
     {
@@ -25,8 +25,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "我[晚上]看电视。\nBuổi tối tôi xem tivi.",
-        "[晚上]我看电视。\nBuổi tối tôi xem tivi."
+        "我[晚上]看电视。\nWǒ [wǎnshang] kàn diànshì.\n[Buổi tối] tôi xem tivi.",
+        "[晚上]我看电视。\n[Wǎnshang] wǒ kàn diànshì.\n[Buổi tối] tôi xem tivi."
       ]
     },
     {
@@ -38,7 +38,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "[今天晚上]{八点二十分}我看电影。\nTối nay lúc 8 giờ 20 tôi xem phim."
+        "[今天晚上][八点二十分]我看电影。\n[Jīntiān wǎnshang] [bā diǎn èrshí fēn] wǒ kàn diànyǐng.\n[Tối nay] [lúc 8 giờ 20] tôi xem phim."
       ]
     },
     {
@@ -50,7 +50,7 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "她[现在]{在银行}工作。\nBây giờ cô ấy làm việc ở ngân hàng."
+        "她[现在][在银行]工作。\nTā [xiànzài] [zài yínháng] gōngzuò.\n[Bây giờ] cô ấy làm việc [ở ngân hàng]."
       ]
     }
   ]

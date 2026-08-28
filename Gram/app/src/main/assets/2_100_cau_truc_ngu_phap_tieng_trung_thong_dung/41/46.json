@@ -1,0 +1,21 @@
+{
+  "title": "Ở đây, ở kia, ở đâu: “这儿、那儿、哪儿”",
+  "sections": [
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你在[哪儿]？我在[这儿]。\nNǐ zài [nǎr]? Wǒ zài [zhèr].\nCậu ở [đâu]? Tớ ở [đây].",
+        "他在[哪儿]？他在[那儿]。\nTā zài [nǎr]? Tā zài [nàr].\nAnh ấy ở [đâu]? Anh ấy ở [kia].",
+        "你要去哪儿？我去[那儿]买东西。\nNǐ yào qù nǎr? Wǒ qù [nàr] mǎi dōngxi.\nCậu muốn đi [đâu]? Tớ đi [kia] mua đồ.",
+        "请坐在[这儿]等我。\nQǐng zuò zài [zhèr] děng wǒ.\nHãy ngồi ở [đây] đợi tôi.",
+        "老师在哪儿？老师在[那儿]。\nLǎoshī zài nǎr? Lǎoshī zài [nàr].\nGiáo viên ở [đâu]? Giáo viên ở [kia].",
+        "我不知道他在哪儿，他可能在[那儿]。\nWǒ bù zhīdào tā zài nǎr, tā kěnéng zài [nàr].\nTôi không biết anh ấy ở [đâu], có lẽ anh ấy ở [kia].",
+        "你可以坐在[这儿]，这里比较安静。\nNǐ kěyǐ zuò zài [zhèr], zhèlǐ bǐjiào ānjìng.\nBạn có thể ngồi ở [đây], ở đây khá yên tĩnh.",
+        "我的手机在哪儿？是不是在[那儿]？\nWǒ de shǒujī zài nǎr? Shì bu shì zài [nàr]?\nĐiện thoại của tôi ở [đâu]? Có phải ở [kia] không?",
+        "你从哪儿来？我从[那儿]来。\nNǐ cóng nǎr lái? Wǒ cóng [nàr] lái.\nBạn đến từ [đâu]? Tôi đến từ [kia].",
+        "哪儿有咖啡？[这儿]就有一家咖啡店。\nNǎr yǒu kāfēi? [Zhèr] jiù yǒu yì jiā kāfēidiàn.\n[Đâu] có cà phê? [Ở đây] có một quán cà phê."
+      ]
+    }
+  ]
+}

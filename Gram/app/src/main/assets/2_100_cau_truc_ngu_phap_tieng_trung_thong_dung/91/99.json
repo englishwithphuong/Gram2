@@ -1,0 +1,21 @@
+{
+  "title": "Đây, đâu, kia: “这、哪、那”",
+  "sections": [
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[这个]我住在的地方。\n[Zhège] wǒ zhù zài de dìfāng.\n[Đây] là chỗ ở của tớ.",
+        "[这里]是我的房间。\n[Zhèlǐ] shì wǒ de fángjiān.\n[Đây] là phòng của tôi.",
+        "[哪个]是你的书包？\n[Nǎge] shì nǐ de shūbāo?\n[Đâu] là cặp sách của bạn?",
+        "[那里]有一家很大的超市。\n[Nàlǐ] yǒu yì jiā hěn dà de chāoshì.\n[Kia] có một siêu thị rất lớn.",
+        "你看，[这个]就是我昨天买的手机。\nNǐ kàn, [zhège] jiù shì wǒ zuótiān mǎi de shǒujī.\nCậu xem, [đây] chính là chiếc điện thoại tôi mua hôm qua.",
+        "[哪个]地方离公司比较近？\n[Nǎge] dìfāng lí gōngsī bǐjiào jìn?\n[Đâu] là nơi gần công ty hơn?",
+        "[那个人]是我的中文老师。\n[Nàge rén] shì wǒ de Zhōngwén lǎoshī.\n[Người kia] là giáo viên tiếng Trung của tôi.",
+        "你想坐[哪张]桌子？\nNǐ xiǎng zuò [nǎ zhāng] zhuōzi?\nBạn muốn ngồi [bàn nào]?",
+        "[这里]的风景真的很漂亮。\n[Zhèlǐ] de fēngjǐng zhēn de hěn piàoliang.\nPhong cảnh [ở đây] thực sự rất đẹp.",
+        "[那家]饭店的菜很好吃。\n[Nà jiā] fàndiàn de cài hěn hǎochī.\nĐồ ăn của [nhà hàng kia] rất ngon."
+      ]
+    }
+  ]
+}

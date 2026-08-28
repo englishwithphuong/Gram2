@@ -130,6 +130,7 @@ fun LessonTextSection(
 
     Spacer(modifier = Modifier.height(12.dp))
 }
+
 @Composable
 fun LessonNumberedSection(
     section: Section,
@@ -192,6 +193,7 @@ fun LessonNumberedSection(
 
     Spacer(modifier = Modifier.height(12.dp))
 }
+
 @Composable
 fun LessonCommentSection(section: Section) {
     val content = section.content ?: return
@@ -241,6 +243,39 @@ fun LessonCommentSection(section: Section) {
     Spacer(modifier = Modifier.height(12.dp))
 }
 
+/**
+ * Appends text with a highlight color while preserving
+ * the font distinction between Chinese and Latin characters.
+ *
+ * Chinese characters -> chineseFontFamily
+ * Latin/pinyin/etc. -> default font
+ */
+private fun AnnotatedString.Builder.appendHighlightedText(
+    text: String,
+    color: Color,
+    chineseFontFamily: FontFamily
+) {
+    withStyle(
+        SpanStyle(
+            color = color
+        )
+    ) {
+        for (char in text) {
+            if (isChineseCharacter(char)) {
+                withStyle(
+                    SpanStyle(
+                        fontFamily = chineseFontFamily
+                    )
+                ) {
+                    append(char)
+                }
+            } else {
+                append(char)
+            }
+        }
+    }
+}
+
 fun buildStyledChineseText(
     text: String,
     chineseFontFamily: FontFamily,
@@ -277,7 +312,7 @@ fun buildStyledChineseText(
                 }
             }
 
-            // Lesson link: <<filename:text>>
+            // Lesson link: [<filename:text>]
             if (text.startsWith("[<", i)) {
                 val closingLink = text.indexOf(
                     ">]",
@@ -365,14 +400,11 @@ fun buildStyledChineseText(
                         endIndex = closingBracket
                     )
 
-                    withStyle(
-                        SpanStyle(
-                            color = PrimaryBracketTextColor,
-                            fontFamily = chineseFontFamily
-                        )
-                    ) {
-                        append(bracketContent)
-                    }
+                    appendHighlightedText(
+                        text = bracketContent,
+                        color = PrimaryBracketTextColor,
+                        chineseFontFamily = chineseFontFamily
+                    )
 
                     i = closingBracket + 1
                     continue
@@ -392,14 +424,11 @@ fun buildStyledChineseText(
                         endIndex = closingBracket
                     )
 
-                    withStyle(
-                        SpanStyle(
-                            color = SecondaryBracketTextColor,
-                            fontFamily = chineseFontFamily
-                        )
-                    ) {
-                        append(bracketContent)
-                    }
+                    appendHighlightedText(
+                        text = bracketContent,
+                        color = SecondaryBracketTextColor,
+                        chineseFontFamily = chineseFontFamily
+                    )
 
                     i = closingBracket + 1
                     continue

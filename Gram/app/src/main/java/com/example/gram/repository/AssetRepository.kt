@@ -126,17 +126,25 @@ suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonIndex: In
 
 private fun getSortedAssetFolders(context: Context): List<String> {
     val assetManager = context.assets
-    val regex = Regex("^\\d{2}_.*")
+    val regex = Regex("^(\\d+)_.*")
+
     return assetManager.list("")
-        ?.filter { it.matches(regex) }
-        ?.sorted()
+        ?.filter { folderName ->
+            regex.matches(folderName)
+        }
+        ?.sortedWith { a, b ->
+            val numberA = regex.find(a)?.groupValues?.get(1)?.toIntOrNull() ?: Int.MAX_VALUE
+            val numberB = regex.find(b)?.groupValues?.get(1)?.toIntOrNull() ?: Int.MAX_VALUE
+
+            numberA.compareTo(numberB)
+        }
         ?: emptyList()
 }
 
 private fun formatSourceName(folderName: String): String {
     val nameMap = mapOf(
-        "01_301_cau_dam_thoai_tieng_hoa" to "301 Câu Đàm Thoại Tiếng Hoa",
-        "02_ngu_phap_tieng_trung_co_ban" to "Ngữ Pháp Tiếng Trung Cơ Bản"
+        "1_301_cau_dam_thoai_tieng_hoa" to "301 Câu Đàm Thoại Tiếng Hoa",
+        "2_100_cau_truc_ngu_phap_tieng_trung_thong_dung" to "100 Cấu Trúc Ngữ Pháp Tiếng Trung Thông Dụng"
     )
     return nameMap[folderName] ?: folderName
 }

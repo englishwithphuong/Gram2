@@ -1,0 +1,21 @@
+{
+  "title": "Có phải là… không?: “是……吗？”",
+  "sections": [
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你[是]他的经理[吗]？\nNǐ [shì] tā de jīnglǐ [ma]?\nBạn [là] quản lý của anh ấy [phải không]?",
+        "你[是]中国人[吗]？\nNǐ [shì] Zhōngguó rén [ma]?\nBạn [là] người Trung Quốc [phải không]?",
+        "他[是]你的老师[吗]？\nTā [shì] nǐ de lǎoshī [ma]?\nAnh ấy [là] giáo viên của bạn [phải không]?",
+        "这[是]你的书[吗]？\nZhè [shì] nǐ de shū [ma]?\nĐây [là] sách của bạn [phải không]?",
+        "她[是]你姐姐[吗]？\nTā [shì] nǐ jiějie [ma]?\nCô ấy [là] chị gái của bạn [phải không]?",
+        "今天[是]星期五[吗]？\nJīntiān [shì] xīngqīwǔ [ma]?\nHôm nay [là] thứ Sáu [phải không]?",
+        "这个人[是]你的朋友[吗]？\nZhège rén [shì] nǐ de péngyou [ma]?\nNgười này [là] bạn của bạn [phải không]?",
+        "那家饭店[是]你常去的[吗]？\nNà jiā fàndiàn [shì] nǐ cháng qù de [ma]?\nNhà hàng đó [là] nơi bạn thường đến [phải không]?",
+        "他[是]新来的学生[吗]？\nTā [shì] xīn lái de xuésheng [ma]?\nAnh ấy [là] học sinh mới [phải không]?",
+        "这[是]你想买的电脑[吗]？\nZhè [shì] nǐ xiǎng mǎi de diànnǎo [ma]?\nĐây [là] chiếc máy tính bạn muốn mua [phải không]?"
+      ]
+    }
+  ]
+}

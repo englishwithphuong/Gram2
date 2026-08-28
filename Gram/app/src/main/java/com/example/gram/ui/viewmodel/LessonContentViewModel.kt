@@ -2,9 +2,11 @@ package com.example.gram.ui.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.APPLICATION_KEY
 import androidx.lifecycle.viewModelScope
+import androidx.lifecycle.viewmodel.initializer
+import androidx.lifecycle.viewmodel.viewModelFactory
 import com.example.gram.repository.getLessonContent
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -32,13 +34,12 @@ class LessonContentViewModel(
 
     companion object {
         fun provideFactory(
-            application: Application,
             sourceIndex: Int,
             lessonName: String
-        ): ViewModelProvider.Factory = object : ViewModelProvider.Factory {
-            @Suppress("UNCHECKED_CAST")
-            override fun <T : ViewModel> create(modelClass: Class<T>): T {
-                return LessonContentViewModel(application, sourceIndex, lessonName) as T
+        ): ViewModelProvider.Factory = viewModelFactory {
+            initializer {
+                val application = this[APPLICATION_KEY] as Application
+                LessonContentViewModel(application, sourceIndex, lessonName)
             }
         }
     }

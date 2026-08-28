@@ -7,6 +7,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.LinkAnnotation
 import androidx.compose.ui.text.SpanStyle
@@ -136,7 +137,7 @@ fun LessonCommentSection(section: Section) {
             lineHeight = Typography.bodySmall.lineHeight
         )
 
-        Spacer(modifier = Modifier.height(4.dp))
+        Spacer(modifier = Modifier.height(12.dp))
 
         commentLines.forEachIndexed { index, line ->
             if (line.isNotBlank()) {
@@ -157,7 +158,7 @@ fun LessonCommentSection(section: Section) {
                 )
 
                 if (index < commentLines.size - 1) {
-                    Spacer(modifier = Modifier.height(10.dp))
+                    Spacer(modifier = Modifier.height(6.dp))
                 }
             }
         }
@@ -172,6 +173,7 @@ fun LessonCommentSection(section: Section) {
  * - applies PrimaryBracketTextColor to [ ... ]
  * - applies SecondaryBracketTextColor to { ... }
  * - applies KaitiFontFamily to Chinese characters
+ * - makes ~ ... /~ invisible while preserving its width
  * - turns <<filename:text>> into a clickable lesson link
  */
 fun buildStyledChineseText(
@@ -183,6 +185,32 @@ fun buildStyledChineseText(
         var i = 0
 
         while (i < text.length) {
+
+            // Invisible indentation text: ~ ... /~
+            if (text[i] == '~') {
+                val closingInvisible = text.indexOf(
+                    "/~",
+                    startIndex = i + 1
+                )
+
+                if (closingInvisible != -1) {
+                    val invisibleContent = text.substring(
+                        startIndex = i + 1,
+                        endIndex = closingInvisible
+                    )
+
+                    withStyle(
+                        SpanStyle(
+                            color = Color.Transparent
+                        )
+                    ) {
+                        append(invisibleContent)
+                    }
+
+                    i = closingInvisible + 2
+                    continue
+                }
+            }
 
             // Lesson link: <<filename:text>>
             if (text.startsWith("<<", i)) {
@@ -250,8 +278,6 @@ fun buildStyledChineseText(
                             }
 
                         } else {
-                            // If no click handler was supplied,
-                            // just display the text normally.
                             append(displayText)
                         }
 

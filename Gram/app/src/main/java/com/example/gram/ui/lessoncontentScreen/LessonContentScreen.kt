@@ -1,6 +1,7 @@
 package com.example.gram.ui.lessoncontentscreen
 
 import androidx.compose.foundation.ScrollState
+import androidx.compose.foundation.gestures.detectHorizontalDragGestures
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -18,6 +19,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
@@ -30,6 +32,7 @@ import com.example.gram.ui.viewmodel.LessonContentViewModel
 import com.example.gram.ui.viewmodel.ScrollStateViewModel
 import com.example.gram.ui.lessoncontentscreen.components.VerticalScrollbar
 import com.example.gram.ui.lessoncontentscreen.components.buildStyledChineseText
+import com.example.gram.ui.navigation.Screen
 import com.example.gram.ui.theme.KaitiBoldFontFamily
 
 @Composable
@@ -96,14 +99,52 @@ fun LessonContentBody(
 ) {
     val rawTitle = lesson?.title ?: "Lesson ${lessonIndex + 1}"
 
-    // Apply KaitiBoldFontFamily to the Chinese characters in the lesson title
     val styledTitle = remember(rawTitle) {
         buildStyledChineseText(
             text = rawTitle,
             chineseFontFamily = KaitiBoldFontFamily
         )
     }
-    Box(modifier = Modifier.fillMaxSize()) {
+
+    var dragAmountSum = remember { 0f }
+    val dragThreshold = 100f // Adjust sensitivity as needed
+
+    Box(
+        modifier = Modifier
+            .fillMaxSize()
+            .pointerInput(sourceIndex, lessonIndex, lessonCount) {
+                detectHorizontalDragGestures(
+                    onDragStart = { dragAmountSum = 0f },
+                    onDragCancel = { dragAmountSum = 0f },
+                    onHorizontalDrag = { _, dragAmount ->
+                        dragAmountSum += dragAmount
+                    },
+                    onDragEnd = {
+                        if (dragAmountSum > dragThreshold) {
+                            // Dragged from Left to Right -> Show Next Lesson
+                            val nextLessonIndex = lessonIndex + 1
+                            if (nextLessonIndex < lessonCount) {
+                                navController.navigate(
+                                    Screen.LessonContent.createRoute(sourceIndex, nextLessonIndex)
+                                ) {
+                                    popUpTo(Screen.Lessons.createRoute(sourceIndex)) { inclusive = false }
+                                }
+                            }
+                        } else if (dragAmountSum < -dragThreshold) {
+                            // Dragged from Right to Left -> Show Previous Lesson
+                            val previousLessonIndex = lessonIndex - 1
+                            if (previousLessonIndex > -1) {
+                                navController.navigate(
+                                    Screen.LessonContent.createRoute(sourceIndex, previousLessonIndex)
+                                ) {
+                                    popUpTo(Screen.Lessons.createRoute(sourceIndex)) { inclusive = false }
+                                }
+                            }
+                        }
+                    }
+                )
+            }
+    ) {
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -141,7 +182,7 @@ fun LessonContentBody(
                 modifier = Modifier
                     .align(Alignment.CenterEnd)
                     .fillMaxHeight()
-                    .padding(end = 4.dp, top = 16.dp, bottom = 16.dp), // Fixed padding parameters
+                    .padding(end = 4.dp, top = 16.dp, bottom = 16.dp),
                 scrollState = scrollState
             )
         }

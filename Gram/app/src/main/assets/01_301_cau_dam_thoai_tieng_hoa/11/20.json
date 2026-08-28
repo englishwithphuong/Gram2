@@ -7,9 +7,12 @@
       "content": "Trợ từ ngữ khí “了” có khi chỉ tình huống đã có sự thay đổi. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 这个月我不忙[了]。(以前很忙)\n(2) 现在他有工作[了]。(以前没有工作)"
+      "items": [
+        "这个月我不忙[了]。\nTháng này tôi không bận nữa rồi. (Trước đây rất bận)",
+        "现在他有工作[了]。\nBây giờ anh ấy có việc làm rồi. (Trước đây không có việc làm)"
+      ]
     }
   ]
 }

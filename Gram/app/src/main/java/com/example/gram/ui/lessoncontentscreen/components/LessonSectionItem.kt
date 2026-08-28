@@ -1,8 +1,10 @@
 package com.example.gram.ui.lessoncontentscreen.components
 
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.width
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
@@ -45,7 +47,15 @@ fun LessonSectionItem(
             sourceIndex = sourceIndex
         )
 
-        "comment" -> LessonCommentSection(section = section)
+        "numbered" -> LessonNumberedSection(
+            section = section,
+            navController = navController,
+            sourceIndex = sourceIndex
+        )
+
+        "comment" -> LessonCommentSection(
+            section = section
+        )
     }
 }
 
@@ -55,6 +65,8 @@ fun LessonTextSection(
     navController: NavController,
     sourceIndex: Int
 ) {
+    val content = section.content ?: return
+
     val isLevel1 = section.level == 1
 
     val textSize =
@@ -85,9 +97,9 @@ fun LessonTextSection(
             Typography.bodyMedium.lineHeight
         }
 
-    val annotatedContent = remember(section.content, sourceIndex) {
+    val annotatedContent = remember(content, sourceIndex) {
         buildStyledChineseText(
-            text = section.content,
+            text = content,
             chineseFontFamily = KaitiFontFamily,
             onLessonLinkClick = { fileName ->
 
@@ -118,11 +130,73 @@ fun LessonTextSection(
 
     Spacer(modifier = Modifier.height(12.dp))
 }
+@Composable
+fun LessonNumberedSection(
+    section: Section,
+    navController: NavController,
+    sourceIndex: Int
+) {
+    val items = section.items ?: emptyList()
 
+    Column {
+        Spacer(modifier = Modifier.height(4.dp))
+
+        items.forEachIndexed { index, item ->
+
+            val annotatedItem = remember(item, sourceIndex) {
+                buildStyledChineseText(
+                    text = item,
+                    chineseFontFamily = KaitiFontFamily,
+                    onLessonLinkClick = { fileName ->
+
+                        val lessonIndex =
+                            fileName.toIntOrNull()?.minus(1)
+
+                        if (lessonIndex != null) {
+                            navController.navigate(
+                                Screen.LessonContent.createRoute(
+                                    sourceIndex = sourceIndex,
+                                    lessonIndex = lessonIndex
+                                )
+                            )
+                        }
+                    }
+                )
+            }
+
+            Row {
+                Text(
+                    text = "${index + 1}.",
+                    fontSize = Typography.bodyMedium.fontSize,
+                    color = Level2Color,
+                    fontWeight = Typography.bodyMedium.fontWeight,
+                    lineHeight = Typography.bodyMedium.lineHeight,
+                    modifier = Modifier
+                        .width(24.dp)
+                        .alignByBaseline()
+                )
+
+                Text(
+                    text = annotatedItem,
+                    fontSize = Typography.bodyMedium.fontSize,
+                    color = Level2Color,
+                    fontWeight = Typography.bodyMedium.fontWeight,
+                    lineHeight = Typography.bodyMedium.lineHeight,
+                    modifier = Modifier.alignByBaseline()
+                )
+            }
+
+            Spacer(modifier = Modifier.height(6.dp))
+        }
+    }
+
+    Spacer(modifier = Modifier.height(12.dp))
+}
 @Composable
 fun LessonCommentSection(section: Section) {
-    val commentLines = remember(section.content) {
-        section.content.split("\n")
+    val content = section.content ?: return
+    val commentLines = remember(content) {
+        content.split("\n")
     }
 
     Column {

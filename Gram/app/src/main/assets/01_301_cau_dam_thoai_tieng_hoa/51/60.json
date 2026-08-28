@@ -12,9 +12,12 @@
       "content": "a. Chỉ qua động tác làm những vật khép lại, nối liền nhau phải mở ra hoặc tách rời nhau."
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 她打开衣柜拿了一件衣服。\n(2) 请打开书，看第十五页（yè – trang）。"
+      "items": [
+        "她打[开]衣柜拿了一件衣服。\nCô ấy mở tủ quần áo và lấy một chiếc áo.",
+        "请打[开]书，看第十五页。\nHãy mở sách ra, xem trang 15."
+      ]
     },
     {
       "type": "text",
@@ -22,9 +25,12 @@
       "content": "b. Biểu thị thông qua động tác làm cho người hoặc vật phải rời xa một chỗ nào đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(3) 车来了，快走开！\n(4) 快拿开桌子上的东西！"
+      "items": [
+        "车来了，快走[开]！\nXe đến rồi, mau tránh ra!",
+        "快拿[开]桌子上的东西！\nMau lấy những thứ trên bàn ra!"
+      ]
     },
     {
       "type": "text",
@@ -37,9 +43,12 @@
       "content": "a. Chỉ người hay vật theo động tác mà chuyển từ chỗ cao xuống chỗ thấp. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你坐下吧。\n(2) 他放下书，就去吃饭了。"
+      "items": [
+        "你坐[下]吧。\nBạn ngồi xuống đi.",
+        "他放[下]书，就去吃饭了。\nAnh ấy đặt sách xuống rồi đi ăn cơm."
+      ]
     },
     {
       "type": "text",
@@ -47,9 +56,12 @@
       "content": "b. Làm cho người hoặc vật nào đó cố định ở một nơi nào đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(3) 写下你电话号码。\n(4) 请收下这个礼物吧。"
+      "items": [
+        "写[下]你电话号码。\nHãy ghi lại số điện thoại của bạn.",
+        "请收[下]这个礼物吧。\nHãy nhận món quà này nhé."
+      ]
     }
   ]
 }

@@ -4,7 +4,32 @@
     {
       "type": "text",
       "level": 1,
-      "content": "Giữa động từ và bổ ngữ kết quả thêm trợ từ kết cấu “得” vào thì sẽ tạo thành bổ ngữ khả năng. Như “修得好”, “打得开” có nghĩa là “能修好”, “能打开”. Dạng phủ định của nó là thay “得” thành “不”. Như: “修不好”, “打不开”..."
+      "content": "Giữa động từ và bổ ngữ kết quả thêm trợ từ kết cấu “得” vào thì sẽ tạo thành bổ ngữ khả năng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "修[得]好 (có nghĩa là 能修好).\nSửa tốt (có thể sửa tốt).",
+        "打[得]开 (có nghĩa là 能打开).\nMở ra (có thể mở ra)."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dạng phủ định của nó là thay “得” thành “不”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "修[不]好.\nKhông sửa tốt (không thể sửa tốt).",
+        "打[不]开.\nKhông mở ra (không thể mở ra)."
+      ]
+    },
+    {
+      "type": "comment",
+      "content": "Khẳng định: Động từ + 得 + Bổ ngữ kết quả ≈ 能 + Động từ + Bổ ngữ kết quả\nVí dụ: 修得好 (xiū de hǎo) = Sửa được / Sửa tốt ≈ 能修好 (néng xiū hǎo) = Có thể sửa tốt.\nPhủ định: Động từ + 不 + Bổ ngữ kết quả ≈ 不能 + Động từ + Bổ ngữ kết quả\nVí dụ: 修不好 (xiū bù hǎo) = Không sửa được. ≈ 不能修好 (bù néng xiū hǎo) = Không thể sửa tốt."
     }
   ]
 }

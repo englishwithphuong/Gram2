@@ -17,9 +17,14 @@
       "content": "Câu có danh từ, ngữ danh từ hoặc số lượng từ trực tiếp làm vị ngữ được gọi là câu vị ngữ danh từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 今天星期六。\n(2) 他今年二十岁。\n(3) 现在两点钟。\n(4) 这本书两块五。"
+      "items": [
+        "今天[星期六]。\nHôm nay là thứ Bảy.",
+        "他今年[二十岁]。\nNăm nay anh ấy 20 tuổi.",
+        "现在[两点钟]。\nBây giờ là 2 giờ.",
+        "这本书[两块五]。\nQuyển sách này giá 2 đồng 5."
+      ]
     },
     {
       "type": "text",
@@ -32,9 +37,14 @@
       "content": "Câu có thành phần chủ yếu của vị ngữ là động từ, được gọi là câu vị ngữ động từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他写汉字。\n(2) 他想学习汉语。\n(3) 他来中国旅行。\n(4) 玛丽和大卫去看电影。"
+      "items": [
+        "他[写]汉字。\nAnh ấy viết chữ Hán.",
+        "他[想]学习汉语。\nAnh ấy muốn học tiếng Trung.",
+        "他[来]中国旅行。\nAnh ấy đến Trung Quốc du lịch.",
+        "玛丽和大卫[去]看电影。\nMary và David đi xem phim."
+      ]
     },
     {
       "type": "text",
@@ -47,9 +57,13 @@
       "content": "Dùng để miêu tả trạng thái của người hoặc sự vật, đôi khi nói rõ sự thay đổi của sự vật. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 张老师很忙。\n(2) 这本汉语书很便宜。\n(3) 天气热了。"
+      "items": [
+        "张老师很[忙]。\nThầy Trương rất bận.",
+        "这本汉语书很[便宜]。\nQuyển sách tiếng Trung này rất rẻ.",
+        "天气[热]了。\nThời tiết nóng lên rồi."
+      ]
     },
     {
       "type": "text",
@@ -62,9 +76,13 @@
       "content": "Bản thân vị ngữ trong loại câu này cũng là cụm chủ vị. Nó nói rõ hay miêu tả chủ ngữ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我爸爸身体很好。\n(2) 他工作很忙。\n(3) 今天天气很不错。"
+      "items": [
+        "我爸爸[身体很好]。\nBố tôi có sức khỏe rất tốt.",
+        "他[工作很忙]。\nCông việc của anh ấy rất bận rộn.",
+        "今天[天气很不错]。\nHôm nay thời tiết rất đẹp."
+      ]
     }
   ]
 }

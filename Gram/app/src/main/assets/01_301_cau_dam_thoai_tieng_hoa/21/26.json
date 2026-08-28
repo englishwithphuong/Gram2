@@ -4,12 +4,16 @@
     {
       "type": "text",
       "level": 1,
-      "content": "Trong tiếng Hoa hiện đại, số từ thường không thể bổ nghĩa trực tiếp cho danh từ, mà phải xen một lượng từ thích hợp vào giữa danh từ và số từ đó. Ví dụ:"
+      "content": "Trong tiếng Hoa hiện đại, số từ thường không thể bổ nghĩa trực tiếp cho danh từ, mà phải xen một lượng từ thích hợp vào giữa số từ và danh từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "“两[张]票”, “三[个]本子”, “五[个]学生”"
+      "items": [
+        "两[张]票\nHai tấm vé",
+        "三[个]本子\nBa quyển vở",
+        "五[个]学生\nNăm học sinh"
+      ]
     }
   ]
 }

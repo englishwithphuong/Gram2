@@ -1,5 +1,5 @@
 {
-  "title": "“是 … 的” (Là) … đó",
+  "title": "“是 … 的” — (Là) … đó",
   "sections": [
     {
       "type": "text",
@@ -7,9 +7,13 @@
       "content": "Câu có “是...的” dùng để nhấn mạnh thời gian, địa điểm, phương thức của động tác đã xảy ra. “是” đặt trước bộ phận được nhấn mạnh, nhưng đôi khi được lược bỏ, “的” đặt ở cuối câu. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[是]昨天来[的]。(Anh ấy đến hôm qua đó.)\n(2) 你[（是）]哪儿上[的]？(Bạn học ở đâu vậy?)\n(3) 他[（是）]一个人来[的]。(Anh ấy đến một mình đó.)"
+      "items": [
+        "他[是]昨天来[的]。\nAnh ấy đến hôm qua đó.",
+        "你[（是）]哪儿上[的]？\nBạn học ở đâu vậy?",
+        "他[（是）]一个人来[的]。\nAnh ấy đến một mình đó."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +21,11 @@
       "content": "Câu có “是...的” đôi khi còn có thể dùng để nhấn mạnh chủ thể của động tác. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(4) [是]她告诉我[的]。(Là cô ấy nói cho tôi biết đó.)"
+      "items": [
+        "[是]她告诉我[的]。\nLà cô ấy nói cho tôi biết đó."
+      ]
     }
   ]
 }

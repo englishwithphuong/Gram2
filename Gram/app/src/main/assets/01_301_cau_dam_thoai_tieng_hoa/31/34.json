@@ -1,5 +1,5 @@
 {
-  "title": "“还没(有) … 呢” “Còn chưa … nữa”",
+  "title": "“还没(有) … 呢” — “Còn chưa … nữa”",
   "sections": [
     {
       "type": "text",
@@ -7,9 +7,13 @@
       "content": "Biểu thị một động tác hiện còn chưa xảy ra hoặc chưa hoàn thành. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[还没(有)]来[呢]。\n(2) 这件事我[还没]知道[呢]。\n(3) 我[还没]吃过烤鸭[呢]。"
+      "items": [
+        "他[还没(有)]来[呢]。\nAnh ấy vẫn chưa đến.",
+        "这件事我[还没]知道[呢]。\nTôi vẫn chưa biết chuyện này.",
+        "我[还没]吃过烤鸭[呢]。\nTôi vẫn chưa từng ăn vịt quay."
+      ]
     }
   ]
 }

@@ -7,9 +7,12 @@
       "content": "Các động từ “上, 下, 进, 出, 回, 过, 起” phía sau thêm “来” hoặc “去” có thể làm bổ ngữ cho động từ khác, chỉ phương hướng của động tác. Loại bổ ngữ này gọi là bổ ngữ xu hướng kép. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他从教室走出来了。\n(2) 他想买些东西寄回去。"
+      "items": [
+        "他从教室走出来了。\nAnh ấy đi từ trong phòng học ra.",
+        "他想买些东西寄回去。\nAnh ấy muốn mua một ít đồ gửi về nước."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +20,12 @@
       "content": "Quan hệ giữa người nói (hay sự vật được đề cập tới) với phương hướng mà “来” hoặc “去” biểu thị trong bổ ngữ xu hướng kép, vị trí của tân ngữ biểu thị nơi chốn đều giống như bổ ngữ xu hướng đơn. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(3) 上课了，老师走进教室来了。\n(4) 那些照片都寄回国去了。"
+      "items": [
+        "上课了，老师走进教室来了。\nVào lớp rồi, thầy giáo bước vào trong phòng học.",
+        "那些照片都寄回国去了。\nNhững bức ảnh đó đều đã được gửi về nước rồi."
+      ]
     }
   ]
 }

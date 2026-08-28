@@ -7,9 +7,13 @@
       "content": "Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你好[吗]?\n(2) 你身体好[吗]?\n(3) 她是老师[吗]?"
+      "items": [
+        "你好[吗]?\nBạn khỏe không?",
+        "你身体好[吗]?\nSức khỏe của bạn có tốt không?",
+        "她是老师[吗]?\nCô ấy là giáo viên phải không?"
+      ]
     }
   ]
 }

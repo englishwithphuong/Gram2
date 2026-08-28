@@ -7,9 +7,14 @@
       "content": "Nếu sau động từ vừa có bổ ngữ chỉ xu hướng vừa có tân ngữ chỉ nơi chốn, thì tân ngữ chỉ nơi chốn nhất định phải đặt giữa động từ và bổ ngữ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你快下楼来吧。\n(2) 上课了，老师进教室来了。\n(3) 他到上海去了。\n(4) 他回宿舍去了。"
+      "items": [
+        "你快下,{楼}[来]吧。\nBạn mau xuống lầu đi.",
+        "上课了，老师进{教室}[来]了。\nĐến giờ học rồi, giáo viên đã vào lớp.",
+        "他到{上海}[去]了。\nAnh ấy đã đi Thượng Hải.",
+        "他回{宿舍}[去]了。\nAnh ấy đã về ký túc xá."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +22,14 @@
       "content": "Những tân ngữ không chỉ nơi chốn có thể đặt giữa động từ và bổ ngữ, cũng có thể đặt sau bổ ngữ. Nói chung, nếu động tác chưa thực hiện thì tân ngữ đặt trước “来（去）”, đã thực hiện thì đặt sau “来（去）”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(5) 我想带照相机去。\n(6) 他没买苹果来。\n(7) 我带去了一个照相机。\n(8) 他买来了一斤苹果。"
+      "items": [
+        "我想带{照相机}[去]。\nTôi muốn mang máy ảnh đi.",
+        "他没买{苹果}[来]。\nAnh ấy không mua táo đến.",
+        "我带[去]了{一个照相机}。\nTôi đã mang một chiếc máy ảnh đi.",
+        "他买[来]了{一斤苹果}。\nAnh ấy đã mua một cân táo về."
+      ]
     }
   ]
 }

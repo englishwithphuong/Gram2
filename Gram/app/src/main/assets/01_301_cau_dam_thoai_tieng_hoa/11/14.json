@@ -7,9 +7,14 @@
       "content": "Danh từ hay số lượng từ chỉ thời gian đều có thể dùng làm chủ ngữ, vị ngữ, định ngữ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) [现在]八点。(Chủ ngữ)\n(2) 今天[五号]。(Vị ngữ)\n(3) 他看[八点二十]的电影。(Định ngữ)\n(4) [晚上]的电视很好。(Định ngữ)"
+      "items": [
+        "[现在]八点。(Chủ ngữ)\nBây giờ là 8 giờ.",
+        "今天[五号]。(Vị ngữ)\nHôm nay là ngày 5.",
+        "他看[八点二十]的电影。(Định ngữ)\nAnh ấy xem bộ phim lúc 8 giờ 20.",
+        "[晚上]的电视很好。(Định ngữ)\nChương trình truyền hình buổi tối rất hay."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +22,12 @@
       "content": "Từ chỉ thời gian khi làm trạng ngữ, có thể đặt sau chủ ngữ và trước vị ngữ, cũng có thể đặt trước chủ ngữ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(5) 我[晚上]看电视。\n(6) [晚上]我看电视。"
+      "items": [
+        "我[晚上]看电视。\nBuổi tối tôi xem tivi.",
+        "[晚上]我看电视。\nBuổi tối tôi xem tivi."
+      ]
     },
     {
       "type": "text",
@@ -27,9 +35,11 @@
       "content": "Khi có hai từ chỉ thời gian trở lên làm trạng ngữ, thì từ nào chỉ thời gian dài hơn sẽ được đặt trước từ chỉ thời gian ngắn. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(7) [今天晚上]{八点二十分}我看电影。"
+      "items": [
+        "[今天晚上]{八点二十分}我看电影。\nTối nay lúc 8 giờ 20 tôi xem phim."
+      ]
     },
     {
       "type": "text",
@@ -37,9 +47,11 @@
       "content": "Khi từ chỉ thời gian và từ chỉ nơi chốn cùng làm trạng ngữ, thì từ chỉ thời gian thường đặt trước từ chỉ nơi chốn. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(8) 她[现在]{在银行}工作。"
+      "items": [
+        "她[现在]{在银行}工作。\nBây giờ cô ấy làm việc ở ngân hàng."
+      ]
     }
   ]
 }

@@ -4,22 +4,28 @@
     {
       "type": "text",
       "level": 1,
-      "content": "1. 想 Muốn, định, tính\n“想” chỉ sự mong muốn chủ quan, nhấn mạnh ý “dự định (打算)”, “mong muốn (希望)”. Ví dụ:"
+      "content": "1. 想 — Muốn, định, tính\n“想” chỉ sự mong muốn chủ quan, nhấn mạnh ý “dự định (打算)”, “mong muốn (希望)”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你[想]去商店吗?\n我不[想]去商店,我[想]在家看电视。"
+      "items": [
+        "你[想]去商店吗?\nBạn có muốn đi cửa hàng không?\n我不[想]去商店,我[想]在家看电视。\nTôi không muốn đi cửa hàng, tôi muốn ở nhà xem tivi."
+      ]
     },
     {
       "type": "text",
       "level": 1,
-      "content": "2. 要 Muốn, cần, phải\nÝ nghĩa chủ yếu và cách dùng của động từ năng nguyện “要” là:\na. Biểu thị yêu cầu mang ý chí chủ quan. Dạng phủ định là “不想”. Ví dụ:"
+      "content": "2. 要 — Muốn, cần, phải\nÝ nghĩa chủ yếu và cách dùng của động từ năng nguyện “要” là:\na. Biểu thị yêu cầu mang ý chí chủ quan. Dạng phủ định là “不想”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我[要]买件衣服。\n(2) 你[要]看这本书吗?\n[[(2) ]]我[不想]看，我[要]看那本杂志。"
+      "items": [
+        "我[要]买件衣服。\nTôi muốn mua một bộ quần áo.",
+        "你[要]看这本书吗?\nBạn có muốn đọc quyển sách này không?",
+        "我[不想]看，我[要]看那本杂志。\nTôi không muốn đọc, tôi muốn đọc tạp chí kia."
+      ]
     },
     {
       "type": "text",
@@ -27,19 +33,25 @@
       "content": "b. Biểu thị nhu cầu của thực tế khách quan. Dạng phủ định thường là “不用”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "[要]换车吗?\n[要]换车([不用]换车)."
+      "items": [
+        "[要]换车吗?\nCó cần đổi xe không?",
+        "[要]换车（[不用]换车）。\nCần đổi xe (không cần đổi xe)."
+      ]
     },
     {
       "type": "text",
       "level": 1,
-      "content": "3. 会 Biết, sẽ, có thể\na. Biểu thị việc thông qua học tập mà nắm được một kỹ năng nào đó. Ví dụ:"
+      "content": "3. 会 — Biết, sẽ, có thể\na. Biểu thị việc thông qua học tập mà nắm được một kỹ năng nào đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[会]说汉语。\n(2) 我[不会]做菜。"
+      "items": [
+        "他[会]说汉语。\nAnh ấy biết nói tiếng Trung.",
+        "我[不会]做菜。\nTôi không biết nấu ăn."
+      ]
     },
     {
       "type": "text",
@@ -47,19 +59,24 @@
       "content": "b. Biểu thị khả năng xảy ra. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "现在十点了,他[不会]来了吧?\n别着急 (bié zháojí đừng nôn nóng),他[会]来的。"
+      "items": [
+        "现在十点了,他[不会]来了吧?\nBây giờ đã mười giờ rồi, có lẽ anh ấy sẽ không đến đâu nhỉ?",
+        "别着急,他[会]来的。\nĐừng nóng vội, anh ấy sẽ đến."
+      ]
     },
     {
       "type": "text",
       "level": 1,
-      "content": "4. 能 Được, có thể\nBiểu thị một khả năng vốn có nào đó. Ví dụ:"
+      "content": "4. 能 — Được, có thể\nBiểu thị một khả năng vốn có nào đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "大卫[能]用汉语谈话 (tánhuà nói chuyện)."
+      "items": [
+        "大卫[能]用汉语谈话。\nDavid có thể nói chuyện bằng tiếng Trung."
+      ]
     },
     {
       "type": "text",
@@ -67,19 +84,25 @@
       "content": "Cũng có thể chỉ sự cho phép khách quan. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "你明天上午[能]来吗?\n[不能]来,明天我有事。"
+      "items": [
+        "你明天上午[能]来吗?\nSáng mai bạn có thể đến không?",
+        "[不能]来,明天我有事。\nKhông thể đến, ngày mai tôi có việc."
+      ]
     },
     {
       "type": "text",
       "level": 1,
-      "content": "5. 可以 Có thể, được\nChỉ sự cho phép về mặt tình lý hoặc khách quan. Ví dụ:"
+      "content": "5. 可以 — Có thể, được\nChỉ sự cho phép về mặt tình lý hoặc khách quan. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我们[可以]走?\n可以。\n(2) 我们[可以]在这儿玩儿吗?\n[不可以],这儿要上课。"
+      "items": [
+        "我们[可以]走?\nChúng ta có thể đi không?\n可以。\nĐược.",
+        "我们[可以]在这儿玩儿吗?\nChúng tôi có thể chơi ở đây không?\n[不可以],这儿要上课。\nKhông được, ở đây phải học."
+      ]
     }
   ]
 }

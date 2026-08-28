@@ -7,9 +7,13 @@
       "content": "Dùng liên từ “还是” nối liền hai đáp án có khả năng với nhau để người trả lời chọn lấy một, loại câu hỏi này gọi là câu hỏi lựa chọn. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你上午去[还是]下午去?\n(2) 你喝咖啡[还是]喝茶?\n(3) 你一个人去[还是]跟朋友一起去。"
+      "items": [
+        "你上午去[还是]下午去?\nBạn đi vào buổi sáng hay buổi chiều?",
+        "你喝咖啡[还是]喝茶?\nBạn uống cà phê hay trà?",
+        "你一个人去[还是]跟朋友一起去?\nBạn đi một mình hay đi cùng bạn bè?"
+      ]
     }
   ]
 }

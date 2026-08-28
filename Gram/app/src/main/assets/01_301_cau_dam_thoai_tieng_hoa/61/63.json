@@ -4,12 +4,16 @@
     {
       "type": "text",
       "level": 1,
-      "content": "“有点儿” đứng trước động từ hoặc hình dung từ làm trạng ngữ chỉ mức độ nhẹ hoặc không được như ý."
+      "content": "“有点儿” đứng trước động từ hoặc hình dung từ làm trạng ngữ chỉ mức độ nhẹ hoặc không được như ý. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 这件事有点儿麻烦。\n(2) 今天有点儿热。\n(3) 他有点儿不高兴。"
+      "items": [
+        "这件事[有点儿]麻烦。\nViệc này hơi phiền phức.",
+        "今天[有点儿]热。\nHôm nay hơi nóng.",
+        "他[有点儿]不高兴。\nAnh ấy hơi không vui."
+      ]
     }
   ]
 }

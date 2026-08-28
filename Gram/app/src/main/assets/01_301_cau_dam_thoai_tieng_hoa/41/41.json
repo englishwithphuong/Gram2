@@ -7,9 +7,14 @@
       "content": "“从”, “离” ngoài khả năng kết hợp với từ ngữ chỉ nơi chốn ra, còn có thể kết hợp với từ ngữ chỉ thời gian để chỉ thời gian. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 上午我们[从]{八点}开始上课。(Buổi sáng, chúng tôi bắt đầu học từ 8 giờ.)\n(2) [从]{八点}到十二点我们上汉语课。(Từ 8 giờ đến 12 giờ, chúng tôi học tiếng Trung.)\n(3) 现在[离]{十月}还有十天。(Bây giờ còn 10 ngày nữa là đến tháng 10.)\n(4) 我们[离]{毕业}还有两个月。(Còn hai tháng nữa là chúng tôi tốt nghiệp.)"
+      "items": [
+        "上午我们[从]{八点}开始上课。\nBuổi sáng, chúng tôi bắt đầu học từ 8 giờ.",
+        "[从]{八点}到十二点我们上汉语课。\nTừ 8 giờ đến 12 giờ, chúng tôi học tiếng Trung.",
+        "现在[离]{十月}还有十天。\nBây giờ còn 10 ngày nữa là đến tháng 10.",
+        "我们[离]{毕业}还有两个月。\nCòn hai tháng nữa là chúng tôi tốt nghiệp."
+      ]
     }
   ]
 }

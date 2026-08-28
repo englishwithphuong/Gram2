@@ -7,9 +7,14 @@
       "content": "Động từ năng nguyện “想、要、可以、会...” thường đặt trước động từ khác để chỉ khả năng, nguyện vọng hay năng lực. Dạng phủ định của động từ năng nguyện là thêm “不” vào trước các động từ năng nguyện đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[要]买书。\n(2) 我[想]回家。\n(3) [可以]去那儿。\n(4) 我[不想]买东西。"
+      "items": [
+        "他[要]买书。\nAnh ấy muốn mua sách.",
+        "我[想]回家。\nTôi muốn về nhà.",
+        "[可以]去那儿。\nCó thể đi đến đó.",
+        "我[不想]买东西。\nTôi không muốn mua đồ."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +22,12 @@
       "content": "Dạng phủ định của động từ năng nguyện “要” thường là “不想”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(5) 你[要]喝汽水吗?\n[[(5) ]]我现在[不想]喝。"
+      "items": [
+        "你[要]喝汽水吗?\nBạn có muốn uống nước ngọt không?",
+        "[不想]喝。\nBây giờ tôi không muốn uống."
+      ]
     },
     {
       "type": "text",
@@ -27,9 +35,12 @@
       "content": "Câu có động từ năng nguyện nếu muốn thành lập câu hỏi dạng chính phản, ta chỉ cần đặt hình thức khẳng định và phủ định của động từ năng nguyện ấy liền nhau. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(6) 你[想不想]去长城?\n(7) 你[要不要]吃个苹果?"
+      "items": [
+        "你[想不想]去长城?\nBạn có muốn đi Vạn Lý Trường Thành không?",
+        "你[要不要]吃个苹果?\nBạn có muốn ăn một quả táo không?"
+      ]
     }
   ]
 }

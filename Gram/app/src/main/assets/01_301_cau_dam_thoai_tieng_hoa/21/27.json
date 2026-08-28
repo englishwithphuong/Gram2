@@ -7,9 +7,12 @@
       "content": "Vị ngữ do hai ngữ động từ tạo thành, tân ngữ của động từ đứng trước đồng thời cũng là chủ ngữ của động từ đứng sau. Loại câu này gọi là câu kiêm ngữ. Động từ thứ nhất của câu kiêm ngữ thường mang ý nghĩa cầu khiến, như “请” (xin, nhờ), “让” (để, bảo), “叫” (bảo, kêu)... Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 请[您]写一下儿名字\n(2) 请[他]吃饭。"
+      "items": [
+        "请[您]写一下儿名字。\nXin bạn viết tên một chút.",
+        "请[他]吃饭。\nMời anh ấy ăn cơm."
+      ]
     },
     {
       "type": "comment",

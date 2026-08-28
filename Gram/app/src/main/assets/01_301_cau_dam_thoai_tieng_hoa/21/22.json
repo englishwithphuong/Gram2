@@ -7,14 +7,18 @@
       "content": "Câu có thành phần vị ngữ là một ngữ chủ-vị, gọi là câu vị ngữ chủ vị. Chủ ngữ của ngữ chủ-vị ấy là người hay sự vật có quan hệ với chủ ngữ toàn câu. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[身体很好]。\n(2) 我[工作很忙]。\n(3) 星期天[人很多]。"
+      "items": [
+        "他[身体很好]。\nSức khỏe của anh ấy rất tốt.",
+        "我[工作很忙]。\nCông việc của tôi rất bận rộn.",
+        "星期天[人很多]。\nChủ nhật có rất nhiều người."
+      ]
     },
     {
       "type": "comment",
       "level": 1,
-      "content": "Ngữ chủ-vị (主谓短语) là một cụm từ có cấu trúc Chủ ngữ + Vị ngữ, nhưng toàn bộ cụm đó hoạt động như một thành phần trong câu, chứ không nhất thiết là một câu hoàn chỉnh. \nVí dụ: 他[身体很好]。(Anh ấy sức khỏe rất tốt.) 身体 = chủ ngữ của ngữ chủ-vị. 很好 = vị ngữ của ngữ chủ-vị. Cả 身体很好 = một ngữ chủ-vị.\nĐiểm quan trọng là: 身体很好 bản thân có cấu trúc Chủ + Vị, nhưng trong câu 他身体很好, nó đóng vai trò vị ngữ của toàn câu."
+      "content": "Ngữ chủ-vị (主谓短语) là một cụm từ có cấu trúc Chủ ngữ + Vị ngữ, nhưng toàn bộ cụm đó hoạt động như một thành phần trong câu, chứ không nhất thiết là một câu hoàn chỉnh.\nVí dụ: 他[身体很好]。(Sức khỏe của anh ấy rất tốt.) 身体 = chủ ngữ của ngữ chủ-vị. 很好 = vị ngữ của ngữ chủ-vị. Cả 身体很好 = một ngữ chủ-vị.\nĐiểm quan trọng là: 身体很好 bản thân có cấu trúc Chủ + Vị, nhưng trong câu 他身体很好, nó đóng vai trò vị ngữ của toàn câu."
     }
   ]
 }

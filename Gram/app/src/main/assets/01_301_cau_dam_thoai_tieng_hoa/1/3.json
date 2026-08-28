@@ -7,9 +7,12 @@
       "content": "Câu có thành phần chủ yếu của vị ngữ là hình dung từ (tính từ), gọi là câu vị ngữ hình dung từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他很[忙]。\n(2) 他不太[高兴]。"
+      "items": [
+        "他很[忙]。\nAnh ấy rất bận.",
+        "他不太[高兴]。\nAnh ấy không vui lắm."
+      ]
     },
     {
       "type": "comment",

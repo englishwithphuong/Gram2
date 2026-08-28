@@ -13,6 +13,7 @@ val KaitiFontFamily = FontFamily(Font(R.font.kaiti))
 val KaitiBoldFontFamily = FontFamily(Font(R.font.kaitibold))
 
 // Set of Material typography styles to start with
+
 val Typography = Typography(
     titleLarge = TextStyle(
         fontFamily = FontFamily.Default,
@@ -24,30 +25,69 @@ val Typography = Typography(
     titleMedium = TextStyle(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,
-        fontSize = 24.sp,
-        lineHeight = 30.sp
+        fontSize = 38.sp,
+        lineHeight = 44.sp
     ),
 
 
     bodyLarge = TextStyle(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,
-        fontSize = 22.sp,
-        lineHeight = 24.sp,
+        fontSize = 38.sp,
+        lineHeight = 44.sp,
         letterSpacing = 0.5.sp
     ),
 
     bodyMedium = TextStyle(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,
-        fontSize = 22.sp,
-        lineHeight = 26.sp
+        fontSize = 36.sp,
+        lineHeight = 40.sp
     ),
 
     bodySmall = TextStyle(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,
-        fontSize = 20.sp,
-        lineHeight = 24.sp
+        fontSize = 34.sp,
+        lineHeight = 40.sp
     )
 )
+
+//val Typography = Typography(
+//    titleLarge = TextStyle(
+//        fontFamily = FontFamily.Default,
+//        fontWeight = FontWeight.Bold,
+//        fontSize = 28.sp,
+//        lineHeight = 32.sp
+//    ),
+//
+//    titleMedium = TextStyle(
+//        fontFamily = FontFamily.Default,
+//        fontWeight = FontWeight.Normal,
+//        fontSize = 24.sp,
+//        lineHeight = 30.sp
+//    ),
+//
+//
+//    bodyLarge = TextStyle(
+//        fontFamily = FontFamily.Default,
+//        fontWeight = FontWeight.Normal,
+//        fontSize = 22.sp,
+//        lineHeight = 24.sp,
+//        letterSpacing = 0.5.sp
+//    ),
+//
+//    bodyMedium = TextStyle(
+//        fontFamily = FontFamily.Default,
+//        fontWeight = FontWeight.Normal,
+//        fontSize = 22.sp,
+//        lineHeight = 26.sp
+//    ),
+//
+//    bodySmall = TextStyle(
+//        fontFamily = FontFamily.Default,
+//        fontWeight = FontWeight.Normal,
+//        fontSize = 20.sp,
+//        lineHeight = 24.sp
+//    )
+//)

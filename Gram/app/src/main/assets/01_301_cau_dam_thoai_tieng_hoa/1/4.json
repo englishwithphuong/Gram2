@@ -7,9 +7,13 @@
       "content": "Câu có thành phần chủ yếu của vị ngữ là động từ, được gọi là câu vị ngữ động từ. Nếu động từ có tân ngữ thì tân ngữ thường đứng sau động từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你[来]。\n(2) 张老师[在]家。\n(3) 我[在]北京大学。"
+      "items": [
+        "你[来]。\nBạn đến.",
+        "张老师[在]家。\nThầy Trương ở nhà.",
+        "我[在]北京大学。\nTôi ở Đại học Bắc Kinh."
+      ]
     }
   ]
 }

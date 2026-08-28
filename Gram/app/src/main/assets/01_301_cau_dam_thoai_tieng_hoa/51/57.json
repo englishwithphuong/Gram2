@@ -7,9 +7,13 @@
       "content": "Chỉ hai tình huống hay hai tính chất đồng thời tồn tại. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你的房间又干净又漂亮。\n(2) 那儿的东西又便宜又好。\n(3) 他汉字写得又好又快。"
+      "items": [
+        "你的房间[又]干净[又]漂亮。\nPhòng của bạn vừa sạch sẽ vừa đẹp.",
+        "那儿的东西[又]便宜[又]好。\nĐồ ở đó vừa rẻ vừa tốt.",
+        "他汉字写得[又]好[又]快。\nAnh ấy viết chữ Hán vừa đẹp vừa nhanh."
+      ]
     }
   ]
 }

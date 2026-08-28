@@ -4,12 +4,16 @@
     {
       "type": "text",
       "level": 1,
-      "content": "“要是” chỉ giả thiết, ở phân câu sau dùng “就” để tiếp nối ý phần trước và nêu ra kết luận. Ví dụ:"
+      "content": "“要是” chỉ giả thiết, ở phần câu sau dùng “就” để tiếp nối ý phần trước và nêu ra kết luận. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你要是有“英汉词典”，就带来。\n(2) 要是明天不上课，我们就去北海公园。\n(3) 你要是有时间，就来我家玩儿。"
+      "items": [
+        "你[要是]有“英汉词典”，[就]带来。\nNếu bạn có “Từ điển Anh - Trung”, hãy mang theo.",
+        "[要是]明天不上课，我们[就]去北海公园。\nNếu ngày mai không lên lớp, chúng ta sẽ đi công viên Bắc Hải.",
+        "你[要是]有时间，[就]来我家玩儿。\nNếu bạn có thời gian, hãy đến nhà tôi chơi."
+      ]
     }
   ]
 }

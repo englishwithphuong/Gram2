@@ -7,9 +7,13 @@
       "content": "Phó từ “也” và “都” phải đặt sau chủ ngữ và trước động từ hoặc hình dung từ làm vị ngữ, “也” phải đứng trước “都”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我[也]很好。\n(2) 他们[都]很好。\n(3) 我们[都]是学生，他们[也都]是学生。"
+      "items": [
+        "我[也]很好。\nTôi cũng rất khỏe.",
+        "他们[都]很好。\nHọ đều rất khỏe.",
+        "我们[都]是学生，他们[也都]是学生。\nChúng tôi đều là học sinh, họ cũng đều là học sinh."
+      ]
     },
     {
       "type": "text",

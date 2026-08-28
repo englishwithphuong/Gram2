@@ -7,9 +7,13 @@
       "content": "Khi đại từ hay danh từ làm định ngữ chỉ quan hệ sở hữu, thì phải thêm trợ từ “的” ở sau nó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "“[他]的书”, “[张老师]的学生”, “[王兰]的哥哥”"
+      "items": [
+        "[他]的书\nsách của anh ấy",
+        "[张老师]的学生\nhọc sinh của thầy Trương",
+        "[王兰]的哥哥\nanh trai của Vương Lan"
+      ]
     },
     {
       "type": "text",
@@ -17,9 +21,13 @@
       "content": "Khi đại từ nhân xưng làm định ngữ cho một danh từ chỉ người thân thuộc, hay một tập thể, đơn vị, thì có thể lược bỏ trợ từ “的”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "“[我]哥哥”, “[他]姐姐”, “[我们]学校”, …"
+      "items": [
+        "[我]哥哥\nanh trai tôi",
+        "[他]姐姐\nchị gái anh ấy",
+        "[我们]学校\ntrường học của chúng tôi"
+      ]
     },
     {
       "type": "comment",

@@ -7,9 +7,12 @@
       "content": "(1) Tên năm phải đọc từng con số một. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "一九八九[年] (yì jiǔ bā jiǔ nián)\n二〇〇〇[年] (èr líng líng líng nián)"
+      "items": [
+        "一九八九[年] (yì jiǔ bā jiǔ nián)\nnăm 1989",
+        "二〇〇〇[年] (èr líng líng líng nián)\nnăm 2000"
+      ]
     },
     {
       "type": "text",
@@ -17,9 +20,14 @@
       "content": "(2) Tên của 12 tháng là thêm “月” vào sau số từ 1 đến 12. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "一[月] (yíyuè), 五[月] (wǔyuè), 九[月] (jiǔyuè), 十二[月] (shí'èryuè)"
+      "items": [
+        "一[月] (yíyuè)\ntháng 1",
+        "五[月] (wǔyuè)\ntháng 5",
+        "九[月] (jiǔyuè)\ntháng 9",
+        "十二[月] (shí'èryuè)\ntháng 12"
+      ]
     },
     {
       "type": "text",
@@ -37,9 +45,11 @@
       "content": "(5) Thứ tự viết thứ, ngày, tháng, năm như sau:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "1989年8月27日(星期日)\nChủ nhật ngày 27 tháng 8 năm 1989."
+      "items": [
+        "1989年8月27日(星期日)\nchủ nhật, ngày 27 tháng 8 năm 1989"
+      ]
     }
   ]
 }

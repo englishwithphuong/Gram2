@@ -7,9 +7,12 @@
       "content": "Giới từ “给” dùng để giới thiệu đối tượng tiếp nhận của động tác, hành vi. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 昨天我给你打电话了。\n(2) 他给我做过衣服。"
+      "items": [
+        "昨天我[给]你打电话了。\nHôm qua tôi đã gọi điện cho bạn.",
+        "他[给]我做过衣服。\nAnh ấy đã từng may quần áo cho tôi."
+      ]
     }
   ]
 }

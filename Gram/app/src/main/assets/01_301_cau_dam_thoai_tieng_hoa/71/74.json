@@ -7,9 +7,12 @@
       "content": "1. “几”表示“十”以下的不确定的数目 – “几” biểu thị số không xác định trong phạm vi dưới 10"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 衣柜里有几件衣服。\n(2) 书架上有三十几本中文书和几本词典。"
+      "items": [
+        "衣柜里有几件衣服。\nTrong tủ quần áo có mấy chiếc áo.",
+        "书架上有三十几本中文书和几本词典。\nTrên giá sách có hơn 30 cuốn sách tiếng Trung và vài cuốn từ điển."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +20,13 @@
       "content": "2. 两个相邻的数连在一起 – Dùng hai số kề nhau đặt liền nhau"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 二层北边有七、八个房间。\n(2) 教室里有十五、六张桌子。\n(3) 他来过两、三次。"
+      "items": [
+        "二层北边有七、八个房间。\nPhía bắc tầng hai có bảy, tám phòng.",
+        "教室里有十五、六张桌子。\nTrong phòng học có mười lăm, mười sáu cái bàn.",
+        "他来过两、三次。\nAnh ấy đã đến đây hai, ba lần rồi."
+      ]
     },
     {
       "type": "text",
@@ -32,9 +39,13 @@
       "content": "Khi “多” chỉ một số nguyên, thì đặt nó trước lượng từ hay danh từ không mang lượng từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他带去五十多块钱。\n(2) 最冷零下二十多度。\n(3) 三十多年以前，他来过中国。"
+      "items": [
+        "他带去五十多块钱。\nAnh ấy mang theo hơn năm mươi đồng.",
+        "最冷零下二十多度。\nLạnh nhất là âm hơn hai mươi độ.",
+        "三十多年以前，他来过中国。\nHơn ba mươi năm trước, anh ấy từng đến Trung Quốc."
+      ]
     },
     {
       "type": "text",
@@ -42,9 +53,13 @@
       "content": "Khi “多” chỉ số lẻ sau số nguyên, thì đặt nó sau lượng từ hay danh từ không mang lượng từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(4) 他的小孩两岁多。\n(5) 这支笔九块多钱。\n(6) 他回家一年多了。"
+      "items": [
+        "他的小孩两岁多。\nCon của anh ấy hơn hai tuổi.",
+        "这支笔九块多钱。\nCây bút này hơn chín đồng.",
+        "他回家一年多了。\nAnh ấy về nhà được hơn một năm rồi."
+      ]
     }
   ]
 }

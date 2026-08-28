@@ -7,9 +7,13 @@
       "content": "Câu có danh từ, ngữ danh từ hay số lượng từ… làm vị ngữ, gọi là câu vị ngữ danh từ. Câu khẳng định không dùng từ “是” (nếu dùng từ “是” thì sẽ là câu vị ngữ động từ). Loại câu này chủ yếu dùng để nói về thời gian, tuổi tác, quê quán và số lượng. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 今天[星期天]。\n(2) 我今年[二十岁]。\n(3) 他[北京人]。"
+      "items": [
+        "今天[星期天]。\nHôm nay là Chủ nhật.",
+        "我今年[二十岁]。\nNăm nay tôi 20 tuổi.",
+        "他[北京人]。\nAnh ấy là người Bắc Kinh."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +21,12 @@
       "content": "Muốn diễn đạt ý phủ định, ta thêm “不是” trước danh từ làm vị ngữ, câu sẽ trở thành câu vị ngữ động từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(4) 今天[不是]星期天。\n(5) 他[不是]北京人。"
+      "items": [
+        "今天[不是]星期天。\nHôm nay không phải Chủ nhật.",
+        "他[不是]北京人。\nAnh ấy không phải là người Bắc Kinh."
+      ]
     },
     {
       "type": "comment",

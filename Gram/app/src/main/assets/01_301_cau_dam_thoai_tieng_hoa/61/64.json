@@ -7,9 +7,13 @@
       "content": "Câu vị ngữ động từ chỉ người hoặc sự vật đang tồn tại, xuất hiện hoặc biến mất ở một nơi nào đó, gọi là câu chỉ sự tồn tại và xuất hiện. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 桌子上有一本汉英词典。\n(2) 前边走来一个外国人。\n(3) 上星期走了一个美国学生。"
+      "items": [
+        "桌子上[有]一本汉英词典。\nTrên bàn có một cuốn từ điển Trung - Anh.",
+        "前边[走]来一个外国人。\nPhía trước có một người nước ngoài đang đi tới.",
+        "上星期[走]了一个美国学生。\nTuần trước có một học sinh Mỹ đi rồi."
+      ]
     }
   ]
 }

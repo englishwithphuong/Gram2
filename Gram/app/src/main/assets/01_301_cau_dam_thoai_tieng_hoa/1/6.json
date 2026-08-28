@@ -7,9 +7,13 @@
       "content": "Câu có động từ “是” cùng với từ hoặc ngữ khác tạo thành vị ngữ được gọi là câu động từ “是”. Dạng phủ định của nó là thêm “不” vào trước “是”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[是]大夫。\n(2) 大卫[是]她哥哥。\n(3) 我不[是]学生，[是]老师。"
+      "items": [
+        "他[是]大夫。\nAnh ấy là bác sĩ.",
+        "大卫[是]她哥哥。\nDavid là anh trai của cô ấy.",
+        "我不[是]学生，[是]老师。\nTôi không phải là học sinh, mà là giáo viên."
+      ]
     },
     {
       "type": "comment",

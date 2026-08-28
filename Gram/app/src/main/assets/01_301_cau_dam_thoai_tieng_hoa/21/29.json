@@ -7,9 +7,13 @@
       "content": "Phía sau danh từ, đại từ, hình dung từ thêm từ “的” vào, ta sẽ có một kết cấu chữ “的” mang tính chất và tác dụng của một danh từ, có thể sử dụng độc lập. Loại kết cấu chữ “的” này thường xuất hiện trong câu có từ “是”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 这个本子[是]我[的]。\n(2) 那套邮票[是]新[的]。\n(3) 这件毛衣不[是]玛丽[的]。"
+      "items": [
+        "这个本子[是]我[的]。\nQuyển vở này là của tôi.",
+        "那套邮票[是]新[的]。\nBộ tem kia là bộ mới.",
+        "这件毛衣不[是]玛丽[的]。\nChiếc áo len này không phải là của Mary."
+      ]
     },
     {
       "type": "comment",

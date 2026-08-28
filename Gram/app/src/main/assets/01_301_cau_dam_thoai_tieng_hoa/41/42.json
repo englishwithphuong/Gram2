@@ -7,9 +7,14 @@
       "content": "Khi một động từ, ngữ động từ, ngữ chủ - vị hoặc ngữ giới từ làm định ngữ thì cần phải thêm “的”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) [来]{的}人很多。(Có rất nhiều người đến.)\n(2) [学习汉语]{的}学生不少。(Có khá nhiều học sinh học tiếng Trung.)\n(3) 这是[经理给您]{的}信。(Đây là bức thư mà giám đốc gửi cho bạn.)\n(4) [从东京来]{的}飞机下午到。(Chuyến bay từ Tokyo đến sẽ tới vào buổi chiều.)"
+      "items": [
+        "[来]{的}人很多。\nCó rất nhiều người đến.",
+        "[学习汉语]{的}学生不少。\nCó khá nhiều học sinh học tiếng Trung.",
+        "这是[经理给您]{的}信。\nĐây là bức thư mà giám đốc gửi cho bạn.",
+        "[从东京来]{的}飞机下午到。\nChuyến bay từ Tokyo đến sẽ tới vào buổi chiều."
+      ]
     }
   ]
 }

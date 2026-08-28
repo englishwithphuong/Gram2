@@ -7,9 +7,13 @@
       "content": "Trợ từ đứng sau động từ chỉ động tác đang ở giai đoạn nào đó gọi là trợ từ động thái. Trợ từ động thái “了” đặt sau động từ chỉ động tác đã hoàn thành. Khi có tân ngữ thì tân ngữ thường mang số lượng từ hoặc một định ngữ khác. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我昨天看了一个电影。\n(2) 玛丽买了一辆自行车。\n(3) 我收到了他寄给我的东西。"
+      "items": [
+        "我昨天看[了]{一个}电影。\nHôm qua tôi đã xem một bộ phim.",
+        "玛丽买[了]{一辆}自行车。\nMary đã mua một chiếc xe đạp.",
+        "我收到[了]{他寄给我}的东西。\nTôi đã nhận được món đồ anh ấy gửi cho tôi."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +21,12 @@
       "content": "Dạng phủ định của động tác hoàn thành là thêm “没（有）” vào trước động từ, sau động từ không dùng “了”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(4) 他没来。\n(5) 我没（有）看电影。"
+      "items": [
+        "他[没]来。\nAnh ấy đã không đến.",
+        "我[没（有）]看电影。\nTôi đã không xem phim."
+      ]
     }
   ]
 }

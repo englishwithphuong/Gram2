@@ -7,9 +7,13 @@
       "content": "Khi đối với một sự việc nào đó đã có sự ước đoán nhưng chưa khẳng định được thì dùng trợ từ ngữ khí “吧” để hỏi. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你最近很忙吧？\n(2) 票一定很难买吧？\n(3) 你很喜欢打球吧？"
+      "items": [
+        "你最近很忙吧？\nDạo này bạn rất bận phải không?",
+        "票一定很难买吧？\nVé chắc là rất khó mua phải không?",
+        "你很喜欢打球吧？\nBạn rất thích chơi bóng phải không?"
+      ]
     }
   ]
 }

@@ -7,14 +7,20 @@
       "content": "Thành phần đứng trước để bổ nghĩa cho động từ hoặc hình dung từ vị ngữ gọi là trạng ngữ. Phó từ, hình dung từ, từ chỉ thời gian, kết cấu giới từ đều có thể làm trạng ngữ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 她[常]去我家玩。(phó từ)\n(2) 你们[快]来。(phó từ)\n(3) 我们[八点]去上课。(từ chỉ thời gian)\n(4) 他姐姐[在银行]工作。(kết cấu giới từ)\n(5) 他[认真]学习。(hình dung từ)"
+      "items": [
+        "她[常]去我家玩。(phó từ)\nCô ấy thường đến nhà tôi chơi.",
+        "你们[快]来。(phó từ)\nCác bạn mau đến đây.",
+        "我们[八点]去上课。(từ chỉ thời gian)\nChúng tôi đi học lúc 8 giờ.",
+        "他姐姐[在银行]工作。(kết cấu giới từ)\nChị gái anh ấy làm việc ở ngân hàng.",
+        "他[认真]学习。(hình dung từ)\nAnh ấy học tập chăm chỉ."
+      ]
     },
     {
       "type": "comment",
       "level": 1,
-      "content": "Phó từ (副词) và trạng ngữ (状语) là hai khái niệm khác nhau, nhưng chúng liên quan rất chặt chẽ.\nPhó từ = từ loại. Phó từ (副词) là một loại từ. Ví dụ: 很 = rất, 常 = thường, 不 = không, 也 = cũng, 都 = đều, 已经 = đã, 马上 = ngay lập tức.\nTrạng ngữ = thành phần câu. Trạng ngữ (状语) là một thành phần trong câu, có chức năng bổ nghĩa cho động từ hoặc tính từ.\nVì vậy, phó từ có thể làm trạng ngữ, nhưng trạng ngữ không nhất thiết phải là phó từ. Ví dụ:\n她[常]去我家玩。(常 là phó từ và cũng là trạng ngữ)\n我们[八点]去上课。(八点 không phải là phó từ nhưng là trạng ngữ)"
+      "content": "Phó từ (副词) và trạng ngữ (状语) là hai khái niệm khác nhau, nhưng chúng liên quan rất chặt chẽ.\nPhó từ = từ loại. Phó từ (副词) là một loại từ. Ví dụ: 很 = rất, 常 = thường, 不 = không, 也 = cũng, 都 = đều, 已经 = đã, 马上 = ngay lập tức.\nTrạng ngữ = thành phần câu. Trạng ngữ (状语) là một thành phần trong câu, có chức năng bổ nghĩa cho động từ hoặc tính từ.\nVì vậy, phó từ có thể làm trạng ngữ, nhưng trạng ngữ không nhất thiết phải là phó từ. Ví dụ:\n她[常]去我家玩。(常 là phó từ và cũng là trạng ngữ)\nCô ấy thường đến nhà tôi chơi.\n我们[八点]去上课。(八点 không phải là phó từ nhưng là trạng ngữ)\nChúng tôi đi học lúc 8 giờ."
     }
   ]
 }

@@ -7,9 +7,12 @@
       "content": "a. Biểu thị ý ngoài những thứ (sự việc, người) này, còn có những thứ (sự việc, người) khác. Đằng sau thường có “还, 也”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 和子和他父亲除了去上海以外，还去广州、香港。\n(2) 除了小王以外，小张、小李也会说英语。"
+      "items": [
+        "和子和他父亲除了去上海以外，还去广州、香港。\nKazuko và bố cô ấy ngoài việc đi Thượng Hải ra, còn đi Quảng Châu, Hồng Kông.",
+        "除了小王以外，小张、小李也会说英语。\nNgoài Tiểu Vương ra, Tiểu Trương và Tiểu Lý cũng biết nói tiếng Anh."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +20,12 @@
       "content": "b. Chỉ người và sự vật được đề cập không bao gồm trong đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 这件事除了老张以外，我们都不知道。\n(2) 除了大卫以外，我们都去过长城了。"
+      "items": [
+        "这件事除了老张以外，我们都不知道。\nViệc này ngoài lão Trương ra, chúng tôi đều không biết.",
+        "除了大卫以外，我们都去过长城了。\nNgoài David ra, chúng tôi đều đã từng đi Vạn Lý Trường Thành rồi."
+      ]
     }
   ]
 }

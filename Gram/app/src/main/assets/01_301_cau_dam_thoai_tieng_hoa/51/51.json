@@ -7,9 +7,12 @@
       "content": "Biểu thị động tác đã hoàn thành hoặc đạt tới mức độ hoàn thiện. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 饭已经（yǐjīng – đã）做好了。\n(2) 我一定要学好中文。"
+      "items": [
+        "饭已经做[好]了。\nCơm đã được nấu xong rồi.",
+        "我一定要学[好]中文。\nTôi nhất định phải học tốt tiếng Trung."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +20,16 @@
       "content": "“好” làm bổ ngữ kết quả, có khi cũng có nghĩa là “định”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(3) 我们说好了八点去。\n(4) 时间约好了。"
+      "items": [
+        "我们说[好]了八点去。\nChúng tôi đã thống nhất là 8 giờ sẽ đi.",
+        "时间约[好]了。\nĐã hẹn thời gian xong rồi."
+      ]
+    },
+    {
+      "type": "comment",
+      "content": "Ý nghĩa thứ hai: Biểu thị sự “thống nhất”, “chốt định” hoặc “đã hẹn trước”.\nTrong một số trường hợp, “好” mang sắc thái ý nghĩa tương đương với từ “định” hoặc “thống nhất” trong tiếng Việt. Nó chỉ việc các bên đã bàn bạc, thỏa thuận và đi đến quyết định cuối cùng cho một kế hoạch, lịch hẹn.\nCác ví dụ minh họa:\n我们说[好]了八点去。 (Chúng tôi đã thống nhất là 8 giờ sẽ đi.)\nPhân tích: 说 (nói/bàn bạc) + 好 (thống nhất/chốt). Đã bàn bạc xong xuôi và đi đến thống nhất thời gian xuất phát.\n时间约[好]了。 (Đã hẹn thời gian xong rồi.)\nPhân tích: 约 (hẹn) + 好 (xong/định). Thời gian gặp gỡ đã được thỏa thuận và chốt lại giữa hai bên."
     }
   ]
 }

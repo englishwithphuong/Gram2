@@ -7,14 +7,12 @@
       "content": "Có khi “了” chỉ một sự việc hay một tình huống nào đó đã xảy ra. Ta thử so sánh hai mẫu đối thoại sau:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1)\n你去哪儿?\n我去商店。\n你买什么?\n我买苹果。"
-    },
-    {
-      "type": "text",
-      "level": 2,
-      "content": "(2)\n你去哪儿[了]?\n我去商店[了]。\n你买什么[了]?\n我买苹果[了]。"
+      "items": [
+        "你去哪儿?\nBạn đi đâu?\n我去商店。\nTôi đi cửa hàng.\n你买什么?\nBạn mua gì?\n我买苹果。\nTôi mua táo.",
+        "你去哪儿[了]?\nBạn đã đi đâu?\n我去商店[了]。\nTôi đã đi cửa hàng rồi.\n你买什么[了]?\nBạn đã mua gì?\n我买苹果[了]。\nTôi đã mua táo rồi."
+      ]
     },
     {
       "type": "text",
@@ -27,9 +25,14 @@
       "content": "Dạng phủ định của câu mang trợ từ ngữ khí “了” là đặt phó từ “没(有)” trước động từ, đồng thời bỏ “了” ở cuối câu. Còn câu hỏi chính phản của nó thì thêm “...了没有” ở cuối câu hoặc cùng đưa ra dạng khẳng định và phủ định của động từ “...没...”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[没]去商店。\n(2) 我[没]买苹果。\n(3) 你吃饭[了没有]?\n(4) 你[吃没吃]饭?"
+      "items": [
+        "他[没]去商店。\nAnh ấy không đi cửa hàng.",
+        "我[没]买苹果。\nTôi không mua táo.",
+        "你吃饭[了没有]?\nBạn đã ăn cơm chưa?",
+        "你[吃没吃]饭?\nBạn đã ăn cơm chưa?"
+      ]
     }
   ]
 }

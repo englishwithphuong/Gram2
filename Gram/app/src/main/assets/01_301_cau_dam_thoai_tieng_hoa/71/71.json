@@ -7,9 +7,13 @@
       "content": "Khi sau động từ vừa có bổ ngữ thời lượng, lại vừa có tân ngữ, thì thường phải lặp lại động từ, bổ ngữ thời lượng được đặt sau động từ lặp lại. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他们开会开了半个小时。\n(2) 他念生词念了一刻钟。\n(3) 他学英语学了两年了。"
+      "items": [
+        "他们开会开了半个小时。\nHọ họp nửa tiếng đồng hồ rồi.",
+        "他念生词念了一刻钟。\nAnh ấy đọc từ mới được 15 phút.",
+        "他学英语学了两年了。\nAnh ấy học tiếng Anh được hai năm rồi."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +21,13 @@
       "content": "Nếu tân ngữ không phải là đại từ nhân xưng, thì bổ ngữ thời lượng có thể đặt giữa động từ và tân ngữ. Giữa bổ ngữ thời lượng và tân ngữ có thể thêm “的”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(4) 他每天看半个小时电视。\n(5) 他跳了半个多小时的舞。\n(6) 我和妹妹打了二十分的网球。"
+      "items": [
+        "他每天看半个小时电视。\nAnh ấy mỗi ngày xem nửa tiếng tivi.",
+        "他跳了半个多小时的舞。\nAnh ấy khiêu vũ hơn nửa tiếng.",
+        "我和妹妹打了二十分的网球。\nTôi và em gái chơi tennis 20 phút."
+      ]
     },
     {
       "type": "text",
@@ -27,9 +35,12 @@
       "content": "Nếu tân ngữ hơi phức tạp hoặc cần nhấn mạnh tân ngữ, ta cũng có thể đặt tân ngữ ở đầu câu. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(7) 那件漂亮的毛衣他试了半天。\n(8) 那本小说他看了两个星期。"
+      "items": [
+        "那件漂亮的毛衣他试了半天。\nChiếc áo len đẹp đó anh ấy thử mất nửa ngày.",
+        "那本小说他看了两个星期。\nCuốn tiểu thuyết đó anh ấy đọc mất hai tuần."
+      ]
     }
   ]
 }

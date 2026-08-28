@@ -7,9 +7,13 @@
       "content": "Trợ từ động thái “过” đặt sau một động từ nói rõ động tác đó đã từng xảy ra trong quá khứ, thường dùng để nhấn mạnh trong quá khứ đã từng xảy ra việc như thế. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我去[过]长城。\n(2) 我学[过]汉语。\n(3) 我没吃[过]烤鸭。"
+      "items": [
+        "我去[过]长城。\nTôi đã từng đi Vạn Lý Trường Thành.",
+        "我学[过]汉语。\nTôi đã từng học tiếng Trung.",
+        "我没吃[过]烤鸭。\nTôi chưa từng ăn vịt quay."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +21,12 @@
       "content": "Dạng câu hỏi chính phản của nó là “...过...没有”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(4) 你去[过]美国[没有]?\n(5) 你看[过]那个电影[没有]?"
+      "items": [
+        "你去[过]美国[没有]?\nBạn đã từng đi Mỹ chưa?",
+        "你看[过]那个电影[没有]?\nBạn đã từng xem bộ phim đó chưa?"
+      ]
     },
     {
       "type": "text",
@@ -27,9 +34,11 @@
       "content": "Trong câu liên động khi muốn chỉ sự từng trải trong quá khứ, “过” thường được đặt sau động từ thứ hai. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(6) 我{去}那个饭店{吃}[过]饭。"
+      "items": [
+        "我{去}那个饭店{吃}[过]饭。\nTôi đã từng đến nhà hàng đó ăn cơm."
+      ]
     }
   ]
 }

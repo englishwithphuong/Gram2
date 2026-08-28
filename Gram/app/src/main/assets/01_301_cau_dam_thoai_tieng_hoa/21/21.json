@@ -4,7 +4,29 @@
     {
       "type": "text",
       "level": 1,
-      "content": "Trong tiếng Hoa có những động từ có thể lặp lại, gọi là động từ trùng điệp. Động từ trùng điệp chỉ động tác xảy ra trong thời gian ngắn, hoặc rất nhẹ nhàng, tùy tiện, có khi có thêm nghĩa là “thử”. Hình thức của động từ 1 âm tiết lặp lại là “AA”. Ví dụ “看看”、“听听”、“尝尝”, còn động từ hai âm tiết là “ABAB”. Ví dụ: “休息休息”、“介绍介绍”."
+      "content": "Trong tiếng Hoa có những động từ có thể lặp lại, gọi là động từ trùng điệp. Động từ trùng điệp chỉ động tác xảy ra trong thời gian ngắn, hoặc rất nhẹ nhàng, tùy tiện, có khi có thêm nghĩa là “thử”. Hình thức của động từ 1 âm tiết lặp lại là “AA”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "“看看”\nXem thử.",
+        "“听听”\nNghe thử.",
+        "“尝尝”\nNếm thử."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Còn động từ hai âm tiết là “ABAB”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "“休息休息”\nNghỉ ngơi một chút.",
+        "“介绍介绍”\nGiới thiệu một chút."
+      ]
     }
   ]
 }

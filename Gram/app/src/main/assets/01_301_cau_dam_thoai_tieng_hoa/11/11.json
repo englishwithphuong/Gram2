@@ -7,9 +7,13 @@
       "content": "“有” và tân ngữ của nó đứng làm vị ngữ trong câu gọi là câu có động từ “有”. Loại câu này biểu thị sự sở hữu. Dạng phủ định của nó là thêm từ “没” vào trước “有” (没有: không có) chứ không được dùng từ “不”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1)我[有]汉语书。\n(2)他[没有]哥哥。\n(3)他[没有]日语书。"
+      "items": [
+        "我[有]汉语书。\nTôi có sách tiếng Trung.",
+        "他[没有]哥哥。\nAnh ấy không có anh trai.",
+        "他[没有]日语书。\nAnh ấy không có sách tiếng Nhật."
+      ]
     }
   ]
 }

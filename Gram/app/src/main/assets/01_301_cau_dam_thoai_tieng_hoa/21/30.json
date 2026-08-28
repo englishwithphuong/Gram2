@@ -12,9 +12,13 @@
       "content": "Động từ “到” làm bổ ngữ kết quả thường chỉ người hoặc phương tiện di chuyển thông qua động tác đạt đến một địa điểm nào đó hoặc kéo dài đến một thời điểm nào đó, cũng có thể chỉ động tác tiến hành đến một mức độ nào đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他回[到]北京了。\n(2) 我们学[到]第十五课了。\n(3) 昨天晚上工作[到]十点。"
+      "items": [
+        "他回[到]北京了。\nAnh ấy đã trở về Bắc Kinh.",
+        "我们学[到]第十五课了。\nChúng tôi đã học đến bài 15 rồi.",
+        "昨天晚上工作[到]十点。\nTối hôm qua làm việc đến 10 giờ."
+      ]
     },
     {
       "type": "text",
@@ -22,9 +26,12 @@
       "content": "Dạng phủ định của câu có bổ ngữ kết quả là thêm “没(有)” vào phía trước động từ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(4) 我[没]买[到]那本书。\n(5) 大卫[没]找[到]玛丽。"
+      "items": [
+        "我[没]买[到]那本书。\nTôi không mua được quyển sách đó.",
+        "大卫[没]找[到]玛丽。\nDavid không tìm thấy Mary."
+      ]
     },
     {
       "type": "comment",

@@ -1,5 +1,5 @@
 {
-  "title": "“要 … 了” Sắp … rồi",
+  "title": "“要 … 了” — Sắp … rồi",
   "sections": [
     {
       "type": "text",
@@ -7,9 +7,13 @@
       "content": "Kiểu câu “要...了” chỉ một động tác hoặc một tình huống sắp sửa xảy ra. Phó từ “要” biểu thị “sắp sửa”, đặt trước động từ hoặc hình dung từ, cuối câu thêm trợ từ ngữ khí “了”. Trước từ “要” còn có thể thêm từ “就” hoặc “快” để chỉ thời gian cấp bách. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 火车[要]开[了]。\n(2) [快要]到北京[了]。\n(3) 他[就要]来[了]。"
+      "items": [
+        "火车[要]开[了]。\nTàu hỏa sắp chạy rồi.",
+        "[快要]到北京[了]。\nSắp đến Bắc Kinh rồi.",
+        "他[就要]来[了]。\nAnh ấy sắp đến rồi."
+      ]
     },
     {
       "type": "text",

@@ -7,9 +7,12 @@
       "content": "a. Động từ “着” làm bổ ngữ kết quả chỉ động tác đạt đến mục đích hoặc có kết quả. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 那本词典我买着了。\n(2) 我找着他了。"
+      "items": [
+        "那本词典我买[着]了。\nTôi đã mua được cuốn từ điển đó rồi.",
+        "我找[着]他了。\nTôi đã tìm thấy anh ấy rồi."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +20,12 @@
       "content": "b. “着” làm bổ ngữ khả năng chỉ ý “能...到” (có thể... được). Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 那本词典你买得着吗？\n(2) 我怎么猜得着那里边是什么呢？"
+      "items": [
+        "那本词典你买得[着]吗？\nBạn có mua được cuốn từ điển đó không?",
+        "我怎么猜得[着]那里边是什么呢？\nLàm sao tôi có thể đoán được bên trong đó là gì chứ?"
+      ]
     }
   ]
 }

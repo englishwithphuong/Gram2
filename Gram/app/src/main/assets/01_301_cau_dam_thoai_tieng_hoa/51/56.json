@@ -7,9 +7,12 @@
       "content": "“上” làm bổ ngữ kết quả có nhiều nghĩa. Bổ ngữ kết quả “上” của bài này nghĩa là thông qua động tác làm cho một sự vật (hay một hình ảnh) nào đó được giữ lại ở một nơi nào đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 那个楼照上了吗？\n(2) 在宿舍旁边种（zhòng – trồng）上很多花。"
+      "items": [
+        "那个楼照[上]了吗？\nĐã chụp tòa nhà đó chưa?",
+        "在宿舍旁边种[上]很多花。\nTrồng rất nhiều hoa bên cạnh ký túc xá."
+      ]
     }
   ]
 }

@@ -7,9 +7,14 @@
       "content": "Cũng giống như câu kiêm ngữ dùng động từ “请”, câu kiêm ngữ dùng động từ “让” cũng có nghĩa yêu cầu người khác làm một việc gì đó. Có điều câu kiêm ngữ dùng “请” thường dùng trong trường hợp tương đối khách khí hơn. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他让我带东西。\n(2) 公司让他回国。\n(3) 我让他给我照张相。\n(4) 他让我告诉你，明天去他家。"
+      "items": [
+        "他[让]我带东西。\nAnh ấy bảo tôi mang đồ.",
+        "公司[让]他回国。\nCông ty bảo anh ấy về nước.",
+        "我[让]他给我照张相。\nTôi bảo anh ấy chụp cho tôi một bức ảnh.",
+        "他[让]我告诉你，明天去他家。\nAnh ấy bảo tôi nói với bạn ngày mai đến nhà anh ấy."
+      ]
     }
   ]
 }

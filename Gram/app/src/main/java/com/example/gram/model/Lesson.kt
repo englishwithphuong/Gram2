@@ -12,7 +12,8 @@ data class Lesson(
 data class Section(
     val type: String,
     val level: Int = 1,
-    val content: String
+    val content: String? = null,
+    val items: List<String>? = null
 )
 
 data class LessonItem(

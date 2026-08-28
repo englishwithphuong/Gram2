@@ -7,9 +7,14 @@
       "content": "Bổ ngữ thời lượng dùng để nói rõ một động tác hoặc một trạng thái kéo dài trong một khoảng thời gian bao lâu. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我练了两个星期了。\n(2) 我们才休息了五分钟。\n(3) 火车开走一刻钟了。\n(4) 玛丽病了两天，没来上课。"
+      "items": [
+        "我练了两个星期了。\nTôi đã luyện tập được hai tuần rồi.",
+        "我们才休息了五分钟。\nChúng tôi mới nghỉ được 5 phút.",
+        "火车开走一刻钟了。\nTàu hỏa đã chạy được 15 phút rồi.",
+        "玛丽病了两天，没来上课。\nMary bị ốm hai ngày, không đến lớp."
+      ]
     }
   ]
 }

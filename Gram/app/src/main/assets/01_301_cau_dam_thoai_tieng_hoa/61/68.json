@@ -7,9 +7,14 @@
       "content": "Động từ “有” và dạng phủ định “没有” của nó có thể dùng để so sánh, biểu thị đạt tới hoặc chưa đạt tới một mức độ nào đó. Loại so sánh này thường dùng trong câu nghi vấn và dạng phủ định. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你有他高吗？\n(2) 那棵树（kē shù – cây）有五层楼那么高。\n(3) 广州没有北京冷。\n(4) 我没有你游得好。"
+      "items": [
+        "你[有]他高吗？\nBạn có cao bằng anh ấy không?",
+        "那棵树[有]五层楼那么高。\nCây đó cao bằng năm tầng lầu.",
+        "广州[没有]北京冷。\nQuảng Châu không lạnh bằng Bắc Kinh.",
+        "我[没有]你游得好。\nTôi bơi không giỏi bằng bạn."
+      ]
     }
   ]
 }

@@ -7,9 +7,13 @@
       "content": "Khi sau động từ mang tân ngữ mà còn có bổ ngữ trình độ thì phải lặp lại động từ. Động từ lặp lại ở sau tân ngữ, ở trước “得” và bổ ngữ trình độ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(7) 他说汉语说得很好。\n(8) 她做饭做得很不错。\n(9) 我写汉字写得不太好。"
+      "items": [
+        "他[说]汉语[说]{得}很好。\nAnh ấy nói tiếng Trung rất tốt.",
+        "她[做]饭[做]{得}很不错。\nCô ấy nấu ăn rất ngon.",
+        "我[写]汉字[写]{得}不太好。\nTôi viết chữ Hán không được tốt lắm."
+      ]
     }
   ]
 }

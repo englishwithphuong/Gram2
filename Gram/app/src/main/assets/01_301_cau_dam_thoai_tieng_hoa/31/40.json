@@ -7,9 +7,14 @@
       "content": "Tân ngữ của “从”, “在” nếu là một danh từ hay một đại từ chỉ người, thì phải thêm “这儿” hoặc “那儿” ở sau nó mới có thể chỉ nơi chốn được. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他[从]{我这儿}去书店。(Anh ấy từ chỗ tôi đi đến hiệu sách.)\n(2) 我[从]{张大夫那儿}来。(Tôi từ chỗ bác sĩ Trương đến.)\n(3) 我妹妹[在]{玛丽那儿}玩儿。(Em gái tôi chơi ở chỗ Mary.)\n(4) 我的笔[在]{他那儿}。(Bút của tôi ở chỗ anh ấy.)"
+      "items": [
+        "他[从]{我这儿}去书店。\nAnh ấy từ chỗ tôi đi đến hiệu sách.",
+        "我[从]{张大夫那儿}来。\nTôi từ chỗ bác sĩ Trương đến.",
+        "我妹妹[在]{玛丽那儿}玩儿。\nEm gái tôi chơi ở chỗ Mary.",
+        "我的笔[在]{他那儿}。\nBút của tôi ở chỗ anh ấy."
+      ]
     }
   ]
 }

@@ -7,9 +7,12 @@
       "content": "Đây là cách dùng để hỏi ý kiến của người khác sau khi đã đưa ra một đề nghị. Phần trước của câu hỏi là một câu kể. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你来我宿舍，[好吗]?\n(2) 明天去商店，[好吗]?"
+      "items": [
+        "你来我宿舍，[好吗]?\nBạn đến ký túc xá của tôi, được không?",
+        "明天去商店，[好吗]?\nNgày mai đi cửa hàng, được không?"
+      ]
     },
     {
       "type": "text",

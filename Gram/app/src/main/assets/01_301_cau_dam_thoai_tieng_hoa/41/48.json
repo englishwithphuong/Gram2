@@ -7,9 +7,14 @@
       "content": "Một động tác có thể ở các giai đoạn khác nhau như tiến hành, tiếp diễn hoặc hoàn thành... Muốn diễn tả động tác đang tiến hành, ta có thể thêm phó từ “正在”, “正”, “在” ở trước động từ, hoặc thêm trợ từ ngữ khí “呢” ở cuối câu. Có khi “正在”, “正”, “在” cũng được dùng đồng thời với “呢”. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 学生正在上课（呢）。\n(2) 他来的时候，我正看报（呢）。\n(3) 他在听音乐（呢）。\n(4) 他写信呢。"
+      "items": [
+        "学生[正在]上课[（呢）]。\nHọc sinh đang học.",
+        "他来的时候，我[正]看报[（呢）]。\nKhi anh ấy đến, tôi đang đọc báo.",
+        "他[在]听音乐[（呢）]。\nAnh ấy đang nghe nhạc.",
+        "他写信[呢]。\nAnh ấy đang viết thư."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +22,13 @@
       "content": "Động tác đang tiến hành có thể ở hiện tại, cũng có thể ở quá khứ hoặc tương lai. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你做什么呢？\n休息呢。（现在 – hiện tại）\n\n(2) 昨天我给你打电话的时候，你做什么呢？\n我做练习呢。（过去 – quá khứ）\n\n(3) 明天上午你去找他，他一定在上课。（将来 – tương lai）"
+      "items": [
+        "你做什么[呢]？\nBạn đang làm gì?\n[休]息呢。（现在）\nĐang nghỉ ngơi. (Hiện tại)",
+        "昨天我给你打电话的时候，你做什么[呢]？\nHôm qua khi tôi gọi điện cho bạn, bạn đang làm gì?\n我做练习[呢]。（过去）\nTôi đang làm bài tập. (Quá khứ)",
+        "明天上午你去找他，他一定[在]上课。（将来）\nSáng mai khi bạn đi tìm anh ấy, chắc chắn anh ấy sẽ đang học. (Tương lai)"
+      ]
     }
   ]
 }

@@ -7,14 +7,19 @@
       "content": "Giới từ “比” có thể dùng để so sánh tính chất, đặc điểm của hai sự vật. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他比我忙。\n(2) 他二十岁，我十九岁，他比我大。\n(3) 今天比昨天暖和。\n(4) 他唱歌唱得比我好。"
+      "items": [
+        "他[比]我忙。\nAnh ấy bận hơn tôi.",
+        "他二十岁，我十九岁，他[比]我大。\nAnh ấy 20 tuổi, tôi 19 tuổi, anh ấy lớn hơn tôi.",
+        "今天[比]昨天暖和。\nHôm nay ấm hơn hôm qua.",
+        "他唱歌唱得[比]我好。\nAnh ấy hát hay hơn tôi."
+      ]
     },
     {
       "type": "text",
       "level": 1,
-      "content": "Trong câu có từ “比” không thể dùng thêm các phó từ chỉ mức độ như “很, 非常, 太...”. Ví dụ như không thể nói “他比我很大” hoặc “今天比昨天非常暖和” v.v..."
+      "content": "Trong câu có từ “比” không thể dùng thêm các phó từ chỉ mức độ như “很, 非常, 太...”. Ví dụ như không thể nói “他[比]我{很}大” hoặc “今天[比]昨天{非常}暖和” v.v..."
     }
   ]
 }

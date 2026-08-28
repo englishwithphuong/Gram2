@@ -7,9 +7,12 @@
       "content": "Từ ngữ chỉ thời đoạn làm trạng ngữ chỉ rõ trong một khoảng thời gian như vậy hoàn thành một động tác hay xuất hiện một tình huống nào đó. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他两天看了一本书。\n(2) 我们好几年没见面了。"
+      "items": [
+        "他[两天]看了一本书。\nTrong hai ngày, anh ấy đã đọc xong một quyển sách.",
+        "我们[好几年]没见面了。\nChúng tôi đã không gặp nhau nhiều năm rồi."
+      ]
     }
   ]
 }

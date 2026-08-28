@@ -7,9 +7,14 @@
       "content": "Trong câu vị ngữ động từ có nhiều động từ hoặc ngữ động từ dùng liền nhau cùng có chung một chủ ngữ, ta gọi đó là câu liên động. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我[去]{问}他。\n(2) 王林常[去]{看}电影。\n(3) 星期天大卫[来]我家{玩儿}。\n(4) 我[去]他宿舍{看}他。"
+      "items": [
+        "我[去]{问}他。\nTôi đi hỏi anh ấy.",
+        "王林常[去]{看}电影。\nVương Lâm thường đi xem phim.",
+        "星期天大卫[来]我家{玩儿}。\nChủ nhật, David đến nhà tôi chơi.",
+        "我[去]他宿舍{看}他。\nTôi đến ký túc xá của anh ấy thăm anh ấy."
+      ]
     }
   ]
 }

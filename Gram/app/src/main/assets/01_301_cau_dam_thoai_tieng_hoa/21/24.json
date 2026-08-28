@@ -7,9 +7,12 @@
       "content": "Trong tiếng Hoa có một số động từ có thể mang hai tân ngữ, tân ngữ đứng trước là tân ngữ gián tiếp (thường chỉ người), tân ngữ đứng sau là tân ngữ trực tiếp (thường chỉ vật). Loại câu này gọi là câu vị ngữ động từ có hai tân ngữ. Ví dụ:"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 我给[你]{一本书}。\n(2) 他找[我]{八毛钱}。"
+      "items": [
+        "我给[你]{一本书}。\nTôi đưa cho bạn một cuốn sách.",
+        "他找[我]{八毛钱}。\nAnh ấy trả lại tôi tám hào tiền thừa."
+      ]
     }
   ]
 }

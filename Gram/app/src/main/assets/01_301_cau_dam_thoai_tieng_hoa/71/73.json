@@ -7,9 +7,12 @@
       "content": "1. 用副词“更”、“最”表示比较 – Dùng phó từ “更” và “最” để so sánh"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 他汉语说得很好，他哥哥说得更好。\n(2) 这次考试他的成绩最好。"
+      "items": [
+        "他汉语说得很好，他哥哥说得更好。\nAnh ấy nói tiếng Anh rất tốt, anh trai cậu ấy nói còn tốt hơn.",
+        "这次考试他的成绩最好。\nKỳ thi lần này thành tích của cậu ấy là tốt nhất."
+      ]
     },
     {
       "type": "text",
@@ -17,9 +20,13 @@
       "content": "2. “有”表示比较 – Dùng “有” để so sánh"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 你弟弟有你这么高吗？\n(2) 这种苹果没有那种好吃。\n(3) 我没有他唱得好。\n（我唱得没有他好）\n（我唱歌唱得没有他好）"
+      "items": [
+        "你弟弟有你这么高吗？\nEm trai bạn có cao bằng bạn không?",
+        "这种苹果没有那种好吃。\nLoại táo này không ngon bằng loại kia.",
+        "我没有他唱得好。\n(我唱得没有他好)\n(我唱歌唱得没有他好)\nTôi hát không hay bằng anh ấy."
+      ]
     },
     {
       "type": "text",
@@ -27,9 +34,12 @@
       "content": "3. “跟...一样”表示比较 – Dùng “跟...一样” để so sánh"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 今天的天气跟昨天一样。\n(2) 我买的毛衣跟你的一样贵。"
+      "items": [
+        "今天的天气跟昨天一样。\nThời tiết hôm nay giống như hôm qua.",
+        "我买的毛衣跟你的一样贵。\nChiếc áo len tôi mua đắt bằng chiếc của bạn."
+      ]
     },
     {
       "type": "text",
@@ -42,9 +52,14 @@
       "content": "4. 用“比”表示比较 – Dùng “比” để so sánh"
     },
     {
-      "type": "text",
+      "type": "numbered",
       "level": 2,
-      "content": "(1) 今天比昨天热。\n(2) 我的自行车比他的新一点儿。\n(3) 他买的词典比我买的便宜两块钱。\n(4) 他打排球比我打得好得多。\n（他打排球打得比我好得多）。"
+      "items": [
+        "今天比昨天热。\nHôm nay nóng hơn hôm qua.",
+        "我的自行车比他的新一点儿。\nXe đạp của tôi mới hơn của anh ấy một chút.",
+        "他买的词典比我买的便宜两块钱。\nCuốn từ điển anh ấy mua rẻ hơn cuốn tôi mua 2 tệ.",
+        "他打排球比我打得好得多。\n(他打排球打得比我好得多)\nAnh ấy đánh bóng chuyền giỏi hơn tôi rất nhiều."
+      ]
     },
     {
       "type": "text",

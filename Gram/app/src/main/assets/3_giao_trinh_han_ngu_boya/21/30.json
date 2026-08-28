@@ -1,0 +1,25 @@
+{
+  "title": "每……都…… Mỗi, từng... đều",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你[每天都]有很多作业吗?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị không có ngoại lệ. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[每天早上都]喝咖啡。\nWǒ [měi tiān zǎoshang dōu] hē kāfēi.\nTôi [mỗi buổi sáng đều] uống cà phê.",
+        "他们[每个人都]知道。\nTāmen [měi gè rén dōu] zhīdào.\nBọn họ [mỗi người đều] biết.",
+        "这儿[每天都]下雨。\nZhèr [měi tiān dōu] xià yǔ.\nỞ đây [ngày nào cũng] mưa.",
+        "大卫[每个周末都]去酒吧。\nDàwèi [měi gè zhōumò dōu] qù jiǔbā.\nDavid [cuối tuần nào cũng] đến quán bar."
+      ]
+    }
+  ]
+}

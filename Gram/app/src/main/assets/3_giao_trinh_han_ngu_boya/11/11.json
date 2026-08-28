@@ -1,0 +1,24 @@
+{
+  "title": "Danh từ phương vị (1)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "图书馆在那儿,[宿舍楼的北边]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "东(dōng) / 西(xī) / 南(nán) / 北(běi) + 边 → 东边 / 西边 / 南边 / 北边\nĐông / Tây / Nam / Bắc + 边 → phía đông / phía tây / phía nam / phía bắc."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "教学楼在图书馆的[北边]。\nJiàoxuélóu zài túshūguǎn de [běibian].\nTòa nhà giảng dạy ở [phía bắc] thư viện.",
+        "李军在大卫的[右边]。\nLǐ Jūn zài Dàwèi de [yòubian].\nLý Quân ở [bên phải] David.",
+        "日本在中国的[东边]。\nRìběn zài Zhōngguó de [dōngbian].\nNhật Bản ở [phía đông] Trung Quốc."
+      ]
+    }
+  ]
+}

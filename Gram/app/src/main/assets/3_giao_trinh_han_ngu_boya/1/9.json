@@ -1,0 +1,38 @@
+{
+  "title": "Ở: “在 / 是”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "图书馆[在]哪儿?/这儿[是]图书馆吗?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Danh từ + [在] + phương vị"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "图书馆[在]那儿。\nTúshūguǎn [zài] nàr.\nThư viện [ở] đằng kia.",
+        "加拿大[在]美国的北边。\nJiānádà [zài] Měiguó de běibian.\nCanada [ở] phía bắc của Hoa Kỳ.",
+        "教学楼[在]宿舍楼的右边。\nJiàoxuélóu [zài] sùshèlóu de yòubian.\nTòa nhà giảng dạy [ở] bên phải ký túc xá."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Phương vị + [是] + danh từ"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "那儿[是]宿舍楼。\nNàr [shì] sùshèlóu.\nĐằng kia [là] ký túc xá.",
+        "教学楼的北边[是]图书馆。\nJiàoxuélóu de běibian [shì] túshūguǎn.\nPhía bắc của tòa nhà giảng dạy [là] thư viện.",
+        "玛丽的左边[是]大卫。\nMǎlì de zuǒbian [shì] Dàwèi.\nBên trái của Mary [là] David."
+      ]
+    }
+  ]
+}

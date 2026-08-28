@@ -1,0 +1,26 @@
+{
+  "title": "(正在/在)……呢 Đang...",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你[在干什么呢]?/他们[正在唱歌呢]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“正在……呢”“在……呢”“……呢” biểu thị động tác đang tiến hành hoặc trạng thái đang tồn tại. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[正在看电影呢]。\nWǒ [zhèngzài kàn diànyǐng ne].\nTôi [đang xem phim].",
+        "大卫[正在喝啤酒呢]。\nDàwèi [zhèngzài hē píjiǔ ne].\nDavid [đang uống bia].",
+        "张红[在唱歌呢]。\nZhāng Hóng [zài chànggē ne].\nTrương Hồng [đang hát].",
+        "外面[下雨呢]。\nWàimiàn [xià yǔ ne].\nBên ngoài [đang mưa].",
+        "A:你现在[干什么呢]?\nB:[上课呢]。\nA: Nǐ xiànzài [gàn shénme ne]?\nB: [Shàng kè ne].\nA: Bạn bây giờ [đang làm gì vậy]?\nB: [Đang lên lớp/Đang học]."
+      ]
+    }
+  ]
+}

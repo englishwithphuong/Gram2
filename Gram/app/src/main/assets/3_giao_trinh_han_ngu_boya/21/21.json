@@ -1,0 +1,24 @@
+{
+  "title": "几 và 多少(1)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你的房间号是[多少]?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“几” và “多少” đều có thể được dùng để hỏi số. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你的宿舍是[几]号楼?\nNǐ de sùshè shì [jǐ] hào lóu?\nKý túc xá của bạn là tòa nhà số [mấy]?",
+        "大卫的电话号码是[多少]?\nDàwèi de diànhuà hàomǎ shì [duōshao]?\nSố điện thoại của David là [bao nhiêu]?",
+        "张红的房间号是[多少]?\nZhāng Hóng de fángjiān hào shì [duōshao]?\nSố phòng của Trương Hồng là [bao nhiêu]?"
+      ]
+    }
+  ]
+}

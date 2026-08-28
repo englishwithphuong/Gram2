@@ -1,0 +1,24 @@
+{
+  "title": "“得” Phải",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "做馅儿就[得]花很多时间呢。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“得” dùng trước động từ để biểu thị sự bất đắc dĩ. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "包饺子比较麻烦，[得]花很多时间。\nBāo jiǎozi bǐjiào máfan, [děi] huā hěn duō shíjiān.\nGói sủi cảo tương đối phiền phức, [phải] tốn rất nhiều thời gian.",
+        "明天早上八点有课，我[得]七点起床。\nMíngtiān zǎoshang bā diǎn yǒu kè, wǒ [děi] qī diǎn qǐchuáng.\nNgày mai 8 giờ sáng có tiết, tôi [phải] dậy lúc 7 giờ.",
+        "今天很冷，零下五度。不过，我[得]去学校上课。\nJīntiān hěn lěng, língxià wǔ dù. Búguò, wǒ [děi] qù xuéxiào shàng kè.\nHôm nay rất lạnh, âm 5 độ. Tuy nhiên, tôi [phải] đến trường lên lớp."
+      ]
+    }
+  ]
+}

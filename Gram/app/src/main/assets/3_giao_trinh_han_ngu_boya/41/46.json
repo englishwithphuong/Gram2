@@ -1,0 +1,24 @@
+{
+  "title": "Câu nghi vấn (1)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "超市[不是]有速冻饺子[吗]？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng “不是...吗?” để hỏi có tác dụng nhấn mạnh sự khẳng định. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "A: 我不会说英语。\nB: 你[不是]美国人[吗]？\nA: Wǒ bú huì shuō yīngyǔ.\nB: Nǐ [bú shì] Měiguórén [ma]?\nA: Tôi không biết nói tiếng Anh.\nB: Bạn [không phải là] người Mỹ [sao]?",
+        "A: 我不认识他。\nB: 你们[不是]朋友[吗]？\nA: Wǒ bú rènshi tā.\nB: Nǐmen [bú shì] péngyou [ma]?\nA: Tôi không quen anh ấy.\nB: Các cậu [chẳng phải là] bạn bè [sao]?",
+        "A: 我喝茶。\nB: 你[不是]喜欢喝咖啡[吗]？\nA: Wǒ hē chá.\nB: Nǐ [bú shì] xǐhuan hē kāfēi [ma]?\nA: Tôi uống trà.\nB: Cậu [chẳng phải] thích uống cà phê [sao]?"
+      ]
+    }
+  ]
+}

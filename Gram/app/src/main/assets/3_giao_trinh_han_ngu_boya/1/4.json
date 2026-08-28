@@ -1,0 +1,24 @@
+{
+  "title": "Cũng: “也”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我[也]很高兴。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị cùng loại. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你是学生,我[也]是学生。\nNǐ shì xuéshēng, wǒ [yě] shì xuéshēng.\nBạn là học sinh, tôi [cũng] là học sinh.",
+        "你们不是老师,我们[也]不是老师。\nNǐmen bú shì lǎoshī, wǒmen [yě] bú shì lǎoshī.\nCác bạn không phải là giáo viên, chúng tôi [cũng] không phải là giáo viên.",
+        "李军是中国人,刘明[也]是中国人。\nLǐ Jūn shì Zhōngguórén, Liú Míng [yě] shì Zhōngguórén.\nLý Quân là người Trung Quốc, Lưu Minh [cũng] là người Trung Quốc."
+      ]
+    }
+  ]
+}

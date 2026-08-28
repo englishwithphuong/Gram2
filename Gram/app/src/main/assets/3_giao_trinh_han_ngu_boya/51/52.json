@@ -1,0 +1,23 @@
+{
+  "title": "“又” Lại",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "昨天晚上[又]熬夜了吗？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“又” biểu thị sự lặp lại của những sự việc đã phát sinh. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他今天上午[又]睡懒觉了。\nTā jīntiān shàngwǔ [yòu] shuì lǎnjiào le.\nSáng nay anh ấy [lại] ngủ nướng rồi.",
+        "(她昨天去图书馆了，)她今天[又]去图书馆了。\n(Tā zuótiān qù túshūguǎn le,) tā jīntiān [yòu] qù túshūguǎn le.\n(Hôm qua cô ấy đã đi thư viện,) hôm nay cô ấy [lại] đi thư viện rồi."
+      ]
+    }
+  ]
+}

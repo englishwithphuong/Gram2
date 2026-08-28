@@ -1,0 +1,24 @@
+{
+  "title": "Phó từ “好像”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你[好像]还很困，继续睡吧！"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“好像” dùng cho những phán đoán chưa chắc chắn. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "老师[好像]没有生气。\nLǎoshī [hǎoxiàng] méiyǒu shēngqì.\nThầy cô [hình như] không tức giận.",
+        "你[好像]很困，昨天熬夜了吗？\nNǐ [hǎoxiàng] hěn kùn, zuótiān áoyè le ma?\nCậu [hình như] rất buồn ngủ, tối qua thức khuya à?",
+        "你[好像]有点儿不舒服，是吗？\nNǐ [hǎoxiàng] yǒudiǎnr bù shūfu, shì ma?\nCậu [hình như] hơi khó chịu, phải không?"
+      ]
+    }
+  ]
+}

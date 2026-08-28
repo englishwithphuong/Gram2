@@ -1,0 +1,25 @@
+{
+  "title": "Cụm từ chữ “的”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[白的]容易脏。这件[蓝的]怎么样?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“X+的” có thể tạo thành cụm từ chữ “的”,“X” có thể là danh từ (thí dụ (1)), đại từ (thí dụ (2)), động từ (thí dụ (3)) hoặc tính từ (thí dụ (4))... Chức năng của cụm từ chữ “的” tương đương với một danh từ."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这本词典是[英文的]。\nZhè běn cídiǎn shì [Yīngwén de].\nCuốn từ điển này là [của tiếng Anh / bản tiếng Anh].",
+        "那辆自行车是[我的]。\nNà liàng zìxíngchē shì [wǒ de].\nChiếc xe đạp kia là [của tôi].",
+        "她[买的]便宜,我[买的]贵。\nTā [mǎi de] piányi, wǒ [mǎi de] guì.\nCái [cô ấy mua] rẻ, cái [tôi mua] đắt.",
+        "玛丽的毛衣是[红的]。\nMǎlì de máoyī shì [hóng de].\nÁo len của Mary là [màu đỏ / chiếc màu đỏ]."
+      ]
+    }
+  ]
+}

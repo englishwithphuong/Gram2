@@ -1,0 +1,24 @@
+{
+  "title": "Trật tự từ của trạng ngữ thời gian, trạng ngữ địa điểm",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我们明天八点半[在你们宿舍门口]见面。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "S + 时间 + 在 + 地方 + V / 时间 + S + 在 + 地方 + V"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "今天下课以后[在图书馆]学习。\nJīntiān xiàkè yǐhòu [zài túshūguǎn] xuéxí.\nChiều nay sau khi tan học (tôi) học tập [ở thư viện].",
+        "我晚上七点[在电影院门口]等你。\nWǒ wǎnshang qī diǎn [zài diànyǐngyuàn ménkǒu] děng nǐ.\n7 giờ tối tôi đợi bạn [ở cửa rạp chiếu phim].",
+        "他每天早上[在学校食堂]吃早饭。\nTā měitiān zǎoshang [zài xuéxiào shítáng] chī zǎofàn.\nHàng ngày vào buổi sáng anh ấy ăn sáng [ở nhà ăn của trường]."
+      ]
+    }
+  ]
+}

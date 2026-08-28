@@ -1,0 +1,24 @@
+{
+  "title": "不A不B",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "北京的秋天[不冷不热],很舒服,是最好的季节。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“不A不B” biểu thị mức độ vừa phải, A và B là những tính từ trái nghĩa nhau. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "不大不小\nbù dà bù xiǎo\nkhông to không nhỏ (vừa phải)",
+        "不早不晚\nbù zǎo bù wǎn\nkhông sớm không muộn (vừa đúng lúc)",
+        "不快不慢\nbù kuài bù màn\nkhông nhanh không chậm (vừa phải)"
+      ]
+    }
+  ]
+}

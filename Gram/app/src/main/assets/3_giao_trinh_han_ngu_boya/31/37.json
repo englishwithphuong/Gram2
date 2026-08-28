@@ -1,0 +1,25 @@
+{
+  "title": "有(一)点儿 hơi chút",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "这件的颜色[有点儿]深,我喜欢浅颜色的。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "有(一)点儿 đặt trước hình dung từ, biểu thị ý không nhiều, một chút. Thường chỉ những sự việc không mong muốn, “一” có thể lược bỏ."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "今天[有点儿]冷。\nJīntiān [yǒudiǎnr] lěng.\nHôm nay [hơi] lạnh.",
+        "黑颜色的[有点儿]深。\nHēi yánsè de [yǒudiǎnr] shēn.\nMàu đen [hơi] đậm.",
+        "那儿的东西[有(一)点儿]贵。\nNà'er de dōngxi [yǒu (yī) diǎnr] guì.\nĐồ ở đó [hơi] đắt.",
+        "他[有(一)点儿]不高兴。\nTā [yǒu (yī) diǎnr] bù gāoxìng.\nAnh ấy [hơi] không vui."
+      ]
+    }
+  ]
+}

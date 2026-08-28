@@ -1,0 +1,24 @@
+{
+  "title": "Danh từ chỉ thời gian làm trạng ngữ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[今天晚上]你有时间吗?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Danh từ chỉ thời gian đặt trước động từ làm trạng ngữ.\nThí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[明天八点]有课。\nWǒ [míngtiān bā diǎn] yǒu kè.\nTôi có tiết học [vào lúc 8 giờ ngày mai].",
+        "电影院[晚上]有电影。\nDiànyǐngyuàn [wǎnshang] yǒu diànyǐng.\nRạp chiếu phim có phim [vào buổi tối].",
+        "大卫[下午]有事。\nDàwèi [xiàwǔ] yǒu shì.\nDavid có việc [vào buổi chiều]."
+      ]
+    }
+  ]
+}

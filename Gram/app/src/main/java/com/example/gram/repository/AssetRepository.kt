@@ -144,7 +144,8 @@ private fun getSortedAssetFolders(context: Context): List<String> {
 private fun formatSourceName(folderName: String): String {
     val nameMap = mapOf(
         "1_301_cau_dam_thoai_tieng_hoa" to "301 Câu Đàm Thoại Tiếng Hoa",
-        "2_100_cau_truc_ngu_phap_tieng_trung_thong_dung" to "100 Cấu Trúc Ngữ Pháp Tiếng Trung Thông Dụng"
+        "2_100_cau_truc_ngu_phap_tieng_trung_thong_dung" to "100 Cấu Trúc Ngữ Pháp Tiếng Trung Thông Dụng",
+        "3_giao_trinh_han_ngu_boya" to "Giáo Trình Hán Ngữ Boya"
     )
     return nameMap[folderName] ?: folderName
 }

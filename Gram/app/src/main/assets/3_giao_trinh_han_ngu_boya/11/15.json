@@ -1,0 +1,24 @@
+{
+  "title": "Trợ từ “吧” (1)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你有自行车[吧]?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“吧” đặt ở cuối câu nghi vấn, có ý nghĩa yêu cầu xác nhận. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你是美国留学生[吧]?\nNǐ shì Měiguó liúxuéshēng [ba]?\nBạn là du học sinh Mỹ [đúng không]?",
+        "那是图书馆[吧]?\nNà shì túshūguǎn [ba]?\nKia là thư viện [đúng không]?",
+        "你们明天有汉语课[吧]?\nNǐmen míngtiān yǒu Hànyǔ kè [ba]?\nNgày mai các bạn có tiết tiếng Trung [đúng không]?"
+      ]
+    }
+  ]
+}

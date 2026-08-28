@@ -1,0 +1,42 @@
+{
+  "title": "Hậu tố “们”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "同学[们]好！"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị số nhiều, chỉ dùng sau đại từ hoặc danh từ chỉ người."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Hình thức đại từ + 们: 你 / 我 / 她 / 他 + 们"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你[们]好！\nNǐ[men] hǎo!\nChào các bạn!",
+        "他[们]是美国人。\nTā[men] shì Měiguórén.\nHọ là người Mỹ.",
+        "我[们]是留学生。\nWǒ[men] shì liúxuéshēng.\nChúng tôi là lưu học sinh."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Hình thức danh từ + 们: 同学 / 老师 + 们"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "老师[们]好！\nLǎoshī[men] hǎo!\nChào thầy cô!",
+        "同学[们]好吗？\nTóngxué[men] hǎo ma?\nCác bạn học sinh khỏe không?"
+      ]
+    }
+  ]
+}

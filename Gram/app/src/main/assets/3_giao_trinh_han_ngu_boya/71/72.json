@@ -1,0 +1,38 @@
+{
+  "title": "“都” Đều",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "现在我每天复习，看书看得头疼，[都]快累死了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Phó từ chỉ phạm vi, biểu thị toàn bộ, tất cả. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的朋友[都]来了。\nWǒ de péngyou [dōu] lái le.\nBạn của tôi [đều] đến rồi.",
+        "大家[都]对汉语感兴趣。\nDàjiā [dōu] duì hànyǔ gǎn xìngqù.\nMọi người [đều] có hứng thú với tiếng Trung.",
+        "从星期一到星期五，我们每天[都]有课。\nCóng xīngqīyī dào xīngqīwǔ, wǒmen měitiān [dōu] yǒu kè.\nTừ thứ Hai đến thứ Sáu, ngày nào chúng tôi [cũng] có lớp."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Phó từ chỉ thời gian, biểu thị “đã”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[都]八点半了，你怎么还不起床？\n[Dōu] bā diǎn bàn le, nǐ zěnme hái bù qǐchuáng?\n[Đã] 8 giờ rưỡi rồi, sao cậu vẫn chưa dậy?",
+        "我[都]学了一年英语了，还不会说。\nWǒ [dōu] xué le yì nián yīngyǔ le, hái bú huì shuō.\nTôi [đã] học tiếng Anh một năm rồi mà vẫn chưa biết nói.",
+        "他[都]来北京半年了，还没有中国朋友。\nTā [dōu] lái Běijīng bàn nián le, hái méi yǒu Zhōngguó péngyou.\nCậu ấy [đã] đến Bắc Kinh nửa năm rồi mà vẫn chưa có bạn người Trung Quốc."
+      ]
+    }
+  ]
+}

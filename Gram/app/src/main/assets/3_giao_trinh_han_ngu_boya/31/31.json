@@ -1,0 +1,25 @@
+{
+  "title": "Câu liên động",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我[去图书馆借书]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Câu liên động có dạng S + VP₁ + VP₂, trong đó VP₂ có thể là mục đích của VP₁. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[去商店买东西]。\nWǒ [qù shāngdiàn mǎi dōngxi].\nTôi [đi cửa hàng mua đồ].",
+        "大卫[去银行换钱]。\nDàwèi [qù yínháng huàn qián].\nDavid [đến ngân hàng đổi tiền].",
+        "玛丽[去图书馆做作业]。\nMǎlì [qù túshūguǎn zuò zuòyè].\nMary [đến thư viện làm bài tập].",
+        "学生们[去教学楼上课]。\nXuéshēngmen [qù jiàoxuélóu shàng kè].\nCác học sinh [đến tòa nhà dạy học lên lớp]."
+      ]
+    }
+  ]
+}

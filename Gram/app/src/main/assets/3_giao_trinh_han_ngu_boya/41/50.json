@@ -1,0 +1,38 @@
+{
+  "title": "“就” và “才”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "有时候夜里两点钟[才]睡。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) “就” nhấn mạnh động tác, hành vi phát sinh sớm hoặc nhanh. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他上个星期[就]回国了。\nTā shàng gè xīngqī [jiù] huíguó le.\nCậu ấy tuần trước [đã] về nước rồi.",
+        "玛丽早上六点[就]起床了。\nMǎlì zǎoshang liù diǎn [jiù] qǐchuáng le.\nMary 6 giờ sáng [đã] ngủ dậy rồi.",
+        "妹妹三岁[就]开始学习跳舞了。\nMèimei sān suì [jiù] kāishǐ xuéxí tiàowǔ le.\nEm gái 3 tuổi [đã] bắt đầu học khiêu vũ rồi."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) “才” nhấn mạnh động tác, hành vi phát sinh muộn hoặc chậm. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他早上六点就起床了，我九点[才]起床。\nTā zǎoshang liù diǎn jiù qǐchuáng le, wǒ jiǔ diǎn [cái] qǐchuáng.\nCậu ấy 6 giờ sáng đã ngủ dậy rồi, tôi 9 giờ [mới] ngủ dậy.",
+        "玛丽七点半就去教室了，大卫八点半[才]去。\nMǎlì qī diǎn bàn jiù qù jiàoshì le, Dàwèi bā diǎn bàn [cái] qù.\nMary 7 giờ rưỡi đã đến phòng học rồi, David 8 giờ rưỡi [mới] đi.",
+        "爷爷六十岁以后[才]开始学习英语。\nYéye liùshí suì yǐhòu [cái] kāishǐ xuéxí yīngyǔ.\nÔng nội từ sau 60 tuổi [mới] bắt đầu học tiếng Anh."
+      ]
+    }
+  ]
+}

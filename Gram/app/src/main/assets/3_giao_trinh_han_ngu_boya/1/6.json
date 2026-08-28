@@ -1,0 +1,25 @@
+{
+  "title": "Này, đây / Kia, đó: “这 / 那”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "那是谁的书?/这是什么杂志?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“这” biểu thị người, vật ở khoảng cách gần; “那” biểu thị người, vật ở khoảng cách xa. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[这]是汉语课本。\n[Zhè] shì Hànyǔ kèběn.\n[Đây] là giáo trình tiếng Trung.",
+        "[这]是老师的书。\n[Zhè] shì lǎoshī de shū.\n[Đây] là sách của giáo viên.",
+        "[那]是音乐杂志。\n[Nà] shì yīnyuè zázhì.\n[Kia] là tạp chí âm nhạc.",
+        "[那]是朋友的词典。\n[Nà] shì péngyou de cídiǎn.\n[Kia] là từ điển của bạn."
+      ]
+    }
+  ]
+}

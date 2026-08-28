@@ -1,0 +1,23 @@
+{
+  "title": "Ở đâu: “哪儿”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "图书馆在=[哪儿]?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“哪儿” là đại từ nghi vấn, dùng để hỏi nơi chốn, phía sau không cần thêm “吗”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的书[在哪儿]?\nWǒ de shū [zài nǎr]?\nSách của tôi [ở đâu]?",
+        "你们的宿舍楼[在哪儿]?\nNǐmen de sùshèlóu [zài nǎr]?\nKý túc xá của các bạn [ở đâu]?"
+      ]
+    }
+  ]
+}

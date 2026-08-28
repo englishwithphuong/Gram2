@@ -1,0 +1,24 @@
+{
+  "title": "“会” (2)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "也许[会]让你表演一个节目。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Được dùng để phán đoán những sự việc sắp xảy ra. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我有一本给留学生编的汉字故事书，借给你看看吧，也许[会]有帮助。\nWǒ yǒu yì běn gěi liúxuéshēng biān de hànzì gùshi shū, jiè gěi nǐ kàn kan ba, yěxǔ [huì] yǒu bāngzhù.\nTôi có một cuốn sách câu chuyện chữ Hán biên soạn cho lưu học sinh, cho bạn mượn xem thử nhé, có lẽ [sẽ] có ích đấy.",
+        "明天[会]下雪吗？\nMíngtiān [huì] xià xuě ma?\nNgày mai [sẽ] có tuyết rơi chứ?",
+        "这么晚了，他可能[不]会来了。\nZhème wǎn le, tā kěnéng [bú] huì lái le.\nMuộn thế này rồi, cậu ấy có lẽ [sẽ] không đến nữa đâu."
+      ]
+    }
+  ]
+}

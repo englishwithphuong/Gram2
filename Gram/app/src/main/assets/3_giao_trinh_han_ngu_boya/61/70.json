@@ -1,0 +1,26 @@
+{
+  "title": "想 / 要 Muốn",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我[想]考研究生，所以得抓紧时间复习复习。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“想” và “要” đều biểu thị ý nguyện chủ quan: “想” thường biểu thị có ý nguyện nhưng hành động chưa chắc được thực hiện; “要” lại biểu thị quyết tâm hành động, thường không dùng thể phủ định. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[想/要]学英语，也[想/要]学日语。\nWǒ [xiǎng/yào] xué yīngyǔ, yě [xiǎng/yào] xué rìyǔ.\nTôi [muốn] học tiếng Anh, cũng [muốn] học tiếng Nhật.",
+        "我[想/要]买一件衣服，你和我一起去吗？\nWǒ [xiǎng/yào] mǎi yí jiàn yīfu, nǐ hé wǒ yìqǐ qù ma?\nTôi [muốn] mua một chiếc áo, bạn đi cùng tôi nhé?",
+        "放假了，可是我[不]想去旅行，我[要]复习功课。\nFàngjià le, kěshì wǒ [bù] xiǎng qù lǚxíng, wǒ [yào] fùxí gōngkè.\nĐược nghỉ lễ rồi, nhưng tôi không [muốn] đi du lịch, tôi [muốn] ôn tập bài vở.",
+        "我[不]想考研究生，可是我爸爸让我考。（❌ 不要）\nWǒ [bù] xiǎng kǎo yánjiūshēng, kěshì wǒ bàba ràng wǒ kǎo.\nTôi không [muốn] thi cao học, nhưng bố tôi bắt tôi thi.",
+        "我一[定要]考研究生。（❌ 想）\nWǒ yí[dìng yào] kǎo yánjiūshēng.\nTôi nhất [định phải] thi cao học."
+      ]
+    }
+  ]
+}

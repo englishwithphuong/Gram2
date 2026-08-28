@@ -1,0 +1,24 @@
+{
+  "title": "“太……了” …quá, lắm",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "明天又是周末，[太]高兴[了]！"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“太……了” biểu thị trình độ rất cao, thường dùng khi cảm thán, có lúc có ý nghĩa “quá mức”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "今天[太]冷[了]。\nJīntiān [tài] lěng [le].\nHôm nay [quá] lạnh.",
+        "这个房间[太]舒服[了]。\nZhè gè fángjiān [tài] shūfu [le].\nPhòng này [quá] dễ chịu.",
+        "这件毛衣的颜色[太]浅[了]，我不喜欢。\nZhè jiàn máoyī de yánsè [tài] qiǎn [le], wǒ bù xǐhuan.\nMàu của chiếc áo len này [quá] nhạt, tôi không thích."
+      ]
+    }
+  ]
+}

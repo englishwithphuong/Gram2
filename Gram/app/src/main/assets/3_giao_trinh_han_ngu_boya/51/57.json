@@ -1,0 +1,38 @@
+{
+  "title": "Cách biểu đạt ngày tháng",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "2012[年]11[月]15[日]"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Thứ tự biểu đạt ngày tháng trong tiếng Hán là: năm + tháng + ngày. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "1999[年]4[月]3[日]\n1999 nián 4 yuè 3 rì\nNgày 3 tháng 4 năm 1999",
+        "2003[年]6[月]28[日]\n2003 nián 6 yuè 28 rì\nNgày 28 tháng 6 năm 2003",
+        "1972[年]12[月]31[日]\n1972 nián 12 yuè 31 rì\nNgày 31 tháng 12 năm 1972"
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Trong khẩu ngữ, thường dùng “号”, không dùng “日”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "4[月]3[号]\n4 yuè 3 hào\nNgày 3 tháng 4",
+        "6[月]28[号]\n6 yuè 28 hào\nNgày 28 tháng 6",
+        "12[月]31[号]\n12 yuè 31 hào\nNgày 31 tháng 12"
+      ]
+    }
+  ]
+}

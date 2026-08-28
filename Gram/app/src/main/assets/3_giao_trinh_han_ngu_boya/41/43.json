@@ -1,0 +1,24 @@
+{
+  "title": "“会” (1) Biết",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你们[会]包吗？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Đứng trước động từ để biểu thị năng lực. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[会]包饺子。\nWǒ [huì] bāo jiǎozi.\nTôi [biết] gói sủi cảo.",
+        "我[会]说英语，他不[会]说英语。\nWǒ [huì] shuō yīngyǔ, tā bú [huì] shuō yīngyǔ.\nTôi [biết] nói tiếng Anh, anh ấy không [biết] nói tiếng Anh.",
+        "你[会]骑自行车[吗]？\nNǐ [huì] qí zìxíngchē [ma]?\nBạn [biết] đi xe đạp [không]?"
+      ]
+    }
+  ]
+}

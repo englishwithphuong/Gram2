@@ -1,0 +1,24 @@
+{
+  "title": "Động lượng từ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我得安排时间回家一[趟]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Động lượng từ, ví dụ: “趟” “次” “遍”, đặt sau động từ, biểu thị số lần của động tác. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我想去一[趟]。\nWǒ xiǎng qù yí [tàng].\nTôi muốn đi một [chuyến].",
+        "我们包了两[次](cì, lần)饺子。\nWǒmen bāo le liǎng [cì] jiǎozi.\nChúng tôi gói sủi cảo hai [lần].",
+        "这个字他写了三[遍](biàn, lần)。\nZhè gè zì tā xiě le sān [biàn].\nChữ này anh ấy viết ba [lượt/lần]."
+      ]
+    }
+  ]
+}

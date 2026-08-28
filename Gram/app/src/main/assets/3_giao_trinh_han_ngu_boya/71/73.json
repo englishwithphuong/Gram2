@@ -1,0 +1,26 @@
+{
+  "title": "Bổ ngữ trạng thái “得”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "考试考[得]怎么样？ / 我看汉字看[得]很慢，写汉字也写[得]很慢。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng sau động từ, biểu thị trạng thái của động tác. Nếu tân ngữ và bổ ngữ đồng thời xuất hiện, thì phải lặp lại động từ. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我看书看[得]头疼\nWǒ kàn shū kàn [de] tóuténg\nTôi đọc sách [đến mức] đau đầu",
+        "我看汉字看[得]很慢\nWǒ kàn hànzì kàn [de] hěn màn\nTôi nhìn chữ Hán [thấy] rất chậm",
+        "她洗衣服洗[得]不快\nTā xǐ yīfu xǐ [de] bú kuài\nCô ấy giặt quần áo [thấy] không nhanh",
+        "她洗衣服洗[得]很干净\nTā xǐ yīfu xǐ [de] hěn gānjìng\nCô ấy giặt quần áo [được] rất sạch",
+        "她洗衣服洗[得]不太干净\nTā xǐ yīfu xǐ [de] bú tài gānjìng\nCô ấy giặt quần áo [thấy] không được sạch cho lắm"
+      ]
+    }
+  ]
+}

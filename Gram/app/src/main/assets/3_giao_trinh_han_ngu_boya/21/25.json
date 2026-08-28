@@ -1,0 +1,25 @@
+{
+  "title": "Biểu đạt số tiền",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "一共是[九块四毛钱]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Đơn vị tính của Nhân dân tệ là 元(đồng), 角(hào), 分(xu), nhưng trong khẩu ngữ thường dùng “块”“毛”“分”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "五元 → 五块\nwǔ yuán → wǔ kuài\nnăm tệ → năm đồng",
+        "六角二分 → 六毛二(分)\nliù jiǎo èr fēn → liù máo èr (fēn)\nsáu hào hai xu → sáu hào hai (xu)",
+        "十二元五角 → 十二块五(毛)\nshí èr yuán wǔ jiǎo → shí èr kuài wǔ (máo)\nmười hai tệ năm hào → mười hai đồng rưỡi",
+        "七十四元八角二分 → 七十四块八毛二\nqī shí sì yuán bā jiǎo èr fēn → qī shí sì kuài bā máo èr\nbảy mươi tư tệ tám hào hai xu → bảy mươi tư đồng tám hào hai xu"
+      ]
+    }
+  ]
+}

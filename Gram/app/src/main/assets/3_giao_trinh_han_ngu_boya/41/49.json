@@ -1,0 +1,38 @@
+{
+  "title": "“还” Vẫn, còn",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "不好意思，这[还]没习惯。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Biểu thị trạng thái không có sự thay đổi. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "已经夜里十二点了，他[还]在学习。\nYǐjīng yèlǐ shí'èr diǎn le, tā [hái] zài xuéxí.\nĐã 12 giờ đêm rồi, anh ấy [vẫn] đang học tập.",
+        "来北京已经半年了，他[还]没习惯早上八点上课。\nLái Běijīng yǐjīng bàn nián le, tā [hái] méi xíguàn zǎoshang bā diǎn shàng kè.\nĐến Bắc Kinh đã nửa năm rồi, anh ấy [vẫn] chưa quen việc 8 giờ sáng lên lớp.",
+        "已经三十岁了，他[还]没有女朋友。\nYǐjīng sānshí suì le, tā [hái] méiyǒu nǚpéngyou.\nĐã 30 tuổi rồi, anh ấy [vẫn] chưa có bạn gái."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Biểu thị sự tăng thêm. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我有中国朋友、美国朋友，[还]有日本朋友。\nWǒ yǒu Zhōngguó péngyou, Měiguó péngyou, [hái] yǒu Rìběn péngyou.\nTôi có bạn người Trung Quốc, bạn người Mỹ, [còn] có bạn người Nhật.",
+        "我喜欢喝茶，喝咖啡，[还]喜欢喝啤酒。\nWǒ xǐhuan hē chá, hē kāfēi, [hái] xǐhuan hē píjiǔ.\nTôi thích uống trà, uống cà phê, [còn] thích uống bia.",
+        "这个周末我要做作业、洗衣服，[还]要去超市买东西。\nZhè gè zhōumò wǒ yào zuò zuòyè, xǐ yīfu, [hái] yào qù chāoshì mǎi dōngxi.\nCuối tuần này tôi phải làm bài tập, giặt quần áo, [còn] phải đi siêu thị mua đồ."
+      ]
+    }
+  ]
+}

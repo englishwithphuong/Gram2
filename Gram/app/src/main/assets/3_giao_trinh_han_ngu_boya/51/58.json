@@ -1,0 +1,27 @@
+{
+  "title": "Trợ từ “了” (3)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "换轮胎换[了]多长时间？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Động từ + 了 + thời gian (+ O): biểu thị thời gian duy trì của động tác đã hoàn thành, khi đặt câu hỏi dùng “多长时间”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我学[了]十年英语。\nWǒ xué [le] shí nián yīngyǔ.\nTôi học tiếng Anh [được] mười năm.",
+        "弟弟已经看[了]四十分钟电视。\nDìdi yǐjīng kàn [le] sìshí fēnzhōng diànshì.\nEm trai đã xem tivi [được] bốn mươi phút.",
+        "妈妈住[了]一个月(医院)。\nMāma zhù [le] yí gè yuè (yīyuàn).\nMẹ đã nằm viện [được] một tháng.",
+        "他们喝[了]一个小时(酒)。\nTāmen hē [le] yí gè xiǎoshí (jiǔ).\nHọ đã uống rượu [được] một tiếng đồng hồ.",
+        "你学[了]多长时间汉语？\nNǐ xué [le] duō cháng shíjiān Hànyǔ?\nBạn học tiếng Trung [được] bao nhiêu thời gian?",
+        "你看[了]多长时间电影？\nNǐ kàn [le] duō cháng shíjiān diànyǐng?\nBạn xem phim [được] bao lâu rồi?"
+      ]
+    }
+  ]
+}

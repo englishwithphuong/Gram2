@@ -1,0 +1,24 @@
+{
+  "title": "Biểu thị sự việc sắp xảy ra: 快 / 要 / 快要……了",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[快]考试[了]。 / [快要]放假[了]。新年[要]来[了]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Ba kết cấu này đều dùng để biểu thị sự việc hay động tác sắp xảy ra. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[快]考试[了]，我得努力学习了。\n[Kuài] kǎoshì [le], wǒ děi nǔlì xuéxí le.\nSắp kiểm tra rồi, tôi phải nỗ lực học tập thôi.",
+        "[快要]放假[了]，我们打算去旅行。\n[Kuàiyào] fàngjià [le], wǒmen dǎsuàn qù lǚxíng.\nSắp nghỉ lễ rồi, chúng tôi dự định đi du lịch.",
+        "新年[要]到[了]，我要给朋友寄贺卡了。\nXīnnián [yào] dào [le], wǒ yào gěi péngyou jì hèkǎ le.\nNăm mới sắp đến rồi, tôi phải gửi thiệp chúc mừng cho bạn bè."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "“A ( Tính từ ) 不 A” và “V (Động từ) 不 V”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "那儿的东西[贵不贵]?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“A不A” và “V不V” là câu hỏi chính phản, ý nghĩa tương đương với “A吗” hoặc “V吗”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "北京的冬天[冷不冷]?\n(=北京的冬天冷吗?)\nBěijīng de dōngtiān [lěng bu lěng]?\n(= Běijīng de dōngtiān lěng ma?)\nMùa đông ở Bắc Kinh [có lạnh không]?\n(= Mùa đông ở Bắc Kinh lạnh phải không?)",
+        "你[买不买]东西?\n(=你买东西吗?)\nNǐ [mǎi bu mǎi] dōngxi?\n(= Nǐ mǎi dōngxi ma?)\nBạn [có mua] đồ không?\n(= Bạn mua đồ phải không?)",
+        "你[是不是]美国人?\n(=你是美国人吗?)\nNǐ [shì bu shì] Měiguó rén?\n(= Nǐ shì Měiguó rén ma?)\nBạn [có phải là] người Mỹ không?\n(= Bạn là người Mỹ phải không?)",
+        "今天[有没有]作业?\n(=今天有作业吗?)\nJīntiān [yǒu méi yǒu] zuòyè?\n(= Jīntiān yǒu zuòyè ma?)\nHôm nay [có hay không có] bài tập?\n(= Hôm nay có bài tập không?)"
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cuối câu hỏi chính phản không dùng “吗”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "❌北京的冬天[冷不冷]吗?\nBěijīng de dōngtiān [lěng bu lěng] ma?\nMùa đông ở Bắc Kinh [có lạnh không] phải không?",
+        "❌你[是不是]中国人吗?\nNǐ [shì bu shì] Zhōngguó rén ma?\nBạn [có phải là] người Trung Quốc phải không?"
+      ]
+    }
+  ]
+}

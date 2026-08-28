@@ -1,0 +1,24 @@
+{
+  "title": "Trợ từ 吧(2)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "来我们学校玩儿[吧]!"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“吧”đặt ở cuối câu để diễn đạt ngữ khí cầu khiến. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "来我家玩儿[吧]!\nLái wǒ jiā wánr [ba]!\nĐến nhà tôi chơi [nhé/đi]!",
+        "我们去图书馆[吧]!\nWǒmen qù túshūguǎn [ba]!\nChúng ta đi thư viện [nhé]!",
+        "我们骑自行车去[吧]!\nWǒmen qí zìxíngchē qù [ba]!\nChúng ta đạp xe đi [nhé]!"
+      ]
+    }
+  ]
+}

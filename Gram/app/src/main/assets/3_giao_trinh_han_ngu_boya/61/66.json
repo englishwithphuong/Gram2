@@ -1,0 +1,24 @@
+{
+  "title": "“只好” Đành phải",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我基础不好，[只好]努力学习了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị không có cách nào khác. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "下雨了，不能出去玩儿，[只好]在房间里看电视。\nXià yǔ le, bù néng chūqù wánr, [zhǐhǎo] zài fángjiān lǐ kàn diànshì.\nTrời mưa rồi, không thể ra ngoài chơi, [đành phải] ở trong phòng xem tivi.",
+        "没有饺子了，我[只好]吃面条儿。\nMéi yǒu jiǎozi le, wǒ [zhǐhǎo] chī miàntiáor.\nKhông còn sủi cảo nữa, tôi [đành phải] ăn mì.",
+        "我感冒了，头疼，发烧，[只好]请假了。\nWǒ gǎnmào le, tóuténg, fāshāo, [zhǐhǎo] qǐngjià le.\nTôi bị cảm rồi, đau đầu, sốt, [đành phải] xin nghỉ phép."
+      ]
+    }
+  ]
+}

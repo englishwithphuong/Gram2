@@ -1,0 +1,24 @@
+{
+  "title": "Liệt kê",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "过生日[啦]，过节[啦]，来客人[啦]，一般都包饺子吃。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cách nói thường dùng là: “A啦, B啦, C啦......”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我们大学有很多国家的留学生，美国[啦]，日本[啦]，英国[啦]……\nWǒmen dàxué yǒu hěn duō guójiā de liúxuéshēng, Měiguó [la], Rìběn [la], Yīngguó [la]……\nĐại học của chúng tôi có lưu học sinh của rất nhiều nước, Mỹ [này], Nhật [này], Anh [này]……",
+        "大卫每次到商店都买很多东西，衣服[啦]，食品[啦]，啤酒[啦]……他都要买。\nDàwèi měi cì dào shāngdiàn dōu mǎi hěn duō dōngxi, yīfu [la], shípǐn [la], píjiǔ [la]…… tā dōu yào mǎi.\nDavid mỗi lần đến cửa hàng đều mua rất nhiều đồ, quần áo [này], thực phẩm [này], bia [này]…… cậu ấy đều muốn mua.",
+        "那儿有很多饮料，咖啡[啦]，果汁[啦]，茶[啦]……随便喝。\nNàr yǒu hěn duō yǐnliào, kāfēi [la], guǒzhī [la], chá [la]…… suíbiàn hē.\nỞ đó có rất nhiều đồ uống, cà phê [này], nước ép [này], trà [này]…… cứ tự nhiên uống."
+      ]
+    }
+  ]
+}

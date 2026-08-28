@@ -1,0 +1,24 @@
+{
+  "title": "“如果……(的话),就……” Nếu… thì…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[如果]想吃[的话]，[就]去买一袋。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“如果” dùng trong vế trước của câu, biểu thị giả thiết; “就” dùng trong vế sau của câu, để nói rõ kết quả phát sinh của giả thiết. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[如果]坐地铁[的话]，[比较]快，也[比较]便宜。\n[Rúguǒ] zuò dìtiě [de huà], [bǐjiào] kuài, yě [bǐjiào] piányi.\n[Nếu] đi tàu điện ngầm, [tương đối] nhanh, cũng [tương đối] rẻ.",
+        "[如果]下午没课[的话]，我们[就]去逛商店。\n[Rúguǒ] xiàwǔ méi kè [de huà], wǒmen [jiù] qù guàng shāngdiàn.\n[Nếu] buổi chiều không có tiết, chúng tôi [sẽ] đi dạo cửa hàng.",
+        "A: 我们周末去玩儿，你去吗？\nB: [如果]没别的安排[的话]，我[就]去。\nA: Wǒmen zhōumò qù wánr, nǐ qù ma?\nB: [Rúguǒ] méi bié de ānpái [de huà], wǒ [jiù] qù.\nA: Cuối tuần chúng mình đi chơi, cậu đi không?\nB: [Nếu] không có sắp xếp gì khác, tôi [sẽ] đi."
+      ]
+    }
+  ]
+}

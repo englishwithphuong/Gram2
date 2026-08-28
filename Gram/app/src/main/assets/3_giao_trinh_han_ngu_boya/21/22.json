@@ -1,0 +1,25 @@
+{
+  "title": "“几” và “多少”(2)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你买[几]瓶?/[多少]钱一瓶?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“几” thường dùng để hỏi số lượng nhỏ hơn 10, “多少” thường dùng để hỏi số lượng lớn hơn 10. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我要五本汉语书。\n→你要[几]本汉语书?\nWǒ yào wǔ běn Hànyǔ shū.\n→ Nǐ yào [jǐ] běn Hànyǔ shū?\nTôi muốn năm cuốn sách tiếng Trung.\n→ Bạn muốn [mấy] cuốn sách tiếng Trung?",
+        "他要三瓶啤酒。\n→他要[几]瓶啤酒?\nTā yào sān píng píjiǔ.\n→ Tā yào [jǐ] píng píjiǔ?\nAnh ấy muốn ba chai bia.\n→ Anh ấy muốn [mấy] chai bia?",
+        "玛丽有五十本书。\n→玛丽有[多少]本书?\nMǎlì yǒu wǔshí běn shū.\n→ Mǎlì yǒu [duōshao] běn shū?\nMary có năm mươi cuốn sách.\n→ Mary có [bao nhiêu] cuốn sách?",
+        "一本词典八十块钱。\n→一本词典[多少]钱?\nYī běn cídiǎn bāshí kuài qián.\n→ Yī běn cídiǎn [duōshao] qián?\nMột cuốn từ điển giá tám mươi đồng.\n→ Một cuốn từ điển giá [bao nhiêu] tiền?"
+      ]
+    }
+  ]
+}

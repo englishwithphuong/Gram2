@@ -1,0 +1,24 @@
+{
+  "title": "Cách biểu đạt số",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我的宿舍是东5号楼[502]室。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Số điện thoại, số nhà, số xe... trong tiếng Hán được biểu đạt bằng cách đọc từng số, riêng số “1” phải đọc là “yāo”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的房间号是[201]。\nWǒ de fángjiān hào shì [èr líng yāo].\nSố phòng của tôi là [201].",
+        "他的电话号码是[31653415]。\nTā de diànhuà hàomǎ shì [sān yāo liù wǔ sān sì yāo wǔ].\nSố điện thoại của anh ấy là [31653415].",
+        "[108]路公共汽车到北京大学。\n[Yāo líng bā] lù gōnggòng qìchē dào Běijīng Dàxué.\nXe buýt tuyến [108] đến Đại học Bắc Kinh."
+      ]
+    }
+  ]
+}

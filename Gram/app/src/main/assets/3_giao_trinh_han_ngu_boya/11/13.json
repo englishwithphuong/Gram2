@@ -1,0 +1,25 @@
+{
+  "title": "Cách biểu đạt chữ số",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cách đọc chữ số trong tiếng Hán là:"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "0–10: 零(líng)、一(yī)、二(èr)、三(sān)、四(sì)、五(wǔ)、六(liù)、七(qī)、八(bā)、九(jiǔ)、十(shí)"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "11–20: 十一(shíyī)、十二(shí'èr)、十三(shísān)、十四(shísì)、十五(shíwǔ)、十六(shíliù)、十七(shíqī)、十八(shíbā)、十九(shíjiǔ)、二十(èrshí)"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "21–100: 二十一(èrshíyī)……二十九(èrshíjiǔ)、三十(sānshí)、四十(sìshí)、五十(wǔshí)、六十(liùshí)、七十(qīshí)、八十(bāshí)、九十(jiǔshí)、一百(yìbǎi)"
+    }
+  ]
+}

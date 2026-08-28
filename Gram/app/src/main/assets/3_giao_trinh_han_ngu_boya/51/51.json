@@ -1,0 +1,46 @@
+{
+  "title": "Cách biểu đạt tuổi tác",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "那时候您[多大年纪]？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Khi hỏi tuổi của trẻ em dưới 10 tuổi, dùng “几”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "A: 你今年[几]岁了？\nB: 我六岁。\nA: Nǐ jīnnián [jǐ] suì le?\nB: Wǒ liù suì.\nA: Bạn năm nay [mấy] tuổi rồi?\nB: Tôi 6 tuổi."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Khi hỏi tuổi chung chung, dùng “多大”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "A: 你今年[多大]？\nB: 我二十二(岁)。\nA: Nǐ jīnnián [duōdà]?\nB: Wǒ èrshí'èr (suì).\nA: Bạn năm nay [bao nhiêu tuổi]?\nB: Tôi 22 (tuổi)."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(3) Khi hỏi tuổi của người lớn tuổi, thường dùng “您” và “多大年纪”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "A: [您][多大年纪]？\nB: 六十八了。\nA: [Nín] [duōdà niánjì]?\nB: Liùshíbā le.\nA: [Ngài] [bao nhiêu tuổi rồi]?\nB: 68 tuổi rồi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "“能” Có thể",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "大卫今天又[不能]来上课了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị có năng lực hoặc khả năng làm việc gì. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我学汉语了，所以我[能]唱中文歌。\nWǒ xué Hànyǔ le, suǒyǐ wǒ [néng] chàng zhōngwén gē.\nTôi đã học tiếng Trung rồi, cho nên tôi [có thể] hát bài hát tiếng Trung.",
+        "你有时间吗？[能]和我一起去吗？\nNǐ yǒu shíjiān ma? [Néng] hé wǒ yìqǐ qù ma?\nBạn có thời gian không? [Có thể] đi cùng tôi không?",
+        "他感冒了，[不能]来上课了。\nTā gǎnmào le, [bù néng] lái shàng kè le.\nAnh ấy bị cảm rồi, [không thể] đến lớp được nữa."
+      ]
+    }
+  ]
+}

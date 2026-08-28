@@ -1,0 +1,25 @@
+{
+  "title": "“咱们” và “我们”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[咱们]一起去吧!"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“咱们” thường bao gồm cả người nói và người nghe, như ví dụ (1), (2), còn “我们” có thể bao gồm cả người nói và người nghe, như ví dụ (3), cũng có thể không bao gồm người nghe, như ví dụ (4)."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "玛丽,[咱们]一起去商店吧。\nMǎlì, [zánmen] yìqǐ qù shāngdiàn ba.\nMary, [chúng mình] cùng đi cửa hàng nhé.",
+        "明天是星期天,[咱们]去酒吧喝啤酒,好吗?\nMíngtiān shì xīngqítiān, [zánmen] qù jiǔbā hē píjiǔ, hǎo ma?\nNgày mai là Chủ Nhật, [chúng mình] đi quán bar uống bia, được không?",
+        "玛丽,下午[我们]一起去图书馆,好吗?\nMǎlì, xiàwǔ [wǒmen] yìqǐ qù túshūguǎn, hǎo ma?\nMary, buổi chiều [chúng ta] cùng đi thư viện, được không?",
+        "你去学校的商店,[我们]去购物中心,好不好?\nNǐ qù xuéxiào de shāngdiàn, [wǒmen] qù gòuwù zhōngxīn, hǎo bù hǎo?\nCậu đi cửa hàng của trường, [chúng tôi/chúng tao] đi trung tâm mua sắm, được không?"
+      ]
+    }
+  ]
+}

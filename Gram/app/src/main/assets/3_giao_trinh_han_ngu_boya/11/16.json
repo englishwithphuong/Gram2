@@ -1,0 +1,24 @@
+{
+  "title": "Danh từ phương vị (2)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "车在[楼下][车棚里]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Từ phương vị thường dùng để biểu thị phương hướng, vị trí không gian gồm có:上、下、 里、外、前、后、左、右、旁边...“上、下、里、外、前、后” có thể đặt trực tiếp ngay sau danh từ để biểu thị phương hướng, vị trí. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "她的自行车在[楼下]。\nTā de zìxíngchē zài [lóuxià].\nXe đạp của cô ấy ở [dưới lầu].",
+        "玛丽在[车棚里]。\nMǎlì zài [chēpéng lǐ].\nMary ở [trong nhà để xe].",
+        "老师在[教室里]。\nLǎoshī zài [jiàoshì lǐ].\nThầy/cô giáo ở [trong phòng học]."
+      ]
+    }
+  ]
+}

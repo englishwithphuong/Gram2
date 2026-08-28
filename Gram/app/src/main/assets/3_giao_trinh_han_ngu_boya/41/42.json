@@ -1,0 +1,23 @@
+{
+  "title": "“就是” Chính là",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我最喜欢吃得[就是]饺子。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị ý nhấn mạnh. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[就是]刘老师。\nTā [jiùshì] Liú lǎoshī.\nAnh ấy [chính là] thầy Lưu.",
+        "这儿[就是]图书馆。\nZhèr [jiùshì] túshūguǎn.\nNơi này [chính là] thư viện."
+      ]
+    }
+  ]
+}

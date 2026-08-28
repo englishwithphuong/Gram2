@@ -1,0 +1,38 @@
+{
+  "title": "Vị ngữ tính từ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "听说北京的冬天[很冷]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trong tiếng Hán, khi tính từ làm vị ngữ, không cần dùng thêm “是”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "那个学校[很小]。\nNà ge xuéxiào [hěn xiǎo].\nTrường học đó [rất nhỏ].",
+        "北京的冬天[比较冷]。\nBěijīng de dōngtiān [bǐjiào lěng].\nMùa đông ở Bắc Kinh [tương đối lạnh].",
+        "今天的天气[不太舒服]。\nJīntiān de tiānqì [bù tài shūfu].\nThời tiết hôm nay [không thoải mái cho lắm].",
+        "这个电影[很有名]。\nZhè ge diànyǐng [hěn yǒumíng].\nBộ phim này [rất nổi tiếng]."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Tính từ làm vị ngữ, trước nó thường có phó từ chỉ mức độ, nếu không có phó từ chỉ mức độ thì thường có ý nghĩa so sánh. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的房间[大],他的房间[小]。\nWǒ de fángjiān [dà], tā de fángjiān [xiǎo].\nPhòng của tôi [lớn], phòng của anh ấy [nhỏ].",
+        "冬天[冷],夏天[热]。\nDōngtiān [lěng], xiàtiān [rè].\nMùa đông [lạnh], mùa hè [nóng]."
+      ]
+    }
+  ]
+}

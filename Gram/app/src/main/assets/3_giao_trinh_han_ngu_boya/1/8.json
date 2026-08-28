@@ -1,0 +1,25 @@
+{
+  "title": "Định ngữ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "这是[我朋友的]杂志。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trong tiếng Hán, định ngữ đặt trước trung tâm ngữ, khi biểu thị quan hệ phụ thuộc, phải thêm “的” (như thí dụ (3)(4)). Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这是[汉语]词典,不是[汉语]课本。\nZhè shì [Hànyǔ] cídiǎn, bú shì [Hànyǔ] kèběn.\nĐây là từ điển [tiếng Trung], không phải giáo trình [tiếng Trung].",
+        "玛丽是[加拿大]人,不是[美国]人。\nMǎlì shì [Jiānádà] rén, bú shì [Měiguó] rén.\nMary là người [Canada], không phải người [Mỹ].",
+        "她是[我的]同屋,也是[我的]同学。\nTā shì [wǒ de] tóngwū, yě shì [wǒ de] tóngxué.\nCô ấy là [bạn cùng phòng của tôi], cũng là [bạn học của tôi].",
+        "他叫李军,是[大卫的]朋友。\nTā jiào Lǐ Jūn, shì [Dàwèi de] péngyou.\nAnh ấy tên là Lý Quân, là [bạn của David]."
+      ]
+    }
+  ]
+}

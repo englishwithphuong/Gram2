@@ -1,0 +1,24 @@
+{
+  "title": "“可能” Có thể, có lẽ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "还没决定，[可能]去东北。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị tính khả năng. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我们[可能]下个周末出发。\nWǒmen [kěnéng] xià gè zhōumò chūfā.\nChúng ta [có lẽ] cuối tuần sau sẽ xuất phát.",
+        "他[可能]病了，所以没来上课。\nTā [kěnéng] bìng le, suǒyǐ méi lái shàng kè.\nCậu ấy [có lẽ] bị ốm rồi, cho nên không đến lớp.",
+        "周末[可能]下雨，我们别出去了吧。\nZhōumò [kěnéng] xià yǔ, wǒmen bié chūqù le ba.\nCuối tuần [có khả năng] mưa, chúng mình đừng ra ngoài nữa nhé."
+      ]
+    }
+  ]
+}

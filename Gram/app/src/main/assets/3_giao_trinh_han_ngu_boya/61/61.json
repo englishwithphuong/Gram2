@@ -1,0 +1,24 @@
+{
+  "title": "Câu phản vấn (2)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你们女生一起玩儿，我[去干什么]？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“我去干什么” tức là “我不去”. “Động từ + 什么” nhấn mạnh ngữ khí phủ định. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这不是你的事，你[看什么]？\nZhè bú shì nǐ de shì, nǐ [kàn shénme]？\nĐây không phải chuyện của cậu, cậu [nhìn cái gì] (cậu nhìn làm gì)?",
+        "你不会打球，你[去干什么]？\nNǐ bú huì dǎ qiú, nǐ [qù gàn shénme]？\nCậu không biết đánh bóng, cậu [đi làm gì]?",
+        "这是我的一点儿心意，[谢什么]？\nZhè shì wǒ de yìdiǎnr xīnyì, [xiè shénme]？\nĐây là chút ít tâm ý của tôi, [cảm ơn cái gì] (khách sáo làm gì)?"
+      ]
+    }
+  ]
+}

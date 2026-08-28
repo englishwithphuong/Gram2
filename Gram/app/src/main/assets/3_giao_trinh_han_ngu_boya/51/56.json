@@ -1,0 +1,24 @@
+{
+  "title": "“最好” Tốt nhất",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "医生还说[最好]休息一天。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Đặt trước động từ, biểu thị đề xuất, kiến nghị. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你感冒了，[最好]休息三天。\nNǐ gǎnmào le, [zuìhǎo] xiūxi sāntiān.\nBạn bị cảm rồi, [tốt nhất] nên nghỉ ngơi ba ngày.",
+        "明天有考试，你[最好]准备准备。\nMíngtiān yǒu kǎoshì, nǐ [zuìhǎo] zhǔnbèi zhǔnbèi.\nNgày mai có bài kiểm tra, bạn [tốt nhất] nên chuẩn bị một chút.",
+        "八点上课，你[最好]七点就起床。\nBā diǎn shàng kè, nǐ [zuìhǎo] qī diǎn jiù qǐchuáng.\nTám giờ lên lớp, bạn [tốt nhất] bảy giờ hãy dậy đi."
+      ]
+    }
+  ]
+}

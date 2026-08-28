@@ -1,0 +1,25 @@
+{
+  "title": "Câu nghi vấn đặc biệt",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "那是谁的书?/这是什么杂志?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Câu dùng các từ nghi vấn như “哪、什么、谁...” gọi là câu nghi vấn đặc biệt. Trật tự từ trong câu nghi vấn giống như câu trần thuật. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "A: 你是[哪]国人?\nA: Nǐ shì [nǎ] guó rén?\nA: Bạn là người [nước nào]?\nB: 我是美国人。\nB: Wǒ shì Měiguórén.\nB: Tôi là người Mỹ.",
+        "A: 她是[谁]?\nA: Tā shì [shéi]?\nA: Cô ấy là [ai]?\nB: 她是我的同屋。\nB: Tā shì wǒ de tóngwū.\nB: Cô ấy là bạn cùng phòng của tôi.",
+        "A: 那是[什么]?\nA: Nà shì [shénme]?\nA: Kia là [cái gì]?\nB: 那是汉语课本。\nB: Nà shì Hànyǔ kèběn.\nB: Kia là giáo trình tiếng Trung.",
+        "A: 你叫[什么]名字?\nA: Nǐ jiào [shénme] míngzi?\nA: Bạn tên [gì]?\nB: 我叫大卫。\nB: Wǒ jiào Dàwèi.\nB: Tôi tên là David."
+      ]
+    }
+  ]
+}

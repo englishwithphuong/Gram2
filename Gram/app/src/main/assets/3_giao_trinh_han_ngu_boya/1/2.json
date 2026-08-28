@@ -1,0 +1,25 @@
+{
+  "title": "Câu nghi vấn dùng “吗”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你是老师[吗]？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“吗” được đặt ở cuối câu trần thuật để tạo thành câu nghi vấn. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你好[吗]？\nNǐ hǎo [ma]?\nBạn khỏe [không]?",
+        "大卫是留学生[吗]？\nDàwèi shì liúxuéshēng [ma]?\nDavid [có phải] là lưu học sinh [không]?",
+        "她不是老师[吗]？\nTā bú shì lǎoshī [ma]?\nCô ấy không phải là giáo viên [sao]?",
+        "他叫李军[吗]？\nTā jiào Lǐ Jūn [ma]?\nAnh ấy tên là Lý Quân [phải không]?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Câu chữ “有”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "明天你[有]课吗?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“有” có thể được dùng để biểu thị sự sở hữu."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Thức khẳng định: S + [有] + n."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[有]汉语课本。\nWǒ [yǒu] Hànyǔ kèběn.\nTôi [có] giáo trình tiếng Trung.",
+        "他上午[有]课。\nTā shàngwǔ [yǒu] kè.\nBuổi sáng anh ấy [có] tiết học.",
+        "大卫[有]中国朋友。\nDàwèi [yǒu] Zhōngguó péngyou.\nDavid [có] bạn người Trung Quốc."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Thức phủ định: S + [没有] + n."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[没有]美国朋友。\nWǒ [méiyǒu] Měiguó péngyou.\nTôi [không có] bạn người Mỹ.",
+        "玛丽[没有]自行车。\nMǎlì [méiyǒu] zìxíngchē.\nMary [không có] xe đạp.",
+        "晚上大卫[没有]时间。\nWǎnshang Dàwèi [méiyǒu] shíjiān.\nBuổi tối David [không có] thời gian."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(3) Thức nghi vấn: S + [有] + n. + 吗?"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你[有]同屋[吗]?\nNǐ [yǒu] tóngwū [ma]?\nBạn [có] bạn cùng phòng [không]?",
+        "张红[有]英语词典[吗]?\nZhāng Hóng [yǒu] Yīngyǔ cídiǎn [ma]?\nTrương Hồng [có] từ điển tiếng Anh [không]?",
+        "明天上午你[有]时间[吗]?\nMíngtiān shàngwǔ nǐ [yǒu] shíjiān [ma]?\nSáng mai bạn [có] thời gian [không]?"
+      ]
+    }
+  ]
+}

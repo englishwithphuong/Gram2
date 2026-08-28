@@ -1,0 +1,24 @@
+{
+  "title": "Trạng ngữ chỉ địa điểm",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "在[宿舍里][看看]电视，[洗洗]衣服，[做做]作业，[睡睡]懒觉……"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "在 + Địa điểm + V: Trạng ngữ chỉ địa điểm phải đặt trước vị ngữ động từ. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "大卫[在北京大学]学习汉语。\nDàwèi [zài Běijīng Dàxué] xuéxí Hànyǔ.\nDavid [ở Đại học Bắc Kinh] học tiếng Trung.",
+        "他[在图书馆]看书。\nTā [zài túshūguǎn] kàn shū.\nAnh ấy [ở thư viện] đọc sách.",
+        "他们[在购物中心]买东西。\nTāmen [zài gòuwù zhōngxīn] mǎi dōngxi.\nHọ [ở trung tâm mua sắm] mua đồ."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Lượng từ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "再买两[瓶]水。/两[瓶]啤酒七块。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Rất nhiều danh từ trong tiếng Hán đều có lượng từ riêng biệt. Có một số danh từ có thể làm lượng từ. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "一[瓶]水\nyī [píng] shuǐ\nmột [chai] nước",
+        "一[本]书\nyī [běn] shū\nmột [cuốn] sách",
+        "一[个]车棚\nyī [gè] chēpéng\nmột [cái] nhà để xe",
+        "一[块]钱\nyī [kuài] qián\nmột [đồng] tiền",
+        "21[路]公共汽车\n21 [lù] gōnggòng qìchē\nxe buýt tuyến [số] 21",
+        "一[位](wèi)老师\nyī [wèi] lǎoshī\nmột [vị] giáo viên",
+        "一[辆](liàng)自行车\nyī [liàng] zìxíngchē\nmột [chiếc] xe đạp",
+        "一[把](bă)钥匙\nyī [bǎ] yàoshi\nmột [cái] chìa khóa"
+      ]
+    }
+  ]
+}

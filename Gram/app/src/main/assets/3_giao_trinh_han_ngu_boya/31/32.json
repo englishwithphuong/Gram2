@@ -1,0 +1,25 @@
+{
+  "title": "先……,然后…… Đầu tiên ..., sau đó...",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我[先]去银行换钱,[然后]去商店买东西。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị thứ tự về thời gian trước sau của động tác. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "明天我[先]去银行,[然后]去上课。\nMíngtiān wǒ [xiān] qù yínháng, [ránhòu] qù shàng kè.\nNgày mai tôi [đầu tiên] đi ngân hàng, [sau đó] đi lên lớp.",
+        "李军[先]去电影院,[然后]回宿舍。\nLǐ Jūn [xiān] qù diànyǐngyuàn, [ránhòu] huí sùshè.\nLý Quân [đầu tiên] đi rạp chiếu phim, [sau đó] về ký túc xá.",
+        "刘老师[先]去图书馆借书,然后去教室上课]。\nLiú lǎoshī [xiān] qù túshūguǎn jiè shū, [ránhòu] qù jiàoshì shàng kè.\nThầy/Cô Lưu [đầu tiên] đến thư viện mượn sách, [sau đó] đến phòng học lên lớp.",
+        "他[先]去商店买东西,[然后]去书店买词典。\nTā [xiān] qù shāngdiàn mǎi dōngxi, [ránhòu] qù shūdiàn mǎi cídiǎn.\nAnh ấy [đầu tiên] đến cửa hàng mua đồ, [sau đó] đến hiệu sách mua từ điển."
+      ]
+    }
+  ]
+}

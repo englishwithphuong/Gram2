@@ -1,0 +1,24 @@
+{
+  "title": "Câu lựa chọn “……还是……”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你们一般坐公共汽车[还是]打车？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Thường được dùng trong câu nghi vấn, biểu thị sự lựa chọn. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你[是]美国人[还是]加拿大人？\nNǐ shì Měiguórén [háishi] Jiānádārén?\nBạn là người Mỹ [hay] người Canada?",
+        "你(是)喝茶[还是]喝咖啡？\nNǐ (shì) hē chá [háishi] hē kāfēi?\nBạn uống trà [hay] uống cà phê?",
+        "(是)你去[还是]我去？\n(Shì) nǐ qù [háishi] wǒ qù?\nBạn đi [hay] tôi đi?"
+      ]
+    }
+  ]
+}

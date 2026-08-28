@@ -1,0 +1,29 @@
+{
+  "title": "Cách biểu đạt giờ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "8:00 → 八点\n8:05 → 八点零五分\n8:10 → 八点十分\n8:15 → 八点十五(分) / 八点一刻\n8:30 → 八点三十(分) / 八点半\n8:45 → 八点四十五(分) / 八点三刻 / 差一刻九点\n8:50 → 八点五十(分) / 差十分九点"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "日本的大学早上几点上课?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng “[几点]” để hỏi thời gian. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "现在[几点]?\nXiànzài [jǐ diǎn]?\nBây giờ [mấy giờ]?",
+        "你们[几点]下课?\nNǐmen [jǐ diǎn] xiàkè?\nCác bạn [mấy giờ] tan học?",
+        "你们学校[几点]上课?\nNǐmen xuéxiào [jǐ diǎn] shàngkè?\nTrường của các bạn [mấy giờ] bắt đầu học?"
+      ]
+    }
+  ]
+}

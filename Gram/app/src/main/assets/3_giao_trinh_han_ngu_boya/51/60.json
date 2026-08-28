@@ -1,0 +1,38 @@
+{
+  "title": "Câu cầu khiến",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你也来[吧]！"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Chủ ngữ là ngôi thứ hai hoặc ngôi thứ nhất số nhiều, có thể dùng để biểu thị mệnh lệnh, thỉnh cầu, kiến nghị... Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你放心[吧]！\nNǐ fàngxīn [ba]!\nYên tâm đi [nhé]!",
+        "我们一起去[吧]！\nNǐmen yìqǐ qù [ba]!\nChúng mình cùng đi [nhé]!",
+        "你们好好儿玩儿[吧]！\nNǐmen hǎohǎor wánr [ba]!\nCác em chơi cho ngoan/vui vẻ [nhé]!"
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Hình thức phủ định thường dùng “不要” hoặc “别”, đồng thời lược bỏ chủ ngữ. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "早睡早起身体好，[不要]睡懒觉！\nZǎo shuì zǎo qǐ shēntǐ hǎo, [bú yào] shuì lǎnjiào!\nNgủ sớm dậy sớm cơ thể khỏe mạnh, [đừng] ngủ nướng!",
+        "明天早点儿起床，[别]迟到！\nMíngtiān zǎodiǎnr qǐchuáng, [bié] chídào!\nMôn mai dậy sớm một chút, [đừng] đến muộn!",
+        "你已经喝了两瓶了，[别]喝了！\nNǐ yǐjīng hē le liǎng píng le, [bié] hē le!\nCậu đã uống hai chai rồi, [đừng] uống nữa!"
+      ]
+    }
+  ]
+}

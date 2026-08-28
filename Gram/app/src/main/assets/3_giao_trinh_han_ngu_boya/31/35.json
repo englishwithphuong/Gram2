@@ -1,0 +1,25 @@
+{
+  "title": "挺+adj rất…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(那件白毛衣)[挺好看的]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị trình độ tương đối cao, tương đương với “很”, thường kết hợp với “的”. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你的毛衣[挺漂亮]。\nNǐ de máoyī [tǐng piàoliang].\nÁo len của bạn [rất đẹp].",
+        "学校商店的东西[挺贵的]。\nXuéxiào shāngdiàn de dōngxi [tǐng guì de].\nĐồ ở cửa hàng trường học [rất đắt].",
+        "北京的冬天[挺冷的]。\nBěijīng de dōngtiān [tǐng lěng de].\nMùa đông ở Bắc Kinh [rất lạnh].",
+        "学生宿舍[挺小的]。\nXuéshēng sùshè [tǐng xiǎo de].\nKý túc xá học sinh [rất nhỏ]."
+      ]
+    }
+  ]
+}

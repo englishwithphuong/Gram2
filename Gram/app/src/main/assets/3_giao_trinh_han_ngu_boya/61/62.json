@@ -1,0 +1,23 @@
+{
+  "title": "Trợ từ “了” (4)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你吃[了]早饭来找我，好吗？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“了” đặt sau động từ thứ nhất trong câu để biểu thị một hành động phát sinh trước một hành động khác. Cấu trúc: V₁ + 了 + O + V₂ + O. Thí dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我喝[了]咖啡去上课。\nWǒ hē [le] kāfēi qù shàng kè.\nTôi uống [xong] cà phê rồi đi lên lớp.",
+        "我换[了]钱去买礼物。\nWǒ huàn [le] qián qù mǎi lǐwù.\nTôi đổi [xong] tiền rồi đi mua quà."
+      ]
+    }
+  ]
+}

@@ -1,14 +1,9 @@
 package com.example.gram.ui.lessonsscreen
 
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Spacer
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.height
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Text
@@ -24,7 +19,8 @@ import androidx.compose.ui.unit.sp
 fun LessonsScreen(
     sourceTitle: String,
     lessons: List<String>,
-    onLessonClick: (String) -> Unit // <-- Added parameter here
+    listState: LazyListState,
+    onLessonClick: (String) -> Unit
 ) {
     Column(
         modifier = Modifier
@@ -38,7 +34,10 @@ fun LessonsScreen(
             color = Color.White
         )
         Spacer(modifier = Modifier.height(16.dp))
-        LazyColumn(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+        LazyColumn(
+            state = listState,
+            verticalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
             items(lessons) { lesson ->
                 Text(
                     text = lesson,
@@ -47,7 +46,7 @@ fun LessonsScreen(
                     modifier = Modifier
                         .fillMaxWidth()
                         .clip(RoundedCornerShape(8.dp))
-                        .clickable { onLessonClick(lesson) } // <-- Connected click handler
+                        .clickable { onLessonClick(lesson) }
                         .padding(vertical = 8.dp)
                 )
             }

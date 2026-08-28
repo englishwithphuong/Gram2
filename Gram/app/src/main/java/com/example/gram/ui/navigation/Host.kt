@@ -1,16 +1,20 @@
 ﻿package com.example.gram.ui.navigation
 
-import android.util.Log
+import android.content.Context
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.NavController
 import androidx.navigation.NavGraphBuilder
+import androidx.navigation.NavHostController
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.example.gram.data.NavigationPrefs
 import com.example.gram.model.SourceItem
 import com.example.gram.ui.lessoncontentScreen.LessonContentScreen
 import com.example.gram.ui.lessonsscreen.LessonsRouteContent
@@ -18,9 +22,18 @@ import com.example.gram.ui.sourcesscreen.SourcesScreen
 
 @Composable
 fun Host(sources: List<SourceItem>) {
-    Log.d("HostDebug", "Sources list content: $sources")
-    Log.d("HostDebug", Screen.Sources.route)
     val navController = rememberNavController()
+    val context = LocalContext.current
+
+    LaunchedEffect(navController) {
+        saveRoute(navController, context)
+    }
+
+    val startRoute = NavigationPrefs.load(context) ?: Screen.Sources.route
+
+    LaunchedEffect(Unit) {
+        restoreBackstack(navController, startRoute)
+    }
 
     NavHost(
         navController = navController,
@@ -33,11 +46,44 @@ fun Host(sources: List<SourceItem>) {
     }
 }
 
+private fun saveRoute(navController: NavController, context: Context) {
+    navController.addOnDestinationChangedListener { _, destination, arguments ->
+        val route = destination.route?.let { baseRoute ->
+            if (arguments != null && arguments.keySet().isNotEmpty()) {
+                arguments.keySet().fold(baseRoute) { acc, key ->
+                    val value = arguments.get(key)?.toString() ?: ""
+                    acc.replace("{$key}", value)
+                }
+            } else baseRoute
+        }
+        route?.let { NavigationPrefs.save(context, it) }
+    }
+}
+
+private fun restoreBackstack(navController: NavHostController, startRoute: String) {
+    when {
+        startRoute.startsWith("lesson_content/") -> {
+            val parts = startRoute.split("/")
+            val sourceIndex = parts.getOrNull(1)?.toIntOrNull()
+            val lessonName = parts.getOrNull(2)
+            if (sourceIndex != null && lessonName != null) {
+                navController.navigate(Screen.Lessons.createRoute(sourceIndex))
+                navController.navigate(Screen.LessonContent.createRoute(sourceIndex, lessonName))
+            }
+        }
+        startRoute.startsWith("lessons/") -> {
+            val sourceIndex = startRoute.removePrefix("lessons/").toIntOrNull()
+            if (sourceIndex != null) {
+                navController.navigate(Screen.Lessons.createRoute(sourceIndex))
+            }
+        }
+    }
+}
+
 private fun NavGraphBuilder.sourcesListRoute(sources: List<SourceItem>, navController: NavController) {
     composable(Screen.Sources.route) {
         SourcesScreen(sources = sources) { sourceItem ->
             navController.navigate(Screen.Lessons.createRoute(sourceItem.index))
-            Log.d("HostDebug", Screen.Lessons.createRoute(sourceItem.index))
         }
     }
 }

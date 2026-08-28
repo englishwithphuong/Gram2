@@ -30,12 +30,30 @@ suspend fun getLessonsForSource(context: Context, sourceIndex: Int): List<String
         if (sourceIndex in rawFolders.indices) {
             val folderName = rawFolders[sourceIndex]
             val lessonFiles = assetManager.list(folderName) ?: emptyArray()
-            return@withContext lessonFiles.sorted().map { it.substringBeforeLast(".") }
+
+            // Apply natural sorting here
+            return@withContext lessonFiles
+                .sortedWith(naturalOrderComparator)
+                .map { it.substringBeforeLast(".") }
         }
         emptyList()
     } catch (_: Exception) {
         emptyList()
     }
+}
+
+private val naturalOrderComparator = Comparator<String> { s1, s2 ->
+    val regex = Regex("\\d+")
+    val match1 = regex.find(s1)?.value?.toIntOrNull()
+    val match2 = regex.find(s2)?.value?.toIntOrNull()
+
+    if (match1 != null && match2 != null) {
+        // If both strings contain numbers, compare them numerically
+        val comp = match1.compareTo(match2)
+        if (comp != 0) return@Comparator comp
+    }
+    // Fallback to standard alphabetical comparison if no numbers or numbers are equal
+    s1.compareTo(s2)
 }
 
 suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonName: String): Lesson? = withContext(Dispatchers.IO) {

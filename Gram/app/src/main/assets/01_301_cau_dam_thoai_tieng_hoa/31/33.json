@@ -1,0 +1,15 @@
+{
+  "title": "Câu vô chủ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Hầu hết các câu đều được hợp thành bởi hai thành phần chủ ngữ và vị ngữ, nhưng cũng có một số câu chỉ có vị ngữ mà không có chủ ngữ nên gọi là câu vô chủ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(1) 有人找你。\n(2) 有人请你看电影。"
+    }
+  ]
+}

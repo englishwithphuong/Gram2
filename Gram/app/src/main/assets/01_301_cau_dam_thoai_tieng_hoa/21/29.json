@@ -1,15 +1,15 @@
 {
-  "title": "Số lượng từ làm định ngữ",
+  "title": "Câu dùng “是” (2)",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Trong tiếng Hoa hiện đại, số từ thường không thể bổ nghĩa trực tiếp cho danh từ, mà phải xen một lượng từ thích hợp vào giữa danh từ và số từ đó. Ví dụ:"
+      "content": "Phía sau danh từ, đại từ, hình dung từ thêm từ “的” vào, ta sẽ có một kết cấu chữ “的” mang tính chất và tác dụng của một danh từ, có thể sử dụng độc lập. Loại kết cấu chữ “的” này thường xuất hiện trong câu có từ “是”. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "\"两张票\", \"三个本子\", \"五个学生\""
+      "content": "(1) 这个本子是我的。\n(2) 那套邮票是新的。\n(3) 这件毛衣不是玛丽的。"
     }
   ]
 }

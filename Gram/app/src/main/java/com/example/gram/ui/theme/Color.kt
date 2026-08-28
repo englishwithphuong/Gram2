@@ -4,8 +4,10 @@ import androidx.compose.ui.graphics.Color
 
 // Custom App Colors
 val BackColor = Color.DarkGray
-val TitleColor = Color.Yellow
-val Level1Color = Color.White
+val LessonsScreenTitleColor = Color(0xaaffffff)
+val HeaderColor = Color(0xaa00ffff)
+val TitleColor = Color(0xaaffff00)
+val Level1Color = Color(0xaaffffff)
 val Level2Color = Color.Gray
 val ButtonBackgroundColor = Color.Transparent
 val ButtonForegroundColor = Color(0xff333333)

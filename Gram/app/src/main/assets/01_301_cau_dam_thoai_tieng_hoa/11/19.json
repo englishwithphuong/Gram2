@@ -1,15 +1,15 @@
 {
-  "title": "Chủ ngữ và vị ngữ",
+  "title": "Thành phần chủ yếu của câu",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Một câu thường có thể chia thành hai phần chính: Chủ ngữ và vị ngữ. Chủ ngữ đứng trước vị ngữ. Ví dụ:"
+      "content": "1. 主语和谓语 Chủ ngữ và vị ngữ\nMột câu thường có thể chia thành hai phần chính: Chủ ngữ và vị ngữ. Chủ ngữ đứng trước vị ngữ. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 你好!\n(2) 我去商店。"
+      "content": "(1) 你好！\n(2) 我去商店。"
     },
     {
       "type": "text",
@@ -20,6 +20,31 @@
       "type": "text",
       "level": 2,
       "content": "(3) 你好吗?\n(我)很好。\n(4) 谁是学生?\n他(是学生)。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "2. 宾语 Tân ngữ\nTân ngữ là thành phần liên đới của động từ, thường đứng sau động từ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(1) 我认识他。\n(2) 他有一个哥哥。\n(3) 他是学生。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "3. 定语 Định ngữ\nĐịnh ngữ thường bổ nghĩa cho danh từ. Giữa định ngữ và từ trung tâm có khi có trợ từ kết cấu “的” như “王兰的朋友”, có khi không có trợ từ kết cấu như “我姐姐” (Xem mục 2 phần ngữ pháp của bài 5)."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "4. 状语 Trạng ngữ\nTrạng ngữ dùng để bổ nghĩa cho động từ hoặc hình dung từ vị ngữ. Nó luôn đứng trước từ trung tâm. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(1) 我很好。\n(2) 他们都来。\n(3) 他在家看电视。"
     }
   ]
 }

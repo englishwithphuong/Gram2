@@ -1,0 +1,15 @@
+{
+  "title": "Câu hỏi lựa chọn",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng liên từ “还是” nối liền hai đáp án có khả năng với nhau để người trả lời chọn lấy một, loại câu hỏi này gọi là câu hỏi lựa chọn. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(1) 你上午去还是下午去?\n(2) 你喝咖啡还是喝茶?\n(3) 你一个人去还是跟朋友一起去。"
+    }
+  ]
+}

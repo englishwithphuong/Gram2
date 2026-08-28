@@ -10,7 +10,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -18,7 +17,10 @@ import androidx.compose.ui.unit.sp
 import com.example.gram.data.ExpandedStatePrefs
 import com.example.gram.model.LessonItem
 import com.example.gram.ui.lessoncontentscreen.components.buildStyledChineseText
+import com.example.gram.ui.theme.HeaderColor
 import com.example.gram.ui.theme.KaitiFontFamily
+import com.example.gram.ui.theme.LessonsScreenTitleColor
+import com.example.gram.ui.theme.TitleColor
 
 sealed interface LessonUiItem {
     data class Header(val chunkIndex: Int, val title: String) : LessonUiItem
@@ -85,7 +87,7 @@ fun LessonsScreen(
             text = sourceTitle,
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
-            color = Color.White
+            color = LessonsScreenTitleColor
         )
         Spacer(modifier = Modifier.height(16.dp))
         LazyColumn(
@@ -110,7 +112,7 @@ fun LessonsScreen(
                             text = "$arrow  ${uiItem.title}",
                             fontSize = 18.sp,
                             fontWeight = FontWeight.SemiBold,
-                            color = Color.Cyan,
+                            color = HeaderColor,
                             modifier = Modifier
                                 .fillMaxWidth()
                                 .clip(RoundedCornerShape(8.dp))
@@ -140,7 +142,7 @@ fun LessonsScreen(
                         Text(
                             text = styledDisplayText,
                             fontSize = 18.sp,
-                            color = Color.Yellow,
+                            color = TitleColor,
                             modifier = Modifier
                                 .fillMaxWidth()
                                 .clip(RoundedCornerShape(8.dp))

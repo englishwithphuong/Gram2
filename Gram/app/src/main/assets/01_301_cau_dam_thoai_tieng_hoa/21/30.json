@@ -1,15 +1,30 @@
 {
-  "title": "Câu kiêm ngữ",
+  "title": "Bổ ngữ kết quả",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Vị ngữ do hai ngữ động từ tạo thành, tân ngữ của động từ đứng trước đồng thời cũng là chủ ngữ của động từ đứng sau. Loại câu này gọi là câu kiêm ngữ. Động từ thứ nhất của câu kiêm ngữ thường mang ý nghĩa cầu khiến, như \"请\" (xin, nhờ), \"让\" (để, bảo), \"叫\" (bảo, kêu)... Ví dụ:"
+      "content": "Bổ ngữ nói rõ kết quả của động tác gọi là bổ ngữ kết quả. Bổ ngữ kết quả thường do động từ hoặc hình dung từ đảm nhiệm. Ví dụ: “接通”, “写对”..."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Động từ “到” làm bổ ngữ kết quả thường chỉ người hoặc phương tiện di chuyển thông qua động tác đạt đến một địa điểm nào đó hoặc kéo dài đến một thời điểm nào đó, cũng có thể chỉ động tác tiến hành đến một mức độ nào đó. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 请您写一下儿名字\n(2) 请他吃饭。"
+      "content": "(1) 他回到北京了。\n(2) 我们学到第十五课了。\n(3) 昨天晚上工作到十点。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dạng phủ định của câu có bổ ngữ kết quả là thêm “没(有)” vào phía trước động từ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(4) 我没买到那本书。\n(5) 大卫没找到玛丽。"
     }
   ]
 }

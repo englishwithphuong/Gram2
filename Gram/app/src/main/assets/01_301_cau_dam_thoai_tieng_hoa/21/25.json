@@ -1,15 +1,25 @@
 {
-  "title": "Câu vị ngữ chủ vị",
+  "title": "Động từ năng nguyện “会”",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Câu có thành phần vị ngữ là một ngữ chủ-vị, gọi là câu vị ngữ chủ vị. Chủ ngữ của ngữ chủ-vị ấy là người hay sự vật có quan hệ với chủ ngữ toàn câu. Ví dụ:"
+      "content": "Động từ năng nguyện “会” biểu thị mấy ý nghĩa khác nhau, thường có hai nghĩa sau đây:\n(a) Thông qua học tập mà có khả năng nào đó. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他身体很好。\n(2) 我工作很忙。\n(3) 星期天人很多。"
+      "content": "(1) 他会说汉语。 Anh ấy biết nói tiếng Hoa.\n(2) 我不会做中国饭。 Tôi không biết làm cơm Tàu."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(b) Chỉ sự có thể. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(3) 他会来吗? Anh ấy sẽ đến chứ?\n(4) 现在九点半了,他不会来了。 Bây giờ 9 giờ rưỡi rồi, anh ấy sẽ không đến đâu."
     }
   ]
 }

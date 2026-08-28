@@ -1,0 +1,15 @@
+{
+  "title": "Dùng hai số liền nhau để chỉ số ước lượng",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng hai số kề nhau cùng một lúc có thể biểu thị một số ước lượng. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "“零下三、四度”, “二、三百人”, “五、六十个房间”..."
+    }
+  ]
+}

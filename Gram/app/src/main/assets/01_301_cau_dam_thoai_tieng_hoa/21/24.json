@@ -1,10 +1,15 @@
 {
-  "title": "Động từ trùng điệp (lặp lại)",
+  "title": "Câu vị ngữ động từ có hai tân ngữ",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Trong tiếng Hoa có những động từ có thể lặp lại, gọi là động từ trùng điệp. Động từ trùng điệp chỉ động tác xảy ra trong thời gian ngắn, hoặc rất nhẹ nhàng, tùy tiện, có khi có thêm nghĩa là “thử”. Hình thức của động từ 1 âm tiết lặp lại là “AA”. Ví dụ “看看”、“听听”、“尝尝”, còn động từ hai âm tiết là “ABAB”. Ví dụ: “休息休息”、“介绍介绍”."
+      "content": "Trong tiếng Hoa có một số động từ có thể mang hai tân ngữ, tân ngữ đứng trước là tân ngữ gián tiếp (thường chỉ người), tân ngữ đứng sau là tân ngữ trực tiếp (thường chỉ vật). Loại câu này gọi là câu vị ngữ động từ có hai tân ngữ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(1) 我给你一本书。\n(2) 他找我八毛钱"
     }
   ]
 }

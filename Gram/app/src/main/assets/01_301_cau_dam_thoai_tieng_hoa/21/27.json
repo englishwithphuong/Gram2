@@ -1,15 +1,15 @@
 {
-  "title": "Câu vị ngữ động từ có hai tân ngữ",
+  "title": "Câu kiêm ngữ",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Trong tiếng Hoa có một số động từ có thể mang hai tân ngữ, tân ngữ đứng trước là tân ngữ gián tiếp (thường chỉ người), tân ngữ đứng sau là tân ngữ trực tiếp (thường chỉ vật). Loại câu này gọi là câu vị ngữ động từ có hai tân ngữ. Ví dụ:"
+      "content": "Vị ngữ do hai ngữ động từ tạo thành, tân ngữ của động từ đứng trước đồng thời cũng là chủ ngữ của động từ đứng sau. Loại câu này gọi là câu kiêm ngữ. Động từ thứ nhất của câu kiêm ngữ thường mang ý nghĩa cầu khiến, như “请” (xin, nhờ), “让” (để, bảo), “叫” (bảo, kêu)... Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 我给你一本书。\n(2) 他找我八毛钱"
+      "content": "(1) 请您写一下儿名字\n(2) 请他吃饭。"
     }
   ]
 }

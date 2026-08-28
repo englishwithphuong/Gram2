@@ -12,11 +12,11 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.gram.model.SourceItem
+import com.example.gram.ui.theme.TitleColor
 
 @Composable
 fun SourcesScreen(
@@ -43,7 +43,7 @@ fun SourceItemRow(sourceItem: SourceItem, onClick: () -> Unit) {
         text = sourceItem.title,
         fontSize = 22.sp,
         fontWeight = FontWeight.Bold,
-        color = Color.Yellow,
+        color = TitleColor,
         modifier = Modifier
             .fillMaxWidth()
             .clip(RoundedCornerShape(8.dp))

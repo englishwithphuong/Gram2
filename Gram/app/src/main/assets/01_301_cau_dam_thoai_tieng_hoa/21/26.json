@@ -1,35 +1,15 @@
 {
-  "title": "Động từ năng nguyện",
+  "title": "Số lượng từ làm định ngữ",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Động từ năng nguyện \"想、要、可以、会...\" thường đặt trước động từ khác để chỉ khả năng, nguyện vọng hay năng lực. Dạng phủ định của động từ năng nguyện là thêm \"不\" vào trước các động từ năng nguyện đó. Ví dụ:"
+      "content": "Trong tiếng Hoa hiện đại, số từ thường không thể bổ nghĩa trực tiếp cho danh từ, mà phải xen một lượng từ thích hợp vào giữa danh từ và số từ đó. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他要买书。\n(2) 我想回家。\n(3) 可以去那儿。\n(4) 我不想买东西。"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "Dạng phủ định của động từ năng nguyện \"要\" thường là \"不想\". Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 2,
-      "content": "(5) 你要喝汽水吗?\n我现在不想喝。"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "Câu có động từ năng nguyện nếu muốn thành lập câu hỏi dạng chính phản, ta chỉ cần đặt hình thức khẳng định và phủ định của động từ năng nguyện ấy liền nhau. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 2,
-      "content": "(6) 你想不想去长城?\n(7) 你要不要吃个苹果?"
+      "content": "“两张票”, “三个本子”, “五个学生”"
     }
   ]
 }

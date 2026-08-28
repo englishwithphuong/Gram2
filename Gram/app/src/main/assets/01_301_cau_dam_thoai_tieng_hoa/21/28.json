@@ -1,25 +1,35 @@
 {
-  "title": "Động từ năng nguyện \"会\"",
+  "title": "Trợ từ ngữ khí “了”",
   "sections": [
     {
       "type": "text",
       "level": 1,
-      "content": "Động từ năng nguyện \"会\" biểu thị mấy ý nghĩa khác nhau, thường có hai nghĩa sau đây:\n(a) Thông qua học tập mà có khả năng nào đó. Ví dụ:"
+      "content": "Có khi “了” chỉ một sự việc hay một tình huống nào đó đã xảy ra. Ta thử so sánh hai mẫu đối thoại sau:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他会说汉语。 Anh ấy biết nói tiếng Hoa.\n(2) 我不会做中国饭。 Tôi không biết làm cơm Tàu."
+      "content": "(1)\n你去哪儿?\n我去商店。\n你买什么?\n我买苹果。"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(2)\n你去哪儿了?\n我去商店了。\n你买什么了?\n我买苹果了。"
     },
     {
       "type": "text",
       "level": 1,
-      "content": "(b) Chỉ sự có thể. Ví dụ:"
+      "content": "Trong đoạn đối thoại (1) không dùng “了”, chỉ hai sự việc “去商店” và “买苹果” chưa xảy ra. Trong mẫu đối thoại (2) dùng “了”, chỉ 2 sự việc đã xảy ra rồi."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dạng phủ định của câu mang trợ từ ngữ khí “了” là đặt phó từ “没(有)” trước động từ, đồng thời bỏ “了” ở cuối câu. Còn câu hỏi chính phản của nó thì thêm “...了没有” ở cuối câu hoặc cùng đưa ra dạng khẳng định và phủ định của động từ “...没...”. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(3) 他会来吗? Anh ấy sẽ đến chứ?\n(4) 现在九点半了,他不会来了。 Bây giờ 9 giờ rưỡi rồi, anh ấy sẽ không đến đâu."
+      "content": "(1) 他没去商店。\n(2) 我没买苹果。\n(3) 你吃饭了没有?\n(4) 你吃没吃饭?"
     }
   ]
 }

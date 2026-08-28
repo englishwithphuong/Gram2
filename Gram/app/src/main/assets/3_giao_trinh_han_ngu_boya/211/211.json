@@ -1,0 +1,25 @@
+{
+  "title": "“先后” lần lượt",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "奇奇[先后]听到好几个人说自己的丈夫好。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị động tác, hành vi hoặc sự việc xảy ra hoặc xuất hiện lần lượt kế tiếp trong một quãng thời gian. Trong câu thường có cụm từ chỉ số lượng. “先后” có thể dùng với cùng một chủ ngữ, như ví dụ 1; cũng có thể dùng với các chủ ngữ khác nhau như ví dụ 2."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的朋友[先后]换过五次工作,他对现在的工作比较满意。\nWǒ de péngyou [xiāohòu] huàn guò wǔ cì gōngzuò, tā duì xiànzài de gōngzuò bǐjiào mǎnyì.\nBạn của tôi [lần lượt] đổi qua năm lần công việc, anh ấy tương đối hài lòng với công việc hiện tại.",
+        "这三家电脑公司为了做广告,[先后]都给我们送了一台电脑。\nZhè sān jiā diànnǎo gōngsī wèile zuò guǎnggào, [xiāohòu] dōu gěi wǒmen sòng le yí tái diànnǎo.\nBa công ty máy tính này vì để quảng cáo, [lần lượt] đều tặng chúng tôi một chiếc máy tính.",
+        "他[先后]向我借了一万块钱,到现在也没还给我。\nTā [xiāohòu] xiàng wǒ jiè le yí wàn kuài qián, dào xiànzài yě méi huán gěi wǒ.\nAnh ấy [lần lượt] vay tôi mười nghìn tệ, cho đến bây giờ vẫn chưa trả lại cho tôi.",
+        "我的同屋[先后]丢了三辆新自行车,所以他现在买了一辆很旧的。\nWǒ de tóngwū [xiāohòu] diū le sān liàng xīn zìxíngchē, suǒyǐ tā xiànzài mǎi le yí liàng hěn jiù de.\nBạn cùng phòng của tôi [lần lượt] mất ba chiếc xe đạp mới, cho nên cậu ấy bây giờ đã mua một chiếc rất cũ."
+      ]
+    }
+  ]
+}

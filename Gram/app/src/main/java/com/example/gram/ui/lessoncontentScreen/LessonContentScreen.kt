@@ -20,9 +20,11 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
+import com.example.gram.data.NavigationPrefs
 import com.example.gram.model.Lesson
 import com.example.gram.ui.lessoncontentscreen.components.LessonSectionItem
 import com.example.gram.ui.lessoncontentscreen.components.leftbar.LeftButtonBar
@@ -31,6 +33,7 @@ import com.example.gram.ui.theme.Typography
 import com.example.gram.ui.viewmodel.LessonContentViewModel
 import com.example.gram.ui.lessoncontentscreen.components.VerticalScrollbar
 import com.example.gram.ui.lessoncontentscreen.components.buildStyledChineseText
+import com.example.gram.ui.navigation.Screen
 import com.example.gram.ui.theme.KaitiBoldFontFamily
 
 @Composable
@@ -41,20 +44,24 @@ fun LessonContentScreen(
     lessonCount: Int,
     isImmersive: Boolean
 ) {
+    val context = LocalContext.current
     val pagerState = rememberPagerState(
         initialPage = lessonIndex,
         pageCount = { lessonCount }
     )
 
-    // Keep pager in sync if external navigation changes lessonIndex
+    // Sync pager if external navigation changes lessonIndex
     LaunchedEffect(lessonIndex) {
         if (pagerState.currentPage != lessonIndex) {
             pagerState.scrollToPage(lessonIndex)
         }
     }
 
-    // REMOVED: LaunchedEffect calling navController.navigate on every settledPage.
-    // Swiping should feel native and local like a ViewPager, avoiding navigation transaction flickers.
+    // Save the updated route to SharedPreferences whenever page swipe settles
+    LaunchedEffect(pagerState.settledPage) {
+        val currentRoute = Screen.LessonContent.createRoute(sourceIndex, pagerState.settledPage)
+        NavigationPrefs.save(context, currentRoute)
+    }
 
     HorizontalPager(
         state = pagerState,

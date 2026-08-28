@@ -1,0 +1,25 @@
+{
+  "title": "“于是” thế là, cho nên",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "女孩儿见他沉默,知道他显然不想要白玫瑰,[于是]又拿出一支黄玫瑰。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Liên kết câu hoặc phân câu, biểu thị sự việc đứng sau có quan hệ mật thiết hoặc là kết quả tự nhiên của sự việc đứng trước. Hai sự việc thường đã xảy ra. “于是” thường đứng ở đầu phân câu thứ hai, phía sau có ngừng ngắt, cũng có thể đứng ở sau chủ ngữ. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我等了他很长时间他都没来,[于是]我一个人走了。\nWǒ děng le tā hěn cháng shíjiān tā dōu méi lái, [yúshì] wǒ yí gè rén zǒu le.\nTôi đợi anh ấy rất lâu mà anh ấy không đến, [thế là] tôi đi một mình.",
+        "钱都花完了,[于是]他又开始找工作了。\nQián dōu huā wán le, [yúshì] tā yòu kāishǐ zhǎo gōngzuò le.\nTiền tiêu hết rồi, [cho nên] anh ấy lại bắt đầu tìm việc làm.",
+        "我担心考试迟到,[于是]很早就从家里出来了。\nWǒ dānxīn kǎoshì chídào, [yúshì] hěn zǎo jiù cóng jiālǐ chūlái le.\nTôi lo lắng thi muộn, [thế là] từ rất sớm đã ra khỏi nhà.",
+        "孩子常常丢钥匙,爸爸[于是]让他把钥匙挂在脖子上。\nHáizi chángcháng diū yàoshi, bàba [yúshì] ràng tā bǎ yàoshi guà zài bózi shàng.\nĐứa trẻ thường làm mất chìa khóa, bố [thế là] bảo nó treo chìa khóa ở cổ."
+      ]
+    }
+  ]
+}

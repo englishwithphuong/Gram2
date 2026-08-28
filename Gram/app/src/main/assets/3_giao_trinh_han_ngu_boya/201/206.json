@@ -1,0 +1,25 @@
+{
+  "title": "“所” trợ từ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "它只会让你[所]爱的人爱上你。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trợ từ, dùng trước động từ cập vật, cùng nhau tu sức cho danh từ đứng sau, nhấn mạnh sự chịu tác động của danh từ, như ví dụ 1, 2; cũng có thể trực tiếp thêm “的” tạo thành kết cấu chữ “的” tương đương với “……的东西(人、情况等)”, dùng nhiều trong văn viết, như ví dụ 3, 4."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "很多时候我们[所]了解的情况都是从电视和报纸上来的。\nHěn duō shíhou wǒmen [suǒ] liǎojiě de qíngkuàng dōu shì cóng diànshì hé bàozhǐ shàng lái de.\nNhiều khi tình hình mà chúng ta [được] hiểu đều đến từ tivi và báo chí.",
+        "上次考试[所]考的内容这次就不用复习了吧?\nShàng cì kǎoshì [suǒ] kǎo de nèiróng zhè cì jiù bú yòng fùxí le ba?\nNội dung đã thi trong bài kiểm tra lần trước, lần này không cần ôn tập nữa nhỉ?",
+        "现在,我们[所]缺乏的不是钱,而是时间。\nXiànzài, wǒmen [suǒ] quēfá de bú shì qián, ér shì shíjiān.\nHiện tại, thứ mà chúng ta thiếu không phải là tiền, mà là thời gian.",
+        "父母[所]担心的是我在中国吃不好。\nFùmǔ [suǒ] dānxīn de shì wǒ zài Zhōngguó chī bù hǎo.\nĐiều mà bố mẹ lo lắng là tôi ăn không ngon ở Trung Quốc."
+      ]
+    }
+  ]
+}

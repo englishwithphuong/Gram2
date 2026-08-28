@@ -1,0 +1,40 @@
+{
+  "title": "“往往” thường",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "主人邀请客人们入座时,客人们[往往]先坐不重要的座位,而把重要的座位留给别人。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị theo kinh nghiệm hoặc trong những điều kiện nhất định, thường sẽ xuất hiện một loại hành vi hoặc trạng thái nào đó. Cũng có nghĩa là, “往往” tu sức cho các hành vi hoặc trạng thái có tính quy luật hoặc theo thói quen. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "客人之间也[往往]互相劝酒。\nKèrén zhī jiān yě [wǎngwǎng] hùxiāng quàn jiǔ.\nGiữa những vị khách cũng [thường] chuốc rượu lẫn nhau.",
+        "吃完饭后,客人们并不是马上就离开,[往往]还要聊一会儿天。\nChī wán fàn hòu, kèrénmen bìng bú shì mǎshàng jiù líkai, [wǎngwǎng] hái yào liáo yíhuìr tiān.\nSau khi ăn cơm xong, các vị khách không phải lập tức rời đi ngay, [thường] vẫn còn trò chuyện một lát.",
+        "说自己醉了不能再喝的人[往往]没有醉,而说自己没醉的人[往往]是喝醉了。\nShuō zìjǐ zuì le bù néng zài hē de rén [wǎngwǎng] méiyǒu zuì, ér shuō zìjǐ méi zuì de rén [wǎngwǎng] shì hē zuì le.\nNgười nói bản thân say rồi không thể uống thêm nữa [thường] là chưa say, mà người nói bản thân chưa say [thường] lại là đã uống say rồi.",
+        "人们冬天[往往]比夏天吃得多。\nRénmen dōngtiān [wǎngwǎng] bǐ xiàtiān chī de duō.\nMọi người vào mùa đông [thường] ăn nhiều hơn mùa hè.",
+        "男人过生日的时候[往往]喜欢考虑自己的过去和将来。\nNánrén guò shēngrì de shíhou [wǎngwǎng] xǐhuan kǎolǜ zìjǐ de guòqù hé jiānglái.\nĐàn ông vào lúc đón sinh nhật [thường] thích suy ngẫm về quá khứ và tương lai của bản thân."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Chú ý: ý nghĩa và cách dùng của “往往” và “常常” có vài điểm khác nhau.\nVề mặt ý nghĩa, “常常” chỉ biểu thị số lần xuất hiện nhiều hoặc tần suất xuất hiện cao của hành vi hoặc trạng thái; Còn “往往” lại nhấn mạnh tính quy luật, hơn nữa trong câu thường xuất hiện thông tin về điều kiện nhất định. Về cách dùng, “常常” có thể dùng với các sự việc trong quá khứ, hiện tại hoặc tương lai. Nhưng “往往” chỉ có thể dùng với sự việc xảy ra trong quá khứ hoặc hiện tại. Câu dùng “往往” nói chung đều có thể dùng “常常”; nhưng câu dùng “常常” không phải đều có thể thay bằng “往往”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他常常跑步。(他[往往]跑步。)\nTā chángcháng pǎobù. (Tā [wǎngwǎng] pǎobù.)\nAnh ấy thường chạy bộ.",
+        "周末的时候,他[往往]跑步。(周末的时候,他常常跑步。)\nZhōumò de shíhou, tā [wǎngwǎng] pǎobù. (Zhōumò de shíhou, tā chángcháng pǎobù.)\nVào dịp cuối tuần, anh ấy [thường] chạy bộ. (Vào dịp cuối tuần, anh ấy thường chạy bộ.)",
+        "以后,我要常常跟中国人聊天。(×以后,我要往往跟中国人聊天。)\nYǐhòu, wǒ yào chángcháng gēn Zhōngguó rén liāotiān.\nSau này, tôi muốn thường xuyên trò chuyện với người Trung Quốc."
+      ]
+    }
+  ]
+}

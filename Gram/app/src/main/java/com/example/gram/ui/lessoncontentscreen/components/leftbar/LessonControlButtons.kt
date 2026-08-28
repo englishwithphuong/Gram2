@@ -1,4 +1,4 @@
-﻿package com.example.gram.ui.lessoncontentscreen.leftbar
+﻿package com.example.gram.ui.lessoncontentscreen.components.leftbar
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Text

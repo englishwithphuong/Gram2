@@ -1,4 +1,4 @@
-package com.example.gram.ui.lessoncontentscreen.leftbar
+package com.example.gram.ui.lessoncontentscreen.components
 
 import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.background

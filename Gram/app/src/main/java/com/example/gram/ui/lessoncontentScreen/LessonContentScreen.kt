@@ -22,15 +22,13 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import com.example.gram.model.Lesson
-import com.example.gram.model.Section
-import com.example.gram.ui.lessoncontentscreen.leftbar.LeftButtonBar
-import com.example.gram.ui.theme.Level1Color
-import com.example.gram.ui.theme.Level2Color
+import com.example.gram.ui.lessoncontentscreen.components.LessonSectionItem
+import com.example.gram.ui.lessoncontentscreen.components.leftbar.LeftButtonBar
 import com.example.gram.ui.theme.TitleColor
 import com.example.gram.ui.theme.Typography
 import com.example.gram.ui.viewmodel.LessonContentViewModel
 import com.example.gram.ui.viewmodel.ScrollStateViewModel
-import com.example.gram.ui.lessoncontentscreen.leftbar.VerticalScrollbar
+import com.example.gram.ui.lessoncontentscreen.components.VerticalScrollbar
 
 @Composable
 fun LessonContentScreen(
@@ -130,27 +128,6 @@ fun LessonContentBody(
                     .padding(end = 4.dp, top = 16.dp, bottom = 16.dp), // Fixed padding parameters
                 scrollState = scrollState
             )
-        }
-    }
-}
-
-@Composable
-fun LessonSectionItem(section: Section) {
-    when (section.type) {
-        "text" -> {
-            val textSize =
-                if (section.level == 1) Typography.titleMedium.fontSize else Typography.bodyMedium.fontSize
-            val textColor = if (section.level == 1) Level1Color else Level2Color
-            val fontWeight =
-                if (section.level == 1) Typography.titleMedium.fontWeight else Typography.bodyMedium.fontWeight
-
-            Text(
-                text = section.content,
-                fontSize = textSize,
-                color = textColor,
-                fontWeight = fontWeight
-            )
-            Spacer(modifier = Modifier.height(12.dp))
         }
     }
 }

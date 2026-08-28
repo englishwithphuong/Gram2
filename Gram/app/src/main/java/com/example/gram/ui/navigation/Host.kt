@@ -2,15 +2,12 @@
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -23,25 +20,15 @@ import com.example.gram.model.SourceItem
 
 @Composable
 fun Host(sources: List<SourceItem>) {
-    if (sources.isEmpty()) {
-        Box(
-            modifier = Modifier.fillMaxSize(),
-            contentAlignment = androidx.compose.ui.Alignment.Center
-        ) {
-            Text("No sources found in assets.", style = MaterialTheme.typography.bodyLarge)
-        }
-    } else {
-        LazyColumn(
-            modifier = Modifier
-                .fillMaxSize()
-                .padding(vertical = 32.dp, horizontal = 8.dp),
-            contentPadding = PaddingValues(16.dp),
-            verticalArrangement = Arrangement.spacedBy(16.dp)
-        ) {
-            items(sources) { sourceItem ->
-                SourceItemRow(sourceItem = sourceItem) {
-                    // TODO: Handle click to navigate to lessons for this source (using sourceItem.index)
-                }
+    LazyColumn(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(vertical = 32.dp, horizontal = 8.dp),
+        verticalArrangement = Arrangement.spacedBy(16.dp)
+    ) {
+        items(sources) { sourceItem ->
+            SourceItemRow(sourceItem = sourceItem) {
+                // TODO: Handle click to navigate to lessons for this source (using sourceItem.index)
             }
         }
     }

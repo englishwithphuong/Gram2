@@ -14,18 +14,24 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.APPLICATION_KEY
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.lifecycle.viewmodel.initializer
+import androidx.lifecycle.viewmodel.viewModelFactory
 import com.example.gram.ui.navigation.Host
 import com.example.gram.ui.viewmodel.SourcesViewModel
-import com.example.gram.ui.viewmodel.SourcesViewModelFactory
 
 @Composable
 fun AppRoot() {
-    val context = LocalContext.current
-    val app = context.applicationContext as Application
-    val viewModel: SourcesViewModel = viewModel(factory = SourcesViewModelFactory(app))
+    val viewModel: SourcesViewModel = viewModel(
+        factory = viewModelFactory {
+            initializer {
+                val application = this[APPLICATION_KEY] as Application
+                SourcesViewModel(application)
+            }
+        }
+    )
     val sources by viewModel.sources.collectAsState()
     if (sources.isEmpty()) {
         LoadingScreen()

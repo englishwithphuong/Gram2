@@ -1,0 +1,45 @@
+{
+  "title": "Cách diễn đạt ngày, tháng, năm",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Tên năm phải đọc từng con số một. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "一九八九年 (yì jiǔ bā jiǔ nián)\n二〇〇〇年 (èr líng líng líng nián)"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Tên của 12 tháng là thêm “月” vào sau số từ 1 đến 12. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "一月 (yíyuè), 五月 (wǔyuè), 九月 (jiǔyuè), 十二月 (shí'èryuè)"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(3) Tên ngày cũng giống như tên của tháng, nhưng thêm “日” hoặc “号” vào sau số từ 1-31. “日” thường dùng để viết, “号” thường dùng để nói."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(4) Cách chỉ thứ trong tuần là thêm số từ 1-6 vào sau từ “星期”. Riêng ngày chủ nhật là “星期日” hoặc “星期天”."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(5) Thứ tự viết thứ, ngày, tháng, năm như sau:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "1989年8月27日(星期日)\nChủ nhật ngày 27 tháng 8 năm 1989."
+    }
+  ]
+}

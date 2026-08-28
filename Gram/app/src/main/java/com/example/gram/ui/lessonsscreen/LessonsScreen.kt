@@ -4,10 +4,11 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListState
-import androidx.compose.foundation.lazy.itemsIndexed // Changed from items
+import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
@@ -15,11 +16,13 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.gram.model.LessonItem
+import com.example.gram.ui.lessoncontentscreen.components.buildStyledChineseText
+import com.example.gram.ui.theme.KaitiFontFamily
 
 @Composable
 fun LessonsScreen(
     sourceTitle: String,
-    lessons: List<LessonItem>, // Updated type
+    lessons: List<LessonItem>,
     listState: LazyListState,
     onLessonClick: (Int) -> Unit
 ) {
@@ -40,11 +43,18 @@ fun LessonsScreen(
             verticalArrangement = Arrangement.spacedBy(8.dp)
         ) {
             itemsIndexed(lessons) { index, lessonItem ->
-                // Combine index + 1 with the JSON title
                 val displayText = "${index + 1}. ${lessonItem.title}"
 
+                // Apply KaitiFontFamily specifically to the Chinese characters in the lesson item title
+                val styledDisplayText = remember(displayText) {
+                    buildStyledChineseText(
+                        text = displayText,
+                        chineseFontFamily = KaitiFontFamily
+                    )
+                }
+
                 Text(
-                    text = displayText,
+                    text = styledDisplayText,
                     fontSize = 18.sp,
                     color = Color.Yellow,
                     modifier = Modifier

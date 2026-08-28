@@ -29,6 +29,8 @@ import com.example.gram.ui.theme.Typography
 import com.example.gram.ui.viewmodel.LessonContentViewModel
 import com.example.gram.ui.viewmodel.ScrollStateViewModel
 import com.example.gram.ui.lessoncontentscreen.components.VerticalScrollbar
+import com.example.gram.ui.lessoncontentscreen.components.buildStyledChineseText
+import com.example.gram.ui.theme.KaitiBoldFontFamily
 
 @Composable
 fun LessonContentScreen(
@@ -92,6 +94,15 @@ fun LessonContentBody(
     scrollState: ScrollState,
     isImmersive: Boolean
 ) {
+    val rawTitle = lesson?.title ?: "Lesson ${lessonIndex + 1}"
+
+    // Apply KaitiBoldFontFamily to the Chinese characters in the lesson title
+    val styledTitle = remember(rawTitle) {
+        buildStyledChineseText(
+            text = rawTitle,
+            chineseFontFamily = KaitiBoldFontFamily
+        )
+    }
     Box(modifier = Modifier.fillMaxSize()) {
         Column(
             modifier = Modifier
@@ -100,7 +111,7 @@ fun LessonContentBody(
                 .verticalScroll(scrollState)
         ) {
             Text(
-                text = lesson?.title ?: "Lesson ${lessonIndex + 1}",
+                text = styledTitle,
                 fontSize = Typography.titleLarge.fontSize,
                 fontWeight = Typography.titleLarge.fontWeight,
                 color = TitleColor

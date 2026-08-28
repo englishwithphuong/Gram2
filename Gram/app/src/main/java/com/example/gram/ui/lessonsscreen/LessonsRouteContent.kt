@@ -29,12 +29,13 @@ fun LessonsRouteContent(
     val scrollViewModel: ScrollStateViewModel = viewModel(
         factory = ScrollStateViewModel.Factory(application)
     )
-    val listState = scrollViewModel.getScrollState(sourceIndex)
+
+    val listState = scrollViewModel.getListScrollState(sourceIndex)
 
     LaunchedEffect(listState) {
         snapshotFlow { listState.firstVisibleItemIndex to listState.firstVisibleItemScrollOffset }
             .collect {
-                scrollViewModel.saveScrollState(sourceIndex, listState)
+                scrollViewModel.saveListScrollState(sourceIndex, listState)
             }
     }
 

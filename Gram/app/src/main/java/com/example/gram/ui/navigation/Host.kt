@@ -6,6 +6,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import androidx.navigation.NavGraphBuilder
 import androidx.navigation.NavHostController
@@ -16,9 +17,11 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.gram.data.NavigationPrefs
 import com.example.gram.model.SourceItem
-import com.example.gram.ui.lessoncontentscreen.LessonContentScreen
 import com.example.gram.ui.lessonsscreen.LessonsRouteContent
 import com.example.gram.ui.sourcesscreen.SourcesScreen
+import com.example.gram.ui.viewmodel.LessonsViewModel
+import androidx.compose.runtime.collectAsState
+import com.example.gram.ui.lessoncontentscreen.LessonContentScreen
 
 @Composable
 fun Host(sources: List<SourceItem>) {
@@ -42,7 +45,7 @@ fun Host(sources: List<SourceItem>) {
     ) {
         sourcesListRoute(sources, navController)
         lessonsListRoute(sources, navController)
-        lessonContentRoute()
+        lessonContentRoute(navController)
     }
 }
 
@@ -104,7 +107,7 @@ private fun NavGraphBuilder.lessonsListRoute(sources: List<SourceItem>, navContr
     }
 }
 
-private fun NavGraphBuilder.lessonContentRoute() {
+private fun NavGraphBuilder.lessonContentRoute(navController: NavHostController) {
     composable(
         route = Screen.LessonContent.route,
         arguments = listOf(
@@ -115,9 +118,14 @@ private fun NavGraphBuilder.lessonContentRoute() {
         val sourceIndex = backStackEntry.arguments?.getInt("sourceIndex") ?: 0
         val lessonIndex = backStackEntry.arguments?.getInt("lessonIndex") ?: 0 // Read as Int
 
+        val viewModel: LessonsViewModel = viewModel(
+            factory = LessonsViewModel.provideFactory(sourceIndex)
+        )
         LessonContentScreen(
+            navController = navController,
             sourceIndex = sourceIndex,
-            lessonIndex = lessonIndex
+            lessonIndex = lessonIndex,
+            lessonCount = viewModel.lessons.collectAsState().value.count()
         )
     }
 }

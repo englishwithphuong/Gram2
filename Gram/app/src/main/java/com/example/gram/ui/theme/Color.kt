@@ -7,6 +7,10 @@ val BackColor = Color.DarkGray
 val TitleColor = Color.Yellow
 val Level1Color = Color.White
 val Level2Color = Color.Gray
+val ButtonBackgroundColor = Color.Transparent
+val ButtonForegroundColor = Color(0xff333333)
+val DisabledButtonBackgroundColor = Color.DarkGray
+val DisabledButtonForegroundColor = Color(0xff4f4f4f)
 
 // Default App Colors
 val Purple80 = Color(0xFFD0BCFF)

@@ -1,0 +1,107 @@
+{
+  "title": "Một số loại câu vị ngữ động từ đặc biệt",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "1. Câu dùng “是”."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[是]我的同学。\nAnh ấy là bạn học của tôi.",
+        "前边[是]一个中学，不是大学。\nPhía trước là một trường trung học, không phải trường đại học.",
+        "那个收录机[是]新的。\nCái máy ghi âm đó là máy mới."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "2. Câu dùng “有”."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[有]汉语书，[没有]法语书。\nTôi có sách tiếng Trung, không có sách tiếng Pháp.",
+        "我[有]哥哥，[没有]妹妹。\nTôi có anh trai, không có em gái.",
+        "书架上[有]很多小说和杂志。\nTrên giá sách có rất nhiều tiểu thuyết và tạp chí."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "3. Câu dùng “是……的” để nhấn mạnh thời gian, địa điểm hoặc phương thức của động tác. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[是]从东京来[的]。\nAnh ấy đến từ Tokyo.",
+        "我[是]坐飞机去上海[的]。\nTôi đi Thượng Hải bằng máy bay.",
+        "他妹妹[是]昨天到这儿[的]。\nEm gái anh ấy đến đây hôm qua.",
+        "那本杂志[是]从李红那儿借来[的]。\nQuyển tạp chí đó được mượn từ chỗ Lý Hồng."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "4. Câu chỉ sự tồn tại, xuất hiện."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "床旁边放[着]一个衣柜。\nBên cạnh giường có đặt một tủ quần áo.",
+        "那边走[过来]一个人。\nCó một người đi tới từ phía bên kia.",
+        "我们班走[了]两个日本同学。\nLớp chúng tôi có hai bạn học người Nhật rời đi."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "5. Câu liên động."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[去]商店[买]东西。\nTôi đi cửa hàng mua đồ.",
+        "我[有]一个问题要[问]你。\nTôi có một vấn đề muốn hỏi bạn.",
+        "我没[有]钱[花]了。\nTôi không còn tiền để tiêu nữa.",
+        "他们[去]医院[看]一个病人。\nHọ đến bệnh viện thăm một bệnh nhân."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "6. Câu kiêm ngữ."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "老师让[我们]听录音。\nGiáo viên bảo chúng tôi nghe băng ghi âm.",
+        "他请[我]吃饭。\nAnh ấy mời tôi ăn cơm.",
+        "外边有[人]找你。\nBên ngoài có người tìm bạn."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "7. Câu dùng “把”."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[把]信寄给玛丽了。\nAnh ấy đã gửi thư cho Mary.",
+        "他想[把]这件事告诉小王。\nAnh ấy muốn nói chuyện này cho Tiểu Vương.",
+        "别[把]东西放在门口。\nĐừng đặt đồ ở cửa.",
+        "他没[把]那本小说还给小刘。\nAnh ấy chưa trả cuốn tiểu thuyết đó cho Tiểu Lưu.",
+        "我们[把]他送到飞机场了。\nChúng tôi đã đưa anh ấy đến sân bay."
+      ]
+    }
+  ]
+}

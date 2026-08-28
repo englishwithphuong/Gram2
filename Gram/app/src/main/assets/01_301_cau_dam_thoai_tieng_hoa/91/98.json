@@ -1,0 +1,18 @@
+{
+  "title": "Cấu trúc “...了...就...” – “xong... liền”, “... rồi ... liền”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Chỉ một động tác xảy ra ngay sau khi một động tác khác vừa mới hoàn thành. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "昨天我们下[了]课[就]去参观了。\nHôm qua chúng tôi tan học xong liền đi tham quan.",
+        "他吃[了]饭[就]去外边散步了。\nAnh ấy ăn cơm xong liền ra ngoài đi dạo."
+      ]
+    }
+  ]
+}

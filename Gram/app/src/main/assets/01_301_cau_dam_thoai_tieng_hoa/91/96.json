@@ -1,0 +1,18 @@
+{
+  "title": "Dùng “不如” để so sánh",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“A 不如 B” có nghĩa là “A 没有 B 好” (A không tốt bằng B). Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的汉语水平[不如]他高。\nTrình độ tiếng Trung của tôi không cao bằng anh ấy.",
+        "这个房间[不如]那个房间干净。\nCăn phòng này không sạch bằng căn phòng kia."
+      ]
+    }
+  ]
+}

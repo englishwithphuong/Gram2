@@ -10,9 +10,9 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "你最近很忙吧？\nDạo này bạn rất bận phải không?",
-        "票一定很难买吧？\nVé chắc là rất khó mua phải không?",
-        "你很喜欢打球吧？\nBạn rất thích chơi bóng phải không?"
+        "你最近很忙[吧]？\nDạo này bạn rất bận phải không?",
+        "票一定很难买[吧]？\nVé chắc là rất khó mua phải không?",
+        "你很喜欢打球[吧]？\nBạn rất thích chơi bóng phải không?"
       ]
     }
   ]

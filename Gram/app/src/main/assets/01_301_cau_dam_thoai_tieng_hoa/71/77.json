@@ -1,0 +1,33 @@
+{
+  "title": "Sự tiếp diễn của động tác (Phần 1)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trợ từ động thái “着” đặt sau động từ, chỉ sự tiếp diễn của động tác hay trạng thái, dạng phủ định của nó là “没(有)...着”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "窗户开[着]，门没开[着]。\nCửa sổ đang mở, cửa chính thì không mở.",
+        "衣柜里挂[着]很多衣服。\nTrong tủ quần áo treo rất nhiều quần áo.",
+        "书上边[没]写[着]你的名字。\nTrên sách không viết tên của bạn.",
+        "他[没]拿[着]东西。\nAnh ấy không cầm đồ vật gì trên tay."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Câu hỏi chính phản của nó, có dạng “着......没有”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "门开[着没有]？\nCửa có đang mở hay không?",
+        "你带[着]护照[没有]？\nBạn có mang theo hộ chiếu không?"
+      ]
+    }
+  ]
+}

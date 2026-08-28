@@ -10,8 +10,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "和子和他父亲除了去上海以外，还去广州、香港。\nKazuko và bố cô ấy ngoài việc đi Thượng Hải ra, còn đi Quảng Châu, Hồng Kông.",
-        "除了小王以外，小张、小李也会说英语。\nNgoài Tiểu Vương ra, Tiểu Trương và Tiểu Lý cũng biết nói tiếng Anh."
+        "和子和他父亲[除了]去上海[以外]，还去广州、香港。\nKazuko và bố cô ấy ngoài việc đi Thượng Hải ra, còn đi Quảng Châu, Hồng Kông.",
+        "[除了]小王[以外]，小张、小李也会说英语。\nNgoài Tiểu Vương ra, Tiểu Trương và Tiểu Lý cũng biết nói tiếng Anh."
       ]
     },
     {
@@ -23,8 +23,8 @@
       "type": "numbered",
       "level": 2,
       "items": [
-        "这件事除了老张以外，我们都不知道。\nViệc này ngoài lão Trương ra, chúng tôi đều không biết.",
-        "除了大卫以外，我们都去过长城了。\nNgoài David ra, chúng tôi đều đã từng đi Vạn Lý Trường Thành rồi."
+        "这件事[除了]老张[以外]，我们都不知道。\nViệc này ngoài lão Trương ra, chúng tôi đều không biết.",
+        "[除了]大卫[以外]，我们都去过长城了。\nNgoài David ra, chúng tôi đều đã từng đi Vạn Lý Trường Thành rồi."
       ]
     }
   ]

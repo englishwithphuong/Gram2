@@ -1,0 +1,31 @@
+{
+  "title": "Bổ ngữ động lượng",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Động lượng từ kết hợp với số từ đặt sau động từ để nói rõ số lần xảy ra của động tác, tạo thành bổ ngữ động lượng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他只来过[一次]。\nAnh ấy chỉ đến đây một lần.",
+        "我找过他[两次]，他都不在。\nTôi đã tìm anh ấy hai lần, anh ấy đều không có nhà."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“一下儿” làm bổ ngữ động lượng, ngoài việc có thể chỉ số lần của động tác, còn có thể chỉ động tác diễn ra trong thời gian ngắn, đồng thời mang ý nghĩa nhẹ nhàng, tùy tiện. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "给你们介绍[一下儿]。\nGiới thiệu với các bạn một chút.",
+        "你帮我拿[一下儿]。\nBạn cầm hộ tôi một chút."
+      ]
+    }
+  ]
+}

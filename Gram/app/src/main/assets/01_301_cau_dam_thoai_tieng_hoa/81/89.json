@@ -1,0 +1,30 @@
+{
+  "title": "“有的……有的……” – “Có cái… có cái…” hay “có người… có người…”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Khi đại từ “有的” làm định ngữ, nó thường chỉ một phần trong số danh từ mà nó bổ nghĩa. “有的” có thể được sử dụng độc lập, cũng có thể sử dụng liên tiếp hai hoặc ba lần. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[有的]话我没听懂。\nCó những lời tôi không nghe hiểu.",
+        "我们班[有的]喜欢看电影，[有的]喜欢听音乐，[有的]喜欢看小说。\nTrong lớp chúng tôi, có người thích xem phim, có người thích nghe nhạc, có người thích đọc tiểu thuyết."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cũng có thể lược bỏ danh từ mà “有的” bổ nghĩa nếu danh từ đó đã xuất hiện ở phía trước. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他的书很多，[有的]（书）是中文的，[有的]（书）是英文的。\nSách của anh ấy rất nhiều, có những cuốn là sách tiếng Trung, có những cuốn là sách tiếng Anh."
+      ]
+    }
+  ]
+}

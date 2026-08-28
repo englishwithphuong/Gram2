@@ -1,0 +1,117 @@
+{
+  "title": "Mấy loại bổ ngữ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "1. 程度补语 – Bổ ngữ trình độ"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Bổ ngữ trình độ thường do hình dung từ đảm nhiệm. Ngữ động từ và phó từ cũng có thể làm bổ ngữ trình độ. Hầu hết bổ ngữ trình độ đều có mang từ “得”, cũng có loại không mang “得”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "老师说得[很慢]。\nCô giáo nói rất chậm.",
+        "他高兴得[不知道说什么好]。\nAnh ấy vui đến mức không biết nói gì cho phải.",
+        "这儿比那儿冷得[多]。\nỞ đây lạnh hơn ở đó nhiều.",
+        "那只小狗可爱[极了]。\nCon chó nhỏ đó đáng yêu vô cùng. (bổ ngữ trình độ không mang “得”)"
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "2. 结果补语 – Bổ ngữ kết quả. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你看[见]和子了吗？\nBạn có nhìn thấy Kazuko không?",
+        "你慢点儿说，我能听[懂]。\nBạn nói chậm một chút, tôi có thể nghe hiểu.",
+        "玛丽住[在]九楼。\nMary sống ở tầng chín.",
+        "我把啤酒放[在]冰箱里了。\nTôi đã để bia vào tủ lạnh rồi."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "3. 趋向补语 – Bổ ngữ xu hướng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "王老师从楼上下[来]了。\nThầy Vương từ trên lầu đi xuống rồi.",
+        "玛丽进大厅[去]了。\nMary đi vào đại sảnh rồi.",
+        "他买[回来]很多水果。\nAnh ấy mua rất nhiều hoa quả mang về.",
+        "那个包你放[进]衣柜里[去]吧。\nCái túi đó bạn bỏ vào trong tủ quần áo đi."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "4. 可能补语 – Bổ ngữ khả năng"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trước bổ ngữ kết quả và bổ ngữ xu hướng đơn hoặc kép, thêm “得” hoặc “不”, đều có thể tạo thành bổ ngữ khả năng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "练习不太多，今天晚上我做[得]完。\nBài tập không nhiều lắm, tối nay tôi làm xong kịp.",
+        "我听[不]懂你说的话。\nTôi nghe không hiểu lời bạn nói.",
+        "现在去长城，下午两点回[得]来回不来？\nBây giờ đi Trường Thành, hai giờ chiều có kịp về không?",
+        "衣柜很小，这个包放[不]进去。\nTủ quần áo rất nhỏ, cái túi này không nhét vào được."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "5. 数量补语 – Bổ ngữ số lượng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "姐姐比妹妹大[三岁]。\nChị gái lớn hơn em gái ba tuổi.",
+        "大卫比我高[一点儿]。\nDavid cao hơn tôi một chút.",
+        "那本词典比这本便宜[两块多钱]。\nCuốn từ điển đó rẻ hơn cuốn này hơn hai đồng."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "6. 动量补语 – Bổ ngữ động lượng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "来北京以后，他只去过[一次]动物园。\nSau khi đến Bắc Kinh, anh ấy chỉ đi sở thú một lần.",
+        "我去找了他[两次]。\nTôi đã tìm anh ấy hai lần."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "7. 时量补语 – Bổ ngữ thời lượng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我们休息了[二十分钟]。\nChúng tôi đã nghỉ ngơi được hai mươi phút.",
+        "他只学了[半年]汉语。\nAnh ấy chỉ học tiếng Trung nửa năm.",
+        "大卫做练习做了[一个小时]。\nDavid làm bài tập suốt một tiếng đồng hồ.",
+        "小王已经毕业[两年]了。\nTiểu Vương đã tốt nghiệp được hai năm rồi."
+      ]
+    }
+  ]
+}

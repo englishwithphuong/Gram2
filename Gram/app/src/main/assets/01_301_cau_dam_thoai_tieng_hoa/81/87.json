@@ -1,0 +1,44 @@
+{
+  "title": "Trợ từ kết cấu “的”, “得” và “地”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“的” đứng giữa định ngữ và trung tâm ngữ. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "{穿白衣服}[的]{同学}是他的朋友。\nBạn học mặc áo trắng là bạn của anh ấy.",
+        "那儿有{个很大}[的]{商店}。\nỞ đó có một cửa hàng rất lớn."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“得” đứng giữa động từ vị ngữ và bổ ngữ. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我的朋友在北京{过}[得]{很愉快}。\nBạn của tôi sống ở Bắc Kinh rất vui vẻ.",
+        "这些东西你{拿}[得]{了拿不了}？\nNhững thứ này bạn có mang đi được không?"
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“地” đứng giữa trạng ngữ và động từ vị ngữ. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "小刘{高兴}[地]{说}：“我今天收到三封信。”\nTiểu Lưu vui vẻ nói: “Hôm nay tôi nhận được ba bức thư.”",
+        "中国朋友{热情}[地]{欢迎}我们。\nBạn bè Trung Quốc nhiệt tình chào đón chúng tôi."
+      ]
+    }
+  ]
+}

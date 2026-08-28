@@ -1,0 +1,31 @@
+{
+  "title": "Bổ ngữ khả năng (Phần 2)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Giữa động từ và bổ ngữ xu hướng thêm “得” hoặc “不” sẽ thành bổ ngữ khả năng. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他们去公园了，十二点以前[回得来]。\nHọ đi công viên rồi, trước 12 giờ có thể về kịp.",
+        "山很高，我[爬不上去]。\nNúi rất cao, tôi trèo lên không được."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Câu hỏi chính phản của loại bổ ngữ này là đặt liền hai dạng khẳng định và phủ định với nhau. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你们十二点以前[回得来回不来]？\nCác bạn trước 12 giờ có về kịp hay không?",
+        "门很小，汽车[开得进来开不进来]？\nCửa rất nhỏ, ô tô có lái vào được hay không?"
+      ]
+    }
+  ]
+}

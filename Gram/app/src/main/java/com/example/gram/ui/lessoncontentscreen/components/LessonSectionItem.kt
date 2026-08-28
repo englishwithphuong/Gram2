@@ -128,7 +128,7 @@ fun LessonTextSection(
         )
     )
 
-    Spacer(modifier = Modifier.height(12.dp))
+    Spacer(modifier = Modifier.height(20.dp))
 }
 
 @Composable
@@ -140,7 +140,7 @@ fun LessonNumberedSection(
     val items = section.items ?: emptyList()
 
     Column {
-        Spacer(modifier = Modifier.height(4.dp))
+        Spacer(modifier = Modifier.height(14.dp))
 
         items.forEachIndexed { index, item ->
 
@@ -167,7 +167,7 @@ fun LessonNumberedSection(
 
             Row {
                 Text(
-                    text = "${index + 1}.",
+                    text = "${index + 1}",
                     fontSize = Typography.bodyMedium.fontSize,
                     color = Level2Color,
                     fontWeight = Typography.bodyMedium.fontWeight,
@@ -187,7 +187,7 @@ fun LessonNumberedSection(
                 )
             }
 
-            Spacer(modifier = Modifier.height(6.dp))
+            Spacer(modifier = Modifier.height(30.dp))
         }
     }
 

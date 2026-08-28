@@ -1,0 +1,25 @@
+{
+  "title": "“又……又……” vừa… vừa…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "西红柿炒鸡蛋，[又]好吃[又]好学。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để nối giữa hai hình dung từ hoặc hai động từ, biểu thị hai tính chất, hai trạng thái hoặc hai hành động nào đó đồng thời tồn tại. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他长得[又]高[又]大，他的女朋友[又]聪明[又]漂亮。\nTā zhǎng de [yòu] gāo [yòu] dà, tā de nǚpéngyou [yòu] cōngmíng [yòu] piàoliang.\nAnh ấy cao [lại] lớn, bạn gái của anh ấy thông minh [lại] xinh đẹp.",
+        "他写汉字写得[又]快[又]好。\nTā xiě hànzì xiě de [yòu] kuài [yòu] hǎo.\nAnh ấy viết chữ Hán vừa nhanh vừa tốt.",
+        "那个孩子[又]唱[又]跳，高兴极了。\nNà gè háizi [yòu] chàng [yòu] tiào, gāoxìng jí le.\nĐứa trẻ đó vừa hát vừa nhảy, vui mừng khôn xiết.",
+        "老朋友在一起[又]说[又]笑，很高兴。\nLǎopéngyou zài yìqǐ [yòu] shuō [yòu] xiào, hěn gāoxìng.\nNhững người bạn cũ ở bên nhau vừa nói vừa cười, rất vui."
+      ]
+    }
+  ]
+}

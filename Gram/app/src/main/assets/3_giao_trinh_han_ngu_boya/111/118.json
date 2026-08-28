@@ -1,0 +1,38 @@
+{
+  "title": "“除了……(以外)” ngoài… ra",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "但是[除了发发电子邮件、打打电话以外],从来也没有见过面。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) 除了……(以外),……也/还…… (Bổ sung)"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[除了他(以外)],安娜[也]喜欢吃中国菜。\n[Chúle tā (yǐwài)], Ānnà [yě] xǐhuān chī Zhōngguó cài.\n[Ngoài anh ấy ra], Anna [cũng] thích ăn món Trung Quốc.",
+        "[除了中国菜(以外)],我[还]喜欢吃泰国菜。\n[Chúle Zhōngguó cài (yǐwài)], wǒ [hái] xǐhuān chī Tàiguó cài.\n[Ngoài món Trung Quốc ra], tôi [còn] thích ăn món Thái Lan.",
+        "[除了星期天以外],星期二我[也]常常打篮球。\n[Chúle xīngqítiān yǐwài], xīngqī'èr wǒ [yě] chángcháng dǎ lánqiú.\n[Ngoài Chủ nhật ra], thứ Ba tôi [cũng] thường xuyên chơi bóng rổ."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) 除了……(以外),……都…… (Loại trừ)"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[除了他(以外)],我们[都]喜欢吃中国菜。\n[Chúle tā (yǐwài)], wǒmen [dōu] xǐhuān chī Zhōngguó cài.\n[Trừ anh ấy ra], chúng tôi [đều] thích ăn món Trung Quốc.",
+        "[除了香菜(xiāngcài, coriander)以外],别的菜我[都]喜欢吃。\n[Chúle xiāngcài yǐwài], biéde cài wǒ [dōu] xǐhuān chī.\n[Trừ rau mùi ra], các món khác tôi [đều] thích ăn.",
+        "[除了星期天(以外)],其他时间我[都]要学习。\n[Chúle xīngqítiān (yǐwài)], qítā shíjiān wǒ [dōu] yào xuéxí.\n[Trừ Chủ nhật ra], thời gian khác tôi [đều] phải học tập."
+      ]
+    }
+  ]
+}

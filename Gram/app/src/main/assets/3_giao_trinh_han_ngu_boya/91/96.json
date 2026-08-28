@@ -1,0 +1,53 @@
+{
+  "title": "Bổ ngữ xu hướng kép",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "要是踢[进][去]，胜利就是我们的了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“来、去” và “上、下、进、出、回、过、起” có thể kết hợp thành bổ ngữ xu hướng kép, đặt sau động từ để chỉ hướng của động tác."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他很快地跑[上][去]了。\nTā hěn kuài de pǎo [shàng] [qù] le.\nCậu ấy chạy [lên] rất nhanh.",
+        "弟弟从树上跳[下][来]了。\nDìdi cóng shù shàng tiào [xià] [lái] le.\nEm trai nhảy từ trên cây [xuống].",
+        "孩子摔倒了，妈妈让他自己爬[起][来]。\nHáizi shuāidǎo le, māmā ràng tā zìjǐ pá [qǐ] [lái].\nĐứa trẻ ngã rồi, mẹ bảo tự mình bò dậy."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Chú ý: khi có tân ngữ thì trật tự từ sẽ là:\nV + 上/下/进/出/回/过 + O + 来/去\nV + 起 + O + 来"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "老师走[进]教室[去]了。\nLǎoshī zǒu [jìn] jiàoshì [qù] le.\nThầy giáo đi [vào] phòng học.",
+        "大卫飞[回]美国[去]了。\nDàwèi fēi [huí] Měiguó [qù] le.\nDavid bay [về] Mỹ.",
+        "汽车开[过]桥[来]了。\nQìchē kāi [guò] qiáo [lái] le.\nXe ô tô lái [qua] cầu tới.",
+        "他拿[起]笔[来]，准备写字。\nTā ná [qǐ] bǐ [lái], zhǔnbèi xiě zì.\nCậu ấy cầm bút [lên], chuẩn bị viết chữ."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Nhưng khi tân ngữ không phải là danh từ chỉ địa điểm thì tân ngữ đó cũng có thể đặt sau “来/去”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他拿[进][来]一本书。\nTā ná [jìn] [lái] yì běn shū.\nAnh ấy mang vào một cuốn sách.",
+        "他搬[上][来]很多箱子。\nTā bān [shàng] [lái] hěn duō xiāngzi.\nAnh ấy khiêng lên rất nhiều thùng.",
+        "他拿[起][来]一支笔。\nTā ná [qǐ] [lái] yì zhī bǐ.\nAnh ấy cầm lên một cây bút."
+      ]
+    }
+  ]
+}

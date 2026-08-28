@@ -1,0 +1,24 @@
+{
+  "title": "“真是一 + lượng từ + n”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "这[真是一次]愉快的聚会!"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị cảm thán."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "今天[真是一个]好天气!\nJīntiān [zhēn shì yí gè] hǎo tiānqì!\nHôm nay [đúng là một] thời tiết đẹp!",
+        "[真是一个]不错的机会!\n[Zhēn shì yí gè] bú cuò de jīhuì!\n[Đúng là một] cơ hội không tồi!",
+        "[真是一个]奇怪的人!一直都不说话。\n[Zhēn shì yí gè] qíguài de rén! Yìzhí dōu bù shuōhuà.\n[Đúng là một] người kỳ lạ! Từ đầu đến cuối chẳng nói câu nào."
+      ]
+    }
+  ]
+}

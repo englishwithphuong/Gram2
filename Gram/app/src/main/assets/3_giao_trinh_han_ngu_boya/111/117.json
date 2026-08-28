@@ -1,0 +1,21 @@
+{
+  "title": "Cách nói các số trên 100 (nghìn, vạn)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cách nói các số trên 100 (nghìn, vạn)"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "1080 [一千零八十]\nyī qiān líng bā shí\nmột nghìn không trăm tám mươi",
+        "9873 [九千八百七十三]\njiǔ qiān bā bǎi qī shí sān\nchín nghìn tám trăm bảy mươi ba",
+        "1,2465 [一万两千四百六十五]\nyí wàn liǎng qiān sì bǎi liù shí wǔ\nmười hai nghìn bốn trăm sáu mươi lăm",
+        "324,0000 [三百二十四万]\nsān bǎi èr shí sì wàn\nba triệu hai trăm bốn mươi nghìn",
+        "4,0790 [四万零七百九十]\nsì wàn líng qī bǎi jiǔ shí\nbốn vạn không trăm bảy mươi chín (bốn mươi nghìn không trăm bảy mươi chín)"
+      ]
+    }
+  ]
+}

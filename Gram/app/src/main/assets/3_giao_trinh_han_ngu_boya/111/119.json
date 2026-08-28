@@ -1,0 +1,24 @@
+{
+  "title": "“一边……一边……” vừa… vừa…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我们[一边喝酒，一边回忆]做过的坏事、傻事。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu đạt hai hành động đồng thời tiến hành. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他们[一边]走，[一边]聊天儿。\nTāmen [yībiān] zǒu, [yībiān] liáotiānr.\nHọ [vừa] đi, [vừa] trò chuyện.",
+        "不要[一边]吃饭[一边]说话。\nBú yào [yībiān] chīfàn [yībiān] shuōhuà.\nĐừng [vừa] ăn cơm [vừa] nói chuyện.",
+        "[一边]看电视[一边]吃饭，这个习惯好不好？\n[Yībiān] kàn diànshì [yībiān] chīfàn, zhè gè xíguàn hǎo bu hǎo?\n[Vừa] xem tivi [vừa] ăn cơm, thói quen này tốt hay không tốt?"
+      ]
+    }
+  ]
+}

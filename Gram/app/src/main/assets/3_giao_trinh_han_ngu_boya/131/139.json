@@ -1,0 +1,24 @@
+{
+  "title": "“再V的话, ……” nếu còn… nữa, thì…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "再说[的话],我非打你不可。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để giả thiết một tình huống tiếp tục diễn ra, dẫn đến kết quả ở vế sau. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你[再]这样玩儿下去[的话],一定考不上大学。\nNǐ [zài] zhèyàng wánr xiàqù [de huà], yídìng kǎo bú shàng dàxué.\nCậu [mà cứ] chơi tiếp thế này [nữa], nhất định sẽ không đậu đại học đâu.",
+        "你[再]不起床[的话],上课就要迟到了。\nNǐ [zài] bù qǐchuáng [de huà], shàngkè jiù yào chídào le.\nCậu [mà] không chịu dậy [nữa], đi học sẽ muộn mất đấy.",
+        "我们[再]不走[的话],就来不及了。\nWǒmen [zài] bù zǒu [de huà], jiù lái bu jí le.\nChúng ta [mà] không đi [nữa], thì sẽ không kịp mất."
+      ]
+    }
+  ]
+}

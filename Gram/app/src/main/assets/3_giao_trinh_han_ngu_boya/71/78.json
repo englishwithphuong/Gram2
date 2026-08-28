@@ -1,0 +1,81 @@
+{
+  "title": "“是……的” chính là…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我父母的飞机[是]下午两点十分[的]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“是……的” dùng để nhấn mạnh thời gian, nơi chốn, phương thức, mục đích của hành động. Thành phần cần nhấn mạnh được đặt sau “是”, thường để diễn đạt các sự việc đã xảy ra."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) S + 是 + 时间 + V + O + 的"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[是]去年从北京大学毕业[的]，不是今年。\nTā [shì] qùnián cóng Běijīng Dàxué bìyè [de], bú shì jīnnián.\nAnh ấy [là] tốt nghiệp Đại học Bắc Kinh vào năm ngoái, không phải năm nay.",
+        "这个航班[是]下午四点到北京[的]。\nZhè gè hángbān [shì] xiàwǔ sì diǎn dào Běijīng [de].\nChuyến bay này [là] đến Bắc Kinh lúc 4 giờ chiều."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) S + 是 + 地方 + V + O + 的"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[是]在图书馆看见刘老师[的]，不是在商店。\nWǒ [shì] zài túshūguǎn kànjiàn Liú lǎoshī [de], bú shì zài shāngdiàn.\nTôi [là] nhìn thấy thầy Lưu ở thư viện, không phải ở cửa hàng.",
+        "这本词典，我[是]在学校的书店买[的]。\nZhè běn cídiǎn, wǒ [shì] zài xuéxiào de shūdiàn mǎi [de].\nCuốn từ điển này, tôi [là] mua ở hiệu sách của trường."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(3) S + 是 + 方式 + V + O + 的"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[是]坐飞机来中国[的]，不是坐船。\nWǒ [shì] zuò fēijī lái Zhōngguó [de], bú shì zuò chuán.\nTôi [là] đi máy bay đến Trung Quốc, không phải đi tàu thủy.",
+        "他们[是]骑自行车来学校[的]。\nTāmen [shì] qí zìxíngchē lái xuéxiào [de].\nHọ [là] đạp xe đến trường."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(4) 是 + S + V + O + 的"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[是]他去年从北京大学毕业[的]，不是我。\n[Shì] tā qùnián cóng Běijīng Dàxué bìyè [de], bú shì wǒ.\n[Là] anh ấy tốt nghiệp Đại học Bắc Kinh vào năm ngoái, không phải tôi.",
+        "[是]我告诉他[的]，怎么了？\n[Shì] wǒ gàosù tā [de], zěnme le?\n[Là] tôi nói cho anh ấy biết đấy, sao thế?"
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(5) S + 是 + 来/去 + V + O + 的"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[是]来中国学习汉语[的]，不是来玩儿[的]。\nWǒ [shì] lái Zhōngguó xuéxí hànyǔ [de], bú shì lái wánr [de].\nTôi [là] đến Trung Quốc để học tiếng Trung, không phải đến chơi.",
+        "我[是]来看你[的]，不是来... / 我不是来看你[的]，[是]来看李军[的]。\nWǒ [shì] lái kàn nǐ [de] / Wǒ bú shì lái kàn nǐ [de], [shì] lái kàn Lǐ Jūn [de].\nTôi không phải đến để thăm bạn, [mà là] đến để thăm Lý Quân.",
+        "他[是]去工作[的]，不是去玩儿[的]。\nTā [shì] qù gōngzuò [de], bú shì qù wánr [de].\nCậu ấy [là] đi làm việc, không phải đi chơi."
+      ]
+    }
+  ]
+}

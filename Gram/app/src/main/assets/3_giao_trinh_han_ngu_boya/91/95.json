@@ -1,0 +1,24 @@
+{
+  "title": "“该……了” (Đến lúc) nên… rồi",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "看来[该]换个大冰箱[了]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu đạt ý (đến lúc) nên làm một việc gì đó. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "时间不早了，我[该]回去[了]。\nShíjiān bù zǎo le, wǒ [gāi] huíqù [le].\nThời gian không còn sớm nữa, tôi [nên] về [thôi].",
+        "十一点了，[该]睡觉[了]，明天还要上课呢。\nShíyī diǎn le, [gāi] shuìjiào [le], míngtiān hái yào shàngkè ne.\n11 giờ rồi, [đến lúc] đi ngủ [rồi], ngày mai còn phải lên lớp nữa đấy.",
+        "三月了，天气[该]暖和[了]。\nSān yuè le, tiānqì [gāi] nuǎnhuo [le].\nTháng ba rồi, thời tiết [chắc] ấm lên [rồi]."
+      ]
+    }
+  ]
+}

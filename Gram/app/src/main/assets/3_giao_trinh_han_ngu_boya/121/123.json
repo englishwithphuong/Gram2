@@ -1,0 +1,23 @@
+{
+  "title": "难道 lẽ nào",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[难道]我的汉语水平还是那么差吗?"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng trong câu phản vấn để nhấn mạnh ngữ khí phản vấn. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "A: 你会说英语,是吧?\nB: 对不起,我不会说。\nA: 怎么? [难道]你不是美国人吗?\nA: Nǐ huì shuō yīngyǔ, shì ba?\nB: Duìbuqǐ, wǒ bú huì shuō.\nA: Zěnme? [Nándào] nǐ bú shì Měiguó rén ma?\nA: Cậu biết nói tiếng Anh, đúng không?\nB: Xin lỗi, tôi không biết nói.\nA: Sao cơ? [Lẽ nào] cậu không phải người Mỹ sao?",
+        "A: 这是什么字?\nB: 这不是“人”字吗?我们昨天刚学的, [难道]你今天就忘了吗?\nA: Zhè shì shénme zì?\nB: Zhè bú shì “rén” zì ma? Wǒmen zuótiān gāng xué de, [nándào] nǐ jīntiān jiù wàng le ma?\nA: Đây là chữ gì?\nB: Đây chẳng phải là chữ “nhân” sao? Chúng ta vừa mới học hôm qua, [lẽ nào] hôm nay cậu đã quên rồi à?"
+      ]
+    }
+  ]
+}

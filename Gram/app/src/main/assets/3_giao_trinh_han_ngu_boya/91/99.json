@@ -1,0 +1,30 @@
+{
+  "title": "Bổ ngữ khả năng",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我忘了带钥匙，[进不去]宿舍了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Thêm “得/不” vào giữa động từ và bổ ngữ kết quả hoặc giữa động từ và bổ ngữ xu hướng để biểu thị khả năng đạt kết quả của động tác. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "洗干净 → 洗[得]干净 / 洗[不]干净\n听懂 → 听[得]懂 / 听[不]懂\n进去 → 进[得]去 / 进[不]去\n起来 → 起[得]来 / 起[不]来"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这件衣服太脏了，洗[不]干净。\nZhè jiàn yīfu tài zāng le, xǐ [bù] gānjìng.\nBộ quần áo này bẩn quá, giặt [không] sạch.",
+        "她说话很慢，我听[得]懂。\nTā shuōhuà hěn màn, wǒ tīng [de] dǒng.\nCô ấy nói rất chậm, tôi nghe [được] hiểu.",
+        "早上八点上课，太早了，你起[得]来吗？\nZǎoshang bā diǎn shàngkè, tài zǎo le, nǐ qǐ [de] lái ma?\nSáng 8 giờ lên lớp, sớm quá, cậu dậy [được] không?",
+        "这个通知你看[得]懂[不]懂？\nZhè gè tōngzhī nǐ kàn [de] dǒng [bù] dǒng?\nThông báo này cậu xem có hiểu [không]?"
+      ]
+    }
+  ]
+}

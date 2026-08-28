@@ -1,0 +1,37 @@
+{
+  "title": "Hình dung từ lặp lại",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "这些苹果[红红的],[大大的]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Hình dung từ lặp lại chủ yếu dùng để gia tăng mức độ. Khi ở vị trí định ngữ chúng thường biểu thị mức độ vừa phải và mang sắc thái đáng yêu. Thường dùng trong văn miêu tả."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Hình thức lặp lại của hình dung từ đơn âm tiết: A→AA. Ví dụ: 高 → 高高   红 → 红红"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Hình thức lặp lại của hình dung từ song âm tiết: AB→AABB. Ví dụ: 干净 → 干干净净 舒服 → 舒舒服服"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "天[蓝蓝的],云[白白的],真漂亮啊！\nTiān [lánlan de], yún [báibái de], zhēn piàoliang a!\nTrời [xanh xanh], mây [trắng trắng], đẹp quá!",
+        "公共汽车上人挤得[满满的],还是打车吧。\nGōnggòng qìchē shàng rén jǐ de [mǎnmǎn de], háishì dǎ chē ba.\nTrên xe buýt người chen chúc [đầy ắp], hay là đi taxi vậy.",
+        "他的女朋友[长长的]头发,[大大的]眼睛,可爱极了。\nTā de nǚpéngyǒu [chángcháng de] tóufa, [dàdà de] yǎnjīng, kě'ài jíle.\nBạn gái của anh ấy mái tóc [dài dài], đôi mắt [to to], đáng yêu vô cùng.",
+        "女孩子都喜欢吃[甜甜的]蛋糕,对不对?\nNǚ háizi dōu xǐhuān chī [tiántián de] dàngāo, duì bú duì?\nCon gái đều thích ăn bánh ngọt [ngọt ngọt], đúng không?",
+        "这套公寓[干干净净的],离学校又不远,我很满意。\nZhè tào gōngyù [gāngānjìngjing de], lí xuuéxiào yòu bù yuǎn, wǒ hěn mǎnyì.\nCăn hộ này [sạch sẽ gọn gàng], cách trường lại không xa, tôi rất hài lòng.",
+        "我听得[清清楚楚的],明天有听写。\nWǒ tīng de [qīngqīngchǔchǔ de], míngtiān yǒu tīngxiě.\nTôi nghe [rõ mồn một], ngày mai có kiểm tra nghe viết."
+      ]
+    }
+  ]
+}

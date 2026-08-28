@@ -1,0 +1,41 @@
+{
+  "title": "“就是”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "家常菜[就是]中国人平时在家里常吃的菜。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Dùng để giải thích hoặc thuyết minh cho sự vật được nhắc đến trước đó. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "北大，[就是]北京大学。\nBěidà, [jiùshì] Běijīng Dàxué.\nBắc Đại, [chính là] Đại học Bắc Kinh.",
+        "“二锅头”，[就是]一种很厉害的中国白酒。\n“Èrguōt tóu”, [jiùshì] yì zhǒng hěn lìhài de Zhōngguó báijiǔ.\n“Nhị Oa Đầu”, [chính là] một loại rượu trắng Trung Quốc rất nặng."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[就是]做起来不太容易。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Dùng để nêu lên một sự không vừa lòng hoặc một mặt không trọn vẹn nào đó với ngữ khí uyển chuyển. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这个菜很好吃，[就是]太辣了。\nZhè gè cài hěn hǎochī, [jiùshì] tài là le.\nMón ăn này rất ngon, [chỉ là] cay quá.",
+        "那套公寓不错，[就是]离学校有点儿远。\nNà tào gōngyù búcuò, [jiùshì] lí xuéxiào yǒudiǎnr yuǎn.\nCăn hộ đó được đấy, [chỉ có điều] cách trường hơi xa."
+      ]
+    }
+  ]
+}

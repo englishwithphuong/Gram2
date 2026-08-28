@@ -1,0 +1,25 @@
+{
+  "title": "V过",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我没学[过]简化字,有很多不认识。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu đạt hành động đã xảy ra trong quá khứ hoặc đã được trải nghiệm trong quá khứ. Khi phủ định dùng cấu trúc: “S+没(有) + V过 + O”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我只吃[过]一次北京烤鸭,你呢?\nWǒ zhǐ chī [guo] yí cì Běijīng kǎoyā, nǐ ne?\nTôi chỉ ăn [qua] vịt quay Bắc Kinh một lần, còn bạn thì sao?\n→我没[有]吃[过]北京烤鸭。\n→Wǒ méi [yǒu] chī [guo] Běijīng kǎoyā.\n→Tôi chưa từng ăn vịt quay Bắc Kinh.",
+        "那个地方我两年前去[过],还不错。\nNà gè dìfang wǒ liǎng nián qián qù [guo], hái bú cuò.\nNơi đó tôi đã đi [qua] từ hai năm trước, vẫn khá tốt.\n→那个地方我没去[过],不知道好不好。\n→Nà gè dìfang wǒ méi qù [guo], bù zhīdào hǎo bu hǎo.\n→Nơi đó tôi chưa từng đi [qua], không biết có tốt không.",
+        "这一个月,你只上[过]两天班,老板很生气。\nZhè yí gè yuè, nǐ zhǐ shàng [guo] liǎng tiān bān, lǎobǎn hěn shēngqì.\nTháng này, bạn mới đi làm [qua] hai ngày, ông chủ rất tức giận.\n→这一个月,我没上[过]班,公司里的事我不知道。\n→Zhè yí gè yuè, wǒ méi shàng [guo] bān, gōngsī lǐ de shì wǒ bù zhīdào.\n→Tháng này, tôi chưa từng đi làm [ngày nào], chuyện trong công ty tôi không biết.",
+        "他最近身体不好,已经生[过]两次病了,应该锻炼身体了。\nTā zuìjìn shēntǐ bù hǎo, yǐjīng shēng [guo] liǎng cì bìng le, yīnggāi duànliàn shēntǐ le.\nGần đây sức khỏe anh ấy không tốt, đã ốm [qua] hai lần rồi, nên rèn luyện sức khỏe thôi."
+      ]
+    }
+  ]
+}

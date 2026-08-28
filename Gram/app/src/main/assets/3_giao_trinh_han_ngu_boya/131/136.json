@@ -1,0 +1,24 @@
+{
+  "title": "“既……也……” vừa… lại vừa…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[既]作为新学期第一次班会,[也]算是大家的第一次沟通。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị đồng thời hai trạng thái, tính chất hoặc hành động. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "她[既]不聪明,[也]不漂亮,可是为什么有那么多人喜欢她?\nTā [jì] bù cōngmíng, [yě] bù piàoliang, kěshì wèishénme yǒu nàme duō rén xǐhuān tā?\nCô ấy [vừa] không thông minh, [lại vừa] không xinh đẹp, nhưng tại sao lại có nhiều người thích cô ấy thế?",
+        "我们[既]不知道该干什么,[也]不知道该去哪里,你告诉我们吧。\nWǒmen [jì] bù zhīdào gāi gàn shénme, [yě] bù zhīdào gāi qù nǎlǐ, nǐ gàosù wǒmen ba.\nChúng tôi [vừa] không biết nên làm gì, [lại vừa] không biết nên đi đâu, cậu nói cho chúng tôi biết đi.",
+        "他[既]会英语,[也]会日语。\nTā [jì] huì yīngyǔ, [yě] huì rìyǔ.\nAnh ấy [vừa] biết tiếng Anh, [lại vừa] biết tiếng Nhật."
+      ]
+    }
+  ]
+}

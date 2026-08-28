@@ -117,7 +117,7 @@ fun LessonContentBody(
                 lineHeight = Typography.titleLarge.lineHeight,
                 color = TitleColor
             )
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(20.dp))
 
             lesson?.sections?.forEach { section ->
                 LessonSectionItem(

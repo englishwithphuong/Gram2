@@ -1,0 +1,24 @@
+{
+  "title": "“只有……才……” Chỉ có… thì mới",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[只有]春节[才能]连着休息六七天。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị điều kiện duy nhất."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他不太喜欢喝酒,[只有]特别高兴的时候,[才]喝一点儿。\nTā bú tài xǐhuān hē jiǔ, [zhǐyǒu] tèbié gāoxìng de shíhou, [cái] hē yìdiǎnr.\nAnh ấy không thích uống rượu lắm, [chỉ có] lúc đặc biệt vui, [mới] uống một chút.",
+        "[只有]你爱别人,别人[才]会爱你。\n[Zhǐyǒu] nǐ ài biérén, biérén [cái] huì ài nǐ.\n[Chỉ có] bạn yêu thương người khác, người khác [mới] yêu thương bạn.",
+        "这件事[只有]这么办[才能]办好。\nZhè jiàn shì [zhǐyǒu] zhème bàn [cái néng] bàn hǎo.\nViệc này [chỉ có] làm thế này [mới] có thể làm tốt được."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "“再也不 / 没 + V”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我记住了,[再也不]敢了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để nhấn mạnh ngữ khí phủ định. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "毕业后,我们[再也没]见过面。\nBìyè hòu, wǒmen [zài yě méi] jiàn guò miàn.\nSau khi tốt nghiệp, chúng tôi [chẳng bao giờ] gặp lại nhau [nữa].",
+        "你走吧,我[再也不]想见到你了。\nNǐ zǒu ba, wǒ [zài yě bù] xiǎng jiàn dào nǐ le.\nCậu đi đi, tôi [không muốn] nhìn thấy cậu [nữa đâu].",
+        "那家饭店的菜又贵又不好吃,以后我[再也不]去那儿吃了。\nNà jiā fàndiàn de cài yòu guì yòu bù hǎochī, yǐhòu wǒ [zài yě bù] qù nàr chī le.\nMón ăn của quán cơm đó vừa đắt vừa dở, sau này tôi [sẽ không bao giờ] đến đó ăn [nữa]."
+      ]
+    }
+  ]
+}

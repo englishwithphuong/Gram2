@@ -1,0 +1,24 @@
+{
+  "title": "“非……不可” không… không được / nhất định",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "再说的话,我[非]打你[不可]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị sự kiên quyết, bắt buộc phải thực hiện hoặc xảy ra. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "孩子特别喜欢那个玩具,[非要不可],妈妈只好给他买了一个。\nHáizi tèbié xǐhuān nà gè wánjù, [fēi yào bù kě], māmā zhǐhǎo gěi tā mǎi le yí gè.\nĐứa trẻ đặc biệt thích món đồ chơi đó, [nhất định đòi bằng được], mẹ đành phải mua cho nó một cái.",
+        "要学好汉语,[非努力不可]。\nYào xué hǎo Hànyǔ, [fēi nǔlì bù kě].\nMuốn học giỏi tiếng Trung, [nhất định phải nỗ lực].",
+        "我[非去不可],你别劝我。\nWǒ [fēi qù bù kě], nǐ bié quàn wǒ.\nTôi [nhất định phải đi], cậu đừng khuyên tôi nữa."
+      ]
+    }
+  ]
+}

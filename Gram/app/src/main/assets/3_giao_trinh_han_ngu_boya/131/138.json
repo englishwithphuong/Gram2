@@ -1,0 +1,23 @@
+{
+  "title": "“adj. 得很”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "天正下雪,大[得很]呢!"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị mức độ cao. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "那个孩子聪明[得很],每门功课都很好。\nNà gè háizi cōngmíng [de hěn], měi mén gōngkè dōu hěn hǎo.\nĐứa trẻ đó thông minh [lắm], môn học nào cũng rất tốt.",
+        "这里的冬天冷[得很],你得多穿衣服。\nZhèlǐ de dōngtiān lěng [de hěn], nǐ děi duō chuān yīfú.\nMùa đông ở đây lạnh [lắm], bạn phải mặc nhiều quần áo vào."
+      ]
+    }
+  ]
+}

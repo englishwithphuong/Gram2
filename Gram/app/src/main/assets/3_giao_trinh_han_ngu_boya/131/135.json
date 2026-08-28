@@ -1,0 +1,24 @@
+{
+  "title": "“V上”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "说完就挂[上]了电话。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Bổ ngữ kết quả, biểu thị sau một động tác nào đó, một sự vật được gắn lên/vào một sự vật khác. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你怎么把电话挂[上]了?我还没说完呢!\nNǐ zěnme bǎ diànhuà guà [shàng] le? Wǒ hái méi shuō wán ne!\nSao cậu lại gác máy [điện thoại] rồi? Tớ còn chưa nói xong cơ mà!",
+        "戴[上]帽子,跟我走吧。\nDài [shàng] màozi, gēn wǒ zǒu ba.\nĐội mũ [lên], đi cùng tớ nào.",
+        "写[上]你的名字。\nXiě [shàng] nǐ de míngzi.\nViết tên của bạn [vào] đi."
+      ]
+    }
+  ]
+}

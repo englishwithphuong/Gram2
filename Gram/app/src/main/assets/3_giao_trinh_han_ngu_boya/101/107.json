@@ -1,0 +1,19 @@
+{
+  "title": "“虽然……但是……” Tuy/ mặc dù…, nhưng…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[虽然]房租有点儿贵，[但是]我还是决定马上搬家。"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[虽然]我会说几句汉语，[但是]我的汉字还不行。\n[Suīrán] wǒ huì shuō jǐ jù Hànyǔ, [dànshì] wǒ de Hànzì hái bù xíng.\n[Tuy] tôi biết nói mấy câu tiếng Trung, [nhưng] chữ Hán của tôi vẫn chưa được.",
+        "饺子[虽然]好吃，[但是]包起来太麻烦了。\nJiǎozi [suīrán] hǎochī, [dànshì] bāo qǐlái tài máfan le.\nSủi cảo [tuy] ngon, [nhưng] gói thì phiền phức quá.",
+        "[虽然]天气不太好，[但是]他还是去跑步了。\n[Suīrán] tiānqì bú tài hǎo, [dànshì] tā háishì qù pǎobù le.\n[Tuy] thời tiết không được đẹp lắm, [nhưng] anh ấy vẫn đi chạy bộ."
+      ]
+    }
+  ]
+}

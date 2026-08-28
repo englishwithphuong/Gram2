@@ -1,0 +1,24 @@
+{
+  "title": "Câu tồn tại (1)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "里面[有]几支笔，还有几个本子。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Từ ngữ chỉ địa điểm + 有 + O\nBiểu thị ở địa điểm nào đó có người hoặc đồ vật gì. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "教室里[有]几个学生。\nJiàoshì lǐ [yǒu] jǐ gè xuésheng.\nTrong phòng học [có] mấy học sinh.",
+        "书包里[有]几本书和几个本子。\nShūbāo lǐ [yǒu] jǐ běn shū hé jǐ gè běnzi.\nTrong cặp sách [có] mấy quyển sách và mấy cuốn vở.",
+        "公寓前[有]一个车棚，可以放你的自行车。\nGōngyù qián [yǒu] yí gè chēpéng, kěyǐ fàng nǐ de zìxíngchē.\nTrước chung cư [có] một nhà để xe, có thể để xe đạp của bạn."
+      ]
+    }
+  ]
+}

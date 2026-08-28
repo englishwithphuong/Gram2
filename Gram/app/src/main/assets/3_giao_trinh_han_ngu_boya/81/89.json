@@ -1,0 +1,44 @@
+{
+  "title": "Bổ ngữ xu hướng đơn",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[V+来/去]"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“来/去” dùng sau động từ khác biểu thị hướng của hành động và được gọi là bổ ngữ xu hướng. Trong đó “来” biểu thị hành động hướng về phía người nói, còn “去” biểu thị hành động rời xa người nói. Những động từ thường mang bổ ngữ xu hướng là “上、下、进、出、回、过、起”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "走，[过去看看]。\nZǒu, [guòqù kànkan].\nĐi thôi, [qua đó xem thử].",
+        "咱们[过去看看]。\nZánmen [guòqù kànkan].\nChúng ta [qua đó xem thử].",
+        "时间不早了，我该[回去了]。\nShíjiān bù zǎo le, wǒ gāi [huíqù le].\nKhông còn sớm nữa, tôi phải [về thôi].",
+        "我在房间等你，你快[回来]吧。\nWǒ zài fángjiān děng nǐ, nǐ kuài [huílái] ba.\nTôi đợi bạn trong phòng, bạn mau [quay lại] nhé."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[V+O+来/去]"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Khi động từ mang tân ngữ, tân ngữ thường đứng sau động từ và trước bổ ngữ xu hướng “来/去”. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他在河那边等我们，咱们[过桥去]吧。\nTā zài hé nàbiān děng wǒmen, zánmen [guò qiáo qù] ba.\nAnh ấy đang đợi chúng ta ở bên kia sông, chúng ta [qua cầu sang đó] nhé.",
+        "你来晚了，他们已经[回学校去了]。\nNǐ lái wǎn le, tāmen yǐjīng [huí xuéxiào qù le].\nBạn đến muộn rồi, họ đã [về trường] rồi.",
+        "他唱着歌[上楼来了]。\nTā chàngzhe gē [shàng lóu lái le].\nAnh ấy vừa hát vừa [đi lên lầu]."
+      ]
+    }
+  ]
+}

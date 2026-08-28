@@ -1,0 +1,50 @@
+{
+  "title": "Cách biểu đạt số ước lượng",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "大概二十[三四]岁。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Sử dụng hai số liền kề. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我来北京已经两[三]个月了。\nWǒ lái Běijīng yǐjīng liǎng [sān] gè yuè le.\nTôi đến Bắc Kinh đã được hai [ba] tháng rồi.",
+        "他二十[四五]岁样子，个子不太高。\nTā èrshí [sì wǔ] suì yàngzi, gèzi bú tài gāo.\nTrông anh ấy chừng hai [tư, lăm] tuổi, dáng người không cao lắm.",
+        "我家离学校很远，坐公共汽车要四[五十]分钟。\nWǒ jiā lí xuéxiào hěn yuǎn, zuò gōnggòng qìchē yào sì [wǔshí] fēnzhōng.\nNhà tôi cách trường rất xa, đi xe buýt mất bốn [mươi, năm mươi] phút."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Số từ + 多/几 + lượng từ"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "那座楼很高，大概有三十[多]层。\nNà zuò lóu hěn gāo, dàgài yǒu sānshí [duō] céng.\nTòa nhà đó rất cao, chắc có hơn ba [mươi] tầng.",
+        "她很年轻，二十[几]岁，很漂亮。\nTā hěn niánqīng, èrshí [jǐ] suì, hěn piàoliang.\nCô ấy rất trẻ, hai [mấy] tuổi, rất xinh đẹp."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(3) Số từ + lượng từ + 左右"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这儿的房租不太贵，一个月八百块[左右]。\nZhèr de fángzū bú tài guì, yí gè yuè bābǎi kuài [zuǒyòu].\nTiền thuê nhà ở đây không đắt lắm, khoảng tám [trăm] tệ một tháng.",
+        "他是十一点[左右]来的。\nTā shì shíyī diǎn [zuǒyòu] lái de.\nAnh ấy đến vào khoảng mười một [giờ]."
+      ]
+    }
+  ]
+}

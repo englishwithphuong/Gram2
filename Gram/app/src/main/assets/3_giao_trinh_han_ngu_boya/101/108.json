@@ -1,0 +1,38 @@
+{
+  "title": "“不但……而且……” Không những… mà còn",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[不但]有中国的，[而且]还有世界各地的。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) A [不但]………，[而且]也/还……"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "她[不但]会唱中文歌，[而且]还会跳中国的民族舞。\nTā [búdàn] huì chàng zhōngwén gē, [érqiě] hái huì tiào zhōngguó de mínzú wǔ.\nCô ấy [không những] biết hát bài hát tiếng Trung, [mà còn] biết múa dân gian Trung Quốc.",
+        "他[不但]是我的老师，[也是]我的朋友。\nTā [búdàn] shì wǒ de lǎoshī, [yě shì] wǒ de péngyou.\nAnh ấy [không những] là thầy giáo của tôi, [mà còn là] bạn của tôi.",
+        "他[不但]参加了比赛，[还]得了第一名。\nTā [búdàn] cānjiā le bǐsài, [hái] dé le dì yī míng.\nAnh ấy [không những] tham gia cuộc thi, [mà còn] đạt giải nhất."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) [不但] A……，([而且]) B [也]……"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[不但]她会唱中文歌，([而且])玛丽[也]会唱中文歌。\n[Búdàn] tā huì chàng zhōngwén gē, ([érqiě]) Mǎlì [yě] huì chàng zhōngwén gē.\n[Không những] cô ấy biết hát bài hát tiếng Trung, ([mà] Mary [cũng] biết hát bài hát tiếng Trung).",
+        "[不但]他参加了比赛，([而且])李军[也]参加了比赛。\n[Búdàn] tā cānjiā le bǐsài, ([érqiě]) Lǐ Jūn [yě] cānjiā le bǐsài.\n[Không những] anh ấy tham gia cuộc thi, ([mà] Lý Quân [cũng] tham gia cuộc thi).",
+        "[不但]他是我的朋友，([而且])李军[也]是我的朋友。\n[Búdàn] tā shì wǒ de péngyou, ([érqiě]) Lǐ Jūn [yě] shì wǒ de péngyou.\n[Không những] anh ấy là bạn của tôi, ([mà] Lý Quân [cũng] là bạn của tôi)."
+      ]
+    }
+  ]
+}

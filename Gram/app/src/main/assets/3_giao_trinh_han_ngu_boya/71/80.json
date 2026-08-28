@@ -1,0 +1,52 @@
+{
+  "title": "Câu chữ “比”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "……而且房租也[比]外面的便宜。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) A 比 B + adj."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[比]我高。\nTā [bǐ] wǒ gāo.\nAnh ấy cao [hơn] tôi.",
+        "这个房间[比]那个（房间）大。\nZhè gè fángjiān [bǐ] nà gè (fángjiān) dà.\nCăn phòng này lớn [hơn] căn phòng kia.",
+        "这家商店的东西[比]那家的（东西）便宜。\nZhè jiā shāngdiàn de dōngxi [bǐ] nà jiā de (dōngxi) piányi.\nĐồ đạc của cửa hàng này rẻ [hơn] đồ của cửa hàng kia."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) A 比 B + adj. + 多了"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[比]我高多了。\nTā [bǐ] wǒ gāo duō le.\nAnh ấy cao [hơn] tôi rất nhiều.",
+        "今天[比]昨天热多了。\nJīntiān [bǐ] zuótiān rè duō le.\nHôm nay nóng [hơn] hôm qua rất nhiều.",
+        "这次考试[比]上次容易多了。\nZhè cì kǎoshì [bǐ] shàng cì róngyì duō le.\nLần kiểm tra này dễ [hơn] lần trước rất nhiều."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "A + V + O + V得 + [比] + B + adj. (+ 多了)"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他说汉语说得[比]我好（多了）。\nTā shuō hànyǔ shuō de [bǐ] wǒ hǎo (duō le).\nCậu ấy nói tiếng Trung giỏi [hơn] tôi (rất nhiều).",
+        "妹妹唱歌唱得[比]姐姐好，可是，姐姐跳舞跳得[比]妹妹好。\nMèimei chàng gē chàng de [bǐ] jiějie hǎo, kěshì, jiějie tiàowǔ tiào de [bǐ] mèimei hǎo.\nEm gái hát hay [hơn] chị, nhưng chị khiêu vũ giỏi [hơn] em gái.",
+        "老师写汉字写得[比]学生快多了。\nLǎoshī xiě hànzì xiě de [bǐ] xuésheng kuài duō le.\nThầy giáo viết chữ Hán nhanh [hơn] học sinh rất nhiều."
+      ]
+    }
+  ]
+}

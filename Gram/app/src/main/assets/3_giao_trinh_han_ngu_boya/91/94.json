@@ -1,0 +1,24 @@
+{
+  "title": "“V1再V2”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "吃完了[再]买吧。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Hành động mà V2 biểu thị diễn ra sau khi hoàn thành hành động thứ nhất V1. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你应该吃了药[再]睡觉。\nNǐ yīnggāi chī le yào [zài] shuìjiào.\nBạn nên uống thuốc xong [rồi] hãy đi ngủ.",
+        "我正在写作业呢，写完作业[再]去玩儿。\nWǒ zhèngzài xiě zuòyè ne, xiě wán zuòyè [zài] qù wánr.\nTôi đang làm bài tập đây, làm xong bài tập [rồi] hãy đi chơi.",
+        "妈妈说等爸爸回来[再]吃饭。\nMāmā shuō děng bàba huí lái [zài] chī fàn.\nMẹ nói đợi bố về [rồi] hãy ăn cơm."
+      ]
+    }
+  ]
+}

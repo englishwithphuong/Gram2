@@ -1,0 +1,25 @@
+{
+  "title": "“A 和 B 一样……” A giống B",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "你觉得中国和美国[一样]吗？"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "A 和 B 一样…… A giống B"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我和他[一样]，都是大学生。\nWǒ hé tā [yíyàng], dōu shì dàxuéshēng.\nTôi và cậu ấy [như nhau], đều là sinh viên đại học.",
+        "这家商店和那家商店[一样]，都卖书和杂志。\nZhè jiā shāngdiàn hé nà jiā shāngdiàn [yíyàng], dōu mài shū hé zázhì.\nCửa hàng này và cửa hàng kia [giống nhau], đều bán sách và tạp chí.",
+        "他的汉语水平和我的（汉语水平）[一样]高。\nTā de hànyǔ shuǐpíng hé wǒ de (hànyǔ shuǐpíng) [yíyàng] gāo.\nTrình độ tiếng Trung của anh ấy cao [như] của tôi.",
+        "我的房子和他的（房子）[一样]漂亮。\nWǒ de fángzi hé tā de (fángzi) [yíyàng] piàoliang.\nNhà của tôi đẹp [giống như] nhà của anh ấy."
+      ]
+    }
+  ]
+}

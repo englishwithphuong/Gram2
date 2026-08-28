@@ -1,0 +1,24 @@
+{
+  "title": "“V下去”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "坚持[下去]，后面的9999天就从成功开始。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu đạt một hành động được tiếp tục thực hiện hay một trạng thái được tiếp tục duy trì. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "别停，说[下去]。\nBié tíng, shuō [xiàqù].\nĐừng dừng lại, nói [tiếp đi].",
+        "你不要再玩儿[下去]了，马上就要考试啦！\nNǐ bú yào zài wánr [xiàqù] le, mǎshàng jiù yào kǎoshì la!\nCậu đừng chơi [tiếp] nữa, sắp đến kỳ thi rồi đấy!",
+        "我头疼得厉害，真的学不[下去]了，我们出去玩儿会儿吧。\nWǒ tóuténg de lìhài, zhēn de xué bu [xiàqù] le, wǒmen chūqù wánr huǐr ba.\nTôi đau đầu quá, thật sự học không [nổi/tiếp] nữa rồi, chúng ta ra ngoài chơi một lát đi."
+      ]
+    }
+  ]
+}

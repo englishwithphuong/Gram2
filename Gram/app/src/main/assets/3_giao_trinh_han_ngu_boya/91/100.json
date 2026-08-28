@@ -1,0 +1,24 @@
+{
+  "title": "往 + phương vị từ / địa điểm + V",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "不过[往]房间里跳时，一下子摔倒了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“往” biểu thị phương hướng của động tác. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[往]前走，五分钟左右就到图书馆了。\n[Wǎng] qián zǒu, wǔ fēnzhōng zuǒyòu jiù dào túshūguǎn le.\nĐi [về] phía trước, khoảng năm phút là đến thư viện rồi.",
+        "先[往]北走，再[往]西拐，就是银行。\nXiān [wǎng] běi zǒu, zài [wǎng] xī guǎi, jiù shì yínháng.\nĐi [về] hướng Bắc trước, rồi rẽ [về] hướng Tây, chính là ngân hàng.",
+        "射门就是[往]球门里踢球。\nShèmén jiù shì [wǎng] qiúmén lǐ tī qiú.\nSút bóng chính là đá bóng [vào] trong khung thành."
+      ]
+    }
+  ]
+}

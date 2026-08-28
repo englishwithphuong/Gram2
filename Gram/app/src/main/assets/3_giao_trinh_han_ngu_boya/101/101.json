@@ -1,0 +1,24 @@
+{
+  "title": "“V来V去”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "夜里,有只蚊子[飞来飞去]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "“V tới V lui” biểu thị một hành động được lặp đi lặp lại nhiều lần. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "孩子们在房间里[跑来跑去]。\nHáizimen zài fángjiān lǐ [pǎo lái pǎo qù].\nBọn trẻ [chạy tới chạy lui] trong phòng.",
+        "球[踢来踢去],就是踢不进球门。\nQiú [tī lái tī qù], jiù shì tī bú jìn qiúmén.\nQuả bóng [được đá qua đá lại], nhưng chính là không đá vào được khung thành.",
+        "她[想来想去],也不知道该怎么办。\nTā [xiǎng lái xiǎng qù], yě bù zhīdào gāi zěnme bàn.\nCô ấy [nghĩ đi nghĩ lại], cũng không biết nên làm thế nào."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "“不再” Không… nữa",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "如果有一天,你发现母亲的厨房[不再]像以前那么干净了……"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị trạng thái hoặc hành động không tiếp diễn nữa."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我吃饱了,[不再]吃了,你自己吃吧。\nWǒ chī bǎo le, [bú zài] chī le, nǐ zìjǐ chī ba.\nTôi no rồi,[không] ăn [nữa], cậu tự ăn đi.",
+        "我[不再]喜欢你了,你别来找我了。\nWǒ [bú zài] xǐhuān nǐ le, nǐ bié lái zhǎo wǒ le.\nTôi [không] thích cậu [nữa], cậu đừng đến tìm tôi nữa.",
+        "医生说他的身体非常不好,他决定[不再]喝酒了。\nYīshēng shuō tā de shēntǐ fēicháng bù hǎo, tā juédìng [bú zài] hē jiǔ le.\nBác sĩ nói sức khỏe của anh ấy rất kém, anh ấy quyết định [không] uống rượu [nữa]."
+      ]
+    }
+  ]
+}

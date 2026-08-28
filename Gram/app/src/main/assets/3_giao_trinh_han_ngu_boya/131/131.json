@@ -1,0 +1,24 @@
+{
+  "title": "Số lượng từ lặp lại",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "现在她已经制订了一个大计划:[一个省一个省地]看,[一个地方一个地方地]走。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để diễn đạt hành động xảy ra theo tuần tự từng việc một. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "饭要[一口一口地]吃,事要[一件一件地]做。\nFàn yào [yì kǒu yì kǒu de] chī, shì yào [yí jiàn yí jiàn de] zuò.\nCơm phải ăn [từng miếng một], việc phải làm [từng việc một].",
+        "他很苦恼,[一杯一杯]不停地喝酒。\nTā hěn kǔnǎo, [yì bēi yì bēi] bù tíng de hē jiǔ.\nAnh ấy rất phiền muộn, uống rượu [từng cốc từng cốc] không ngừng.",
+        "他很喜欢看小说,[一本一本地]看,看完一本又看一本。\nTā hěn xǐhuān kàn xiǎoshuō, [yì běn yì běn de] kàn, kàn wán yì běn yòu kàn yì běn.\nAnh ấy rất thích đọc tiểu thuyết, đọc [từng cuốn từng cuốn một], đọc xong một cuốn lại đọc thêm cuốn nữa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "A không bằng B: “没有”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[A没有B(+这么/那么)+adj.]"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[A没有B(+这么/那么)+adj.] biểu thị A không bằng B về một đặc điểm hoặc tính chất nào đó. Đây là hình thức phủ định của câu chữ “比” A比B+adj. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "美国人口[没有中国那么多]，历史也[没有中国那么长]。\nMěiguó rénkǒu [méiyǒu Zhōngguó nàme duō], lìshǐ yě [méiyǒu Zhōngguó nàme cháng].\nDân số Mỹ [không nhiều bằng Trung Quốc], lịch sử cũng [không lâu đời bằng Trung Quốc].",
+        "他比我高。\nTā bǐ wǒ gāo.\nAnh ấy cao hơn tôi.",
+        "他[没有我高]。\nTā [méiyǒu wǒ gāo].\nAnh ấy [không cao bằng tôi].",
+        "他[没有我这么高]。\nTā [méiyǒu wǒ zhème gāo].\nAnh ấy [không cao bằng tôi].",
+        "这个房间比那个（房间）大。\nZhège fángjiān bǐ nàge (fángjiān) dà.\nCăn phòng này lớn hơn căn phòng kia.",
+        "这个房间[没有那个（房间）大]。\nZhège fángjiān [méiyǒu nàge (fángjiān) dà].\nCăn phòng này [không lớn bằng căn phòng kia].",
+        "这个房间[没有那个（房间）那么大]。\nZhège fángjiān [méiyǒu nàge (fángjiān) nàme dà].\nCăn phòng này [không lớn bằng căn phòng kia].",
+        "这家商店的东西比那家的（东西）便宜。\nZhè jiā shāngdiàn de dōngxi bǐ nà jiā de (dōngxi) piányi.\nĐồ ở cửa hàng này rẻ hơn đồ ở cửa hàng kia.",
+        "这家商店的东西[没有那家的（东西）便宜]。\nZhè jiā shāngdiàn de dōngxi [méiyǒu nà jiā de (dōngxi) piányi].\nĐồ ở cửa hàng này [không rẻ bằng đồ ở cửa hàng kia].",
+        "这家商店的东西[没有那家的（东西）那么便宜]。\nZhè jiā shāngdiàn de dōngxi [méiyǒu nà jiā de (dōngxi) nàme piányi].\nĐồ ở cửa hàng này [không rẻ bằng đồ ở cửa hàng kia]."
+      ]
+    }
+  ]
+}

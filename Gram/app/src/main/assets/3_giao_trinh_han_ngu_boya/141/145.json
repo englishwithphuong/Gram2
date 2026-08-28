@@ -1,0 +1,23 @@
+{
+  "title": "“是”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "对,她们[是]在我这儿。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Biểu thị nhấn mạnh, xác nhận. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "中国的人口[是]挺多的,你说得没错。\nZhōngguó de rénkǒu [shì] tǐng duō de, nǐ shuō de méi cuô.\nDân số Trung Quốc [đúng là] rất đông thật, bạn nói không sai chút nào.",
+        "孩子的功课[是]太多了,应该给他们一点儿玩儿的时间。\nHáizi de gōngkè [shì] tài duō le, yīnggāi gěi tāmen yìdiǎnr wánr de shíjiān.\nBài tập của bọn trẻ [đúng là] quá nhiều rồi, nên cho chúng chút thời gian để chơi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "“好不容易/好容易才……” thật không dễ mới…/ thật khó mới…",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我[好不容易才]挤了上去。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để chỉ khó khăn lắm mới đạt được mục đích. Khi đó “好不容易” và “好容易” cùng có nghĩa là không dễ dàng gì. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我听了好几遍，[好不容易才]听懂。\nWǒ tīng le hǎo jǐ biàn, [hǎobùróngyì cái] tīng dǒng.\nTôi nghe mấy lượt liền, [khó khăn lắm mới] nghe hiểu.",
+        "今天的作业很多，我[好不容易才]写完。\nJīntiān de zuòyè hěn duō, wǒ [hǎobùróngyì cái] xiě wán.\nBài tập hôm nay rất nhiều, tôi [khó khăn lắm mới] viết xong.",
+        "衣服很脏，妈妈[好不容易才]洗干净。\nYīfu hěn zāng, māmā [hǎobùróngyì cái] xǐ gānjìng.\nQuần áo rất bẩn, mẹ [khó khăn lắm mới] giặt sạch được."
+      ]
+    }
+  ]
+}

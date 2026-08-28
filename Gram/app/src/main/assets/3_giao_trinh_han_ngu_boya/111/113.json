@@ -1,0 +1,23 @@
+{
+  "title": "V去",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "后来我辞[去]了大学的工作。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Là một loại bổ ngữ kết quả. Dùng để chỉ sự vật mà tân ngữ biểu thị sẽ mất đi sau khi hành động V xảy ra. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "找工作、换工作花[去]了一年时间。\nZhǎo gōngzuò, huàn gōngzuò huā [qù] le yì nián shíjiān.\nTìm việc, đổi việc đã tốn mất một năm thời gian.",
+        "他擦[去]脸上的汗，继续向上爬。\nTā cā [qù] liǎn shàng de hàn, jìxù xiàng shàng pá.\nAnh ấy lau sạch mồ hôi trên mặt, tiếp tục leo lên trên."
+      ]
+    }
+  ]
+}

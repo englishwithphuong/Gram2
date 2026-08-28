@@ -14,51 +14,12 @@ val KaitiBoldFontFamily = FontFamily(Font(R.font.kaitibold))
 
 // Set of Material typography styles to start with
 
-//val Typography = Typography(
-//    titleLarge = TextStyle(
-//        fontFamily = FontFamily.Default,
-//        fontWeight = FontWeight.Bold,
-//        fontSize = 28.sp,
-//        lineHeight = 32.sp
-//    ),
-//
-//    titleMedium = TextStyle(
-//        fontFamily = FontFamily.Default,
-//        fontWeight = FontWeight.Normal,
-//        fontSize = 30.sp,
-//        lineHeight = 38.sp
-//    ),
-//
-//
-//    bodyLarge = TextStyle(
-//        fontFamily = FontFamily.Default,
-//        fontWeight = FontWeight.Normal,
-//        fontSize = 28.sp,
-//        lineHeight = 36.sp,
-//        letterSpacing = 0.5.sp
-//    ),
-//
-//    bodyMedium = TextStyle(
-//        fontFamily = FontFamily.Default,
-//        fontWeight = FontWeight.Normal,
-//        fontSize = 26.sp,
-//        lineHeight = 30.sp
-//    ),
-//
-//    bodySmall = TextStyle(
-//        fontFamily = FontFamily.Default,
-//        fontWeight = FontWeight.Normal,
-//        fontSize = 34.sp,
-//        lineHeight = 40.sp
-//    )
-//)
-
 val Typography = Typography(
     titleLarge = TextStyle(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Bold,
-        fontSize = 28.sp,
-        lineHeight = 32.sp
+        fontSize = 40.sp,
+        lineHeight = 46.sp
     ),
 
     titleMedium = TextStyle(
@@ -87,8 +48,8 @@ val Typography = Typography(
     bodySmall = TextStyle(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,
-        fontSize = 34.sp,
-        lineHeight = 40.sp
+        fontSize = 28.sp,
+        lineHeight = 34.sp
     )
 )
 

@@ -1,0 +1,23 @@
+{
+  "title": "“一天比一天 / 一年比一年” càng ngày càng / mỗi năm một",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "学习成绩[一天比一天]差。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị mức độ thay đổi tăng tiến theo thời gian."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "你怎么[一天比一天]瘦?有什么不开心的事儿吗?\nNǐ zěnme [yì tiān bǐ yì tiān] shòu? Yǒu shénme bù kāixīn de shìr ma?\nSao cậu [ngày càng] gầy đi thế? Có chuyện gì không vui à?",
+        "人们的生活[一年比一年]好了。\nRénmen de shēnghuó [yì nián bǐ yì nián] hǎo le.\nCuộc sống của mọi người [ngày một] tốt hơn [rồi]."
+      ]
+    }
+  ]
+}

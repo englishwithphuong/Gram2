@@ -1,0 +1,62 @@
+{
+  "title": "“以前” trước, trước đây",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[以前]我和他的水平差不多。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) Từ chỉ thời điểm + [以前]"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "八点[以前]我们一定要到学校。\nBā diǎn [yǐqián] wǒmen yídìng yào dào xuéxiào.\n[Trước] 8 giờ chúng ta nhất định phải đến trường.",
+        "星期六是他的生日。星期五[以前]，我们要准备好礼物。\nXīngqīliù shì tā de shēngrì. Xīngqīwǔ [yǐqián], wǒmen yào zhǔnbèi hǎo lǐwù.\nThứ Bảy là sinh nhật cậu ấy. [Trước] thứ Sáu, chúng ta phải chuẩn bị quà xong."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) Từ ngữ chỉ thời đoạn + [以前]"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "两个小时[以前]，他就已经知道了。\nLiǎng gè xiǎoshí [yǐqián], tā jiù yǐjīng zhīdào le.\nHai tiếng [trước], cậu ấy đã biết rồi.",
+        "半年[以前]，我还不会说汉语。\nBàn nián [yǐqián], wǒ hái bú huì shuō hànyǔ.\nNửa năm [trước], tôi vẫn chưa biết nói tiếng Trung."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(3) VP + [以前]"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "睡觉[以前]，别忘了吃药。\nShuìjiào [yǐqián], bié wàng le chī yào.\n[Trước] khi đi ngủ, đừng quên uống thuốc.",
+        "来中国[以前]，我会说一点儿汉语。\nLái Zhōngguó [yǐqián], wǒ huì shuō yìdiǎnr hànyǔ.\n[Trước] khi đến Trung Quốc, tôi biết nói một chút tiếng Trung."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(4) [以前]……, 现在……"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "[以前]我住在上海，现在搬到了北京。\n[Yǐqián] wǒ zhù zài Shànghǎi, xiànzài bān dào le Běijīng.\n[Trước đây] tôi sống ở Thượng Hải, bây giờ đã chuyển đến Bắc Kinh.",
+        "[以前]我的专业是中国文学，现在我学习中国历史。\n[Yǐqián] wǒ de zhuānyè shì Zhōngguó wénxué, xiànzài wǒ xuéxí Zhōngguó lìshǐ.\n[Trước đây] chuyên ngành của tôi là văn học Trung Quốc, bây giờ tôi học lịch sử Trung Quốc."
+      ]
+    }
+  ]
+}

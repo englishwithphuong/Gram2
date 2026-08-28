@@ -1,0 +1,54 @@
+{
+  "title": "Nhấn mạnh sự phủ định",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "可是一句台词我[也]没听明白。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) + mw. + n. + [也/没] + V"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[一个字]也[不]认识,怎么办?\nWǒ [yí gè zì] [yě] [bù] rènshi, zěnme bàn?\nTôi [một chữ] [cũng] [không] biết, phải làm sao đây?",
+        "听说那个地方不太好,我[一次][也]没去过。\nTīngshuō nà gè dìfang bú tài hǎo, wǒ [yí cì] [yě] méi qù guo.\nNghe nói nơi đó không tốt lắm, tôi [một lần] [cũng] chưa từng đi qua.",
+        "他们在说什么?我[一点儿]也听不懂。\nTāmen zài shuō shénme? Wǒ [yìdiǎnr] yě tīng bu dǒng.\nHọ đang nói gì vậy? Tôi [một chút] [cũng] nghe không hiểu."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) [一点儿也不] + adj."
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这个问题[一点儿也不]难。\nZhè gè wèntí [yìdiǎnr yě bù] nán.\nVấn đề này [không khó chút nào].",
+        "老同学见面[一点儿也不]陌生。\nLǎo tóngxué jiànmiàn [yìdiǎnr yě bù] mòshēng.\nBạn cũ gặp nhau [không hề] xa lạ [chút nào].",
+        "这个菜[一点儿也不]辣,你吃吧。\nZhè gè cài [yìdiǎnr yě bù] là, nǐ chī ba.\nMón ăn này [không cay chút nào], cậu ăn đi."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(3) [哪儿/谁/什么]………………[也不/没] + V"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "我[哪儿]也[不]去,就在学校里学习。\nWǒ [nǎr] [yě] [bù] qù, jiù zài xuéxiào lǐ xuéxí.\nTôi [đâu] [cũng] [không] đi, cứ ở trong trường học tập thôi.",
+        "今天我不太开心,觉得[哪儿][也]没有意思。\nJīntiān wǒ bú tài kāixīn, juéde [nǎr] [yě] méi yǒu yìsi.\nHôm nay tôi không vui lắm, cảm thấy [đâu] [cũng] không thú vị.",
+        "刚来中国的时候,我[谁]也[不]认识。\nGāng lái Zhōngguó de shíhou, wǒ [shuí] [yě] [bù] rènshi.\nLúc mới đến Trung Quốc, tôi [ai] [cũng] [không] quen biết.",
+        "[谁]也[不]帮我,怎么办?\n[Shuí] [yě] [bù] bāng wǒ, zěnme bàn?\n[Ai] [cũng] [không] giúp tôi, phải làm sao đây?",
+        "他病了,[什么]也[不]想吃。\nTā bìng le, [shénme] [yě] [bù] xiǎng chī.\nAnh ấy ốm rồi, [gì] [cũng] [không] muốn ăn."
+      ]
+    }
+  ]
+}

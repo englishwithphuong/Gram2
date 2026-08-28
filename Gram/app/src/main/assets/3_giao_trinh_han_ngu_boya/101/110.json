@@ -1,0 +1,34 @@
+{
+  "title": "小数、分数和百分数",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "我不习惯老师说汉语,只能听懂[百分之四五十]。/上课也能听懂[四分之三]了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cách biểu đạt số thập phân, phân số và số phần trăm:"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "0.8 [零点八] líng diǎn bā\n32.58 [三十二点五八] sānshí'èr diǎn wŭ bā\n2/3 [三分之二] sān fēnzhī èr\n4/5 [五分之四] wŭ fēnzhī sì\n6% [百分之六] bǎi fēnzhī liù\n70% [百分之七十] bǎi fēnzhī qīshí"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "听中国人聊天儿,我只能听懂[百分之二三十]。\nTīng Zhōngguó rén liāotiānr, wǒ zhǐ néng tīng dǒng [bǎifēnzhī èrsānshí].\nNghe người Trung Quốc nói chuyện, tôi chỉ có thể nghe hiểu [20 - 30%].",
+        "我们班[三分之一]的学生是男生。\nWǒmen bān [sān fēnzhī yī] de xuéshenɡ shì nánshēng.\n[Một phần ba] học sinh lớp chúng tôi là nam sinh.",
+        "超市的东西比购物中心便宜[五分之一]。\nChāoshì de dōngxi bǐ ɡòuwù zhōnɡxīn piányi [wǔ fēnzhī yī].\nĐồ ở siêu thị rẻ hơn trung tâm mua sắm [một phần năm]."
+      ]
+    }
+  ]
+}

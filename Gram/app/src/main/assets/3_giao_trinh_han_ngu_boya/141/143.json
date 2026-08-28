@@ -1,0 +1,34 @@
+{
+  "title": "Câu chữ “被”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "他[被]姑娘的父亲挡在了门外。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng biểu thị bị động, “被” dẫn dắt chủ thể thực hiện hành động. Cấu trúc câu: O + 被 (+ Agent) + VP. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "那个苹果[被]弟弟吃了。这个苹果没[被]弟弟吃掉。\nNà gè píngguǒ [bèi] dìdì chī le. Zhè gè píngguǒ méi [bèi] dìdì chī diào.\nQuả táo đó [đã bị] em trai ăn rồi. Quả táo này chưa [bị] em trai ăn mất.",
+        "他的自行车[被](人)偷走了。/ 他的自行车没[被](人)偷走。\nTā de zìxíngchē [bèi] (rén) tōu zǒu le. / Tā de zìxíngchē méi [bèi] (rén) tōu zǒu.\nChiếc xe đạp của anh ấy [đã bị] (ai đó) trộm mất rồi. / Chiếc xe đạp của anh ấy không [bị] (ai) trộm mất.",
+        "他[被]打了。/ 他没[被]打。\nTā [bèi] dǎ le. / Tā méi [bèi] dǎ.\nAnh ấy [đã bị] đánh. / Anh ấy không [bị] đánh."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Chú ý: Các loại động từ sau đây không dùng với câu chữ “被”:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "- Động từ hoạt động tâm lí: 希望、同意、愿意、关心、喜欢、生气、害怕、认为……\n- Động từ trạng thái cơ thể: 躺、坐、站\n- Động từ cảm giác tri nhận: 明白、懂得、感到、感觉、觉得……"
+    }
+  ]
+}

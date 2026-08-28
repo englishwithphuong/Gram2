@@ -1,0 +1,24 @@
+{
+  "title": "再说…… Hơn nữa",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[再说],咱们家的水果还没吃完呢。\n[Zàishuō], zánmen jiā de shuǐguǒ hái méi chī wán ne."
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để bổ sung lí do. Thông thường lí do trước từ 再说 sẽ quan trọng hơn lí do sau nó. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这件衣服对我不合适,[再说]我也没那么多钱,不买了。\nZhè jiàn yīfu duì wǒ bú héshì, [zàishuō] wǒ yě méi nàme duō qián, bù mǎi le.\nChiếc áo này không phù hợp với tôi, [hơn nữa] tôi cũng không có nhiều tiền đến thế, không mua nữa.",
+        "我今天有点儿累,[再说]外面还下着雨,明天再去散步吧。\nWǒ jīntiān yǒurǎnr lèi, [zàishuō] wàimiàn hái xiàzhe yǔ, míngtiān zài qù sànbù ba.\nTôi hôm nay hơi mệt, [hơn nữa] bên ngoài trời vẫn đang mưa, ngày mai hãy đi dạo nhé.",
+        "旅行可以认识新朋友,也可以练习汉语,[再说],还可以吃到很多地方的好吃的东西,所以,我常常去旅行。\nLǚxíng kěyǐ rènshi xīn péngyǒu, yě kěyǐ liànxí Hànyǔ, [zàishuō], hái kěyǐ chī dào hěn duō dìfang de hǎochī de dōngxi, suǒyǐ, wǒ chángcháng qù lǚxíng.\nDu lịch có thể quen biết bạn mới, cũng có thể luyện tập tiếng Trung, [hơn nữa], lại còn có thể ăn được rất nhiều đồ ăn ngon ở các địa phương, cho nên, tôi thường xuyên đi du lịch."
+      ]
+    }
+  ]
+}

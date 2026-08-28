@@ -1,0 +1,24 @@
+{
+  "title": "“V不了 / V得了”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "如果有一天,他们真的[动不了]了……"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu đạt có hay không có khả năng làm một việc gì. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "这个菜太辣了,我[吃不了],你吃吧。\n→我[吃得了]辣的,没关系。\nZhè gè cài tài là le, wǒ [chī bù liǎo], nǐ chī ba.\n→ Wǒ [chī de liǎo] là de, méi guānxi.\nMón này cay quá, tôi [ăn không nổi], cậu ăn đi.\n→ Tôi [ăn được] đồ cay, không sao đâu.",
+        "我工作太忙,照顾[不了]孩子。\n→你工作那么忙,照顾[得了]孩子吗?\nWǒ gōngzuò tài máng, zhàogù [bù liǎo] háizi.\n→ Nǐ gōngzuò nàme máng, zhàogù [de liǎo] háizi ma?\nTôi bận công việc quá, chăm sóc [không xuể] con cái.\n→ Cậu bận rộn như vậy, chăm sóc [nổi] con không?",
+        "这个太难了,我翻译[不了]。\n→这个太难了,你翻译[得了解]吗?\nZhè gè tài nán le, wǒ fānyì [bù liǎo].\n→ Zhè gè tài nán le, nǐ fānyì [de liǎo] ma?\nCái này khó quá, tôi dịch [không nổi].\n→ Cái này khó quá, cậu dịch [nổi] không?"
+      ]
+    }
+  ]
+}

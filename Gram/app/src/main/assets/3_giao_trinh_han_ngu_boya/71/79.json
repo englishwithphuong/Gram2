@@ -1,0 +1,24 @@
+{
+  "title": "“离” cách (một địa điểm nào đó)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[离]教室也很近。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "A 离 B + 远 / 近"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "美国[离]中国比较远。\nMěiguó [lí] Zhōngguó bǐjiào yuǎn.\nMỹ [cách] Trung Quốc khá xa.",
+        "留学生宿舍[离]湖边很近。\nLiúxuéshēng sùshè [lí] húbiān hěn jìn.\nKý túc xá lưu học sinh [cách] bờ hồ rất gần.",
+        "我的公寓[离]学校不远，骑车只要十分钟。\nWǒ de gōngyù [lí] xuéxiào bù yuǎn, qíchē zhǐ yào shí fēnzhōng.\nChung cư của tôi [cách] trường không xa, đạp xe chỉ mất mười phút."
+      ]
+    }
+  ]
+}

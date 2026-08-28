@@ -1,0 +1,24 @@
+{
+  "title": "“一 V,……”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "醒来[一]看，已经是七点四十了。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cấu trúc này dùng để biểu thị xuất hiện hay phát hiện một tình huống mới sau khi động tác V xảy ra. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "早上有人敲门，我打开门[一]看，是大卫。\nZǎoshang yǒurén qiāomén, wǒ dǎ kāi mén [yí] kàn, shì Dàwèi.\nBuổi sáng có người gõ cửa, tôi mở cửa ra [thì thấy] là David.",
+        "安娜拿起电话[一]听，是妈妈打来的。\nĀnnà ná qǐ diànhuà [yì] tīng, shì māmā dǎ lái de.\nAnna nhấc điện thoại lên nghe [thì thấy] là mẹ gọi tới.",
+        "他做好了饭，我[一]尝，有点儿辣。\nTā zuò hǎo le fàn, wǒ [yì] cháng, yǒudiǎnr là.\nCậu ấy nấu cơm xong, tôi ăn thử [thì thấy] hơi cay."
+      ]
+    }
+  ]
+}

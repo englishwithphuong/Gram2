@@ -1,0 +1,43 @@
+{
+  "title": "Câu chữ “把” (1)",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[把]鸡蛋打到这个碗里。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(1) S + 把 + N1 + V + 在/到/进/给/成 + N2\nCấu trúc này dùng để biểu thị S thông qua hành động V khiến cho N1 trở thành vị trí hoặc trạng thái N2 biểu thị. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他[把]锅放在了火上。\nTā [bǎ] guō fàng zài le huǒ shàng.\nAnh ấy [đặt] nồi lên bếp.",
+        "我[把]行李搬进房间了。\nWǒ [bǎ] xíngli bān jìn fángjiān le.\nTôi [chuyển] hành lý vào trong phòng rồi.",
+        "你[把]那本书带给王老师了吗？\nNǐ [bǎ] nà běn shū dài gěi Wáng lǎoshī le ma?\nCậu [mang] cuốn sách đó cho thầy/cô Vương chưa?",
+        "我[把]西红柿切成小块儿了。\nWǒ [bǎ] xīhóngshì qiē chéng xiǎo kuǎir le.\nTôi [cắt] cà chua thành những miếng nhỏ rồi."
+      ]
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "[把]西红柿放进锅里炒熟。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "(2) S + 把 + N + V + bổ ngữ kết quả\nCấu trúc này dùng để biểu thị S thông qua hành động V khiến cho N có sự thay đổi và đạt được một kết quả hay mục đích nào đó. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "请[把]这件衣服洗干净。\nQǐng [bǎ] zhè jiàn yīfu xǐ gānjìng.\nXin hãy [giặt] sạch bộ quần áo này.",
+        "你[把]火点着。\nNǐ [bǎ] huǒ diǎn zhǎo.\nCậu hãy [đốt] cháy lửa lên / nhóm lửa lên."
+      ]
+    }
+  ]
+}

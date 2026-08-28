@@ -1,0 +1,23 @@
+{
+  "title": "“V出来”",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "把结婚和不结婚的好处与坏处分别列[出来]。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Dùng để biểu thị một sự vật nào đó được hiển thị/bộc lộ ra. Ví dụ:"
+    },
+    {
+      "type": "numbered",
+      "level": 2,
+      "items": [
+        "他从包里拿[出来]一本书。\nTā cóng bāo lǐ ná [chūlái] yì běn shū.\nAnh ấy lấy từ trong túi [ra] một cuốn sách.",
+        "你能想[出来]一个好办法来吗?\nNǐ néng xiǎng [chūlái] yí gè hǎo bànfǎ lái ma?\nCậu có nghĩ [ra] được một cách hay nào không?"
+      ]
+    }
+  ]
+}

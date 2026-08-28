@@ -4,7 +4,6 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class Lesson(
-    val lessonId: String,
     val title: String,
     val sections: List<Section>
 )

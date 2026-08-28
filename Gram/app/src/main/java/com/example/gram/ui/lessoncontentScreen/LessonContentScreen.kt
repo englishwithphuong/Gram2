@@ -46,17 +46,15 @@ fun LessonContentScreen(
         pageCount = { lessonCount }
     )
 
-    // Keep the URL/Navigation state in sync when the user swipes to a new page
-    LaunchedEffect(pagerState.currentPage) {
+    // Keep pager in sync if external navigation changes lessonIndex
+    LaunchedEffect(lessonIndex) {
         if (pagerState.currentPage != lessonIndex) {
-            navController.navigate(
-                com.example.gram.ui.navigation.Screen.LessonContent.createRoute(sourceIndex, pagerState.currentPage)
-            ) {
-                popUpTo(com.example.gram.ui.navigation.Screen.Lessons.createRoute(sourceIndex)) { inclusive = false }
-                launchSingleTop = true
-            }
+            pagerState.scrollToPage(lessonIndex)
         }
     }
+
+    // REMOVED: LaunchedEffect calling navController.navigate on every settledPage.
+    // Swiping should feel native and local like a ViewPager, avoiding navigation transaction flickers.
 
     HorizontalPager(
         state = pagerState,
@@ -68,7 +66,6 @@ fun LessonContentScreen(
         )
         val lesson by lessonContentViewModel.lesson.collectAsState()
 
-        // Standard default scroll state that resets when the page changes/re-composes
         val scrollState = rememberScrollState()
 
         LessonContentBody(

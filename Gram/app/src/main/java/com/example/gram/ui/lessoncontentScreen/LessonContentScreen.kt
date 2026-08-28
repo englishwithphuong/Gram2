@@ -120,7 +120,11 @@ fun LessonContentBody(
             Spacer(modifier = Modifier.height(16.dp))
 
             lesson?.sections?.forEach { section ->
-                LessonSectionItem(section = section)
+                LessonSectionItem(
+                    section = section,
+                    navController = navController,
+                    sourceIndex = sourceIndex
+                )
             }
         }
 

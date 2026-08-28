@@ -9,7 +9,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "“他的书”, “张老师的学生”, “王兰的哥哥”"
+      "content": "“[他]的书”, “[张老师]的学生”, “[王兰]的哥哥”"
     },
     {
       "type": "text",
@@ -19,7 +19,12 @@
     {
       "type": "text",
       "level": 2,
-      "content": "“我哥哥”, “他姐姐”, “我们学校”..."
+      "content": "“[我]哥哥”, “[他]姐姐”, “[我们]学校”, …"
+    },
+    {
+      "type": "comment",
+      "level": 1,
+      "content": "Định ngữ (定语 dìngyǔ) là thành phần đứng trước danh từ để bổ nghĩa, mô tả hoặc xác định danh từ đó. Ví dụ trong cụm từ [他]的书 thì [他] là định ngữ dùng để xác định 书 là của ai."
     }
   ]
 }

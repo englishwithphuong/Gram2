@@ -15,6 +15,9 @@ val DisabledButtonBackgroundColor = Color.DarkGray
 val DisabledButtonForegroundColor = Color(0xff4f4f4f)
 val ScrollBackgroundColor = Color(0x444f4f4f)
 val ScrollThumbColor = Color(0xff333333)
+val PrimaryBracketTextColor = Color(0x8800ff00)
+val SecondaryBracketTextColor = Color(0xddcfd2e8)
+val LinkTextColor = Color(0xFF64B5F6)
 
 // Default App Colors
 val Purple80 = Color(0xFFD0BCFF)

@@ -4,12 +4,12 @@
     {
       "type": "text",
       "level": 1,
-      "content": "Câu có danh từ, ngữ danh từ hay số lượng từ... làm vị ngữ, gọi là câu vị ngữ danh từ. Câu khẳng định không dùng từ “是” (nếu dùng từ “是” thì sẽ là câu vị ngữ động từ). Loại câu này chủ yếu dùng để nói về thời gian, tuổi tác, quê quán và số lượng. Ví dụ:"
+      "content": "Câu có danh từ, ngữ danh từ hay số lượng từ… làm vị ngữ, gọi là câu vị ngữ danh từ. Câu khẳng định không dùng từ “是” (nếu dùng từ “是” thì sẽ là câu vị ngữ động từ). Loại câu này chủ yếu dùng để nói về thời gian, tuổi tác, quê quán và số lượng. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 今天星期天。\n(2) 我今年二十岁。\n(3) 他北京人。"
+      "content": "(1) 今天[星期天]。\n(2) 我今年[二十岁]。\n(3) 他[北京人]。"
     },
     {
       "type": "text",
@@ -19,7 +19,12 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(4) 今天不是星期天。\n(5) 他不是北京人。"
+      "content": "(4) 今天[不是]星期天。\n(5) 他[不是]北京人。"
+    },
+    {
+      "type": "comment",
+      "level": 1,
+      "content": "Ngữ danh từ (名词短语, míngcí duǎnyǔ) là một nhóm từ có danh từ làm thành phần chính, cả nhóm cùng hoạt động như một danh từ trong câu. Ví dụ: 学生 là danh từ đơn, còn 我的学生 là ngữ danh từ."
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 你好！\n(2) 我去商店。"
+      "content": "(1) [你]好！\n(2) [我]去商店。"
     },
     {
       "type": "text",
@@ -29,12 +29,12 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 我认识他。\n(2) 他有一个哥哥。\n(3) 他是学生。"
+      "content": "(1) 我认识[他]。\n(2) 他有[一个哥哥]。\n(3) 他是[学生]。"
     },
     {
       "type": "text",
       "level": 1,
-      "content": "3. 定语 Định ngữ\nĐịnh ngữ thường bổ nghĩa cho danh từ. Giữa định ngữ và từ trung tâm có khi có trợ từ kết cấu “的” như “王兰的朋友”, có khi không có trợ từ kết cấu như “我姐姐” (Xem mục 2 phần ngữ pháp của bài 5)."
+      "content": "3. 定语 Định ngữ\nĐịnh ngữ thường bổ nghĩa cho danh từ. Giữa định ngữ và từ trung tâm có khi có trợ từ kết cấu “的” như “[王兰]的朋友”, có khi không có trợ từ kết cấu như “[我]姐姐” (<<5:Xem bài 5>>)."
     },
     {
       "type": "text",
@@ -44,7 +44,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 我很好。\n(2) 他们都来。\n(3) 他在家看电视。"
+      "content": "(1) 我[很]好。\n(2) 他们[都]来。\n(3) 他[在家]看电视。"
     }
   ]
 }

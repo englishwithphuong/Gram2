@@ -9,12 +9,12 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 我也很好。\n(2) 他们都很好。\n(3) 我们都是学生,他们也都是学生。"
+      "content": "(1) 我[也]很好。\n(2) 他们[都]很好。\n(3) 我们[都]是学生，他们[也都]是学生。"
     },
     {
       "type": "text",
       "level": 1,
-      "content": "“都” thường dùng với ý bao gồm tất cả người, vật đứng trước nó. Vì thế chỉ có thể nói “我们都认识他”, không nói “我都认识他”."
+      "content": "“都” thường dùng với ý bao gồm tất cả người, vật đứng trước nó. Vì thế chỉ có thể nói “我们[都]认识他”, không nói “我[都]认识他”。"
     }
   ]
 }

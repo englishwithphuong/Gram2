@@ -9,7 +9,12 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 她常去我家玩。\n(2) 你们快来。\n(3) 我们八点去上课。\n(4) 他姐姐在银行工作。"
+      "content": "(1) 她[常]去我家玩。(phó từ)\n(2) 你们[快]来。(phó từ)\n(3) 我们[八点]去上课。(từ chỉ thời gian)\n(4) 他姐姐[在银行]工作。(kết cấu giới từ)\n他[认真]学习。(hình dung từ)"
+    },
+    {
+      "type": "comment",
+      "level": 1,
+      "content": "Phó từ (副词) và trạng ngữ (状语) là hai khái niệm khác nhau, nhưng chúng liên quan rất chặt chẽ.\nPhó từ = từ loại. Phó từ (副词) là một loại từ. Ví dụ: 很 = rất, 常 = thường, 不 = không, 也 = cũng, 都 = đều, 已经 = đã, 马上 = ngay lập tức.\nTrạng ngữ = thành phần câu. Trạng ngữ (状语) là một thành phần trong câu, có chức năng bổ nghĩa cho động từ hoặc tính từ.\nVì vậy, phó từ có thể làm trạng ngữ, nhưng trạng ngữ không nhất thiết phải là phó từ. Ví dụ:\n她[常]去我家玩。(常 là phó từ và cũng là trạng ngữ)\n我们[八点]去上课。(八点 không phải là phó từ nhưng là trạng ngữ)"
     }
   ]
 }

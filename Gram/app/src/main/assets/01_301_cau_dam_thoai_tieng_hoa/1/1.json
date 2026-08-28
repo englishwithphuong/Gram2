@@ -9,57 +9,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 你好吗?\n(2) 你身体好吗?\n(3) 她是老师吗?"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "1 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "2 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "3 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "4 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "5 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "6 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "7 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "8 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "9 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
-    },
-    {
-      "type": "text",
-      "level": 1,
-      "content": "10 Thêm trợ từ nghi vấn “吗” vào cuối một câu kể, ta sẽ có một câu hỏi thông thường. Ví dụ:"
+      "content": "(1) 你好[吗]?\n(2) 你身体好[吗]?\n(3) 她是老师[吗]?"
     }
   ]
 }

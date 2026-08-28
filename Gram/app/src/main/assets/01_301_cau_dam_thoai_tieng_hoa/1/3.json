@@ -9,7 +9,12 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他很忙。\n(2) 他不太高兴。"
+      "content": "(1) 他很[忙]。\n(2) 他不太[高兴]。"
+    },
+    {
+      "type": "comment",
+      "level": 1,
+      "content": "“Hình dung từ” và “tính từ” về cơ bản là cùng một khái niệm, chỉ khác cách gọi.\n形容词 (xíngróngcí) = tính từ = hình dung từ\n“Hình dung từ” là cách dịch thuật ngữ Hán ngữ khá sát.\n“Tính từ” là cách gọi quen thuộc hơn trong ngữ pháp tiếng Việt.\nTrong tiếng Trung thì hình dung từ (tính từ) có thể làm trạng ngữ để bổ nghĩa cho động từ: 他[认真]学习。"
     }
   ]
 }

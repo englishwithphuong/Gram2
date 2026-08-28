@@ -1,12 +1,10 @@
 package com.example.gram.ui.lessonsscreen
 
-import android.app.Application
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.snapshotFlow
-import androidx.compose.ui.platform.LocalContext
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.gram.model.SourceItem
 import com.example.gram.ui.viewmodel.LessonsViewModel
@@ -18,16 +16,15 @@ fun LessonsRouteContent(
     sourceIndex: Int,
     onLessonClick: (String) -> Unit
 ) {
-    val context = LocalContext.current
-    val application = context.applicationContext as Application
-
+    // 1. Initialize LessonsViewModel using its factory
     val lessonsViewModel: LessonsViewModel = viewModel(
         factory = LessonsViewModel.provideFactory(sourceIndex)
     )
     val lessons by lessonsViewModel.lessons.collectAsState()
 
+    // 2. Initialize ScrollStateViewModel using the clean Application Key factory
     val scrollViewModel: ScrollStateViewModel = viewModel(
-        factory = ScrollStateViewModel.Factory(application)
+        factory = ScrollStateViewModel.Factory
     )
 
     val listState = scrollViewModel.getListScrollState(sourceIndex)

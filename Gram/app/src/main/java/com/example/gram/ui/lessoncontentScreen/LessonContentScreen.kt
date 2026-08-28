@@ -1,6 +1,5 @@
-package com.example.gram.ui.lessoncontentScreen
+package com.example.gram.ui.lessoncontentscreen
 
-import android.app.Application
 import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -17,49 +16,44 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.gram.model.Lesson // assuming your model package
+import com.example.gram.model.Section // assuming your section model
 import com.example.gram.ui.viewmodel.LessonContentViewModel
 import com.example.gram.ui.viewmodel.ScrollStateViewModel
 
+// 1. Stateful Wrapper: Manages ViewModels, states, and side-effects
 @Composable
 fun LessonContentScreen(
     sourceIndex: Int,
     lessonName: String
 ) {
-    val context = LocalContext.current
-    val application = context.applicationContext as Application
-
     val viewModel: LessonContentViewModel = viewModel(
         factory = LessonContentViewModel.provideFactory(sourceIndex, lessonName)
     )
     val lesson by viewModel.lesson.collectAsState()
 
     val scrollViewModel: ScrollStateViewModel = viewModel(
-        factory = ScrollStateViewModel.Factory(application)
+        factory = ScrollStateViewModel.Factory
     )
 
-    // Load the saved scroll position from SharedPreferences upfront
     val savedScrollValue = remember(sourceIndex, lessonName) {
         scrollViewModel.getSavedContentScrollValue(sourceIndex, lessonName)
     }
 
-    // Create a ScrollState initialized directly to the saved position
     val scrollState = remember(sourceIndex, lessonName) {
         ScrollState(initial = savedScrollValue)
     }
 
-    // Restore and snap to position once the asynchronous lesson data is loaded and rendered
     LaunchedEffect(lesson) {
         if (lesson != null && savedScrollValue > 0) {
             scrollState.scrollTo(savedScrollValue)
         }
     }
 
-    // Automatically save scroll position whenever it changes
     LaunchedEffect(scrollState) {
         snapshotFlow { scrollState.value }
             .collect { scrollValue ->
@@ -67,13 +61,26 @@ fun LessonContentScreen(
             }
     }
 
+    LessonContentBody(
+        lessonName = lessonName,
+        lesson = lesson,
+        scrollState = scrollState
+    )
+}
+
+// 2. Stateless Layout: Focuses purely on displaying the content
+@Composable
+fun LessonContentBody(
+    lessonName: String,
+    lesson: Lesson?,
+    scrollState: ScrollState
+) {
     Column(
         modifier = Modifier
             .fillMaxSize()
             .padding(16.dp)
             .verticalScroll(scrollState)
     ) {
-        // Main Title from JSON metadata
         Text(
             text = lesson?.title ?: lessonName,
             fontSize = 24.sp,
@@ -82,22 +89,30 @@ fun LessonContentScreen(
         )
         Spacer(modifier = Modifier.height(16.dp))
 
-        // Dynamically render each section based on its type and level
         lesson?.sections?.forEach { section ->
-            when (section.type) {
-                "text" -> {
-                    val textSize = if (section.level == 1) 18.sp else 16.sp
-                    val textColor = if (section.level == 1) Color.Yellow else Color.LightGray
-
-                    Text(
-                        text = section.content,
-                        fontSize = textSize,
-                        color = textColor,
-                        fontWeight = if (section.level == 1) FontWeight.SemiBold else FontWeight.Normal
-                    )
-                    Spacer(modifier = Modifier.height(12.dp))
-                }
-            }
+            LessonSectionItem(section = section)
         }
+    }
+}
+
+// 3. Granular Item Renderer: Easily extensible when adding new section types
+@Composable
+fun LessonSectionItem(section: Section) {
+    when (section.type) {
+        "text" -> {
+            val textSize = if (section.level == 1) 18.sp else 16.sp
+            val textColor = if (section.level == 1) Color.Yellow else Color.LightGray
+            val fontWeight = if (section.level == 1) FontWeight.SemiBold else FontWeight.Normal
+
+            Text(
+                text = section.content,
+                fontSize = textSize,
+                color = textColor,
+                fontWeight = fontWeight
+            )
+            Spacer(modifier = Modifier.height(12.dp))
+        }
+        // Future types like "image", "code", "quiz" can easily be added here:
+        // "image" -> { ... }
     }
 }

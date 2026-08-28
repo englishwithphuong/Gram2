@@ -16,7 +16,7 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.gram.data.NavigationPrefs
 import com.example.gram.model.SourceItem
-import com.example.gram.ui.lessoncontentScreen.LessonContentScreen
+import com.example.gram.ui.lessoncontentscreen.LessonContentScreen
 import com.example.gram.ui.lessonsscreen.LessonsRouteContent
 import com.example.gram.ui.sourcesscreen.SourcesScreen
 

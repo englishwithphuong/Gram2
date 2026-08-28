@@ -2,11 +2,12 @@ package com.example.gram.ui.viewmodel
 
 import android.app.Application
 import android.content.Context
-import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.lazy.LazyListState
 import androidx.lifecycle.AndroidViewModel
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.APPLICATION_KEY
+import androidx.lifecycle.viewmodel.initializer
+import androidx.lifecycle.viewmodel.viewModelFactory
 
 class ScrollStateViewModel(application: Application) : AndroidViewModel(application) {
     private val prefs = application.getSharedPreferences("scroll_prefs", Context.MODE_PRIVATE)
@@ -48,13 +49,12 @@ class ScrollStateViewModel(application: Application) : AndroidViewModel(applicat
         }
     }
 
-    class Factory(private val application: Application) : ViewModelProvider.Factory {
-        override fun <T : ViewModel> create(modelClass: Class<T>): T {
-            if (modelClass.isAssignableFrom(ScrollStateViewModel::class.java)) {
-                @Suppress("UNCHECKED_CAST")
-                return ScrollStateViewModel(application) as T
+    companion object {
+        val Factory: ViewModelProvider.Factory = viewModelFactory {
+            initializer {
+                val application = this[APPLICATION_KEY] as Application
+                ScrollStateViewModel(application)
             }
-            throw IllegalArgumentException("Unknown ViewModel class")
         }
     }
 }

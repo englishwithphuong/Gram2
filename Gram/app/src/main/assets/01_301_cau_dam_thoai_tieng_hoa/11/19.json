@@ -1,0 +1,25 @@
+{
+  "title": "Chủ ngữ và vị ngữ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Một câu thường có thể chia thành hai phần chính: Chủ ngữ và vị ngữ. Chủ ngữ đứng trước vị ngữ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(1) 你好!\n(2) 我去商店。"
+    },
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Nếu ngữ cảnh rõ ràng, chủ ngữ hoặc vị ngữ có thể lược bỏ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(3) 你好吗?\n(我)很好。\n(4) 谁是学生?\n他(是学生)。"
+    }
+  ]
+}

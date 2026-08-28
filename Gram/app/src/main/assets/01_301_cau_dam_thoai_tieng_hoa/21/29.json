@@ -1,0 +1,15 @@
+{
+  "title": "Số lượng từ làm định ngữ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Trong tiếng Hoa hiện đại, số từ thường không thể bổ nghĩa trực tiếp cho danh từ, mà phải xen một lượng từ thích hợp vào giữa danh từ và số từ đó. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "\"两张票\", \"三个本子\", \"五个学生\""
+    }
+  ]
+}

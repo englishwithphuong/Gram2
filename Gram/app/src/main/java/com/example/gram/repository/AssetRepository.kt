@@ -24,37 +24,53 @@ suspend fun getSources(context: Context): List<SourceItem> = withContext(Dispatc
     }
 }
 
-suspend fun getLessonsForSource(context: Context, sourceIndex: Int): List<LessonItem> = withContext(Dispatchers.IO) {
-    val assetManager = context.assets
-    try {
-        val rawFolders = getSortedAssetFolders(context)
-        if (sourceIndex in rawFolders.indices) {
-            val folderName = rawFolders[sourceIndex]
-            val files = assetManager.list(folderName) ?: emptyArray()
-            val sortedFiles = files.sortedWith(naturalOrderComparator)
+suspend fun getLessonsForSource(context: Context, sourceIndex: Int): List<LessonItem> =
+    withContext(Dispatchers.IO) {
+        val assetManager = context.assets
+        try {
+            val rawFolders = getSortedAssetFolders(context)
+            if (sourceIndex in rawFolders.indices) {
+                val sourceFolder = rawFolders[sourceIndex]
 
-            return@withContext sortedFiles.mapIndexed { index, fileName ->
-                val path = "$folderName/$fileName"
-                val title = try {
-                    val inputStream = assetManager.open(path)
-                    val jsonString = BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
-                    Json.decodeFromString<Lesson>(jsonString).title
-                } catch (_: Exception) {
-                    fileName.substringBeforeLast(".") // Fallback if parsing fails
+                // 1. Get group folders (e.g., "1", "11", "21") and sort them numerically
+                val groupFolders = assetManager.list(sourceFolder) ?: emptyArray()
+                val sortedGroups = groupFolders.sortedWith(naturalOrderComparator)
+
+                // 2. Gather all json files from all group folders in order
+                val allSortedFiles = mutableListOf<String>()
+                for (group in sortedGroups) {
+                    val groupPath = "$sourceFolder/$group"
+                    val files = assetManager.list(groupPath) ?: emptyArray()
+                    val sortedFiles = files.sortedWith(naturalOrderComparator)
+                    for (file in sortedFiles) {
+                        allSortedFiles.add("$group/$file")
+                    }
                 }
 
-                LessonItem(
-                    index = index,
-                    fileName = fileName.substringBeforeLast("."),
-                    title = title
-                )
+                return@withContext allSortedFiles.mapIndexed { index, relativePath ->
+                    val path = "$sourceFolder/$relativePath"
+                    val fileName = relativePath.substringAfterLast("/")
+                    val title = try {
+                        val inputStream = assetManager.open(path)
+                        val jsonString =
+                            BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
+                        Json.decodeFromString<Lesson>(jsonString).title
+                    } catch (_: Exception) {
+                        fileName.substringBeforeLast(".") // Fallback if parsing fails
+                    }
+
+                    LessonItem(
+                        index = index,
+                        fileName = fileName.substringBeforeLast("."),
+                        title = title
+                    )
+                }
             }
+            emptyList()
+        } catch (_: Exception) {
+            emptyList()
         }
-        emptyList()
-    } catch (_: Exception) {
-        emptyList()
     }
-}
 
 private val naturalOrderComparator = Comparator<String> { s1, s2 ->
     val regex = Regex("\\d+")
@@ -62,39 +78,49 @@ private val naturalOrderComparator = Comparator<String> { s1, s2 ->
     val match2 = regex.find(s2)?.value?.toIntOrNull()
 
     if (match1 != null && match2 != null) {
-        // If both strings contain numbers, compare them numerically
         val comp = match1.compareTo(match2)
         if (comp != 0) return@Comparator comp
     }
-    // Fallback to standard alphabetical comparison if no numbers or numbers are equal
     s1.compareTo(s2)
 }
 
-suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonIndex: Int): Lesson? = withContext(Dispatchers.IO) {
-    val assetManager = context.assets
-    try {
-        val rawFolders = getSortedAssetFolders(context)
-        if (sourceIndex in rawFolders.indices) {
-            val folderName = rawFolders[sourceIndex]
-            val files = assetManager.list(folderName) ?: emptyArray()
+suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonIndex: Int): Lesson? =
+    withContext(Dispatchers.IO) {
+        val assetManager = context.assets
+        try {
+            val rawFolders = getSortedAssetFolders(context)
+            if (sourceIndex in rawFolders.indices) {
+                val sourceFolder = rawFolders[sourceIndex]
 
-            // Sort files using the same natural order used in getLessonsForSource
-            val sortedFiles = files.sortedWith(naturalOrderComparator)
+                // Reconstruct the exact same flattened file list order
+                val groupFolders = assetManager.list(sourceFolder) ?: emptyArray()
+                val sortedGroups = groupFolders.sortedWith(naturalOrderComparator)
 
-            if (lessonIndex in sortedFiles.indices) {
-                val targetFile = sortedFiles[lessonIndex]
-                val path = "$folderName/$targetFile"
-                val inputStream = assetManager.open(path)
-                val jsonString = BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
+                val allSortedFiles = mutableListOf<String>()
+                for (group in sortedGroups) {
+                    val groupPath = "$sourceFolder/$group"
+                    val files = assetManager.list(groupPath) ?: emptyArray()
+                    val sortedFiles = files.sortedWith(naturalOrderComparator)
+                    for (file in sortedFiles) {
+                        allSortedFiles.add("$group/$file")
+                    }
+                }
 
-                return@withContext Json.decodeFromString<Lesson>(jsonString)
+                if (lessonIndex in allSortedFiles.indices) {
+                    val targetRelativePath = allSortedFiles[lessonIndex]
+                    val path = "$sourceFolder/$targetRelativePath"
+                    val inputStream = assetManager.open(path)
+                    val jsonString =
+                        BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
+
+                    return@withContext Json.decodeFromString<Lesson>(jsonString)
+                }
             }
+            null
+        } catch (_: Exception) {
+            null
         }
-        null
-    } catch (_: Exception) {
-        null
     }
-}
 
 // --- Helper Functions to Avoid Code Duplication ---
 

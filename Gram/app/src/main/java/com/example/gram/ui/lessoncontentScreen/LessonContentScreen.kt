@@ -114,6 +114,7 @@ fun LessonContentBody(
                 text = styledTitle,
                 fontSize = Typography.titleLarge.fontSize,
                 fontWeight = Typography.titleLarge.fontWeight,
+                lineHeight = Typography.titleLarge.lineHeight,
                 color = TitleColor
             )
             Spacer(modifier = Modifier.height(16.dp))

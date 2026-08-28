@@ -36,6 +36,7 @@ fun LessonTextSection(section: Section) {
     val textSize = if (isLevel1) Typography.titleMedium.fontSize else Typography.bodyMedium.fontSize
     val textColor = if (isLevel1) Level1Color else Level2Color
     val fontWeight = if (isLevel1) Typography.titleMedium.fontWeight else Typography.bodyMedium.fontWeight
+    val lineHeight = if(isLevel1) Typography.titleMedium.lineHeight else Typography.bodyMedium.lineHeight
 
     val annotatedContent = remember(section.content) {
         buildStyledChineseText(
@@ -48,7 +49,8 @@ fun LessonTextSection(section: Section) {
         text = annotatedContent,
         fontSize = textSize,
         color = textColor,
-        fontWeight = fontWeight
+        fontWeight = fontWeight,
+        lineHeight = lineHeight
     )
     Spacer(modifier = Modifier.height(12.dp))
 }

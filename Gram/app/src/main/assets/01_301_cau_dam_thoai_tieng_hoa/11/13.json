@@ -1,0 +1,15 @@
+{
+  "title": "Cách đọc giờ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Cách đọc giờ trong tiếng Trung:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "2:00\n两点\nliǎng diǎn\n\n6:05\n六点五分\nliù diǎn wǔ fēn\n\n8:15\n八点十五分 (八点一刻)\nbā diǎn shíwǔ fēn (bā diǎn yí kè)\n\n10:30\n十点三十分 (十点半)\nshí diǎn sānshí fēn (shí diǎn bàn)\n\n11:45\n十一点四十五分 (十一点三刻 / 差一刻十二点)\nshíyī diǎn sìshíwǔ fēn (shíyī diǎn sān kè / chà yí kè shí'èr diǎn)\n\n1:50\n一点五十分 (差十分两点)\nyì diǎn wǔshí fēn (chà shí fēn liǎng diǎn)"
+    }
+  ]
+}

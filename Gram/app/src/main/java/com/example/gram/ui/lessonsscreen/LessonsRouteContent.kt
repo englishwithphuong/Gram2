@@ -34,6 +34,7 @@ fun LessonsRouteContent(
     }
 
     LessonsScreen(
+        sourceIndex = sourceIndex,
         sourceTitle = sources.find { it.index == sourceIndex }?.title ?: "Lessons",
         lessons = lessons,
         listState = listState,

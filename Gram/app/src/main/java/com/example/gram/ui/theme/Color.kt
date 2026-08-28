@@ -11,6 +11,8 @@ val ButtonBackgroundColor = Color.Transparent
 val ButtonForegroundColor = Color(0xff333333)
 val DisabledButtonBackgroundColor = Color.DarkGray
 val DisabledButtonForegroundColor = Color(0xff4f4f4f)
+val ScrollBackgroundColor = Color(0x444f4f4f)
+val ScrollThumbColor = Color(0xff333333)
 
 // Default App Colors
 val Purple80 = Color(0xFFD0BCFF)

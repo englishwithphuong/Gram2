@@ -43,14 +43,14 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = BackColor
                 ) {
-                    MainScreen { immersiveState.toggleImmersive() }
+                    MainScreen(immersiveState = immersiveState) { immersiveState.toggleImmersive() }
                 }
             }
         }
     }
 
     @Composable
-    private fun MainScreen(onToggleImmersive: () -> Unit) {
+    private fun MainScreen(immersiveState: ImmersiveViewModel, onToggleImmersive: () -> Unit) {
         Box(
             modifier = Modifier
                 .fillMaxSize()
@@ -68,7 +68,7 @@ class MainActivity : ComponentActivity() {
                         .fillMaxSize()
                         .padding(innerPadding)
                 ) {
-                    AppRoot()
+                    AppRoot(immersiveState = immersiveState)
                 }
             }
         }

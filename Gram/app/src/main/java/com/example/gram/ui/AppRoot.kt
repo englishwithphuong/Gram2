@@ -20,10 +20,11 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
 import com.example.gram.ui.navigation.Host
+import com.example.gram.ui.viewmodel.ImmersiveViewModel
 import com.example.gram.ui.viewmodel.SourcesViewModel
 
 @Composable
-fun AppRoot() {
+fun AppRoot(immersiveState: ImmersiveViewModel) {
     val viewModel: SourcesViewModel = viewModel(
         factory = viewModelFactory {
             initializer {
@@ -36,7 +37,7 @@ fun AppRoot() {
     if (sources.isEmpty()) {
         LoadingScreen()
     } else {
-        Host(sources)
+        Host(sources = sources, immersiveState = immersiveState)
     }
 }
 

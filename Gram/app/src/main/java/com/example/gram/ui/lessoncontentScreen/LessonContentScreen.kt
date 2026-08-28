@@ -1,12 +1,18 @@
 package com.example.gram.ui.lessoncontentscreen
 
 import androidx.compose.foundation.ScrollState
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -25,9 +31,10 @@ import com.example.gram.model.Section
 import com.example.gram.ui.lessoncontentscreen.leftbar.LeftButtonBar
 import com.example.gram.ui.theme.Level1Color
 import com.example.gram.ui.theme.Level2Color
+import com.example.gram.ui.theme.ScrollBackgroundColor
+import com.example.gram.ui.theme.ScrollThumbColor
 import com.example.gram.ui.theme.TitleColor
 import com.example.gram.ui.theme.Typography
-import com.example.gram.ui.viewmodel.ImmersiveViewModel
 import com.example.gram.ui.viewmodel.LessonContentViewModel
 import com.example.gram.ui.viewmodel.ScrollStateViewModel
 
@@ -36,7 +43,8 @@ fun LessonContentScreen(
     navController: NavController,
     sourceIndex: Int,
     lessonIndex: Int,
-    lessonCount: Int
+    lessonCount: Int,
+    isImmersive: Boolean
 ) {
     val viewModel: LessonContentViewModel = viewModel(
         factory = LessonContentViewModel.provideFactory(sourceIndex, lessonIndex) // Ensure your VM factory accepts Int
@@ -74,7 +82,8 @@ fun LessonContentScreen(
         lessonIndex = lessonIndex,
         lessonCount = lessonCount,
         lesson = lesson,
-        scrollState = scrollState
+        scrollState = scrollState,
+        isImmersive = isImmersive
     )
 }
 
@@ -85,17 +94,20 @@ fun LessonContentBody(
     lessonIndex: Int,
     lessonCount: Int,
     lesson: Lesson?,
-    scrollState: ScrollState
+    scrollState: ScrollState,
+    isImmersive: Boolean
 ) {
     Box(modifier = Modifier.fillMaxSize()) {
+        // Main scrollable content
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(16.dp)
+                // Fixed: explicitly chain or use individual padding parameters
+                .padding(horizontal = 20.dp, vertical = 16.dp)
                 .verticalScroll(scrollState)
         ) {
             Text(
-                text = lesson?.title ?: "Lesson ${lessonIndex + 1}", // Fallback display if title isn't loaded yet
+                text = lesson?.title ?: "Lesson ${lessonIndex + 1}",
                 fontSize = Typography.titleLarge.fontSize,
                 fontWeight = Typography.titleLarge.fontWeight,
                 color = TitleColor
@@ -107,8 +119,7 @@ fun LessonContentBody(
             }
         }
 
-        val immersiveState: ImmersiveViewModel = viewModel()
-        if (!immersiveState.isImmersive) {
+        if (!isImmersive) {
             LeftButtonBar(
                 modifier = Modifier.align(Alignment.CenterStart),
                 navController = navController,
@@ -116,6 +127,62 @@ fun LessonContentBody(
                 lessonIndex = lessonIndex,
                 lessonCount = lessonCount
             )
+
+            VerticalScrollbar(
+                modifier = Modifier
+                    .align(Alignment.CenterEnd)
+                    .fillMaxHeight()
+                    .padding(end = 4.dp, top = 16.dp, bottom = 16.dp), // Fixed padding parameters
+                scrollState = scrollState
+            )
+        }
+    }
+}
+
+@Composable
+fun VerticalScrollbar(
+    modifier: Modifier = Modifier,
+    scrollState: ScrollState
+) {
+    val viewportHeight = scrollState.viewportSize.toFloat()
+    val scrollRange = scrollState.maxValue
+    val totalContentHeight = scrollRange + viewportHeight
+
+    if (totalContentHeight > 0f) {
+        val indicatorHeightFraction = (viewportHeight / totalContentHeight).coerceIn(0.1f, 1f)
+
+        Box(
+            modifier = modifier
+                .width(6.dp)
+                .background(ScrollBackgroundColor, shape = RoundedCornerShape(3.dp))
+        ) {
+            androidx.compose.foundation.layout.BoxWithConstraints(
+                modifier = Modifier.fillMaxSize()
+            ) {
+                val availableHeightPx = constraints.maxHeight.toFloat()
+                val thumbHeightPx = availableHeightPx * indicatorHeightFraction
+                val maxTravelPx = availableHeightPx - thumbHeightPx
+
+                Box(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .fillMaxHeight(indicatorHeightFraction)
+                        // The lambda overload of offset expects an IntOffset in pixels.
+                        // Reading scrollState.value here defers execution to the layout phase.
+                        .offset {
+                            val currentMaxValue = scrollState.maxValue
+                            val scrollFraction = if (currentMaxValue > 0) {
+                                (scrollState.value.toFloat() / currentMaxValue).coerceIn(0f, 1f)
+                            } else {
+                                0f
+                            }
+                            val currentOffsetYPx = scrollFraction * maxTravelPx
+
+                            androidx.compose.ui.unit.IntOffset(0, currentOffsetYPx.toInt())
+                        }
+                        .background(ScrollThumbColor, shape = RoundedCornerShape(3.dp))
+                )
+            }
         }
     }
 }

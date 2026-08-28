@@ -22,9 +22,10 @@ import com.example.gram.ui.sourcesscreen.SourcesScreen
 import com.example.gram.ui.viewmodel.LessonsViewModel
 import androidx.compose.runtime.collectAsState
 import com.example.gram.ui.lessoncontentscreen.LessonContentScreen
+import com.example.gram.ui.viewmodel.ImmersiveViewModel
 
 @Composable
-fun Host(sources: List<SourceItem>) {
+fun Host(sources: List<SourceItem>, immersiveState: ImmersiveViewModel) {
     val navController = rememberNavController()
     val context = LocalContext.current
 
@@ -45,20 +46,34 @@ fun Host(sources: List<SourceItem>) {
     ) {
         sourcesListRoute(sources, navController)
         lessonsListRoute(sources, navController)
-        lessonContentRoute(navController)
+        lessonContentRoute(navController, immersiveState)
     }
 }
 
 private fun saveRoute(navController: NavController, context: Context) {
     navController.addOnDestinationChangedListener { _, destination, arguments ->
-        val route = destination.route?.let { baseRoute ->
-            if (arguments != null && arguments.keySet().isNotEmpty()) {
-                arguments.keySet().fold(baseRoute) { acc, key ->
-                    val value = arguments.get(key)?.toString() ?: ""
-                    acc.replace("{$key}", value)
-                }
-            } else baseRoute
+        val route = when (destination.route) {
+            Screen.Sources.route -> {
+                Screen.Sources.route
+            }
+
+            Screen.Lessons.route -> {
+                val sourceIndex = arguments?.getInt("sourceIndex") ?: return@addOnDestinationChangedListener
+                Screen.Lessons.createRoute(sourceIndex)
+            }
+
+            Screen.LessonContent.route -> {
+                val sourceIndex = arguments?.getInt("sourceIndex")
+                    ?: return@addOnDestinationChangedListener
+
+                val lessonIndex = arguments.getInt("lessonIndex")
+
+                Screen.LessonContent.createRoute(sourceIndex, lessonIndex)
+            }
+
+            else -> destination.route
         }
+
         route?.let { NavigationPrefs.save(context, it) }
     }
 }
@@ -107,25 +122,27 @@ private fun NavGraphBuilder.lessonsListRoute(sources: List<SourceItem>, navContr
     }
 }
 
-private fun NavGraphBuilder.lessonContentRoute(navController: NavHostController) {
+private fun NavGraphBuilder.lessonContentRoute(navController: NavHostController, immersiveState: ImmersiveViewModel) {
     composable(
         route = Screen.LessonContent.route,
         arguments = listOf(
             navArgument("sourceIndex") { type = NavType.IntType },
-            navArgument("lessonIndex") { type = NavType.IntType } // Changed type
+            navArgument("lessonIndex") { type = NavType.IntType }
         )
     ) { backStackEntry ->
         val sourceIndex = backStackEntry.arguments?.getInt("sourceIndex") ?: 0
-        val lessonIndex = backStackEntry.arguments?.getInt("lessonIndex") ?: 0 // Read as Int
+        val lessonIndex = backStackEntry.arguments?.getInt("lessonIndex") ?: 0
 
         val viewModel: LessonsViewModel = viewModel(
             factory = LessonsViewModel.provideFactory(sourceIndex)
         )
+
         LessonContentScreen(
             navController = navController,
             sourceIndex = sourceIndex,
             lessonIndex = lessonIndex,
-            lessonCount = viewModel.lessons.collectAsState().value.count()
+            lessonCount = viewModel.lessons.collectAsState().value.count(),
+            isImmersive = immersiveState.isImmersive
         )
     }
 }

@@ -73,7 +73,7 @@ fun NextButton(
                 }
             }
         },
-        enabled = lessonIndex < lessonCount - 2
+        enabled = lessonIndex < lessonCount - 1
     ) {
         Text(text = "▼", fontSize = 20.sp, modifier = Modifier.offset(y = (-2).dp))
     }

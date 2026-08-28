@@ -9,12 +9,12 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 火车要开了。\n(2) 快要到北京了。\n(3) 他就要来了。"
+      "content": "(1) 火车[要]开[了]。\n(2) [快要]到北京[了]。\n(3) 他[就要]来[了]。"
     },
     {
       "type": "text",
       "level": 1,
-      "content": "Trước “就要...了” có thể thêm từ ngữ chỉ thời gian làm trạng ngữ, nhưng trước “快要...了” thì không được. Ví dụ: “他明天就要走了”, mà không thể nói “他明天快要走了”."
+      "content": "Trước “就要...了” có thể thêm từ ngữ chỉ thời gian làm trạng ngữ, nhưng trước “快要...了” thì không được. Ví dụ: “他{明天}[就要]走了”, mà không thể nói “他{明天}[快要]走了”."
     }
   ]
 }

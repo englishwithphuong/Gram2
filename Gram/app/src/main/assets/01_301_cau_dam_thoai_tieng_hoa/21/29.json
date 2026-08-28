@@ -9,7 +9,11 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 这个本子是我的。\n(2) 那套邮票是新的。\n(3) 这件毛衣不是玛丽的。"
+      "content": "(1) 这个本子[是]我[的]。\n(2) 那套邮票[是]新[的]。\n(3) 这件毛衣不[是]玛丽[的]。"
+    },
+    {
+      "type": "comment",
+      "content": "Ở bài này, “的” không phải là “的” dùng để nối định ngữ với danh từ như trong: 我的书 → sách của tôi, 新的书 → quyển sách mới. Mà đây là “的” đứng sau danh từ / đại từ / hình dung từ để biến cả cụm đó thành một kết cấu có thể đứng độc lập.\nVí dụ: 这个本子是我[的]。(Quyển vở này là của tôi.) 的 = biến 我的 thành một kết cấu độc lập, nghĩa là “của tôi”.\nCó thể hiểu ngầm: 这个本子是我[的]（本子）。(Quyển vở này là quyển của tôi.) Nhưng không cần lặp lại 本子, vì 我的 đã có thể đứng độc lập."
     }
   ]
 }

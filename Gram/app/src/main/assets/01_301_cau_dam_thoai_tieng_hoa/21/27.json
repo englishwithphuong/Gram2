@@ -9,7 +9,11 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 请您写一下儿名字\n(2) 请他吃饭。"
+      "content": "(1) 请[您]写一下儿名字\n(2) 请[他]吃饭。"
+    },
+    {
+      "type": "comment",
+      "content": "Ngữ động từ là một cụm từ lấy động từ làm trung tâm, có thể kèm theo tân ngữ, bổ ngữ, trạng ngữ... và cùng nhau tạo thành một thành phần trong câu. Ví dụ: 写名字 = viết tên, 吃饭 = ăn cơm, 写一下儿名字 = viết tên một chút."
     }
   ]
 }

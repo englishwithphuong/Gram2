@@ -9,7 +9,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他从我这儿去书店。\n(2) 我从张大夫那儿来。\n(3) 我妹妹在玛丽那儿玩儿。\n(4) 我的笔在他那儿。"
+      "content": "(1) 他[从]{我这儿}去书店。(Anh ấy từ chỗ tôi đi đến hiệu sách.)\n(2) 我[从]{张大夫那儿}来。(Tôi từ chỗ bác sĩ Trương đến.)\n(3) 我妹妹[在]{玛丽那儿}玩儿。(Em gái tôi chơi ở chỗ Mary.)\n(4) 我的笔[在]{他那儿}。(Bút của tôi ở chỗ anh ấy.)"
     }
   ]
 }

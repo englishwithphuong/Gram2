@@ -9,7 +9,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 上午我们从八点开始上课。\n(2) 从八点到十二点我们上汉语课。\n(3) 现在离十月还有十天。\n(4) 我们离毕业还有两个月。"
+      "content": "(1) 上午我们[从]{八点}开始上课。(Buổi sáng, chúng tôi bắt đầu học từ 8 giờ.)\n(2) [从]{八点}到十二点我们上汉语课。(Từ 8 giờ đến 12 giờ, chúng tôi học tiếng Trung.)\n(3) 现在[离]{十月}还有十天。(Bây giờ còn 10 ngày nữa là đến tháng 10.)\n(4) 我们[离]{毕业}还有两个月。(Còn hai tháng nữa là chúng tôi tốt nghiệp.)"
     }
   ]
 }

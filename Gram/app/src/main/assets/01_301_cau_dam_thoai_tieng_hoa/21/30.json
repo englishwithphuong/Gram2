@@ -14,7 +14,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他回到北京了。\n(2) 我们学到第十五课了。\n(3) 昨天晚上工作到十点。"
+      "content": "(1) 他回[到]北京了。\n(2) 我们学[到]第十五课了。\n(3) 昨天晚上工作[到]十点。"
     },
     {
       "type": "text",
@@ -24,7 +24,11 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(4) 我没买到那本书。\n(5) 大卫没找到玛丽。"
+      "content": "(4) 我[没]买[到]那本书。\n(5) 大卫[没]找[到]玛丽。"
+    },
+    {
+      "type": "comment",
+      "content": "Có thể nhớ toàn bộ phần đầu bằng công thức:\n\nĐộng từ + bổ ngữ kết quả\n= làm một hành động + đạt được kết quả nào đó\n\nTrong đó, bổ ngữ kết quả cho biết sau khi thực hiện động tác thì đạt được kết quả gì. Ví dụ:\n接 + 通 → nối + thông → nối thông\n看 + 懂 → xem + hiểu → xem hiểu được\n写 + 对 → viết + đúng → viết đúng\n\n“Bổ ngữ kết quả” không nhất thiết phải dịch thành một từ riêng. Ví dụ:\n找 + 到 → tìm thấy\n买 + 到 → mua được\n回 + 到 → trở về.\nỞ đây, thành phần phía sau động từ (通、懂、对、到...) cho biết kết quả mà hành động đạt được, nên gọi là bổ ngữ kết quả."
     }
   ]
 }

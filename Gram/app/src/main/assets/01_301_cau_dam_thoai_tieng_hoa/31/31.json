@@ -9,7 +9,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 你想去商店吗?\n我不想去商店,我想在家看电视。"
+      "content": "(1) 你[想]去商店吗?\n我不[想]去商店,我[想]在家看电视。"
     },
     {
       "type": "text",
@@ -19,7 +19,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 我要买件衣服。\n(2) 你要看这本书吗?\n我不想看,我要看那本杂志。"
+      "content": "(1) 我[要]买件衣服。\n(2) 你[要]看这本书吗?\n[[(2) ]]我[不想]看，我[要]看那本杂志。"
     },
     {
       "type": "text",
@@ -29,7 +29,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "要换车吗?\n__要换车(不用换车)."
+      "content": "[要]换车吗?\n[要]换车([不用]换车)."
     },
     {
       "type": "text",
@@ -39,17 +39,17 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他会说汉语。\n(2) 我不会做菜。"
+      "content": "(1) 他[会]说汉语。\n(2) 我[不会]做菜。"
     },
     {
       "type": "text",
       "level": 1,
-      "content": "b. Biểu thị khả năng. Ví dụ:"
+      "content": "b. Biểu thị khả năng xảy ra. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "现在十点了,他不会来了吧?\n别着急 (bié zháojí đừng nôn nóng),他会来的。"
+      "content": "现在十点了,他[不会]来了吧?\n别着急 (bié zháojí đừng nôn nóng),他[会]来的。"
     },
     {
       "type": "text",
@@ -59,7 +59,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "大卫能用汉语谈话 (tánhuà nói chuyện)."
+      "content": "大卫[能]用汉语谈话 (tánhuà nói chuyện)."
     },
     {
       "type": "text",
@@ -69,7 +69,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "你明天上午能来吗?\n不能来,明天我有事。"
+      "content": "你明天上午[能]来吗?\n[不能]来,明天我有事。"
     },
     {
       "type": "text",
@@ -79,7 +79,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 我们可以走?\n可以。\n(2) 我们可以在这儿玩儿吗?\n不可以,这儿要上课。"
+      "content": "(1) 我们[可以]走?\n可以。\n(2) 我们[可以]在这儿玩儿吗?\n[不可以],这儿要上课。"
     }
   ]
 }

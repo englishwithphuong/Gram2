@@ -19,7 +19,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(3) 你好吗?\n~(3) /~(我)很好。\n(4) 谁是学生?\n~(4) /~他(是学生)。"
+      "content": "(3) 你好吗?\n[[(3) ]](我)很好。\n(4) 谁是学生?\n[[(4) ]]他(是学生)。"
     },
     {
       "type": "text",
@@ -34,7 +34,7 @@
     {
       "type": "text",
       "level": 1,
-      "content": "3. 定语 Định ngữ\nĐịnh ngữ thường bổ nghĩa cho danh từ. Giữa định ngữ và từ trung tâm có khi có trợ từ kết cấu “的” như “[王兰]的朋友”, có khi không có trợ từ kết cấu như “[我]姐姐” (<<5:Xem bài 5>>)."
+      "content": "3. 定语 Định ngữ\nĐịnh ngữ thường bổ nghĩa cho danh từ. Giữa định ngữ và từ trung tâm có khi có trợ từ kết cấu “的” như “[王兰]的朋友”, có khi không có trợ từ kết cấu như “[我]姐姐” ([<5:Xem bài 5>])."
     },
     {
       "type": "text",

@@ -9,17 +9,17 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他会说汉语。 Anh ấy biết nói tiếng Hoa.\n(2) 我不会做中国饭。 Tôi không biết làm cơm Tàu."
+      "content": "(1) 他[会]说汉语。 Anh ấy biết nói tiếng Hoa.\n(2) 我不[会]做中国饭。 Tôi không biết làm cơm Tàu."
     },
     {
       "type": "text",
       "level": 1,
-      "content": "(b) Chỉ sự có thể. Ví dụ:"
+      "content": "(b) Chỉ khả năng xảy ra. Ví dụ:"
     },
     {
       "type": "text",
       "level": 2,
-      "content": "(3) 他会来吗? Anh ấy sẽ đến chứ?\n(4) 现在九点半了,他不会来了。 Bây giờ 9 giờ rưỡi rồi, anh ấy sẽ không đến đâu."
+      "content": "(3) 他[会]来吗? Anh ấy sẽ đến chứ?\n(4) 现在九点半了,他不[会]来了。 Bây giờ 9 giờ rưỡi rồi, anh ấy sẽ không đến đâu."
     }
   ]
 }

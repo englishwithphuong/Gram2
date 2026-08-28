@@ -167,15 +167,6 @@ fun LessonCommentSection(section: Section) {
     Spacer(modifier = Modifier.height(12.dp))
 }
 
-/**
- * Scans the string and:
- *
- * - applies PrimaryBracketTextColor to [ ... ]
- * - applies SecondaryBracketTextColor to { ... }
- * - applies KaitiFontFamily to Chinese characters
- * - makes ~ ... /~ invisible while preserving its width
- * - turns <<filename:text>> into a clickable lesson link
- */
 fun buildStyledChineseText(
     text: String,
     chineseFontFamily: FontFamily,
@@ -186,16 +177,16 @@ fun buildStyledChineseText(
 
         while (i < text.length) {
 
-            // Invisible indentation text: ~ ... /~
-            if (text[i] == '~') {
+            // Invisible indentation text: [[ ... ]]
+            if (text.startsWith("[[", i)) {
                 val closingInvisible = text.indexOf(
-                    "/~",
-                    startIndex = i + 1
+                    "]]",
+                    startIndex = i + 2
                 )
 
                 if (closingInvisible != -1) {
                     val invisibleContent = text.substring(
-                        startIndex = i + 1,
+                        startIndex = i + 2,
                         endIndex = closingInvisible
                     )
 
@@ -213,9 +204,9 @@ fun buildStyledChineseText(
             }
 
             // Lesson link: <<filename:text>>
-            if (text.startsWith("<<", i)) {
+            if (text.startsWith("[<", i)) {
                 val closingLink = text.indexOf(
-                    ">>",
+                    ">]",
                     startIndex = i + 2
                 )
 

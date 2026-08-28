@@ -9,7 +9,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(1) 他是昨天来的。\n(2) 你（是）哪儿上的？\n(3) 他（是）一个人来的。"
+      "content": "(1) 他[是]昨天来[的]。(Anh ấy đến hôm qua đó.)\n(2) 你[（是）]哪儿上[的]？(Bạn học ở đâu vậy?)\n(3) 他[（是）]一个人来[的]。(Anh ấy đến một mình đó.)"
     },
     {
       "type": "text",
@@ -19,7 +19,7 @@
     {
       "type": "text",
       "level": 2,
-      "content": "(4) 是她告诉我的。"
+      "content": "(4) [是]她告诉我[的]。(Là cô ấy nói cho tôi biết đó.)"
     }
   ]
 }

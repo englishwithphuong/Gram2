@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.AP
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
+import com.example.gram.model.Lesson
 import com.example.gram.repository.getLessonContent
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -19,8 +20,8 @@ class LessonContentViewModel(
     private val lessonName: String
 ) : AndroidViewModel(application) {
 
-    private val _content = MutableStateFlow("Loading...")
-    val content: StateFlow<String> = _content.asStateFlow()
+    private val _lesson = MutableStateFlow<Lesson?>(null)
+    val lesson: StateFlow<Lesson?> = _lesson.asStateFlow()
 
     init {
         loadContent()
@@ -28,7 +29,7 @@ class LessonContentViewModel(
 
     private fun loadContent() {
         viewModelScope.launch {
-            _content.value = getLessonContent(getApplication(), sourceIndex, lessonName)
+            _lesson.value = getLessonContent(getApplication(), sourceIndex, lessonName)
         }
     }
 

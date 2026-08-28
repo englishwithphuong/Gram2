@@ -1,9 +1,11 @@
 package com.example.gram.repository
 
 import android.content.Context
+import com.example.gram.model.Lesson
 import com.example.gram.model.SourceItem
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+import kotlinx.serialization.json.Json
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
@@ -36,25 +38,26 @@ suspend fun getLessonsForSource(context: Context, sourceIndex: Int): List<String
     }
 }
 
-suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonName: String): String = withContext(Dispatchers.IO) {
+suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonName: String): Lesson? = withContext(Dispatchers.IO) {
     val assetManager = context.assets
     try {
         val rawFolders = getSortedAssetFolders(context)
         if (sourceIndex in rawFolders.indices) {
             val folderName = rawFolders[sourceIndex]
             val files = assetManager.list(folderName) ?: emptyArray()
-            val targetFile = files.find { it.substringBeforeLast(".") == lessonName } ?: "$lessonName.txt"
+
+            val targetFile =
+                files.find { it.substringBeforeLast(".") == lessonName } ?: "$lessonName.json"
 
             val path = "$folderName/$targetFile"
             val inputStream = assetManager.open(path)
-            val reader = BufferedReader(InputStreamReader(inputStream))
-            val content = reader.readText()
-            reader.close()
-            return@withContext content
+            val jsonString = BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
+
+            return@withContext Json.decodeFromString<Lesson>(jsonString)
         }
-        "Source folder not found."
-    } catch (e: Exception) {
-        "Failed to load lesson content: ${e.localizedMessage}"
+        null
+    } catch (_: Exception) {
+        null
     }
 }
 

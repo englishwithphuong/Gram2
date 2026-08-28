@@ -1,0 +1,16 @@
+{
+  "lessonId": "lesson_3",
+  "title": "Câu vị ngữ hình dung từ",
+  "sections": [
+    {
+      "type": "text",
+      "level": 1,
+      "content": "Câu có thành phần chủ yếu của vị ngữ là hình dung từ (tính từ), gọi là câu vị ngữ hình dung từ. Ví dụ:"
+    },
+    {
+      "type": "text",
+      "level": 2,
+      "content": "(1) 他很忙。\n(2) 他不太高兴。"
+    }
+  ]
+}

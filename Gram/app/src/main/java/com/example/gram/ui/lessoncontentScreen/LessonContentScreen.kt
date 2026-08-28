@@ -27,25 +27,41 @@ fun LessonContentScreen(
     val viewModel: LessonContentViewModel = viewModel(
         factory = LessonContentViewModel.provideFactory(sourceIndex, lessonName)
     )
-    val content by viewModel.content.collectAsState()
+    val lesson by viewModel.lesson.collectAsState()
 
     Column(
         modifier = Modifier
             .fillMaxSize()
             .padding(16.dp)
-            .verticalScroll(rememberScrollState()) // Enables scrolling for text
+            .verticalScroll(rememberScrollState())
     ) {
+        // Main Title from JSON metadata
         Text(
-            text = lessonName,
-            fontSize = 22.sp,
+            text = lesson?.title ?: lessonName,
+            fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
             color = Color.White
         )
         Spacer(modifier = Modifier.height(16.dp))
-        Text(
-            text = content,
-            fontSize = 16.sp,
-            color = Color.LightGray
-        )
+
+        // Dynamically render each section based on its type and level
+        lesson?.sections?.forEach { section ->
+            when (section.type) {
+                "text" -> {
+                    val textSize = if (section.level == 1) 18.sp else 16.sp
+                    val textColor = if (section.level == 1) Color.Yellow else Color.LightGray
+
+                    Text(
+                        text = section.content,
+                        fontSize = textSize,
+                        color = textColor,
+                        fontWeight = if (section.level == 1) FontWeight.SemiBold else FontWeight.Normal
+                    )
+                    Spacer(modifier = Modifier.height(12.dp))
+                }
+                // Later you can easily add custom blocks like tables or images here:
+                // "table" -> { /* Render Table composable */ }
+            }
+        }
     }
 }

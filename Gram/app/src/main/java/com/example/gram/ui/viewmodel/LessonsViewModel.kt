@@ -7,10 +7,11 @@ import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.AP
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
+import com.example.gram.model.LessonItem
 import com.example.gram.repository.getLessonsForSource
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 
 class LessonsViewModel(
@@ -18,15 +19,15 @@ class LessonsViewModel(
     private val sourceIndex: Int
 ) : AndroidViewModel(application) {
 
-    private val _lessons = MutableStateFlow<List<String>>(emptyList())
-    val lessons: StateFlow<List<String>> = _lessons
+    private val _lessons = MutableStateFlow<List<LessonItem>>(emptyList())
+    val lessons: StateFlow<List<LessonItem>> = _lessons.asStateFlow()
 
     init {
-        viewModelScope.launch(Dispatchers.IO) {
-            val loadedLessons = getLessonsForSource(application, sourceIndex)
-            _lessons.value = loadedLessons
+        viewModelScope.launch {
+            _lessons.value = getLessonsForSource(application, sourceIndex)
         }
     }
+
 
     companion object {
         fun provideFactory(sourceIndex: Int): ViewModelProvider.Factory = viewModelFactory {

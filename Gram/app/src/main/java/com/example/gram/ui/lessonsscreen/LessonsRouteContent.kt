@@ -14,19 +14,16 @@ import com.example.gram.ui.viewmodel.ScrollStateViewModel
 fun LessonsRouteContent(
     sources: List<SourceItem>,
     sourceIndex: Int,
-    onLessonClick: (String) -> Unit
+    onLessonClick: (Int) -> Unit
 ) {
-    // 1. Initialize LessonsViewModel using its factory
     val lessonsViewModel: LessonsViewModel = viewModel(
         factory = LessonsViewModel.provideFactory(sourceIndex)
     )
     val lessons by lessonsViewModel.lessons.collectAsState()
 
-    // 2. Initialize ScrollStateViewModel using the clean Application Key factory
     val scrollViewModel: ScrollStateViewModel = viewModel(
         factory = ScrollStateViewModel.Factory
     )
-
     val listState = scrollViewModel.getListScrollState(sourceIndex)
 
     LaunchedEffect(listState) {

@@ -65,10 +65,10 @@ private fun restoreBackstack(navController: NavHostController, startRoute: Strin
         startRoute.startsWith("lesson_content/") -> {
             val parts = startRoute.split("/")
             val sourceIndex = parts.getOrNull(1)?.toIntOrNull()
-            val lessonName = parts.getOrNull(2)
-            if (sourceIndex != null && lessonName != null) {
+            val lessonIndex = parts.getOrNull(2)?.toIntOrNull() // Changed to Int
+            if (sourceIndex != null && lessonIndex != null) {
                 navController.navigate(Screen.Lessons.createRoute(sourceIndex))
-                navController.navigate(Screen.LessonContent.createRoute(sourceIndex, lessonName))
+                navController.navigate(Screen.LessonContent.createRoute(sourceIndex, lessonIndex))
             }
         }
         startRoute.startsWith("lessons/") -> {
@@ -97,8 +97,8 @@ private fun NavGraphBuilder.lessonsListRoute(sources: List<SourceItem>, navContr
         LessonsRouteContent(
             sources = sources,
             sourceIndex = sourceIndex,
-            onLessonClick = { lessonName ->
-                navController.navigate(Screen.LessonContent.createRoute(sourceIndex, lessonName))
+            onLessonClick = { lessonIndex ->
+                navController.navigate(Screen.LessonContent.createRoute(sourceIndex, lessonIndex))
             }
         )
     }
@@ -109,15 +109,15 @@ private fun NavGraphBuilder.lessonContentRoute() {
         route = Screen.LessonContent.route,
         arguments = listOf(
             navArgument("sourceIndex") { type = NavType.IntType },
-            navArgument("lessonName") { type = NavType.StringType }
+            navArgument("lessonIndex") { type = NavType.IntType } // Changed type
         )
     ) { backStackEntry ->
         val sourceIndex = backStackEntry.arguments?.getInt("sourceIndex") ?: 0
-        val lessonName = backStackEntry.arguments?.getString("lessonName") ?: ""
+        val lessonIndex = backStackEntry.arguments?.getInt("lessonIndex") ?: 0 // Read as Int
 
         LessonContentScreen(
             sourceIndex = sourceIndex,
-            lessonName = lessonName
+            lessonIndex = lessonIndex
         )
     }
 }

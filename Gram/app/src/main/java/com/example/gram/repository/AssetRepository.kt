@@ -2,6 +2,7 @@ package com.example.gram.repository
 
 import android.content.Context
 import com.example.gram.model.Lesson
+import com.example.gram.model.LessonItem
 import com.example.gram.model.SourceItem
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -23,18 +24,31 @@ suspend fun getSources(context: Context): List<SourceItem> = withContext(Dispatc
     }
 }
 
-suspend fun getLessonsForSource(context: Context, sourceIndex: Int): List<String> = withContext(Dispatchers.IO) {
+suspend fun getLessonsForSource(context: Context, sourceIndex: Int): List<LessonItem> = withContext(Dispatchers.IO) {
     val assetManager = context.assets
     try {
         val rawFolders = getSortedAssetFolders(context)
         if (sourceIndex in rawFolders.indices) {
             val folderName = rawFolders[sourceIndex]
-            val lessonFiles = assetManager.list(folderName) ?: emptyArray()
+            val files = assetManager.list(folderName) ?: emptyArray()
+            val sortedFiles = files.sortedWith(naturalOrderComparator)
 
-            // Apply natural sorting here
-            return@withContext lessonFiles
-                .sortedWith(naturalOrderComparator)
-                .map { it.substringBeforeLast(".") }
+            return@withContext sortedFiles.mapIndexed { index, fileName ->
+                val path = "$folderName/$fileName"
+                val title = try {
+                    val inputStream = assetManager.open(path)
+                    val jsonString = BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
+                    Json.decodeFromString<Lesson>(jsonString).title
+                } catch (_: Exception) {
+                    fileName.substringBeforeLast(".") // Fallback if parsing fails
+                }
+
+                LessonItem(
+                    index = index,
+                    fileName = fileName.substringBeforeLast("."),
+                    title = title
+                )
+            }
         }
         emptyList()
     } catch (_: Exception) {
@@ -56,7 +70,7 @@ private val naturalOrderComparator = Comparator<String> { s1, s2 ->
     s1.compareTo(s2)
 }
 
-suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonName: String): Lesson? = withContext(Dispatchers.IO) {
+suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonIndex: Int): Lesson? = withContext(Dispatchers.IO) {
     val assetManager = context.assets
     try {
         val rawFolders = getSortedAssetFolders(context)
@@ -64,14 +78,17 @@ suspend fun getLessonContent(context: Context, sourceIndex: Int, lessonName: Str
             val folderName = rawFolders[sourceIndex]
             val files = assetManager.list(folderName) ?: emptyArray()
 
-            val targetFile =
-                files.find { it.substringBeforeLast(".") == lessonName } ?: "$lessonName.json"
+            // Sort files using the same natural order used in getLessonsForSource
+            val sortedFiles = files.sortedWith(naturalOrderComparator)
 
-            val path = "$folderName/$targetFile"
-            val inputStream = assetManager.open(path)
-            val jsonString = BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
+            if (lessonIndex in sortedFiles.indices) {
+                val targetFile = sortedFiles[lessonIndex]
+                val path = "$folderName/$targetFile"
+                val inputStream = assetManager.open(path)
+                val jsonString = BufferedReader(InputStreamReader(inputStream)).use { it.readText() }
 
-            return@withContext Json.decodeFromString<Lesson>(jsonString)
+                return@withContext Json.decodeFromString<Lesson>(jsonString)
+            }
         }
         null
     } catch (_: Exception) {

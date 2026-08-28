@@ -7,7 +7,7 @@ sealed class Screen(val route: String) {
         fun createRoute(sourceIndex: Int) = "lessons/$sourceIndex"
     }
 
-    object LessonContent : Screen("lesson_content/{sourceIndex}/{lessonName}") {
-        fun createRoute(sourceIndex: Int, lessonName: String) = "lesson_content/$sourceIndex/$lessonName"
+    object LessonContent : Screen("lesson_content/{sourceIndex}/{lessonIndex}") {
+        fun createRoute(sourceIndex: Int, lessonIndex: Int) = "lesson_content/$sourceIndex/$lessonIndex"
     }
 }

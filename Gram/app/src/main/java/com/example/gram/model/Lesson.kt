@@ -15,3 +15,9 @@ data class Section(
     val level: Int = 1,
     val content: String
 )
+
+data class LessonItem(
+    val index: Int,
+    val fileName: String,
+    val title: String
+)

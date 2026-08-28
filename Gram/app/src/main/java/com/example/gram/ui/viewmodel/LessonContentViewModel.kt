@@ -17,7 +17,7 @@ import kotlinx.coroutines.launch
 class LessonContentViewModel(
     application: Application,
     private val sourceIndex: Int,
-    private val lessonName: String
+    private val lessonIndex: Int // Changed from lessonName: String
 ) : AndroidViewModel(application) {
 
     private val _lesson = MutableStateFlow<Lesson?>(null)
@@ -29,18 +29,20 @@ class LessonContentViewModel(
 
     private fun loadContent() {
         viewModelScope.launch {
-            _lesson.value = getLessonContent(getApplication(), sourceIndex, lessonName)
+            // Note: Ensure your repository function `getLessonContent` is updated
+            // to accept an Int (lessonIndex) instead of a String if it hasn't been already.
+            _lesson.value = getLessonContent(getApplication(), sourceIndex, lessonIndex)
         }
     }
 
     companion object {
         fun provideFactory(
             sourceIndex: Int,
-            lessonName: String
+            lessonIndex: Int // Changed from lessonName: String
         ): ViewModelProvider.Factory = viewModelFactory {
             initializer {
                 val application = this[APPLICATION_KEY] as Application
-                LessonContentViewModel(application, sourceIndex, lessonName)
+                LessonContentViewModel(application, sourceIndex, lessonIndex)
             }
         }
     }

@@ -29,10 +29,10 @@ import com.example.gram.ui.viewmodel.ScrollStateViewModel
 @Composable
 fun LessonContentScreen(
     sourceIndex: Int,
-    lessonName: String
+    lessonIndex: Int // Changed from lessonName: String
 ) {
     val viewModel: LessonContentViewModel = viewModel(
-        factory = LessonContentViewModel.provideFactory(sourceIndex, lessonName)
+        factory = LessonContentViewModel.provideFactory(sourceIndex, lessonIndex) // Ensure your VM factory accepts Int
     )
     val lesson by viewModel.lesson.collectAsState()
 
@@ -40,11 +40,11 @@ fun LessonContentScreen(
         factory = ScrollStateViewModel.Factory
     )
 
-    val savedScrollValue = remember(sourceIndex, lessonName) {
-        scrollViewModel.getSavedContentScrollValue(sourceIndex, lessonName)
+    val savedScrollValue = remember(sourceIndex, lessonIndex) {
+        scrollViewModel.getSavedContentScrollValue(sourceIndex, lessonIndex)
     }
 
-    val scrollState = remember(sourceIndex, lessonName) {
+    val scrollState = remember(sourceIndex, lessonIndex) {
         ScrollState(initial = savedScrollValue)
     }
 
@@ -57,12 +57,12 @@ fun LessonContentScreen(
     LaunchedEffect(scrollState) {
         snapshotFlow { scrollState.value }
             .collect { scrollValue ->
-                scrollViewModel.saveContentScrollState(sourceIndex, lessonName, scrollValue)
+                scrollViewModel.saveContentScrollState(sourceIndex, lessonIndex, scrollValue)
             }
     }
 
     LessonContentBody(
-        lessonName = lessonName,
+        lessonIndex = lessonIndex,
         lesson = lesson,
         scrollState = scrollState
     )
@@ -70,7 +70,7 @@ fun LessonContentScreen(
 
 @Composable
 fun LessonContentBody(
-    lessonName: String,
+    lessonIndex: Int,
     lesson: Lesson?,
     scrollState: ScrollState
 ) {
@@ -81,7 +81,7 @@ fun LessonContentBody(
             .verticalScroll(scrollState)
     ) {
         Text(
-            text = lesson?.title ?: lessonName,
+            text = lesson?.title ?: "Lesson $lessonIndex", // Fallback display if title isn't loaded yet
             fontSize = Typography.titleLarge.fontSize,
             fontWeight = Typography.titleLarge.fontWeight,
             color = TitleColor
@@ -110,7 +110,5 @@ fun LessonSectionItem(section: Section) {
             )
             Spacer(modifier = Modifier.height(12.dp))
         }
-        // Future types like "image", "code", "quiz" can easily be added here:
-        // "image" -> { ... }
     }
 }
